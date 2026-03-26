@@ -1,0 +1,9 @@
+pyvis
+IPython
+matplotlib
+networkx
+seaborn
+pandas
+scipy
+os
+numpy
