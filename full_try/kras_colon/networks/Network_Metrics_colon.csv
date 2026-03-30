@@ -1,0 +1,6 @@
+Gene	Degree	Degree_Centrality	Betweenness_Centrality	Eigenvector_Centrality	Closeness_Centrality	Clustering_Coefficient
+KRAS	4	1.0	0.8333	0.6359	1.0	0.1667
+AMER1	2	0.5	0.0	0.4735	0.6667	1.0
+SMAD2	2	0.5	0.0	0.4735	0.6667	1.0
+PPP6C	1	0.25	0.0	0.2714	0.5714	0.0
+MLL	1	0.25	0.0	0.2714	0.5714	0.0
