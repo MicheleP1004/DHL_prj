@@ -1,8 +1,0 @@
-Gene	Degree	Degree_Centrality	Betweenness_Centrality	Eigenvector_Centrality	Closeness_Centrality	Clustering_Coefficient
-SMAD4	6	1.0	0.0833	0.4318	1.0	0.7333
-TP53	6	1.0	0.0833	0.4318	1.0	0.7333
-KRAS	6	1.0	0.0833	0.4318	1.0	0.7333
-CDKN2A	5	0.8333	0.0167	0.3893	0.8571	0.9
-KDM6A	4	0.6667	0.0	0.334	0.75	1.0
-TGFBR2	4	0.6667	0.0	0.334	0.75	1.0
-SMAD3	3	0.5	0.0	0.2568	0.6667	1.0
