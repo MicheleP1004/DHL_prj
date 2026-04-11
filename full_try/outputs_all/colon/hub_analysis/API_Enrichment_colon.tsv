@@ -1,0 +1,167 @@
+Source	Term_Name	P_Value	Term_ID	Intersection_Size
+KEGG	Pancreatic cancer	3.322622076790553e-07	KEGG:05212	4
+KEGG	Colorectal cancer	5.499538747270163e-07	KEGG:05210	4
+KEGG	AGE-RAGE signaling pathway in diabetic complications	1.0155107272599247e-06	KEGG:04933	4
+GO:BP	positive regulation of signal transduction	1.1512358918414054e-06	GO:0009967	8
+GO:BP	positive regulation of cell communication	3.2341364460033805e-06	GO:0010647	8
+GO:BP	positive regulation of signaling	3.2486068551577727e-06	GO:0023056	8
+KEGG	Signaling pathways regulating pluripotency of stem cells	4.325367781960024e-06	KEGG:04550	4
+KEGG	Gastric cancer	4.9699431274940725e-06	KEGG:05226	4
+KEGG	Cellular senescence	5.990167253050761e-06	KEGG:04218	4
+KEGG	Hepatocellular carcinoma	7.900871446708485e-06	KEGG:05225	4
+KEGG	Human T-cell leukemia virus 1 infection	2.370609111881414e-05	KEGG:05166	4
+GO:BP	positive regulation of response to stimulus	2.6250798227634098e-05	GO:0048584	8
+REAC	Diseases of signal transduction by growth factor receptors and second messengers	3.0648087216829796e-05	REAC:R-HSA-5663202	6
+KEGG	Chronic myeloid leukemia	3.860158607295993e-05	KEGG:05220	3
+GO:BP	regulation of cell population proliferation	7.567357884462435e-05	GO:0042127	8
+REAC	SMAD4 MH2 Domain Mutants in Cancer	8.350994020922505e-05	REAC:R-HSA-3311021	2
+REAC	Loss of Function of SMAD4 in Cancer	8.350994020922505e-05	REAC:R-HSA-3304347	2
+REAC	SMAD2/3 MH2 Domain Mutants in Cancer	8.350994020922505e-05	REAC:R-HSA-3315487	2
+KEGG	FoxO signaling pathway	0.00020104946988170594	KEGG:04068	3
+GO:BP	regulation of signal transduction	0.00021684029721768242	GO:0009966	8
+REAC	SMAD2/3 Phosphorylation Motif Mutants in Cancer	0.0002782989955743365	REAC:R-HSA-3304356	2
+REAC	TGFBR1 KD Mutants in Cancer	0.0002782989955743365	REAC:R-HSA-3656532	2
+GO:BP	cell population proliferation	0.00030789219436538337	GO:0008283	8
+KEGG	Hepatitis B	0.00038190860804359955	KEGG:05161	3
+KEGG	mTOR signaling pathway	0.00039594191966469604	KEGG:04150	4
+REAC	Loss of Function of SMAD2/3 in Cancer	0.0004173978946946463	REAC:R-HSA-3304349	2
+REAC	Loss of Function of TGFBR1 in Cancer	0.0004173978946946463	REAC:R-HSA-3656534	2
+REAC	Signaling by TGF-beta Receptor Complex in Cancer	0.0005842862192693243	REAC:R-HSA-3304351	2
+GO:BP	regulation of signaling	0.0006473877134635378	GO:0023051	8
+GO:BP	regulation of cell communication	0.0006594090889534007	GO:0010646	8
+KEGG	Relaxin signaling pathway	0.0007590941672369334	KEGG:04926	3
+GO:BP	endoderm development	0.0008187592607320869	GO:0007492	3
+KEGG	Pathways in cancer	0.0008228837016322064	KEGG:05200	4
+KEGG	Apelin signaling pathway	0.0009299960977288239	KEGG:04371	3
+GO:BP	tissue development	0.00094103299980259	GO:0009888	6
+KEGG	Renal cell carcinoma	0.0009412051768783875	KEGG:05211	3
+GO:BP	embryonic foregut morphogenesis	0.0011357946258405169	GO:0048617	2
+GO:BP	foregut morphogenesis	0.0014196532252822294	GO:0007440	2
+GO:BP	growth	0.0015345909140335413	GO:0040007	6
+GO:BP	cellular response to glucose stimulus	0.0016466800576823931	GO:0071333	3
+GO:BP	paraxial mesoderm morphogenesis	0.0017350216540279457	GO:0048340	2
+GO:BP	cellular response to hexose stimulus	0.0017479750161076646	GO:0071331	3
+GO:BP	cellular response to monosaccharide stimulus	0.0018177575192130746	GO:0071326	3
+GO:BP	regulation of response to stimulus	0.0019560225733784332	GO:0048583	8
+GO:BP	kidney development	0.0021189114837700525	GO:0001822	4
+GO:BP	cellular response to carbohydrate stimulus	0.002194581371791515	GO:0071322	3
+GO:BP	renal system development	0.002393236869395873	GO:0072001	4
+GO:BP	intracellular glucose homeostasis	0.0024438498336178858	GO:0001678	3
+REAC	Formation of axial mesoderm	0.0025297589260617637	REAC:R-HSA-9796292	2
+GO:BP	formation of primary germ layer	0.0026000654316309228	GO:0001704	3
+GO:BP	positive regulation of TOR signaling	0.0026906852714712894	GO:0032008	3
+REAC	Formation of definitive endoderm	0.0029185986336953103	REAC:R-HSA-9823730	2
+KEGG	Diabetic cardiomyopathy	0.002920284442897553	KEGG:05415	3
+KEGG	Proteoglycans in cancer	0.0030521825220798673	KEGG:05205	3
+KEGG	Aldosterone-regulated sodium reabsorption	0.0030933279416445096	KEGG:04960	2
+GO:BP	regulation of apoptotic process	0.003224949974109571	GO:0042981	6
+GO:BP	tube morphogenesis	0.0035284659965124764	GO:0035239	4
+REAC	FOXO-mediated transcription of cell cycle genes	0.003779363269516998	REAC:R-HSA-9617828	2
+REAC	Signaling by Activin	0.003779363269516998	REAC:R-HSA-1502540	2
+REAC	Germ layer formation at gastrulation	0.003779363269516998	REAC:R-HSA-9754189	2
+GO:BP	regulation of programmed cell death	0.003839397036258191	GO:0043067	6
+GO:BP	response to glucose	0.004406224082268615	GO:0009749	3
+GO:BP	response to hexose	0.004732444758618564	GO:0009746	3
+GO:BP	embryo development	0.004942694025245513	GO:0009790	6
+GO:BP	regulation of growth	0.005002478553717777	GO:0040008	5
+GO:BP	response to monosaccharide	0.00521556828208073	GO:0034284	3
+GO:BP	pericardium development	0.0053916028555690745	GO:0060039	2
+GO:BP	primary miRNA processing	0.0053916028555690745	GO:0031053	2
+GO:BP	nodal signaling pathway	0.0053916028555690745	GO:0038092	2
+GO:BP	apoptotic process	0.005764743584912099	GO:0006915	7
+GO:BP	paraxial mesoderm development	0.005990289734462334	GO:0048339	2
+REAC	Signaling by CSF1 (M-CSF) in myeloid cells	0.0060449308653206585	REAC:R-HSA-9680350	2
+GO:BP	regulation of epithelial cell proliferation	0.006807324899638813	GO:0050678	4
+REAC	Signaling by NODAL	0.007025611736619691	REAC:R-HSA-1181150	2
+GO:BP	programmed cell death	0.00718947293542118	GO:0012501	7
+GO:BP	negative regulation of apoptotic process	0.0071955296755574745	GO:0043066	5
+GO:BP	positive regulation of Wnt signaling pathway	0.00720679331438189	GO:0030177	3
+GO:BP	response to carbohydrate	0.007206924864339195	GO:0009743	3
+GO:BP	cell death	0.00728759643362816	GO:0008219	7
+GO:BP	multicellular organism development	0.007553315560968975	GO:0007275	8
+KEGG	Endometrial cancer	0.007664876990702323	KEGG:05213	2
+KEGG	VEGF signaling pathway	0.007933193705276334	KEGG:04370	2
+REAC	Downregulation of TGF-beta receptor signaling	0.008328743511631183	REAC:R-HSA-2173788	2
+KEGG	Longevity regulating pathway - multiple species	0.008483607296644621	KEGG:04213	2
+GO:BP	negative regulation of programmed cell death	0.008536178088596314	GO:0043069	5
+GO:BP	tube development	0.00869718849514222	GO:0035295	4
+GO:BP	signal transduction involved in regulation of gene expression	0.008699475621978087	GO:0023019	2
+GO:BP	glucose homeostasis	0.008815301920636473	GO:0042593	3
+GO:BP	carbohydrate homeostasis	0.008916695859549387	GO:0033500	3
+GO:BP	gastrulation	0.009290077577998145	GO:0007369	3
+KEGG	GnRH secretion	0.009343661616309196	KEGG:04929	2
+GO:BP	embryo development ending in birth or egg hatching	0.009720745144921819	GO:0009792	5
+KEGG	Acute myeloid leukemia	0.010245010298406685	KEGG:05221	2
+KEGG	Fc epsilon RI signaling pathway	0.010245010298406685	KEGG:04664	2
+GO:BP	negative regulation of cell population proliferation	0.010717225486638105	GO:0008285	5
+GO:BP	adrenal gland development	0.011061357431676	GO:0030325	2
+KEGG	Prolactin signaling pathway	0.011187623691647589	KEGG:04917	2
+KEGG	Central carbon metabolism in cancer	0.011187623691647589	KEGG:05230	2
+REAC	Downregulation of SMAD2/3:SMAD4 transcriptional activity	0.011266096101456728	REAC:R-HSA-2173795	2
+KEGG	Non-small cell lung cancer	0.011838942817386892	KEGG:05223	2
+KEGG	Melanoma	0.011838942817386892	KEGG:05218	2
+GO:BP	regulation of transforming growth factor beta receptor signaling pathway	0.012032754491980867	GO:0017015	3
+REAC	FOXO-mediated transcription of oxidative stress, metabolic and neuronal genes	0.012069352291631481	REAC:R-HSA-9615017	2
+GO:BP	regulation of cellular response to transforming growth factor beta stimulus	0.012811778286681369	GO:1903844	3
+KEGG	Glioma	0.012850264837445861	KEGG:05214	2
+GO:BP	regulation of protein metabolic process	0.013030060266169693	GO:0051246	6
+KEGG	EGFR tyrosine kinase inhibitor resistance	0.01426275562533639	KEGG:01521	2
+GO:BP	epithelial cell proliferation	0.014535288134959379	GO:0050673	4
+KEGG	B cell receptor signaling pathway	0.014996436149389024	KEGG:04662	2
+GO:BP	intracellular signaling cassette	0.01555009155413422	GO:0141124	6
+KEGG	ErbB signaling pathway	0.01613122613869442	KEGG:04012	2
+KEGG	Inflammatory bowel disease	0.017448769824441105	KEGG:05321	2
+REAC	SMAD2/SMAD3:SMAD4 heterotrimer regulates transcription	0.017467024641315474	REAC:R-HSA-2173796	2
+GO:BP	regulation of protein modification process	0.017572812465712066	GO:0031399	5
+KEGG	PD-L1 expression and PD-1 checkpoint pathway in cancer	0.01811385411641329	KEGG:05235	2
+KEGG	Longevity regulating pathway	0.01811385411641329	KEGG:04211	2
+GO:BP	regulation of developmental process	0.018553071350863804	GO:0050793	6
+KEGG	Endocrine resistance	0.020643502260152897	KEGG:01522	2
+REAC	Transcriptional regulation by RUNX3	0.020717615382613967	REAC:R-HSA-8878159	2
+GO:BP	regulation of TOR signaling	0.02081926770465175	GO:0032006	3
+KEGG	Prostate cancer	0.021523163769511553	KEGG:05215	2
+GO:BP	cell differentiation	0.021587792875013046	GO:0030154	7
+GO:BP	regulation of primary metabolic process	0.021601289596605577	GO:0080090	8
+GO:BP	cellular developmental process	0.02162189681320417	GO:0048869	7
+KEGG	Choline metabolism in cancer	0.02196982310633034	KEGG:05231	2
+KEGG	Progesterone-mediated oocyte maturation	0.023801958709964013	KEGG:04914	2
+KEGG	C-type lectin receptor signaling pathway	0.024745310090853356	KEGG:04625	2
+REAC	TGF-beta receptor signaling activates SMADs	0.028660997631441962	REAC:R-HSA-2173789	2
+KEGG	Cholinergic synapse	0.029215209028716282	KEGG:04725	2
+GO:BP	embryonic cranial skeleton morphogenesis	0.02977993702264046	GO:0048701	2
+REAC	CD28 dependent PI3K/Akt signaling	0.029794021657050876	REAC:R-HSA-389357	2
+GO:BP	multicellular organismal process	0.030373269577577085	GO:0032501	10
+GO:BP	regulation of cell growth	0.030505325801817865	GO:0001558	4
+GO:BP	negative regulation of cellular process	0.030571406807521767	GO:0048523	8
+GO:BP	TOR signaling	0.03112125612622985	GO:0031929	3
+GO:BP	miRNA processing	0.031163071592601985	GO:0035196	2
+KEGG	Neurotrophin signaling pathway	0.03185724324682147	KEGG:04722	2
+KEGG	T cell receptor signaling pathway	0.03239924136296705	KEGG:04660	2
+GO:BP	in utero embryonic development	0.032619583113918264	GO:0001701	4
+KEGG	Growth hormone synthesis, secretion and action	0.03294576734083045	KEGG:04935	2
+KEGG	Sphingolipid signaling pathway	0.03294576734083045	KEGG:04071	2
+KEGG	Thyroid hormone signaling pathway	0.03349682008221564	KEGG:04919	2
+GO:BP	positive regulation of metabolic process	0.03376568508674807	GO:0009893	7
+REAC	Transcriptional activity of SMAD2/SMAD3:SMAD4 heterotrimer	0.03390595581400179	REAC:R-HSA-2173793	2
+KEGG	Natural killer cell mediated cytotoxicity	0.03517712790554318	KEGG:04650	2
+GO:BP	digestive tract morphogenesis	0.037008550347009124	GO:0048546	2
+GO:BP	transforming growth factor beta receptor signaling pathway	0.03771549381256097	GO:0007179	3
+GO:BP	mesenchymal cell differentiation	0.03852289794786941	GO:0048762	3
+GO:BP	activin receptor signaling pathway	0.038548125225226125	GO:0032924	2
+GO:BP	negative regulation of cell differentiation	0.03874399381079608	GO:0045596	4
+GO:BP	negative regulation of biological process	0.04070734795140394	GO:0048519	8
+GO:BP	anatomical structure morphogenesis	0.041454540606431625	GO:0009653	5
+GO:BP	cell surface receptor signaling pathway	0.04165954541489332	GO:0007166	6
+KEGG	Apoptosis	0.04168625364169486	KEGG:04210	2
+KEGG	Estrogen signaling pathway	0.04230507605239905	KEGG:04915	2
+KEGG	Insulin signaling pathway	0.04292840765549054	KEGG:04910	2
+GO:BP	cellular response to growth factor stimulus	0.04299114362160671	GO:0071363	4
+REAC	Signal Transduction	0.04412587645560187	REAC:R-HSA-162582	6
+GO:BP	positive regulation of cellular process	0.045766254408607335	GO:0048522	8
+GO:BP	gland development	0.045772180651605605	GO:0048732	3
+GO:BP	positive regulation of multicellular organismal process	0.04579067048849799	GO:0051240	4
+KEGG	Chagas disease	0.046311348001109864	KEGG:05142	2
+GO:BP	actin cytoskeleton organization	0.04827106212082601	GO:0030036	3
+GO:BP	positive regulation of epithelial to mesenchymal transition	0.04844203727928633	GO:0010718	2
+KEGG	Phospholipase D signaling pathway	0.0494094876646114	KEGG:04072	2
+KEGG	Breast cancer	0.0494094876646114	KEGG:05224	2

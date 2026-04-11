@@ -1,0 +1,8 @@
+Gene	Degree	Degree_Centrality	Betweenness_Centrality	Closeness_Centrality	Clustering_Coefficient
+KRAS	6	1.0	0.3778	1.0	0.5333
+CDKN2Ap16INK4A	5	0.8333	0.0444	0.8571	0.8
+CDKN2A	5	0.8333	0.0444	0.8571	0.8
+CDKN2B	4	0.6667	0.0	0.75	1.0
+CDKN2Ap14ARF	4	0.6667	0.0	0.75	1.0
+H3F3C	3	0.5	0.0	0.6667	1.0
+RECQL	1	0.1667	0.0	0.5455	0.0

@@ -1,0 +1,136 @@
+Source	Term_Name	P_Value	Term_ID	Intersection_Size
+KEGG	Pancreatic cancer	5.076223319020038e-08	KEGG:05212	5
+KEGG	Chronic myeloid leukemia	5.076223319020038e-08	KEGG:05220	5
+KEGG	Hepatocellular carcinoma	2.66776659939284e-06	KEGG:05225	5
+REAC	Transcriptional regulation by RUNX3	5.966961236226733e-06	REAC:R-HSA-8878159	4
+KEGG	Human T-cell leukemia virus 1 infection	1.0464333873538268e-05	KEGG:05166	5
+KEGG	Colorectal cancer	1.634046196312624e-05	KEGG:05210	4
+GO:BP	positive regulation of muscle cell apoptotic process	2.1111160926061893e-05	GO:0010661	3
+KEGG	Bladder cancer	5.052068883061166e-05	KEGG:05219	3
+KEGG	Gastric cancer	0.00014507512471369346	KEGG:05226	4
+KEGG	Cellular senescence	0.00017450541259678558	KEGG:04218	4
+KEGG	Hepatitis B	0.00020816482626117346	KEGG:05161	4
+GO:BP	gastrulation	0.00025593046606052874	GO:0007369	4
+KEGG	Non-small cell lung cancer	0.0002810980629426159	KEGG:05223	3
+KEGG	Melanoma	0.0002810980629426159	KEGG:05218	3
+GO:BP	somitogenesis	0.00030784971415668953	GO:0001756	3
+KEGG	Glioma	0.00031809219736098076	KEGG:05214	3
+GO:BP	regulation of muscle cell apoptotic process	0.000451475001987411	GO:0010660	3
+REAC	Diseases of signal transduction by growth factor receptors and second messengers	0.0004732645568958184	REAC:R-HSA-5663202	5
+GO:BP	muscle cell apoptotic process	0.0005684988542120715	GO:0010657	3
+GO:BP	positive regulation of gene expression	0.0006314640547351305	GO:0010628	5
+GO:BP	somite development	0.0006339044883043989	GO:0061053	3
+KEGG	Endocrine resistance	0.0006497178620795442	KEGG:01522	3
+REAC	RUNX3 regulates CDKN1A transcription	0.0007985517266228799	REAC:R-HSA-8941855	2
+GO:BP	cellular response to transforming growth factor beta stimulus	0.0008008105555751343	GO:0071560	4
+KEGG	Pathways in cancer	0.0008335625465172137	KEGG:05200	5
+GO:BP	heart morphogenesis	0.000850749918406515	GO:0003007	4
+GO:BP	response to transforming growth factor beta	0.0008897020119784698	GO:0071559	4
+GO:BP	cardiac septum morphogenesis	0.001172731127306892	GO:0060411	3
+REAC	Loss of Function of SMAD2/3 in Cancer	0.0011974646448969755	REAC:R-HSA-3304349	2
+GO:BP	regulation of signal transduction	0.0012949054965998962	GO:0009966	7
+GO:BP	segmentation	0.0013081151605542217	GO:0035282	3
+GO:BP	regulation of apoptotic process	0.0016150520588041957	GO:0042981	5
+REAC	Signaling by TGF-beta Receptor Complex in Cancer	0.0016759425183925662	REAC:R-HSA-3304351	2
+GO:BP	somite rostral/caudal axis specification	0.0017904287631444644	GO:0032525	2
+GO:BP	regulation of programmed cell death	0.001873533602896442	GO:0043067	5
+GO:BP	Ras protein signal transduction	0.001936940725204126	GO:0007265	3
+GO:BP	intrinsic apoptotic signaling pathway in response to hypoxia	0.002034320091608849	GO:1990144	2
+GO:BP	regulation of cell development	0.0020580191808161584	GO:0060284	5
+GO:BP	epithelial tube morphogenesis	0.0021586506558638535	GO:0060562	4
+KEGG	AGE-RAGE signaling pathway in diabetic complications	0.002608908300489484	KEGG:04933	3
+KEGG	Cell cycle	0.0029372098119736637	KEGG:04110	3
+GO:BP	growth	0.0032481956290651972	GO:0040007	5
+GO:BP	regulation of signaling	0.0033714780813568156	GO:0023051	7
+GO:BP	regulation of cell communication	0.003426186516531153	GO:0010646	7
+GO:BP	positive regulation of cardiac muscle cell apoptotic process	0.0035251483830992863	GO:0010666	2
+GO:BP	positive regulation of striated muscle cell apoptotic process	0.0035251483830992863	GO:0010663	2
+GO:BP	apoptotic process	0.0037497593589002685	GO:0006915	6
+GO:BP	regulation of intracellular signal transduction	0.004109761030057553	GO:1902531	6
+GO:BP	cardiac septum development	0.0045441850338336165	GO:0003279	3
+GO:BP	programmed cell death	0.0045519025300986265	GO:0012501	6
+GO:BP	cell death	0.0046064126537373445	GO:0008219	6
+GO:BP	in utero embryonic development	0.0049001871457764025	GO:0001701	4
+GO:BP	cell population proliferation	0.004944950170922359	GO:0008283	6
+GO:BP	negative regulation of cell differentiation	0.005010732488116047	GO:0045596	4
+GO:BP	replicative senescence	0.005421757163430574	GO:0090399	2
+GO:BP	negative regulation of cell growth	0.005503028390894541	GO:0030308	3
+GO:BP	animal organ morphogenesis	0.0057196198935444064	GO:0009887	5
+REAC	SUMOylation of transcription factors	0.005806391088902355	REAC:R-HSA-3232118	2
+KEGG	FoxO signaling pathway	0.005842528161582084	KEGG:04068	3
+GO:BP	regionalization	0.005910860801267171	GO:0003002	4
+KEGG	Viral carcinogenesis	0.006140850186930219	KEGG:05203	3
+GO:BP	stem cell proliferation	0.00672140809642378	GO:0072089	3
+GO:BP	cardiac chamber morphogenesis	0.006887068274373197	GO:0003206	3
+KEGG	Wnt signaling pathway	0.007866907862773498	KEGG:04310	3
+GO:BP	positive regulation of intracellular signal transduction	0.007910811069320818	GO:1902533	5
+KEGG	Human cytomegalovirus infection	0.008365269195135321	KEGG:05163	3
+GO:BP	pattern specification process	0.008671897939206055	GO:0007389	4
+GO:BP	regulation of response to stimulus	0.00887047894733154	GO:0048583	7
+KEGG	Thyroid cancer	0.00891043134410802	KEGG:05216	2
+GO:BP	cell growth	0.009261786725510281	GO:0016049	4
+GO:BP	epithelial to mesenchymal transition involved in endocardial cushion formation	0.009955214652291707	GO:0003198	2
+REAC	Defective Intrinsic Pathway for Apoptosis	0.010462845309567318	REAC:R-HSA-9734009	2
+GO:BP	morphogenesis of an epithelium	0.010697565251959178	GO:0002009	4
+GO:BP	cardiac left ventricle morphogenesis	0.011375583929467758	GO:0003214	2
+REAC	Gene expression (Transcription)	0.011445826198875696	REAC:R-HSA-74160	5
+GO:BP	anterior/posterior pattern specification	0.011902072176703804	GO:0009952	3
+GO:BP	negative regulation of growth	0.012384049059458996	GO:0045926	3
+GO:BP	epithelium development	0.01334247114427744	GO:0060429	5
+GO:BP	branching morphogenesis of an epithelial tube	0.013984611346622374	GO:0048754	3
+GO:BP	cardiac chamber development	0.01743651839009454	GO:0003205	3
+GO:BP	negative regulation of developmental process	0.01796051931591909	GO:0051093	4
+KEGG	Transcriptional misregulation in cancer	0.01813036404321743	KEGG:05202	3
+GO:BP	positive regulation of leukocyte apoptotic process	0.01832092868821655	GO:2000108	2
+REAC	Oncogene Induced Senescence	0.019983115832296734	REAC:R-HSA-2559585	2
+KEGG	Endometrial cancer	0.022005989848780796	KEGG:05213	2
+GO:BP	heart development	0.02216947391701914	GO:0007507	4
+KEGG	MicroRNAs in cancer	0.022205953126962295	KEGG:05206	3
+GO:BP	embryonic axis specification	0.023312529061279078	GO:0000578	2
+GO:BP	tissue morphogenesis	0.023497133881027275	GO:0048729	4
+REAC	Regulation of TP53 Degradation	0.02383047075703728	REAC:R-HSA-6804757	2
+GO:BP	morphogenesis of a branching epithelium	0.024364795823519404	GO:0061138	3
+GO:BP	embryonic morphogenesis	0.024414363435378117	GO:0048598	4
+REAC	Regulation of TP53 Expression and Degradation	0.025187625293825382	REAC:R-HSA-6806003	2
+GO:BP	regulation of DNA damage response, signal transduction by p53 class mediator	0.025303324716378355	GO:0043516	2
+GO:BP	regulation of multicellular organismal development	0.025937624704344346	GO:2000026	5
+GO:BP	outflow tract septum morphogenesis	0.026130666258020647	GO:0003148	2
+GO:BP	positive regulation of protein modification process	0.02715734531261933	GO:0031401	4
+REAC	Transcriptional Regulation by VENTX	0.028013865347828116	REAC:R-HSA-8853884	2
+GO:BP	positive regulation of macromolecule biosynthetic process	0.02842889680121772	GO:0010557	5
+GO:BP	protein metabolic process	0.028670975149760525	GO:0019538	7
+GO:BP	response to hypoxia	0.028719373247970543	GO:0001666	3
+REAC	Disease	0.030297441798154027	REAC:R-HSA-1643685	6
+GO:BP	secondary palate development	0.03076004653791396	GO:0062009	2
+GO:BP	atrioventricular valve morphogenesis	0.03076004653791396	GO:0003181	2
+GO:BP	morphogenesis of a branching structure	0.031513255973703094	GO:0001763	3
+GO:BP	regulation of glial cell proliferation	0.03169601446201246	GO:0060251	2
+GO:BP	developmental growth	0.03178526830014204	GO:0048589	4
+KEGG	Central carbon metabolism in cancer	0.03205913037195494	KEGG:05230	2
+GO:BP	transforming growth factor beta receptor signaling pathway	0.03243532467880244	GO:0007179	3
+GO:BP	response to decreased oxygen levels	0.032882835478814196	GO:0036293	3
+GO:BP	chordate embryonic development	0.03331983467728463	GO:0043009	4
+GO:BP	regulation of cardiac muscle cell apoptotic process	0.033406131612145853	GO:0010665	2
+KEGG	Platinum drug resistance	0.03391484151039922	KEGG:01524	2
+GO:BP	positive regulation of biosynthetic process	0.034547046397097915	GO:0009891	5
+GO:BP	endocardial cushion formation	0.03576495218937981	GO:0003272	2
+GO:BP	T cell proliferation	0.03580245035953973	GO:0042098	3
+KEGG	p53 signaling pathway	0.03582183607866315	KEGG:04115	2
+GO:BP	cellular response to growth factor stimulus	0.03697238351458177	GO:0071363	4
+GO:BP	embryo development ending in birth or egg hatching	0.03760875882998478	GO:0009792	4
+GO:BP	protein modification process	0.037890767626995045	GO:0036211	6
+GO:BP	atrioventricular valve development	0.038408114866991215	GO:0003171	2
+GO:BP	cardiac muscle cell apoptotic process	0.03880494487527623	GO:0010659	2
+GO:BP	regulation of striated muscle cell apoptotic process	0.03880494487527623	GO:0010662	2
+GO:BP	response to abiotic stimulus	0.04170895833324923	GO:0009628	4
+REAC	Evasion of Oncogene Induced Senescence Due to p14ARF Defects	0.0418783617854918	REAC:R-HSA-9646303	1
+REAC	Evasion of Oxidative Stress Induced Senescence Due to p14ARF Defects	0.0418783617854918	REAC:R-HSA-9646304	1
+GO:BP	response to oxygen levels	0.04236853486537302	GO:0070482	3
+GO:BP	regulation of cell differentiation	0.043437636421607397	GO:0045595	5
+GO:BP	positive regulation of signal transduction	0.0437069314880442	GO:0009967	5
+GO:BP	response to growth factor	0.044185899680650134	GO:0070848	4
+GO:BP	striated muscle cell apoptotic process	0.04460618124462415	GO:0010658	2
+GO:BP	anterior/posterior axis specification	0.04786995859633048	GO:0009948	2
+GO:BP	intracellular signal transduction	0.04819191558785328	GO:0035556	6
+GO:BP	negative regulation of catabolic process	0.048925575331306516	GO:0009895	3
+GO:BP	cardiac epithelial to mesenchymal transition	0.049917785080751065	GO:0060317	2

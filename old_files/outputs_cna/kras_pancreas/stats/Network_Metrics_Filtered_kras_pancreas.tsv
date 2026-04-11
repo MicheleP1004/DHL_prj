@@ -1,0 +1,4 @@
+Gene	Degree	Degree_Centrality	Betweenness_Centrality	Closeness_Centrality	Clustering_Coefficient
+KRAS	2	1.0	1.0	1.0	0
+RECQL	1	0.5	0.0	0.6667	0
+H3F3C	1	0.5	0.0	0.6667	0
