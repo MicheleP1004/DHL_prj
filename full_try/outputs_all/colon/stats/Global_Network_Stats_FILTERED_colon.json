@@ -1,0 +1,14 @@
+{
+    "Total_Nodes": 16,
+    "Total_Multiplex_Edges": 62,
+    "Multiplexity_Summary": {
+        "1": 38,
+        "2": 12
+    },
+    "Assortativity_MUT": -0.314,
+    "Assortativity_CNA": -0.6364,
+    "Assortativity_SV": 0.0,
+    "Jaccard_Overlap_MUT_CNA": 0.24,
+    "Jaccard_Overlap_MUT_SV": 0.0,
+    "Jaccard_Overlap_CNA_SV": 0.0
+}

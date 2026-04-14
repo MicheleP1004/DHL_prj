@@ -1,0 +1,11 @@
+Gene	Total_Overlapping_Degree	Degree_MUT	Degree_CNA	Degree_SV	Participation_Coefficient	Betweenness_Centrality	Closeness_Centrality
+KRAS	14	9	5	0	0.4592	0.5764	1.0
+CDKN2A	13	6	6	1	0.568	0.0625	0.75
+CDKN2B	7	2	4	1	0.5714	0.0	0.6429
+CDKN2Ap16INK4A	7	2	5	0	0.4082	0.0069	0.6923
+SMAD4	7	3	4	0	0.4898	0.0069	0.6923
+KDM6A	5	3	2	0	0.48	0.0	0.6429
+TP53	5	3	2	0	0.48	0.0139	0.6
+MYC	4	2	2	0	0.5	0.0	0.5625
+TGFBR2	2	2	0	0	0.0	0.0	0.5625
+RNF43	2	2	0	0	0.0	0.0	0.5625
