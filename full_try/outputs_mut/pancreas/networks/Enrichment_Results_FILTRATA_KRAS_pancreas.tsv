@@ -1,0 +1,346 @@
+Cluster_ID	Gene_set	Term	Overlap	P-value	Adjusted P-value	Genes
+0	KEGG_2021_Human	Chronic myeloid leukemia	4/76	2.8704186557763773e-09	1.492617701003716e-07	CDKN2A;KRAS;TP53;TGFBR2
+0	KEGG_2021_Human	Pancreatic cancer	4/76	2.8704186557763773e-09	1.492617701003716e-07	CDKN2A;KRAS;TP53;TGFBR2
+0	KEGG_2021_Human	Cellular senescence	4/156	5.2773277515631384e-08	1.8294736205418877e-06	CDKN2A;KRAS;TP53;TGFBR2
+0	KEGG_2021_Human	Hepatocellular carcinoma	4/168	7.111249101100067e-08	1.8489247662860177e-06	CDKN2A;KRAS;TP53;TGFBR2
+0	KEGG_2021_Human	Bladder cancer	3/41	1.5922258821748506e-07	3.3118298349236892e-06	CDKN2A;KRAS;TP53
+0	KEGG_2021_Human	Human T-cell leukemia virus 1 infection	4/219	2.062357318095609e-07	3.574752684699055e-06	CDKN2A;KRAS;TP53;TGFBR2
+0	KEGG_2021_Human	Melanoma	3/72	8.877242207481715e-07	1.154041486972623e-05	CDKN2A;KRAS;TP53
+0	KEGG_2021_Human	Non-small cell lung cancer	3/72	8.877242207481715e-07	1.154041486972623e-05	CDKN2A;KRAS;TP53
+0	KEGG_2021_Human	Glioma	3/75	1.004751808649954e-06	1.1610465344399467e-05	CDKN2A;KRAS;TP53
+0	KEGG_2021_Human	Colorectal cancer	3/86	1.5209083407726104e-06	1.5817446744035148e-05	KRAS;TP53;TGFBR2
+0	GO_Biological_Process_2021	small GTPase mediated signal transduction (GO:0007264)	3/106	2.86060553354541e-06	0.0006140351942980065	CDKN2A;KRAS;TP53
+0	GO_Biological_Process_2021	replicative senescence (GO:0090399)	2/12	4.94329760563244e-06	0.0006140351942980065	CDKN2A;TP53
+0	GO_Biological_Process_2021	Ras protein signal transduction (GO:0007265)	3/142	6.899271846045017e-06	0.0006140351942980065	CDKN2A;KRAS;TP53
+0	KEGG_2021_Human	Pathways in cancer	4/531	7.06367573104824e-06	6.678384327536519e-05	CDKN2A;KRAS;TP53;TGFBR2
+0	KEGG_2021_Human	Gastric cancer	3/149	7.972419130884006e-06	6.909429913432804e-05	KRAS;TP53;TGFBR2
+0	KEGG_2021_Human	Hepatitis B	3/162	1.0248219937739922e-05	8.198575950191937e-05	KRAS;TP53;TGFBR2
+0	KEGG_2021_Human	Transcriptional misregulation in cancer	3/192	1.7053116432172064e-05	0.00012668029349613533	TP53;KDM6A;TGFBR2
+0	GO_Biological_Process_2021	negative regulation of phosphate metabolic process (GO:0045936)	2/22	1.7278715595310902e-05	0.001153354265987	CDKN2A;TP53
+0	KEGG_2021_Human	Viral carcinogenesis	3/203	2.0147390920358295e-05	0.00013968857704781752	CDKN2A;KRAS;TP53
+0	KEGG_2021_Human	Human cytomegalovirus infection	3/225	2.7404986673915108e-05	0.0001781324133804482	CDKN2A;KRAS;TP53
+0	GO_Biological_Process_2021	regulation of cell population proliferation (GO:0042127)	4/764	2.980116196780835e-05	0.0015913820490809	CDKN2A;KRAS;TP53;TGFBR2
+0	KEGG_2021_Human	Thyroid cancer	2/37	4.9717470517636224e-05	0.00030415393728436274	KRAS;TP53
+0	KEGG_2021_Human	MAPK signaling pathway	3/294	6.085484317291291e-05	0.00035160576055460796	KRAS;TP53;TGFBR2
+0	KEGG_2021_Human	MicroRNAs in cancer	3/310	7.124908968525607e-05	0.00038999501722455953	CDKN2A;KRAS;TP53
+0	GO_Biological_Process_2021	positive regulation of reactive oxygen species metabolic process (GO:2000379)	2/49	8.764936747808933e-05	0.0039003968527749	TP53;TGFBR2
+0	GO_Biological_Process_2021	regulation of reactive oxygen species metabolic process (GO:2000377)	2/57	0.00011882605719638104	0.0044486990960074	TP53;TGFBR2
+0	KEGG_2021_Human	Endometrial cancer	2/58	0.00012305345182974436	0.0006398779495146707	KRAS;TP53
+0	GO_Biological_Process_2021	regulation of DNA-templated transcription, initiation (GO:2000142)	2/61	0.0001361753360858716	0.0044486990960074	CDKN2A;TP53
+0	GO_Biological_Process_2021	regulation of transcription initiation from RNA polymerase II promoter (GO:0060260)	2/64	0.0001499561493036203	0.0044486990960074	CDKN2A;TP53
+0	KEGG_2021_Human	Mitophagy	2/68	0.00016935418711549392	0.0008387064504767318	KRAS;TP53
+0	KEGG_2021_Human	Central carbon metabolism in cancer	2/70	0.0001794913683411133	0.0008485046503398084	KRAS;TP53
+0	KEGG_2021_Human	p53 signaling pathway	2/73	0.0001952441783803584	0.0008828432413720554	CDKN2A;TP53
+0	GO_Biological_Process_2021	hemopoiesis (GO:0030097)	2/94	0.0003238299215620844	0.0086462589057076	TP53;TGFBR2
+0	KEGG_2021_Human	Prostate cancer	2/97	0.00034480635511841256	0.0014941608721797	KRAS;TP53
+0	KEGG_2021_Human	AGE-RAGE signaling pathway in diabetic complications	2/100	0.0003664321680484968	0.0015243578190817	KRAS;TGFBR2
+0	KEGG_2021_Human	Longevity regulating pathway	2/102	0.000381209751704544	0.0015248390068181	KRAS;TP53
+0	GO_Biological_Process_2021	positive regulation of cellular metabolic process (GO:0031325)	2/105	0.0004039161029563086	0.0098041454081213	TP53;TGFBR2
+0	KEGG_2021_Human	Sphingolipid signaling pathway	2/119	0.0005184246151249471	0.001921952236569	KRAS;TP53
+0	KEGG_2021_Human	Neurotrophin signaling pathway	2/119	0.0005184246151249471	0.001921952236569	KRAS;TP53
+0	KEGG_2021_Human	Thyroid hormone signaling pathway	2/121	0.0005359289890432948	0.001921952236569	KRAS;TP53
+0	KEGG_2021_Human	Cell cycle	2/124	0.0005627213564920427	0.0019507673691724	CDKN2A;TP53
+0	GO_Biological_Process_2021	negative regulation of cell growth (GO:0030308)	2/126	0.000580939798475766	0.0110793518709306	CDKN2A;TP53
+0	GO_Biological_Process_2021	circulatory system development (GO:0072359)	2/126	0.000580939798475766	0.0110793518709306	KDM6A;TGFBR2
+0	GO_Biological_Process_2021	negative regulation of growth (GO:0045926)	2/126	0.000580939798475766	0.0110793518709306	CDKN2A;TP53
+0	KEGG_2021_Human	Relaxin signaling pathway	2/129	0.0006088021738106788	0.0020401329822154	KRAS;TGFBR2
+0	KEGG_2021_Human	FoxO signaling pathway	2/131	0.0006277332252970674	0.0020401329822154	KRAS;TGFBR2
+0	KEGG_2021_Human	Apoptosis	2/142	0.0007369356271309148	0.0023224637945943	KRAS;TP53
+0	KEGG_2021_Human	Breast cancer	2/147	0.0007894089640193071	0.0024146627134708	KRAS;TP53
+0	KEGG_2021_Human	Hepatitis C	2/157	0.0008996540357874079	0.0026732577063397	KRAS;TP53
+0	GO_Biological_Process_2021	heart development (GO:0007507)	2/164	0.0009810163317918229	0.0169227972231075	KDM6A;TGFBR2
+0	KEGG_2021_Human	Wnt signaling pathway	2/166	0.0010048949461406	0.0029030298444064	RNF43;TP53
+0	GO_Molecular_Function_2021	RNA polymerase II-specific DNA-binding transcription factor binding (GO:0061629)	2/190	0.0013132569921092	0.0295394654553668	CDKN2A;TP53
+0	KEGG_2021_Human	Kaposi sarcoma-associated herpesvirus infection	2/193	0.001354623195509	0.0038075895225118	KRAS;TP53
+0	GO_Biological_Process_2021	positive regulation of CD4-positive, alpha-beta T cell proliferation (GO:2000563)	1/5	0.0014992198216206	0.0169227972231075	TGFBR2
+0	GO_Biological_Process_2021	positive regulation of epithelial to mesenchymal transition involved in endocardial cushion formation (GO:1905007)	1/5	0.0014992198216206	0.0169227972231075	TGFBR2
+0	GO_Biological_Process_2021	tricuspid valve development (GO:0003175)	1/5	0.0014992198216206	0.0169227972231075	TGFBR2
+0	GO_Biological_Process_2021	tricuspid valve morphogenesis (GO:0003186)	1/5	0.0014992198216206	0.0169227972231075	TGFBR2
+0	GO_Biological_Process_2021	bone marrow development (GO:0048539)	1/5	0.0014992198216206	0.0169227972231075	TP53
+0	GO_Biological_Process_2021	histone H3-K27 demethylation (GO:0071557)	1/5	0.0014992198216206	0.0169227972231075	KDM6A
+0	GO_Biological_Process_2021	cellular response to antibiotic (GO:0071236)	1/5	0.0014992198216206	0.0169227972231075	TP53
+0	GO_Molecular_Function_2021	histone demethylase activity (H3-K27 specific) (GO:0071558)	1/5	0.0014992198216206	0.0295394654553668	KDM6A
+0	KEGG_2021_Human	Proteoglycans in cancer	2/205	0.0015263231391437	0.0041773054334461	KRAS;TP53
+0	KEGG_2021_Human	Lipid and atherosclerosis	2/215	0.0016770008542963	0.0044720022781236	KRAS;TP53
+0	GO_Biological_Process_2021	regulation of cell growth (GO:0001558)	2/217	0.0017079621318844	0.0169227972231075	CDKN2A;TP53
+0	GO_Biological_Process_2021	regulation of thymocyte apoptotic process (GO:0070243)	1/6	0.0017988408901478	0.0169227972231075	TP53
+0	GO_Biological_Process_2021	regulation of macrophage apoptotic process (GO:2000109)	1/6	0.0017988408901478	0.0169227972231075	CDKN2A
+0	GO_Biological_Process_2021	positive regulation of cardiac epithelial to mesenchymal transition (GO:0062043)	1/7	0.0020983872819732	0.0169227972231075	TGFBR2
+0	GO_Biological_Process_2021	regulation of T cell tolerance induction (GO:0002664)	1/7	0.0020983872819732	0.0169227972231075	TGFBR2
+0	GO_Biological_Process_2021	positive regulation of RNA polymerase II transcription preinitiation complex assembly (GO:0045899)	1/7	0.0020983872819732	0.0169227972231075	TP53
+0	GO_Biological_Process_2021	ER overload response (GO:0006983)	1/8	0.0023978589692277	0.0169227972231075	TP53
+0	GO_Biological_Process_2021	stress-induced premature senescence (GO:0090400)	1/8	0.0023978589692277	0.0169227972231075	TP53
+0	GO_Biological_Process_2021	positive regulation of execution phase of apoptosis (GO:1900119)	1/8	0.0023978589692277	0.0169227972231075	TP53
+0	GO_Biological_Process_2021	regulation of epithelial to mesenchymal transition involved in endocardial cushion formation (GO:1905005)	1/8	0.0023978589692277	0.0169227972231075	TGFBR2
+0	GO_Biological_Process_2021	positive regulation of myeloid cell apoptotic process (GO:0033034)	1/8	0.0023978589692277	0.0169227972231075	CDKN2A
+0	GO_Biological_Process_2021	regulation of helicase activity (GO:0051095)	1/9	0.0026972559359141	0.0169227972231075	TP53
+0	GO_Biological_Process_2021	regulation of smooth muscle cell apoptotic process (GO:0034391)	1/9	0.0026972559359141	0.0169227972231075	CDKN2A
+0	GO_Biological_Process_2021	positive regulation of smooth muscle cell apoptotic process (GO:0034393)	1/9	0.0026972559359141	0.0169227972231075	CDKN2A
+0	GO_Molecular_Function_2021	activin-activated receptor activity (GO:0017002)	1/9	0.0026972559359141	0.0295394654553668	TGFBR2
+0	GO_Molecular_Function_2021	type I transforming growth factor beta receptor binding (GO:0034713)	1/9	0.0026972559359141	0.0295394654553668	TGFBR2
+0	GO_Biological_Process_2021	regulation of gene expression (GO:0010468)	3/1079	0.0027690808933607	0.0169227972231075	KRAS;TP53;KDM6A
+0	GO_Biological_Process_2021	regulation of RNA polymerase II transcription preinitiation complex assembly (GO:0045898)	1/10	0.0029965781728721	0.0169227972231075	TP53
+0	GO_Biological_Process_2021	negative regulation of telomerase activity (GO:0051974)	1/10	0.0029965781728721	0.0169227972231075	TP53
+0	GO_Biological_Process_2021	positive regulation of T cell apoptotic process (GO:0070234)	1/10	0.0029965781728721	0.0169227972231075	TP53
+0	GO_Biological_Process_2021	hematopoietic stem cell differentiation (GO:0060218)	1/10	0.0029965781728721	0.0169227972231075	TP53
+0	GO_Biological_Process_2021	DNA damage response, signal transduction by p53 class mediator resulting in transcription of p21 class mediator (GO:0006978)	1/10	0.0029965781728721	0.0169227972231075	TP53
+0	GO_Biological_Process_2021	myeloid dendritic cell differentiation (GO:0043011)	1/10	0.0029965781728721	0.0169227972231075	TGFBR2
+0	GO_Biological_Process_2021	positive regulation of mesenchymal cell proliferation (GO:0002053)	1/10	0.0029965781728721	0.0169227972231075	TGFBR2
+0	GO_Molecular_Function_2021	cyclin-dependent protein serine/threonine kinase inhibitor activity (GO:0004861)	1/10	0.0029965781728721	0.0295394654553668	CDKN2A
+0	GO_Biological_Process_2021	regulation of cell cycle (GO:0051726)	2/296	0.0031483318209935	0.0169227972231075	CDKN2A;TP53
+0	GO_Biological_Process_2021	positive regulation of production of miRNAs involved in gene silencing by miRNA (GO:1903800)	1/11	0.0032958256764104	0.0169227972231075	TP53
+0	GO_Biological_Process_2021	regulation of mesenchymal cell proliferation (GO:0010464)	1/11	0.0032958256764104	0.0169227972231075	TGFBR2
+0	GO_Biological_Process_2021	regulation of CD4-positive, alpha-beta T cell proliferation (GO:2000561)	1/11	0.0032958256764104	0.0169227972231075	TGFBR2
+0	GO_Biological_Process_2021	positive regulation of transcription from RNA polymerase II promoter in response to endoplasmic reticulum stress (GO:1990440)	1/11	0.0032958256764104	0.0169227972231075	TP53
+0	GO_Biological_Process_2021	DNA damage response, signal transduction resulting in transcription (GO:0042772)	1/11	0.0032958256764104	0.0169227972231075	TP53
+0	GO_Biological_Process_2021	response to sterol (GO:0036314)	1/11	0.0032958256764104	0.0169227972231075	TGFBR2
+0	GO_Biological_Process_2021	positive regulation of leukocyte apoptotic process (GO:2000108)	1/11	0.0032958256764104	0.0169227972231075	CDKN2A
+0	GO_Cellular_Component_2021	MLL3/4 complex (GO:0044666)	1/11	0.0032958256764104	0.0593248621753883	KDM6A
+0	GO_Biological_Process_2021	positive regulation of cellular senescence (GO:2000774)	1/12	0.0035949984464796	0.0169630755492648	CDKN2A
+0	GO_Biological_Process_2021	chromatin assembly or disassembly (GO:0006333)	1/12	0.0035949984464796	0.0169630755492648	TP53
+0	GO_Biological_Process_2021	mitotic G1/S transition checkpoint signaling (GO:0044819)	1/12	0.0035949984464796	0.0169630755492648	TP53
+0	GO_Biological_Process_2021	mRNA transcription (GO:0009299)	1/12	0.0035949984464796	0.0169630755492648	TP53
+0	GO_Molecular_Function_2021	transforming growth factor beta-activated receptor activity (GO:0005024)	1/12	0.0035949984464796	0.0295394654553668	TGFBR2
+0	GO_Biological_Process_2021	positive regulation of CD4-positive, alpha-beta T cell activation (GO:2000516)	1/13	0.0038940964853966	0.0169630755492648	TGFBR2
+0	GO_Biological_Process_2021	positive regulation of cell aging (GO:0090343)	1/13	0.0038940964853966	0.0169630755492648	CDKN2A
+0	GO_Biological_Process_2021	pathway-restricted SMAD protein phosphorylation (GO:0060389)	1/13	0.0038940964853966	0.0169630755492648	TGFBR2
+0	GO_Biological_Process_2021	embryonic hemopoiesis (GO:0035162)	1/13	0.0038940964853966	0.0169630755492648	TGFBR2
+0	KEGG_2021_Human	Human papillomavirus infection	2/331	0.0039198465765472	0.0101916010990228	KRAS;TP53
+0	GO_Biological_Process_2021	positive regulation of alpha-beta T cell differentiation (GO:0046638)	1/14	0.0041931197986946	0.0169630755492648	TGFBR2
+0	GO_Biological_Process_2021	atrioventricular valve development (GO:0003171)	1/14	0.0041931197986946	0.0169630755492648	TGFBR2
+0	GO_Biological_Process_2021	branching involved in blood vessel morphogenesis (GO:0001569)	1/14	0.0041931197986946	0.0169630755492648	TGFBR2
+0	GO_Biological_Process_2021	cardiac left ventricle morphogenesis (GO:0003214)	1/14	0.0041931197986946	0.0169630755492648	TGFBR2
+0	GO_Biological_Process_2021	myeloid dendritic cell activation (GO:0001773)	1/14	0.0041931197986946	0.0169630755492648	TGFBR2
+0	GO_Biological_Process_2021	secondary palate development (GO:0062009)	1/14	0.0041931197986946	0.0169630755492648	TGFBR2
+0	KEGG_2021_Human	PI3K-Akt signaling pathway	2/354	0.0044705806428141	0.011340009435431	KRAS;TP53
+0	GO_Biological_Process_2021	positive regulation of protein export from nucleus (GO:0046827)	1/15	0.0044920683932145	0.0176379744262982	TP53
+0	GO_Biological_Process_2021	embryonic cranial skeleton morphogenesis (GO:0048701)	1/15	0.0044920683932145	0.0176379744262982	TGFBR2
+0	GO_Biological_Process_2021	positive regulation of alpha-beta T cell proliferation (GO:0046641)	1/16	0.0047909422750142	0.0185388635859247	TGFBR2
+0	GO_Biological_Process_2021	positive regulation of protein phosphorylation (GO:0001934)	2/371	0.0048997043709981	0.0186830096356925	KRAS;TP53
+0	GO_Biological_Process_2021	cellular response to gamma radiation (GO:0071480)	1/17	0.0050897414535705	0.0186830096356925	TP53
+0	GO_Biological_Process_2021	negative regulation of ATPase activity (GO:0032780)	1/17	0.0050897414535705	0.0186830096356925	TP53
+0	GO_Biological_Process_2021	negative regulation of cell population proliferation (GO:0008285)	2/379	0.0051080887767998	0.0186830096356925	CDKN2A;TP53
+0	GO_Biological_Process_2021	positive regulation of macromolecule metabolic process (GO:0010604)	2/384	0.0052404143154835	0.0189079813815421	KRAS;TP53
+0	GO_Biological_Process_2021	negative regulation of fibroblast proliferation (GO:0048147)	1/18	0.0053884659389882	0.018930531654077	TP53
+0	GO_Biological_Process_2021	regulation of production of miRNAs involved in gene silencing by miRNA (GO:1903798)	1/18	0.0053884659389882	0.018930531654077	TP53
+0	GO_Molecular_Function_2021	transforming growth factor beta receptor binding (GO:0005160)	1/18	0.0053884659389882	0.0295394654553668	TGFBR2
+0	GO_Molecular_Function_2021	transmembrane receptor protein serine/threonine kinase activity (GO:0004675)	1/18	0.0053884659389882	0.0295394654553668	TGFBR2
+0	GO_Biological_Process_2021	atrioventricular valve morphogenesis (GO:0003181)	1/19	0.0056871157389833	0.0192210114216272	TGFBR2
+0	GO_Biological_Process_2021	response to cholesterol (GO:0070723)	1/19	0.0056871157389833	0.0192210114216272	TGFBR2
+0	GO_Biological_Process_2021	endocardial cushion morphogenesis (GO:0003203)	1/19	0.0056871157389833	0.0192210114216272	TGFBR2
+0	GO_Biological_Process_2021	negative regulation of cyclin-dependent protein serine/threonine kinase activity (GO:0045736)	1/20	0.0059856908667451	0.019977243267762	CDKN2A
+0	GO_Biological_Process_2021	intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator (GO:0042771)	1/21	0.0062841913325394	0.020714556614667	TP53
+0	GO_Molecular_Function_2021	histone acetyltransferase binding (GO:0035035)	1/21	0.0062841913325394	0.0295394654553668	TP53
+0	GO_Biological_Process_2021	negative regulation of cyclin-dependent protein kinase activity (GO:1904030)	1/22	0.0065826171479286	0.0209287221344369	CDKN2A
+0	GO_Biological_Process_2021	regulation of execution phase of apoptosis (GO:1900117)	1/22	0.0065826171479286	0.0209287221344369	TP53
+0	GO_Biological_Process_2021	positive regulation of transcription initiation from RNA polymerase II promoter (GO:0060261)	1/23	0.0068809683244201	0.0209287221344369	TP53
+0	GO_Biological_Process_2021	regulation of protein export from nucleus (GO:0046825)	1/23	0.0068809683244201	0.0209287221344369	TP53
+0	GO_Molecular_Function_2021	disordered domain specific binding (GO:0097718)	1/23	0.0068809683244201	0.0295394654553668	TP53
+0	GO_Biological_Process_2021	dendritic cell differentiation (GO:0097028)	1/24	0.0071792448741713	0.0209287221344369	TGFBR2
+0	GO_Biological_Process_2021	positive regulation of transcription from RNA polymerase II promoter in response to stress (GO:0036003)	1/24	0.0071792448741713	0.0209287221344369	TP53
+0	GO_Biological_Process_2021	response to gamma radiation (GO:0010332)	1/24	0.0071792448741713	0.0209287221344369	TP53
+0	GO_Biological_Process_2021	heterochromatin assembly (GO:0031507)	1/24	0.0071792448741713	0.0209287221344369	CDKN2A
+0	GO_Biological_Process_2021	DNA packaging (GO:0006323)	1/24	0.0071792448741713	0.0209287221344369	TP53
+0	GO_Molecular_Function_2021	transforming growth factor beta binding (GO:0050431)	1/24	0.0071792448741713	0.0295394654553668	TGFBR2
+0	GO_Molecular_Function_2021	protein phosphatase 2A binding (GO:0051721)	1/24	0.0071792448741713	0.0295394654553668	TP53
+0	GO_Biological_Process_2021	receptor catabolic process (GO:0032801)	1/25	0.007477446810139	0.0209287221344369	RNF43
+0	GO_Biological_Process_2021	positive regulation of release of cytochrome c from mitochondria (GO:0090200)	1/25	0.007477446810139	0.0209287221344369	TP53
+0	GO_Biological_Process_2021	outflow tract septum morphogenesis (GO:0003148)	1/25	0.007477446810139	0.0209287221344369	TGFBR2
+0	GO_Molecular_Function_2021	NF-kappaB binding (GO:0051059)	1/25	0.007477446810139	0.0295394654553668	CDKN2A
+0	GO_Molecular_Function_2021	kinase binding (GO:0019900)	2/461	0.0074781947575605	0.0295394654553668	CDKN2A;TP53
+0	GO_Biological_Process_2021	negative regulation of nucleic acid-templated transcription (GO:1903507)	2/464	0.0075728892851517	0.0209287221344369	CDKN2A;TP53
+0	GO_Biological_Process_2021	positive regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway (GO:1900740)	1/26	0.007775574144635	0.0209287221344369	TP53
+0	GO_Biological_Process_2021	histone lysine demethylation (GO:0070076)	1/26	0.007775574144635	0.0209287221344369	KDM6A
+0	GO_Biological_Process_2021	regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway (GO:1900739)	1/26	0.007775574144635	0.0209287221344369	TP53
+0	GO_Biological_Process_2021	cellular response to drug (GO:0035690)	1/26	0.007775574144635	0.0209287221344369	TP53
+0	GO_Biological_Process_2021	positive regulation of cell population proliferation (GO:0008284)	2/474	0.0078925518649344	0.0209287221344369	KRAS;TGFBR2
+0	GO_Biological_Process_2021	negative regulation of catalytic activity (GO:0043086)	1/27	0.0080736268908127	0.0209287221344369	TP53
+0	GO_Biological_Process_2021	cellular senescence (GO:0090398)	1/27	0.0080736268908127	0.0209287221344369	CDKN2A
+0	GO_Biological_Process_2021	positive regulation of gene silencing by miRNA (GO:2000637)	1/27	0.0080736268908127	0.0209287221344369	TP53
+0	GO_Biological_Process_2021	entrainment of circadian clock by photoperiod (GO:0043153)	1/27	0.0080736268908127	0.0209287221344369	TP53
+0	GO_Biological_Process_2021	positive regulation of gene expression (GO:0010628)	2/482	0.0081527147989529	0.0209305274165427	KRAS;TP53
+0	GO_Biological_Process_2021	ventricular septum morphogenesis (GO:0060412)	1/28	0.0083716050611861	0.0210869674654405	TGFBR2
+0	GO_Biological_Process_2021	photoperiodism (GO:0009648)	1/28	0.0083716050611861	0.0210869674654405	TP53
+0	GO_Molecular_Function_2021	histone demethylase activity (GO:0032452)	1/28	0.0083716050611861	0.0295394654553668	KDM6A
+0	GO_Biological_Process_2021	negative regulation of transferase activity (GO:0051348)	1/29	0.0086695086687213	0.0216332599490523	TP53
+0	GO_Molecular_Function_2021	protein kinase binding (GO:0019901)	2/506	0.0089567011480177	0.0295394654553668	CDKN2A;TP53
+0	GO_Biological_Process_2021	response to alcohol (GO:0097305)	1/30	0.008967337727522	0.0219658639747559	TGFBR2
+0	GO_Biological_Process_2021	histone H3-K4 methylation (GO:0051568)	1/30	0.008967337727522	0.0219658639747559	KDM6A
+0	GO_Molecular_Function_2021	protein serine/threonine kinase inhibitor activity (GO:0030291)	1/30	0.008967337727522	0.0295394654553668	CDKN2A
+0	GO_Biological_Process_2021	regulation of cellular senescence (GO:2000772)	1/31	0.0092650922497144	0.0222863029790429	CDKN2A
+0	GO_Biological_Process_2021	embryonic skeletal system morphogenesis (GO:0048704)	1/31	0.0092650922497144	0.0222863029790429	TGFBR2
+0	GO_Biological_Process_2021	negative regulation of cell-matrix adhesion (GO:0001953)	1/32	0.0095627722512654	0.0223970192200691	CDKN2A
+0	GO_Biological_Process_2021	negative regulation of DNA biosynthetic process (GO:2000279)	1/32	0.0095627722512654	0.0223970192200691	TP53
+0	GO_Biological_Process_2021	hematopoietic progenitor cell differentiation (GO:0002244)	1/32	0.0095627722512654	0.0223970192200691	TP53
+0	GO_Biological_Process_2021	signal transduction by p53 class mediator (GO:0072331)	1/33	0.0098603777426936	0.0226958694594758	TP53
+0	GO_Biological_Process_2021	vasculogenesis (GO:0001570)	1/33	0.0098603777426936	0.0226958694594758	TGFBR2
+0	GO_Biological_Process_2021	positive regulation of pri-miRNA transcription by RNA polymerase II (GO:1902895)	1/34	0.0101579087405383	0.0227912742329725	TP53
+0	GO_Biological_Process_2021	histone lysine methylation (GO:0034968)	1/34	0.0101579087405383	0.0227912742329725	KDM6A
+0	GO_Biological_Process_2021	positive regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway (GO:1901030)	1/34	0.0101579087405383	0.0227912742329725	TP53
+0	GO_Molecular_Function_2021	frizzled binding (GO:0005109)	1/34	0.0101579087405383	0.0316023827483414	RNF43
+0	GO_Biological_Process_2021	negative regulation of cellular macromolecule biosynthetic process (GO:2000113)	2/547	0.0104108486916895	0.0230709299436242	CDKN2A;TP53
+0	GO_Biological_Process_2021	negative regulation of cell cycle G1/S phase transition (GO:1902807)	1/35	0.0104553652553503	0.0230709299436242	CDKN2A
+0	GO_Biological_Process_2021	intrinsic apoptotic signaling pathway by p53 class mediator (GO:0072332)	1/36	0.010752747305294	0.023532651889455	TP53
+0	KEGG_2021_Human	Aldosterone-regulated sodium reabsorption	1/37	0.0110500548998867	0.0273620407044815	KRAS
+0	GO_Biological_Process_2021	negative regulation of G1/S transition of mitotic cell cycle (GO:2000134)	1/37	0.0110500548998867	0.0239412998729202	CDKN2A
+0	GO_Molecular_Function_2021	core promoter sequence-specific DNA binding (GO:0001046)	1/37	0.0110500548998867	0.0325685828628242	TP53
+0	GO_Biological_Process_2021	negative regulation of cellular process (GO:0048523)	2/566	0.011118805933491	0.0239412998729202	CDKN2A;TP53
+0	GO_Biological_Process_2021	ventricular septum development (GO:0003281)	1/38	0.0113472880561394	0.0242378072879138	TGFBR2
+0	GO_Biological_Process_2021	negative regulation of cell-substrate adhesion (GO:0010812)	1/40	0.0119415311049953	0.0247161922870834	CDKN2A
+0	GO_Biological_Process_2021	stem cell differentiation (GO:0048863)	1/40	0.0119415311049953	0.0247161922870834	TP53
+0	GO_Biological_Process_2021	bone development (GO:0060348)	1/40	0.0119415311049953	0.0247161922870834	TP53
+0	GO_Biological_Process_2021	positive regulation of intrinsic apoptotic signaling pathway (GO:2001244)	1/40	0.0119415311049953	0.0247161922870834	TP53
+0	KEGG_2021_Human	Ferroptosis	1/41	0.0122385410272356	0.0296001922519186	TP53
+0	GO_Biological_Process_2021	regulation of release of cytochrome c from mitochondria (GO:0090199)	1/41	0.0122385410272356	0.0249442019410069	TP53
+0	GO_Biological_Process_2021	response to growth factor (GO:0070848)	1/41	0.0122385410272356	0.0249442019410069	TGFBR2
+0	GO_Biological_Process_2021	positive regulation of epithelial to mesenchymal transition (GO:0010718)	1/42	0.0125354765664381	0.025355850327568	TGFBR2
+0	GO_Biological_Process_2021	cellular response to glucose starvation (GO:0042149)	1/43	0.0128323377374525	0.0254437560568637	TP53
+0	GO_Biological_Process_2021	heart looping (GO:0001947)	1/43	0.0128323377374525	0.0254437560568637	TGFBR2
+0	GO_Biological_Process_2021	branching morphogenesis of an epithelial tube (GO:0048754)	1/44	0.0131291245516557	0.0254437560568637	TGFBR2
+0	GO_Biological_Process_2021	cardiac ventricle morphogenesis (GO:0003208)	1/44	0.0131291245516557	0.0254437560568637	TGFBR2
+0	GO_Molecular_Function_2021	cyclin-dependent protein serine/threonine kinase regulator activity (GO:0016538)	1/44	0.0131291245516557	0.0358022320708314	CDKN2A
+0	GO_Biological_Process_2021	cellular response to radiation (GO:0071478)	1/45	0.0134258370265617	0.0254437560568637	TP53
+0	GO_Biological_Process_2021	positive regulation of RNA metabolic process (GO:0051254)	1/45	0.0134258370265617	0.0254437560568637	TP53
+0	GO_Biological_Process_2021	regulation of pri-miRNA transcription by RNA polymerase II (GO:1902893)	1/45	0.0134258370265617	0.0254437560568637	TP53
+0	GO_Molecular_Function_2021	copper ion binding (GO:0005507)	1/45	0.0134258370265617	0.0358022320708314	TP53
+0	GO_Biological_Process_2021	positive regulation of cellular process (GO:0048522)	2/625	0.0134523846762773	0.0254437560568637	KRAS;TGFBR2
+0	GO_Biological_Process_2021	regulation of fibroblast proliferation (GO:0048145)	1/46	0.0137224751767354	0.0254437560568637	TP53
+0	GO_Biological_Process_2021	positive regulation of nucleocytoplasmic transport (GO:0046824)	1/46	0.0137224751767354	0.0254437560568637	TP53
+0	GO_Biological_Process_2021	regulation of telomerase activity (GO:0051972)	1/46	0.0137224751767354	0.0254437560568637	TP53
+0	GO_Biological_Process_2021	positive regulation of response to stimulus (GO:0048584)	1/46	0.0137224751767354	0.0254437560568637	CDKN2A
+0	GO_Biological_Process_2021	determination of heart left/right asymmetry (GO:0061371)	1/47	0.0140190390147642	0.0256375576502879	TGFBR2
+0	GO_Biological_Process_2021	embryonic heart tube morphogenesis (GO:0003143)	1/47	0.0140190390147642	0.0256375576502879	TGFBR2
+0	GO_Biological_Process_2021	cellular response to ionizing radiation (GO:0071479)	1/48	0.0143155285543427	0.0260016743129898	TP53
+0	GO_Biological_Process_2021	intrinsic apoptotic signaling pathway in response to DNA damage (GO:0008630)	1/51	0.0152045515346865	0.0274298328362249	TP53
+0	GO_Biological_Process_2021	signal transduction in response to DNA damage (GO:0042770)	1/52	0.0155007440273006	0.0275913243685951	TP53
+0	GO_Biological_Process_2021	regulation of intrinsic apoptotic signaling pathway (GO:2001242)	1/52	0.0155007440273006	0.0275913243685951	TP53
+0	GO_Biological_Process_2021	positive regulation of establishment of protein localization to mitochondrion (GO:1903749)	1/56	0.0166847718987565	0.029116562725281	TP53
+0	GO_Biological_Process_2021	blood vessel morphogenesis (GO:0048514)	1/56	0.0166847718987565	0.029116562725281	TGFBR2
+0	GO_Biological_Process_2021	DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest (GO:0006977)	1/56	0.0166847718987565	0.029116562725281	TP53
+0	GO_Molecular_Function_2021	receptor tyrosine kinase binding (GO:0030971)	1/56	0.0166847718987565	0.0424703284695621	TP53
+0	GO_Biological_Process_2021	cellular response to peptide (GO:1901653)	1/57	0.016980593412106	0.0294403794872228	TP53
+0	GO_Biological_Process_2021	positive regulation of mitochondrion organization (GO:0010822)	1/58	0.0172763407705115	0.0297598902304941	TP53
+0	KEGG_2021_Human	VEGF signaling pathway	1/59	0.0175720139945569	0.0412940391460128	KRAS
+0	GO_Biological_Process_2021	positive regulation of apoptotic signaling pathway (GO:2001235)	1/59	0.0175720139945569	0.0298836161563483	TP53
+0	GO_Biological_Process_2021	mitotic DNA damage checkpoint signaling (GO:0044773)	1/59	0.0175720139945569	0.0298836161563483	TP53
+0	KEGG_2021_Human	Long-term depression	1/60	0.0178676130920248	0.0412940391460128	KRAS
+0	GO_Biological_Process_2021	peptidyl-threonine phosphorylation (GO:0018107)	1/60	0.0178676130920248	0.0301940044023457	TGFBR2
+0	GO_Cellular_Component_2021	caveola (GO:0005901)	1/60	0.0178676130920248	0.1437601791526391	TGFBR2
+0	GO_Molecular_Function_2021	transmembrane receptor protein kinase activity (GO:0019199)	1/60	0.0178676130920248	0.0435037536153647	TGFBR2
+0	KEGG_2021_Human	Basal cell carcinoma	1/63	0.0187539657915919	0.0414318637512695	TP53
+0	GO_Biological_Process_2021	cell cycle G1/S phase transition (GO:0044843)	1/63	0.0187539657915919	0.0314925085934279	CDKN2A
+0	KEGG_2021_Human	GnRH secretion	1/64	0.0190492685407353	0.0414318637512695	KRAS
+0	GO_Biological_Process_2021	regulation of cell-matrix adhesion (GO:0001952)	1/65	0.0193444972400453	0.0320806258577149	CDKN2A
+0	GO_Biological_Process_2021	mitotic G1 DNA damage checkpoint signaling (GO:0031571)	1/65	0.0193444972400453	0.0320806258577149	TP53
+0	GO_Biological_Process_2021	embryonic organ development (GO:0048568)	1/66	0.0196396519018298	0.032369055912275	TGFBR2
+0	KEGG_2021_Human	Acute myeloid leukemia	1/67	0.0199347325407437	0.0414318637512695	KRAS
+0	KEGG_2021_Human	Long-term potentiation	1/67	0.0199347325407437	0.0414318637512695	KRAS
+0	GO_Biological_Process_2021	peptidyl-threonine modification (GO:0018210)	1/67	0.0199347325407437	0.0326538256955741	TGFBR2
+0	GO_Molecular_Function_2021	GDP binding (GO:0019003)	1/67	0.0199347325407437	0.0465143759284021	KRAS
+0	KEGG_2021_Human	Fc epsilon RI signaling pathway	1/68	0.020229739174506	0.0414318637512695	KRAS
+0	GO_Biological_Process_2021	negative regulation of transforming growth factor beta receptor signaling pathway (GO:0030512)	1/68	0.020229739174506	0.0329350021926408	TGFBR2
+0	KEGG_2021_Human	Renal cell carcinoma	1/69	0.0205246718159305	0.0414318637512695	KRAS
+0	GO_Biological_Process_2021	cellular response to decreased oxygen levels (GO:0036294)	1/69	0.0205246718159305	0.0332126507566875	TP53
+0	KEGG_2021_Human	Prolactin signaling pathway	1/70	0.0208195304784689	0.0414318637512695	KRAS
+0	GO_Biological_Process_2021	cellular response to light stimulus (GO:0071482)	1/70	0.0208195304784689	0.0334868351671759	TP53
+0	KEGG_2021_Human	Adherens junction	1/71	0.0211143151809354	0.0414318637512695	TGFBR2
+0	GO_Biological_Process_2021	regulation of G1/S transition of mitotic cell cycle (GO:2000045)	1/71	0.0211143151809354	0.0335566794839867	CDKN2A
+0	GO_Biological_Process_2021	myeloid leukocyte differentiation (GO:0002573)	1/71	0.0211143151809354	0.0335566794839867	TGFBR2
+0	GO_Biological_Process_2021	response to ionizing radiation (GO:0010212)	1/72	0.0214090259328941	0.0338237273614362	TP53
+0	GO_Molecular_Function_2021	protein tyrosine kinase binding (GO:1990782)	1/72	0.0214090259328941	0.0479562180896828	TP53
+0	GO_Biological_Process_2021	chromatin assembly (GO:0031497)	1/73	0.0217036627474641	0.0340875173739584	TP53
+0	GO_Biological_Process_2021	DNA damage response, signal transduction by p53 class mediator (GO:0030330)	1/74	0.0219982256466627	0.0343481067114558	TP53
+0	GO_Biological_Process_2021	RNA transport (GO:0050658)	1/76	0.0225871297456579	0.0348599054456109	TGFBR2
+0	GO_Biological_Process_2021	regulation of epithelial to mesenchymal transition (GO:0010717)	1/76	0.0225871297456579	0.0348599054456109	TGFBR2
+0	GO_Biological_Process_2021	cellular response to UV (GO:0034644)	1/77	0.0228814709747458	0.0351112227026272	TP53
+0	GO_Biological_Process_2021	negative regulation of protein serine/threonine kinase activity (GO:0071901)	1/78	0.023175738337888	0.035359555064092	CDKN2A
+0	GO_Biological_Process_2021	negative regulation of NF-kappaB transcription factor activity (GO:0032088)	1/79	0.023469931862476	0.0356049534504608	CDKN2A
+0	GO_Biological_Process_2021	negative regulation of cell cycle (GO:0045786)	1/80	0.0237640515542398	0.0358474675987685	CDKN2A
+0	KEGG_2021_Human	B cell receptor signaling pathway	1/81	0.0240580974265445	0.0463341135622338	KRAS
+0	GO_Biological_Process_2021	regulation of cyclin-dependent protein serine/threonine kinase activity (GO:0000079)	1/82	0.0243520695000023	0.0365281042500034	CDKN2A
+0	GO_Cellular_Component_2021	plasma membrane raft (GO:0044853)	1/82	0.0243520695000023	0.1437601791526391	TGFBR2
+0	KEGG_2021_Human	ErbB signaling pathway	1/85	0.02523354305099	0.0477143359509629	KRAS
+0	GO_Biological_Process_2021	G1/S transition of mitotic cell cycle (GO:0000082)	1/85	0.02523354305099	0.0374297555256351	CDKN2A
+0	GO_Biological_Process_2021	regulation of cell cycle G2/M phase transition (GO:1902749)	1/85	0.02523354305099	0.0374297555256351	TP53
+0	GO_Molecular_Function_2021	mRNA 3'-UTR binding (GO:0003730)	1/85	0.02523354305099	0.0543491696482861	TP53
+0	GO_Biological_Process_2021	negative regulation of phosphorylation (GO:0042326)	1/86	0.025527220063161	0.0376561754522872	CDKN2A
+0	GO_Biological_Process_2021	regulation of transcription from RNA polymerase II promoter in response to stress (GO:0043618)	1/87	0.0258208233459765	0.0378799990844821	TP53
+0	KEGG_2021_Human	Gap junction	1/88	0.0261143529165796	0.0481826686588243	KRAS
+0	KEGG_2021_Human	PD-L1 expression and PD-1 checkpoint pathway in cancer	1/89	0.0264078087841633	0.0481826686588243	KRAS
+0	GO_Biological_Process_2021	transforming growth factor beta receptor signaling pathway (GO:0007179)	1/89	0.0264078087841633	0.0385294259309924	TGFBR2
+0	KEGG_2021_Human	Small cell lung cancer	1/92	0.0272877343434333	0.0483149041378757	TP53
+0	GO_Biological_Process_2021	negative regulation of mitotic cell cycle phase transition (GO:1901991)	1/92	0.0272877343434333	0.0393828382145767	CDKN2A
+0	GO_Biological_Process_2021	regulation of peptidyl-tyrosine phosphorylation (GO:0050730)	1/92	0.0272877343434333	0.0393828382145767	TP53
+0	KEGG_2021_Human	GnRH signaling pathway	1/93	0.0275808955614596	0.0483149041378757	KRAS
+0	GO_Molecular_Function_2021	histone deacetylase binding (GO:0042826)	1/93	0.0275808955614596	0.0572048204237682	TP53
+0	KEGG_2021_Human	TGF-beta signaling pathway	1/94	0.0278739831564667	0.0483149041378757	TGFBR2
+0	GO_Biological_Process_2021	regulation of cell cycle phase transition (GO:1901987)	1/95	0.0281669971363705	0.0402170493872243	TP53
+0	GO_Biological_Process_2021	mRNA metabolic process (GO:0016071)	1/95	0.0281669971363705	0.0402170493872243	TP53
+0	KEGG_2021_Human	Choline metabolism in cancer	1/98	0.029045597564923	0.0485346142657579	KRAS
+0	GO_Biological_Process_2021	response to UV (GO:0009411)	1/99	0.0293383172477935	0.0416526508304869	TP53
+0	KEGG_2021_Human	Progesterone-mediated oocyte maturation	1/100	0.0296309633944118	0.0485346142657579	KRAS
+0	GO_Biological_Process_2021	regulation of transforming growth factor beta receptor signaling pathway (GO:0017015)	1/100	0.0296309633944118	0.0416526508304869	TGFBR2
+0	GO_Biological_Process_2021	negative regulation of transcription, DNA-templated (GO:0045892)	2/948	0.0296404631377996	0.0416526508304869	CDKN2A;TP53
+0	KEGG_2021_Human	Melanogenesis	1/101	0.0299235360194532	0.0485346142657579	KRAS
+0	GO_Biological_Process_2021	positive regulation of protein localization to membrane (GO:1905477)	1/101	0.0299235360194532	0.0418302833360943	TP53
+0	KEGG_2021_Human	Chagas disease	1/102	0.030216035137483	0.0485346142657579	TGFBR2
+0	GO_Biological_Process_2021	intrinsic apoptotic signaling pathway (GO:0097193)	1/102	0.030216035137483	0.0420191738630623	TP53
+0	GO_Biological_Process_2021	chromatin remodeling (GO:0006338)	1/103	0.0305084607559681	0.0422060052945258	KDM6A
+0	KEGG_2021_Human	T cell receptor signaling pathway	1/104	0.0308008128994232	0.0485346142657579	KRAS
+0	KEGG_2021_Human	C-type lectin receptor signaling pathway	1/104	0.0308008128994232	0.0485346142657579	KRAS
+0	GO_Biological_Process_2021	nucleotide-excision repair (GO:0006289)	1/105	0.0310930915764327	0.042793069334575	TP53
+0	KEGG_2021_Human	Th17 cell differentiation	1/107	0.0316774286006728	0.049170933947313	TGFBR2
+0	GO_Biological_Process_2021	negative regulation of transmembrane receptor protein serine/threonine kinase signaling pathway (GO:0090101)	1/108	0.0319694869760854	0.0437736052441784	TGFBR2
+0	GO_Biological_Process_2021	response to endoplasmic reticulum stress (GO:0034976)	1/110	0.0325533835200698	0.0443456806115236	TP53
+0	GO_Biological_Process_2021	regulation of Wnt signaling pathway (GO:0030111)	1/111	0.0328452217191507	0.0445161126853464	RNF43
+0	GO_Biological_Process_2021	protein-containing complex subunit organization (GO:0043933)	1/112	0.0331369865600355	0.044684724300654	TP53
+0	KEGG_2021_Human	Serotonergic synapse	1/113	0.0334286780535612	0.0503852538778313	KRAS
+0	KEGG_2021_Human	Cholinergic synapse	1/113	0.0334286780535612	0.0503852538778313	KRAS
+0	GO_Biological_Process_2021	activation of protein kinase activity (GO:0032147)	1/114	0.0337202962167316	0.0449562453583404	TGFBR2
+0	GO_Biological_Process_2021	cellular response to transforming growth factor beta stimulus (GO:0071560)	1/114	0.0337202962167316	0.0449562453583404	TGFBR2
+0	GO_Molecular_Function_2021	phosphatase binding (GO:0019902)	1/114	0.0337202962167316	0.0673661381544401	TP53
+0	GO_Biological_Process_2021	cellular response to lectin (GO:1990858)	1/115	0.0340118410576208	0.0449562453583404	KRAS
+0	GO_Biological_Process_2021	stimulatory C-type lectin receptor signaling pathway (GO:0002223)	1/115	0.0340118410576208	0.0449562453583404	KRAS
+0	GO_Biological_Process_2021	tumor necrosis factor-mediated signaling pathway (GO:0033209)	1/116	0.0343033125979019	0.0451181500671912	TP53
+0	GO_Biological_Process_2021	positive regulation of protein-containing complex assembly (GO:0031334)	1/118	0.0348860358299779	0.0456596645421769	TP53
+0	GO_Molecular_Function_2021	protease binding (GO:0002020)	1/118	0.0348860358299779	0.0673661381544401	TP53
+0	KEGG_2021_Human	Growth hormone synthesis, secretion and action	1/119	0.0351772875496916	0.0522633986452561	KRAS
+0	GO_Biological_Process_2021	innate immune response activating cell surface receptor signaling pathway (GO:0002220)	1/119	0.0351772875496916	0.0458162720769154	KRAS
+0	GO_Biological_Process_2021	cellular response to organic substance (GO:0071310)	1/123	0.0363415621404339	0.0471028985024071	TGFBR2
+0	GO_Molecular_Function_2021	protein phosphatase binding (GO:0019903)	1/123	0.0363415621404339	0.0678375826621433	TP53
+0	GO_Biological_Process_2021	cellular response to oxidative stress (GO:0034599)	1/125	0.0369232602647567	0.0473966850513945	TP53
+0	GO_Biological_Process_2021	regulation of phosphorylation (GO:0042325)	1/125	0.0369232602647567	0.0473966850513945	CDKN2A
+0	GO_Cellular_Component_2021	mitochondrial outer membrane (GO:0005741)	1/126	0.0372139995836529	0.1437601791526391	KRAS
+0	KEGG_2021_Human	Osteoclast differentiation	1/127	0.0375046657620057	0.0546492803007375	TGFBR2
+0	KEGG_2021_Human	Natural killer cell mediated cytotoxicity	1/131	0.0386665993582628	0.0546492803007375	KRAS
+0	GO_Biological_Process_2021	cellular response to hypoxia (GO:0071456)	1/131	0.0386665993582628	0.0493970431993119	TP53
+0	GO_Biological_Process_2021	transmembrane receptor protein serine/threonine kinase signaling pathway (GO:0007178)	1/133	0.039247127688343	0.0498999194894647	TGFBR2
+0	GO_Biological_Process_2021	positive regulation of peptidyl-tyrosine phosphorylation (GO:0050731)	1/134	0.0395372822882767	0.0500305894358762	TP53
+0	KEGG_2021_Human	Apelin signaling pathway	1/137	0.040407308005575	0.0546492803007375	KRAS
+0	KEGG_2021_Human	Autophagy	1/137	0.040407308005575	0.0546492803007375	KRAS
+0	KEGG_2021_Human	Estrogen signaling pathway	1/137	0.040407308005575	0.0546492803007375	KRAS
+0	KEGG_2021_Human	Insulin signaling pathway	1/137	0.040407308005575	0.0546492803007375	KRAS
+0	KEGG_2021_Human	Fluid shear stress and atherosclerosis	1/139	0.0409869602255531	0.0546492803007375	TP53
+0	KEGG_2021_Human	Measles	1/139	0.0409869602255531	0.0546492803007375	TP53
+0	GO_Biological_Process_2021	chromatin organization (GO:0006325)	1/142	0.0418558914624202	0.0527147312286141	KDM6A
+0	GO_Cellular_Component_2021	organelle outer membrane (GO:0031968)	1/142	0.0418558914624202	0.1437601791526391	KRAS
+0	KEGG_2021_Human	Signaling pathways regulating pluripotency of stem cells	1/143	0.0421453893730866	0.0554825379088736	KRAS
+0	GO_Biological_Process_2021	negative regulation of DNA-binding transcription factor activity (GO:0043433)	1/143	0.0421453893730866	0.0528301359747143	CDKN2A
+0	GO_Molecular_Function_2021	G protein-coupled receptor binding (GO:0001664)	1/143	0.0421453893730866	0.0719071298201777	RNF43
+0	GO_Molecular_Function_2021	RNA polymerase II cis-regulatory region sequence-specific DNA binding (GO:0000978)	2/1149	0.042373844358319	0.0719071298201777	TP53;KDM6A
+0	GO_Molecular_Function_2021	cis-regulatory region sequence-specific DNA binding (GO:0000987)	2/1149	0.042373844358319	0.0719071298201777	TP53;KDM6A
+0	KEGG_2021_Human	Phospholipase D signaling pathway	1/148	0.0435917858398318	0.0566693215917813	KRAS
+0	GO_Biological_Process_2021	positive regulation of intracellular protein transport (GO:0090316)	1/148	0.0435917858398318	0.0543878823328742	TP53
+0	GO_Biological_Process_2021	brain development (GO:0007420)	1/150	0.0441698345932514	0.0548527713320843	TGFBR2
+0	KEGG_2021_Human	mTOR signaling pathway	1/154	0.0453250587369967	0.0571544942468227	KRAS
+0	KEGG_2021_Human	Oxytocin signaling pathway	1/154	0.0453250587369967	0.0571544942468227	KRAS
+0	GO_Biological_Process_2021	positive regulation of protein kinase activity (GO:0045860)	1/154	0.0453250587369967	0.0560268087165654	TGFBR2
+0	KEGG_2021_Human	Cushing syndrome	1/155	0.0456136829085219	0.0571544942468227	CDKN2A
+0	GO_Biological_Process_2021	regulation of signal transduction by p53 class mediator (GO:1901796)	1/156	0.0459022343700219	0.0562197090678708	TP53
+0	GO_Biological_Process_2021	peptidyl-serine phosphorylation (GO:0018105)	1/156	0.0459022343700219	0.0562197090678708	TGFBR2
+0	GO_Biological_Process_2021	cellular response to growth factor stimulus (GO:0071363)	1/158	0.0464791191856751	0.0564087491935239	TGFBR2
+0	GO_Biological_Process_2021	cellular response to starvation (GO:0009267)	1/158	0.0464791191856751	0.0564087491935239	TP53
+0	KEGG_2021_Human	Hippo signaling pathway	1/163	0.0479200597175463	0.0593295977455336	TGFBR2
+0	GO_Cellular_Component_2021	membrane raft (GO:0045121)	1/163	0.0479200597175463	0.1437601791526391	TGFBR2
+0	GO_Biological_Process_2021	peptidyl-serine modification (GO:0018209)	1/169	0.049646792738525	0.0599805143040098	TGFBR2
+0	GO_Biological_Process_2021	cell-cell adhesion via plasma-membrane adhesion molecules (GO:0098742)	1/170	0.049934327693311	0.0600561508743876	TGFBR2

@@ -1,0 +1,18 @@
+--- 🏆 TOP 3 PATHWAY/ONTOLOGY PER OGNI CLUSTER (LUNG - FILTRATA_KRAS) ---
+
+================================================================================
+🎯 CLUSTER 0  |  DIMENSIONE: 7 geni
+🧬 TUTTI I GENI: NUF2, KRAS, CHEK2, HIST1H3E, CCNE1, FOXP1, STK11
+================================================================================
+
+🔸 [KEGG_2021_Human] Cellular senescence
+   P-value: 1.59e-05  |  Overlap: 3/156
+   🎯 Geni nel pathway: CCNE1;CHEK2;KRAS
+
+🔸 [KEGG_2021_Human] Human T-cell leukemia virus 1 infection
+   P-value: 4.39e-05  |  Overlap: 3/219
+   🎯 Geni nel pathway: CCNE1;CHEK2;KRAS
+
+🔸 [KEGG_2021_Human] MicroRNAs in cancer
+   P-value: 1.23e-04  |  Overlap: 3/310
+   🎯 Geni nel pathway: CCNE1;KRAS;FOXP1

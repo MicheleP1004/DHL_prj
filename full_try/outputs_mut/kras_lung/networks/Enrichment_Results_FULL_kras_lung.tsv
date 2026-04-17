@@ -1,6 +1,6 @@
 Cluster_ID	Gene_set	Term	Overlap	P-value	Adjusted P-value	Genes
 0	GO_Biological_Process_2021	regulation of tissue remodeling (GO:0034103)	3/20	5.762613044844332e-07	0.00018183324167099377	FLT4;RUNX1;DDR2
-0	GO_Biological_Process_2021	hemopoiesis (GO:0030097)	4/94	1.0390470952628214e-06	0.00018183324167099377	FLT4;TET2;ETV6;RUNX1
+0	GO_Biological_Process_2021	hemopoiesis (GO:0030097)	4/94	1.0390470952628214e-06	0.00018183324167099377	FLT4;TET2;RUNX1;ETV6
 0	GO_Molecular_Function_2021	protein tyrosine kinase activity (GO:0004713)	4/108	1.8127245448347064e-06	0.00012145254450392534	FLT4;BTK;EPHB1;DDR2
 0	KEGG_2021_Human	Breast cancer	4/147	6.188753060560895e-06	0.000587931540753285	NRAS;APC;FLT4;ARAF
 0	GO_Biological_Process_2021	beta-catenin destruction complex assembly (GO:1904885)	2/5	6.789684747717526e-06	0.0007921298872337114	AMER1;APC
@@ -19,9 +19,9 @@ Cluster_ID	Gene_set	Term	Overlap	P-value	Adjusted P-value	Genes
 0	GO_Biological_Process_2021	positive regulation of extracellular matrix organization (GO:1903055)	2/18	0.00010321185160705684	0.0040137942291633	RUNX1;DDR2
 0	GO_Biological_Process_2021	positive regulation of kinase activity (GO:0033674)	3/114	0.00011570242214951092	0.0040495847752328	FLT4;EPHB1;DDR2
 0	GO_Biological_Process_2021	beta-catenin destruction complex disassembly (GO:1904886)	2/21	0.00014145138530987652	0.0045007258962233	AMER1;APC
-0	GO_Cellular_Component_2021	intracellular membrane-bounded organelle (GO:0043231)	12/5192	0.0001472249592376754	0.0036964678010329	AMER1;RECQL4;MED12;APC;KMT2C;ANKRD11;ATRX;TET2;BTK;PRDM14;ETV6;RUNX1
+0	GO_Cellular_Component_2021	intracellular membrane-bounded organelle (GO:0043231)	12/5192	0.0001472249592376754	0.0036964678010329	AMER1;MED12;RECQL4;APC;ANKRD11;KMT2C;ATRX;TET2;BTK;PRDM14;RUNX1;ETV6
 0	GO_Biological_Process_2021	enzyme linked receptor protein signaling pathway (GO:0007167)	3/140	0.0002124375845772707	0.006196096216837	FLT4;EPHB1;DDR2
-0	GO_Cellular_Component_2021	nucleus (GO:0005634)	11/4484	0.0002240283515777517	0.0036964678010329	RECQL4;MED12;APC;KMT2C;ANKRD11;ATRX;TET2;BTK;PRDM14;ETV6;RUNX1
+0	GO_Cellular_Component_2021	nucleus (GO:0005634)	11/4484	0.0002240283515777517	0.0036964678010329	MED12;RECQL4;APC;ANKRD11;KMT2C;ATRX;TET2;BTK;PRDM14;RUNX1;ETV6
 0	GO_Biological_Process_2021	positive regulation of transferase activity (GO:0051347)	3/148	0.00025021651330965595	0.0067365984352599	FLT4;EPHB1;DDR2
 0	KEGG_2021_Human	Gastric cancer	3/149	0.000255223818732742	0.0034637518256586	NRAS;APC;ARAF
 0	GO_Biological_Process_2021	histone H3-K4 methylation (GO:0051568)	2/30	0.00029169286205301905	0.0069318845247312	KMT2C;TET2
@@ -37,7 +37,7 @@ Cluster_ID	Gene_set	Term	Overlap	P-value	Adjusted P-value	Genes
 0	GO_Biological_Process_2021	protein-containing complex disassembly (GO:0032984)	2/56	0.0010193400070965	0.0169890001182758	AMER1;APC
 0	KEGG_2021_Human	Long-term depression	2/60	0.0011692417829019	0.0096851603657357	NRAS;ARAF
 0	GO_Biological_Process_2021	positive regulation of phosphorylation (GO:0042327)	3/253	0.001192925917572	0.0189783668704649	FLT4;EPHB1;DDR2
-0	GO_Biological_Process_2021	regulation of transcription by RNA polymerase II (GO:0006357)	7/2206	0.0014039204906718	0.02098352350881	MED12;KMT2C;ATRX;TET2;PRDM14;ETV6;RUNX1
+0	GO_Biological_Process_2021	regulation of transcription by RNA polymerase II (GO:0006357)	7/2206	0.0014039204906718	0.02098352350881	MED12;KMT2C;ATRX;TET2;PRDM14;RUNX1;ETV6
 0	KEGG_2021_Human	Long-term potentiation	2/67	0.0014554664168464	0.0096851603657357	NRAS;ARAF
 0	KEGG_2021_Human	Fc epsilon RI signaling pathway	2/68	0.0014988231077721	0.0096851603657357	NRAS;BTK
 0	GO_Biological_Process_2021	regulation of myeloid cell differentiation (GO:0045637)	2/68	0.0014988231077721	0.02098352350881	KMT2C;RUNX1
@@ -129,7 +129,7 @@ Cluster_ID	Gene_set	Term	Overlap	P-value	Adjusted P-value	Genes
 0	GO_Biological_Process_2021	regulation of plasminogen activation (GO:0010755)	1/12	0.0101551258956082	0.0433450495544253	RUNX1
 0	GO_Molecular_Function_2021	lipase activator activity (GO:0060229)	1/12	0.0101551258956082	0.0480984112691245	BTK
 0	KEGG_2021_Human	Axon guidance	2/182	0.0102384988018015	0.0303955433178482	NRAS;EPHB1
-0	GO_Molecular_Function_2021	transcription cis-regulatory region binding (GO:0000976)	3/549	0.0104992468311213	0.0480984112691245	PRDM14;ETV6;RUNX1
+0	GO_Molecular_Function_2021	transcription cis-regulatory region binding (GO:0000976)	3/549	0.0104992468311213	0.0480984112691245	PRDM14;RUNX1;ETV6
 0	KEGG_2021_Human	Alcoholism	2/186	0.0106734871971471	0.0307267055675447	NRAS;ARAF
 0	GO_Biological_Process_2021	negative regulation of CD4-positive, alpha-beta T cell activation (GO:2000515)	1/13	0.0109969941425308	0.04424078103317	RUNX1
 0	GO_Biological_Process_2021	central nervous system neuron axonogenesis (GO:0021955)	1/13	0.0109969941425308	0.04424078103317	EPHB1
@@ -137,7 +137,7 @@ Cluster_ID	Gene_set	Term	Overlap	P-value	Adjusted P-value	Genes
 0	GO_Biological_Process_2021	regulation of antigen receptor-mediated signaling pathway (GO:0050854)	1/13	0.0109969941425308	0.04424078103317	RUNX1
 0	GO_Biological_Process_2021	DNA replication-independent nucleosome organization (GO:0034724)	1/13	0.0109969941425308	0.04424078103317	ATRX
 0	GO_Biological_Process_2021	negative regulation of Wnt signaling pathway (GO:0030178)	2/191	0.0112286601175869	0.0446594436494936	AMER1;APC
-0	KEGG_2021_Human	Transcriptional misregulation in cancer	2/192	0.0113412113319691	0.0316886787216784	ETV6;RUNX1
+0	KEGG_2021_Human	Transcriptional misregulation in cancer	2/192	0.0113412113319691	0.0316886787216784	RUNX1;ETV6
 0	GO_Biological_Process_2021	positive regulation of alpha-beta T cell differentiation (GO:0046638)	1/14	0.0118381886593292	0.0450365872909266	RUNX1
 0	GO_Biological_Process_2021	vascular endothelial growth factor signaling pathway (GO:0038084)	1/14	0.0118381886593292	0.0450365872909266	FLT4
 0	GO_Biological_Process_2021	histone H3-K4 trimethylation (GO:0080182)	1/14	0.0118381886593292	0.0450365872909266	TET2
@@ -190,7 +190,7 @@ Cluster_ID	Gene_set	Term	Overlap	P-value	Adjusted P-value	Genes
 0	GO_Biological_Process_2021	positive regulation of DNA-templated transcription, initiation (GO:2000144)	1/22	0.0185435492893687	0.0503119554362716	MED12
 0	GO_Biological_Process_2021	negative regulation of mitotic metaphase/anaphase transition (GO:0045841)	1/22	0.0185435492893687	0.0503119554362716	APC
 0	GO_Biological_Process_2021	regulation of DNA recombination at telomere (GO:0072695)	1/22	0.0185435492893687	0.0503119554362716	ATRX
-0	GO_Biological_Process_2021	negative regulation of transcription by RNA polymerase II (GO:0000122)	3/684	0.0189339271990685	0.0506160135614845	ATRX;ETV6;RUNX1
+0	GO_Biological_Process_2021	negative regulation of transcription by RNA polymerase II (GO:0000122)	3/684	0.0189339271990685	0.0506160135614845	ATRX;RUNX1;ETV6
 0	GO_Biological_Process_2021	regulation of canonical Wnt signaling pathway (GO:0060828)	2/253	0.0191281901648774	0.0506160135614845	AMER1;APC
 0	GO_Biological_Process_2021	regulation of B cell receptor signaling pathway (GO:0050855)	1/23	0.0193787023349683	0.0506160135614845	RUNX1
 0	GO_Biological_Process_2021	positive regulation of transcription initiation from RNA polymerase II promoter (GO:0060261)	1/23	0.0193787023349683	0.0506160135614845	MED12
@@ -253,7 +253,7 @@ Cluster_ID	Gene_set	Term	Overlap	P-value	Adjusted P-value	Genes
 0	GO_Biological_Process_2021	odontogenesis (GO:0042476)	1/39	0.0326505321055088	0.0634871457607116	ANKRD11
 0	GO_Biological_Process_2021	DNA recombination (GO:0006310)	1/39	0.0326505321055088	0.0634871457607116	RECQL4
 0	GO_Biological_Process_2021	DNA replication-independent nucleosome assembly (GO:0006336)	1/39	0.0326505321055088	0.0634871457607116	ATRX
-0	GO_Biological_Process_2021	regulation of transcription, DNA-templated (GO:0006355)	5/2244	0.0345471506184354	0.0668038824113393	MED12;ATRX;PRDM14;ETV6;RUNX1
+0	GO_Biological_Process_2021	regulation of transcription, DNA-templated (GO:0006355)	5/2244	0.0345471506184354	0.0668038824113393	MED12;ATRX;PRDM14;RUNX1;ETV6
 0	GO_Biological_Process_2021	cellular response to DNA damage stimulus (GO:0006974)	2/350	0.0349259499663058	0.0668045466403624	RECQL4;APC
 0	GO_Biological_Process_2021	skeletal system morphogenesis (GO:0048705)	1/42	0.0351201045195048	0.0668045466403624	ANKRD11
 0	GO_Biological_Process_2021	regulation of ubiquitin-dependent protein catabolic process (GO:2000058)	1/42	0.0351201045195048	0.0668045466403624	ARAF
@@ -312,7 +312,7 @@ Cluster_ID	Gene_set	Term	Overlap	P-value	Adjusted P-value	Genes
 1	GO_Biological_Process_2021	regulation of protein phosphorylation (GO:0001932)	7/266	4.169329087378574e-06	0.0004261054327300903	CCND2;NSD1;FGF19;AXIN1;SOX9;AXIN2;BRD4
 1	GO_Biological_Process_2021	transmembrane receptor protein tyrosine kinase signaling pathway (GO:0007169)	8/404	6.610286461037479e-06	0.0006141557057436639	PTPRT;PDGFRB;AXL;RASA1;FGF19;FGFR4;MET;FGFR3
 1	GO_Molecular_Function_2021	protein tyrosine kinase activity (GO:0004713)	5/108	7.303530312980346e-06	0.000253797678376067	PDGFRB;AXL;FGFR4;MET;FGFR3
-1	KEGG_2021_Human	Transcriptional misregulation in cancer	6/192	8.095588346605614e-06	0.0001061421583221625	CCND2;NCOR1;MYCN;MET;TP53;KDM6A
+1	KEGG_2021_Human	Transcriptional misregulation in cancer	6/192	8.095588346605614e-06	0.0001061421583221625	CCND2;MYCN;NCOR1;MET;TP53;KDM6A
 1	GO_Biological_Process_2021	positive regulation of kinase activity (GO:0033674)	5/114	9.51107914532668e-06	0.0008100269072103224	PDGFRB;AXL;FGFR4;MET;FGFR3
 1	KEGG_2021_Human	Epstein-Barr virus infection	6/202	1.0815798581625677e-05	0.00012762642326318298	RB1;MAP2K4;CCND2;TNFAIP3;B2M;TP53
 1	GO_Biological_Process_2021	positive regulation of mitotic cell cycle phase transition (GO:1901992)	4/58	1.3273099081077784e-05	0.001043469789297	RB1;CCND2;CUL3;BRD4
@@ -327,16 +327,16 @@ Cluster_ID	Gene_set	Term	Overlap	P-value	Adjusted P-value	Genes
 1	GO_Molecular_Function_2021	thyroid hormone receptor binding (GO:0046966)	3/28	4.6085838596253206e-05	0.000915133080697028	NCOR1;NSD1;NCOA3
 1	GO_Biological_Process_2021	protein deubiquitination (GO:0016579)	6/267	5.196123219387214e-05	0.0029502432945631	BABAM1;CYLD;ASXL2;TNFAIP3;TP53;ESR1
 1	GO_Biological_Process_2021	negative regulation of canonical Wnt signaling pathway (GO:0090090)	5/165	5.645071205772658e-05	0.003036454090684	CYLD;CUL3;AXIN1;SOX9;AXIN2
-1	GO_Cellular_Component_2021	nucleus (GO:0005634)	24/4484	5.934624099007668e-05	0.0024873400536847	RB1;PDGFRB;NCOA3;CUL3;DNMT3A;INPPL1;AXIN1;TNFAIP3;TET1;AXIN2;ESR1;BABAM1;CCND2;XPO1;NCOR1;MYCN;ERCC3;NSD1;NF1;SOX9;TP53;KDM6A;BRD4;ATR
+1	GO_Cellular_Component_2021	nucleus (GO:0005634)	24/4484	5.934624099007668e-05	0.0024873400536847	RB1;PDGFRB;NCOA3;CUL3;DNMT3A;INPPL1;AXIN1;TNFAIP3;TET1;AXIN2;ESR1;BABAM1;CCND2;XPO1;MYCN;NCOR1;ERCC3;NSD1;NF1;SOX9;TP53;KDM6A;BRD4;ATR
 1	GO_Molecular_Function_2021	fibroblast growth factor-activated receptor activity (GO:0005007)	2/5	6.0956786529959696e-05	0.001059124165958	FGFR4;FGFR3
 1	KEGG_2021_Human	Hepatocellular carcinoma	5/168	6.149424779739756e-05	0.0005581785569302239	RB1;AXIN1;AXIN2;MET;TP53
 1	GO_Biological_Process_2021	protein modification by small protein removal (GO:0070646)	6/276	6.244396667708357e-05	0.0031908866971989	BABAM1;CYLD;ASXL2;TNFAIP3;TP53;ESR1
 1	GO_Biological_Process_2021	protein K63-linked deubiquitination (GO:0070536)	3/32	6.928645627860575e-05	0.0033719408722254	BABAM1;CYLD;TNFAIP3
-1	GO_Cellular_Component_2021	intracellular membrane-bounded organelle (GO:0043231)	26/5192	7.424895682641015e-05	0.0024873400536847	RB1;CUL3;INPPL1;TNFAIP3;BABAM1;CCND2;XPO1;NSD1;SOX9;KDM6A;BRD4;PDGFRB;NCOA3;XRCC2;DNMT3A;AXIN1;TET1;AXIN2;ESR1;NCOR1;MYCN;ERCC3;AXL;NF1;TP53;ATR
+1	GO_Cellular_Component_2021	intracellular membrane-bounded organelle (GO:0043231)	26/5192	7.424895682641015e-05	0.0024873400536847	RB1;CUL3;INPPL1;TNFAIP3;BABAM1;CCND2;XPO1;NSD1;SOX9;KDM6A;BRD4;PDGFRB;NCOA3;XRCC2;DNMT3A;AXIN1;TET1;AXIN2;ESR1;MYCN;NCOR1;ERCC3;AXL;NF1;TP53;ATR
 1	GO_Biological_Process_2021	protein localization to chromosome (GO:0034502)	3/34	8.329713391830358e-05	0.0038695304938411	RB1;ESR1;ATR
 1	GO_Biological_Process_2021	DNA repair (GO:0006281)	6/298	9.529125231175388e-05	0.0042174343321816	BABAM1;SLX4;ERCC3;XRCC2;TP53;ATR
 1	GO_Biological_Process_2021	positive regulation of mitotic nuclear division (GO:0045840)	3/36	9.903955378900077e-05	0.0042174343321816	RB1;PDGFRB;CUL3
-1	GO_Molecular_Function_2021	RNA polymerase II-specific DNA-binding transcription factor binding (GO:0061629)	5/190	0.00010995338407873034	0.0016981689318826	RB1;PTPRT;NCOR1;NCOA3;TP53
+1	GO_Molecular_Function_2021	RNA polymerase II-specific DNA-binding transcription factor binding (GO:0061629)	5/190	0.00010995338407873034	0.0016981689318826	PTPRT;RB1;NCOR1;NCOA3;TP53
 1	GO_Biological_Process_2021	negative regulation of Wnt signaling pathway (GO:0030178)	5/191	0.00011269791709617054	0.0046054066827354	CYLD;CUL3;AXIN1;SOX9;AXIN2
 1	KEGG_2021_Human	MicroRNAs in cancer	6/310	0.00011828761540218956	0.0009969956155327403	PDGFRB;CCND2;DNMT3A;MET;TP53;FGFR3
 1	GO_Biological_Process_2021	negative regulation of macromolecule metabolic process (GO:0010605)	5/194	0.00012124827565673686	0.0046054066827354	RB1;MYCN;FGF19;TET1;ESR1
@@ -344,7 +344,7 @@ Cluster_ID	Gene_set	Term	Overlap	P-value	Adjusted P-value	Genes
 1	GO_Biological_Process_2021	positive regulation of RNA polymerase II transcription preinitiation complex assembly (GO:0045899)	2/7	0.00012760097078443218	0.0046054066827354	ESR1;TP53
 1	GO_Biological_Process_2021	positive regulation of transcription, DNA-templated (GO:0045893)	11/1183	0.0001306817943241961	0.0046054066827354	MYCN;NCOA3;NSD1;ASXL2;AXIN1;TET1;SOX9;MET;TP53;ESR1;BRD4
 1	GO_Biological_Process_2021	regulation of JNK cascade (GO:0046328)	4/105	0.00013718142623436042	0.0046733139203838	CYLD;NCOR1;FGF19;AXIN1
-1	GO_Biological_Process_2021	negative regulation of gene expression (GO:0010629)	6/322	0.00014549697969852034	0.0047967068790931	RB1;NCOR1;MYCN;FGF19;DNMT3A;ESR1
+1	GO_Biological_Process_2021	negative regulation of gene expression (GO:0010629)	6/322	0.00014549697969852034	0.0047967068790931	RB1;MYCN;NCOR1;FGF19;DNMT3A;ESR1
 1	KEGG_2021_Human	Bladder cancer	3/41	0.00014657115641659294	0.0011530264304771	RB1;FGFR3;TP53
 1	KEGG_2021_Human	Rap1 signaling pathway	5/210	0.00017558484699360582	0.0012949382465778	PDGFRB;FGF19;FGFR4;MET;FGFR3
 1	GO_Biological_Process_2021	positive regulation of protein modification process (GO:0031401)	5/214	0.00019169029203686572	0.0061221087019273	CCND2;FGF19;AXIN1;SOX9;AXIN2
@@ -419,7 +419,7 @@ Cluster_ID	Gene_set	Term	Overlap	P-value	Adjusted P-value	Genes
 1	GO_Biological_Process_2021	negative regulation of apoptotic process (GO:0043066)	6/485	0.001268743221998	0.0160080934923703	RB1;CCND2;AXL;RASA1;SOX9;TP53
 1	KEGG_2021_Human	Colorectal cancer	3/86	0.0013002540770145	0.0051143327029239	AXIN1;AXIN2;TP53
 1	GO_Biological_Process_2021	negative regulation of transcription by RNA polymerase II (GO:0000122)	7/684	0.0014750347729053	0.0180766748299521	RB1;NCOR1;NSD1;DNMT3A;SOX9;TP53;ESR1
-1	GO_Biological_Process_2021	negative regulation of protein kinase activity (GO:0006469)	3/90	0.0014821871128384	0.0180766748299521	RB1;PTPRT;NF1
+1	GO_Biological_Process_2021	negative regulation of protein kinase activity (GO:0006469)	3/90	0.0014821871128384	0.0180766748299521	PTPRT;RB1;NF1
 1	GO_Biological_Process_2021	positive regulation of transcription initiation from RNA polymerase II promoter (GO:0060261)	2/23	0.0014985033958486	0.0180766748299521	ESR1;TP53
 1	GO_Biological_Process_2021	negative regulation of intracellular signal transduction (GO:1902532)	4/198	0.0015034416443697	0.0180766748299521	CYLD;NF1;TNFAIP3;ESR1
 1	GO_Biological_Process_2021	cellular response to fibroblast growth factor stimulus (GO:0044344)	3/92	0.0015788398918981	0.0187419295150242	FGF19;FGFR4;FGFR3
@@ -441,7 +441,7 @@ Cluster_ID	Gene_set	Term	Overlap	P-value	Adjusted P-value	Genes
 1	GO_Biological_Process_2021	regulation of apoptotic process (GO:0042981)	7/742	0.0023416946545306	0.0238648241596037	CCND2;ERCC3;AXL;RASA1;NF1;SOX9;TP53
 1	GO_Biological_Process_2021	small GTPase mediated signal transduction (GO:0007264)	3/106	0.0023667454978385	0.0238648241596037	RB1;NF1;TP53
 1	GO_Biological_Process_2021	regulation of DNA biosynthetic process (GO:2000278)	2/29	0.0023818121959682	0.0238648241596037	PDGFRB;FGFR4
-1	GO_Biological_Process_2021	regulation of transcription by RNA polymerase II (GO:0006357)	13/2206	0.0024215615361922	0.024027532912509	RB1;NCOA3;DNMT3A;TET1;ESR1;NCOR1;MYCN;NSD1;ASXL2;SOX9;MET;TP53;BRD4
+1	GO_Biological_Process_2021	regulation of transcription by RNA polymerase II (GO:0006357)	13/2206	0.0024215615361922	0.024027532912509	RB1;NCOA3;DNMT3A;TET1;ESR1;MYCN;NCOR1;NSD1;ASXL2;SOX9;MET;TP53;BRD4
 1	KEGG_2021_Human	Citrate cycle (TCA cycle)	2/30	0.0025478771667966	0.0091105910812727	FH;IDH1
 1	GO_Biological_Process_2021	artery morphogenesis (GO:0048844)	2/30	0.0025478771667966	0.0247014832730518	PDGFRB;NF1
 1	GO_Biological_Process_2021	positive regulation of lipid kinase activity (GO:0090218)	2/30	0.0025478771667966	0.0247014832730518	PDGFRB;FGFR3
@@ -761,7 +761,7 @@ Cluster_ID	Gene_set	Term	Overlap	P-value	Adjusted P-value	Genes
 1	GO_Biological_Process_2021	regulation of phosphatidylinositol 3-kinase signaling (GO:0014066)	2/106	0.0288986461861609	0.0822009084875626	PDGFRB;SOX9
 1	GO_Biological_Process_2021	positive regulation of protein serine/threonine kinase activity (GO:0071902)	2/106	0.0288986461861609	0.0822009084875626	PDGFRB;CCND2
 1	GO_Molecular_Function_2021	thiol-dependent deubiquitinase (GO:0004843)	2/106	0.0288986461861609	0.0717087746735339	CYLD;TNFAIP3
-1	GO_Biological_Process_2021	negative regulation of signal transduction (GO:0009968)	3/267	0.0290942849381526	0.0822009084875626	RB1;PTPRT;TNFAIP3
+1	GO_Biological_Process_2021	negative regulation of signal transduction (GO:0009968)	3/267	0.0290942849381526	0.0822009084875626	PTPRT;RB1;TNFAIP3
 1	GO_Biological_Process_2021	regulation of cellular macromolecule biosynthetic process (GO:2000112)	4/468	0.0292504707362507	0.0822009084875626	RB1;NSD1;TP53;ESR1
 1	GO_Biological_Process_2021	attachment of mitotic spindle microtubules to kinetochore (GO:0051315)	1/12	0.029598761568907	0.0822009084875626	NUF2
 1	GO_Biological_Process_2021	negative regulation of leukocyte apoptotic process (GO:2000107)	1/12	0.029598761568907	0.0822009084875626	AXL
@@ -780,7 +780,7 @@ Cluster_ID	Gene_set	Term	Overlap	P-value	Adjusted P-value	Genes
 1	GO_Biological_Process_2021	regulation of protein kinase activity (GO:0045859)	2/110	0.0309363405009925	0.0843577060315356	RB1;NF1
 1	GO_Biological_Process_2021	regulation of protein serine/threonine kinase activity (GO:0071900)	2/111	0.0314544847807964	0.0843577060315356	RB1;CCND2
 1	GO_Biological_Process_2021	Fc-epsilon receptor signaling pathway (GO:0038095)	2/111	0.0314544847807964	0.0843577060315356	MAP2K4;MAP3K1
-1	GO_Molecular_Function_2021	sequence-specific double-stranded DNA binding (GO:1990837)	5/712	0.0319706446196011	0.0717087746735339	NCOR1;MYCN;SOX9;TP53;ESR1
+1	GO_Molecular_Function_2021	sequence-specific double-stranded DNA binding (GO:1990837)	5/712	0.0319706446196011	0.0717087746735339	MYCN;NCOR1;SOX9;TP53;ESR1
 1	KEGG_2021_Human	TNF signaling pathway	2/112	0.031976077624072	0.0711920218800094	MAP2K4;TNFAIP3
 1	GO_Biological_Process_2021	protein-containing complex subunit organization (GO:0043933)	2/112	0.031976077624072	0.0843577060315356	SOX9;TP53
 1	GO_Biological_Process_2021	regulation of cytoskeleton organization (GO:0051493)	2/112	0.031976077624072	0.0843577060315356	PDGFRB;CYLD
@@ -933,12 +933,12 @@ Cluster_ID	Gene_set	Term	Overlap	P-value	Adjusted P-value	Genes
 1	GO_Cellular_Component_2021	condensed nuclear chromosome (GO:0000794)	1/20	0.0488525499820277	0.1925365205174035	BRD4
 1	GO_Molecular_Function_2021	transcription coactivator binding (GO:0001223)	1/20	0.0488525499820277	0.0956409077112937	ESR1
 1	GO_Biological_Process_2021	protein-DNA complex assembly (GO:0065004)	2/143	0.0497512691479657	0.1020999941149017	ERCC3;SOX9
-2	KEGG_2021_Human	Pathways in cancer	6/531	4.986130605738465e-07	4.238211014877696e-05	CSF1R;SMAD4;EPAS1;NOTCH4;MTOR;FGF3
-2	KEGG_2021_Human	Breast cancer	4/147	1.902271082495873e-06	8.08465210060746e-05	NOTCH4;PGR;MTOR;FGF3
+2	KEGG_2021_Human	Pathways in cancer	6/531	4.986130605738465e-07	4.238211014877696e-05	CSF1R;SMAD4;EPAS1;NOTCH4;FGF3;MTOR
+2	KEGG_2021_Human	Breast cancer	4/147	1.902271082495873e-06	8.08465210060746e-05	NOTCH4;PGR;FGF3;MTOR
 2	GO_Biological_Process_2021	transmembrane receptor protein tyrosine kinase signaling pathway (GO:0007169)	5/404	3.6945310459973553e-06	0.0010091387101461	CSF1R;IRS2;MST1R;PRKD1;FGF3
-2	GO_Biological_Process_2021	inositol lipid-mediated signaling (GO:0048017)	3/51	4.387559609331001e-06	0.0010091387101461	CSF1R;PIK3C2G;IRS2
+2	GO_Biological_Process_2021	inositol lipid-mediated signaling (GO:0048017)	3/51	4.387559609331001e-06	0.0010091387101461	CSF1R;IRS2;PIK3C2G
 2	GO_Biological_Process_2021	TORC1 signaling (GO:0038202)	2/8	1.0895861205044152e-05	0.0013744655319987	CARD11;MTOR
-2	GO_Biological_Process_2021	phosphatidylinositol-mediated signaling (GO:0048015)	3/71	1.1951874191293843e-05	0.0013744655319987	CSF1R;PIK3C2G;IRS2
+2	GO_Biological_Process_2021	phosphatidylinositol-mediated signaling (GO:0048015)	3/71	1.1951874191293843e-05	0.0013744655319987	CSF1R;IRS2;PIK3C2G
 2	GO_Biological_Process_2021	positive regulation of intracellular signal transduction (GO:1902533)	5/546	1.5978921867986162e-05	0.0014700608118547	IRS2;MST1R;PRKD1;FGF3;CARD11
 2	GO_Biological_Process_2021	regulation of kinase activity (GO:0043549)	3/94	2.778954774039631e-05	0.0021305319934303	CSF1R;IRS2;MST1R
 2	GO_Molecular_Function_2021	kinase activity (GO:0016301)	3/112	4.693339011737239e-05	0.0016930973997685	PIK3C2G;PRKD1;MTOR
@@ -947,7 +947,7 @@ Cluster_ID	Gene_set	Term	Overlap	P-value	Adjusted P-value	Genes
 2	GO_Biological_Process_2021	positive regulation of protein phosphorylation (GO:0001934)	4/371	7.295698295592255e-05	0.0037289124621915	CSF1R;SMAD4;PRKD1;FGF3
 2	GO_Molecular_Function_2021	transcription coactivator binding (GO:0001223)	2/20	7.361293042472065e-05	0.0016930973997685	SMAD4;PGR
 2	GO_Biological_Process_2021	positive regulation of transferase activity (GO:0051347)	3/148	0.00010754927046560432	0.0048832767143989	CSF1R;FBXW7;MST1R
-2	KEGG_2021_Human	Gastric cancer	3/149	0.00010971795197581504	0.0031086753059814	SMAD4;MTOR;FGF3
+2	KEGG_2021_Human	Gastric cancer	3/149	0.00010971795197581504	0.0031086753059814	SMAD4;FGF3;MTOR
 2	GO_Biological_Process_2021	TOR signaling (GO:0031929)	2/26	0.00012564069753470206	0.0048832767143989	MTOR;CARD11
 2	GO_Biological_Process_2021	protein autophosphorylation (GO:0046777)	3/159	0.0001329946535168537	0.0048832767143989	CSF1R;PRKD1;MTOR
 2	GO_Biological_Process_2021	positive regulation of protein kinase B signaling (GO:0051897)	3/161	0.00013800564627649116	0.0048832767143989	IRS2;MST1R;FGF3
@@ -960,7 +960,7 @@ Cluster_ID	Gene_set	Term	Overlap	P-value	Adjusted P-value	Genes
 2	KEGG_2021_Human	Type II diabetes mellitus	2/46	0.0003971974518746659	0.0062489172191075	IRS2;MTOR
 2	GO_Biological_Process_2021	regulation of autophagy (GO:0010506)	3/231	0.00039929749935959985	0.0096672026160745	FBXW7;PRKD1;MTOR
 2	GO_Biological_Process_2021	regulation of ERK1 and ERK2 cascade (GO:0070372)	3/238	0.0004357271605952136	0.0100217246936899	CSF1R;SMAD4;FBXW7
-2	KEGG_2021_Human	Chemical carcinogenesis	3/239	0.00044110003899582744	0.0062489172191075	PGR;MTOR;FGF3
+2	KEGG_2021_Human	Chemical carcinogenesis	3/239	0.00044110003899582744	0.0062489172191075	PGR;FGF3;MTOR
 2	GO_Biological_Process_2021	positive regulation of phosphorylation (GO:0042327)	3/253	0.0005208591983358685	0.0110288686207923	CSF1R;MST1R;FGF3
 2	GO_Molecular_Function_2021	transcription coregulator binding (GO:0001221)	2/53	0.0005274747206097833	0.0062172708092607	SMAD4;PGR
 2	GO_Biological_Process_2021	positive regulation of cellular process (GO:0048522)	4/625	0.0005391650644190078	0.0110288686207923	CSF1R;IRS2;MST1R;FGF3
@@ -981,7 +981,7 @@ Cluster_ID	Gene_set	Term	Overlap	P-value	Adjusted P-value	Genes
 2	GO_Biological_Process_2021	regulation of cell population proliferation (GO:0042127)	4/764	0.0011460486560466	0.0170058832832721	CSF1R;IRS2;MST1R;FGF3
 2	GO_Biological_Process_2021	positive regulation of multicellular organismal process (GO:0051240)	3/345	0.0012798165480783	0.0179591157788863	SMAD4;EPAS1;MTOR
 2	GO_Biological_Process_2021	regulation of Notch signaling pathway (GO:0008593)	2/83	0.0012883713493548	0.0179591157788863	FBXW7;NOTCH4
-2	KEGG_2021_Human	PI3K-Akt signaling pathway	3/354	0.0013782353628437	0.0097909952472299	CSF1R;MTOR;FGF3
+2	KEGG_2021_Human	PI3K-Akt signaling pathway	3/354	0.0013782353628437	0.0097909952472299	CSF1R;FGF3;MTOR
 2	KEGG_2021_Human	Colorectal cancer	2/86	0.0013822581525501	0.0097909952472299	SMAD4;MTOR
 2	GO_Biological_Process_2021	regulation of transcription by RNA polymerase II (GO:0006357)	6/2206	0.001542621672293	0.020316548603397	CSF1R;SMAD4;EPAS1;NOTCH4;PGR;PRKD1
 2	GO_Biological_Process_2021	regulation of actin cytoskeleton organization (GO:0032956)	2/91	0.0015458243502584	0.020316548603397	CSF1R;MTOR
@@ -1012,7 +1012,7 @@ Cluster_ID	Gene_set	Term	Overlap	P-value	Adjusted P-value	Genes
 2	GO_Biological_Process_2021	mammary gland duct morphogenesis (GO:0060603)	1/5	0.0032460508750897	0.0275582212812688	CSF1R
 2	GO_Biological_Process_2021	endocardial cell differentiation (GO:0060956)	1/5	0.0032460508750897	0.0275582212812688	SMAD4
 2	GO_Biological_Process_2021	regulation of cell motility (GO:2000145)	2/133	0.0032630225956322	0.0275582212812688	CSF1R;FGF3
-2	GO_Biological_Process_2021	cellular protein modification process (GO:0006464)	4/1025	0.0033792837598733	0.0275582212812688	FBXW7;EPAS1;PRKD1;MTOR
+2	GO_Biological_Process_2021	cellular protein modification process (GO:0006464)	4/1025	0.0033792837598733	0.0275582212812688	EPAS1;FBXW7;PRKD1;MTOR
 2	KEGG_2021_Human	Insulin signaling pathway	2/137	0.0034579421578374	0.013360231064372	IRS2;MTOR
 2	KEGG_2021_Human	Apelin signaling pathway	2/137	0.0034579421578374	0.013360231064372	SMAD4;MTOR
 2	KEGG_2021_Human	Autophagy	2/137	0.0034579421578374	0.013360231064372	IRS2;MTOR
@@ -1029,7 +1029,7 @@ Cluster_ID	Gene_set	Term	Overlap	P-value	Adjusted P-value	Genes
 2	GO_Cellular_Component_2021	TORC1 complex (GO:0031931)	1/6	0.0038940964853966	0.0612769809828649	MTOR
 2	GO_Molecular_Function_2021	RNA polymerase III cis-regulatory region sequence-specific DNA binding (GO:0000992)	1/6	0.0038940964853966	0.020892066602171	MTOR
 2	GO_Molecular_Function_2021	RNA polymerase III type 3 promoter sequence-specific DNA binding (GO:0001006)	1/6	0.0038940964853966	0.020892066602171	MTOR
-2	GO_Biological_Process_2021	regulation of gene expression (GO:0010468)	4/1079	0.0040687971941314	0.0275821755937527	FBXW7;PGR;MTOR;FGF3
+2	GO_Biological_Process_2021	regulation of gene expression (GO:0010468)	4/1079	0.0040687971941314	0.0275821755937527	FBXW7;PGR;FGF3;MTOR
 2	GO_Biological_Process_2021	positive regulation of NF-kappaB transcription factor activity (GO:0051092)	2/155	0.0044009632132977	0.0275821755937527	PRKD1;CARD11
 2	GO_Biological_Process_2021	peptidyl-serine phosphorylation (GO:0018105)	2/156	0.0044564863052912	0.0275821755937527	PRKD1;MTOR
 2	GO_Biological_Process_2021	regulation of transforming growth factor beta2 production (GO:0032909)	1/7	0.0045417536091676	0.0275821755937527	SMAD4
@@ -1217,7 +1217,7 @@ Cluster_ID	Gene_set	Term	Overlap	P-value	Adjusted P-value	Genes
 2	GO_Biological_Process_2021	positive regulation of proteolysis involved in cellular protein catabolic process (GO:1903052)	1/31	0.0199694502608653	0.0402892417543774	FBXW7
 2	GO_Biological_Process_2021	positive regulation of ubiquitin-protein transferase activity (GO:0051443)	1/31	0.0199694502608653	0.0402892417543774	FBXW7
 2	GO_Molecular_Function_2021	protein serine/threonine kinase activity (GO:0004674)	2/344	0.0203009378470386	0.0359170438832221	PRKD1;MTOR
-2	GO_Biological_Process_2021	post-translational protein modification (GO:0043687)	2/345	0.0204118484584014	0.0406842486537417	FBXW7;EPAS1
+2	GO_Biological_Process_2021	post-translational protein modification (GO:0043687)	2/345	0.0204118484584014	0.0406842486537417	EPAS1;FBXW7
 2	GO_Biological_Process_2021	gene silencing by miRNA (GO:0035195)	1/32	0.0206074563833083	0.0406842486537417	NOTCH4
 2	GO_Biological_Process_2021	response to amino acid (GO:0043200)	1/32	0.0206074563833083	0.0406842486537417	MTOR
 2	GO_Biological_Process_2021	positive regulation of glucose transmembrane transport (GO:0010828)	1/32	0.0206074563833083	0.0406842486537417	IRS2
@@ -1246,7 +1246,7 @@ Cluster_ID	Gene_set	Term	Overlap	P-value	Adjusted P-value	Genes
 2	GO_Biological_Process_2021	lysosome organization (GO:0007040)	1/38	0.0244274496995066	0.043893073678801	MTOR
 2	GO_Biological_Process_2021	ventricular septum development (GO:0003281)	1/38	0.0244274496995066	0.043893073678801	SMAD4
 2	GO_Biological_Process_2021	regulation of phosphoprotein phosphatase activity (GO:0043666)	1/38	0.0244274496995066	0.043893073678801	MTOR
-2	GO_Biological_Process_2021	positive regulation of macromolecule metabolic process (GO:0010604)	2/384	0.0249370624055624	0.044513039584975	MTOR;FGF3
+2	GO_Biological_Process_2021	positive regulation of macromolecule metabolic process (GO:0010604)	2/384	0.0249370624055624	0.044513039584975	FGF3;MTOR
 2	GO_Biological_Process_2021	regulation of protein targeting to mitochondrion (GO:1903214)	1/39	0.0250627766358881	0.044513039584975	FBXW7
 2	GO_Biological_Process_2021	regulation of protein tyrosine kinase activity (GO:0061097)	1/39	0.0250627766358881	0.044513039584975	CSF1R
 2	GO_Biological_Process_2021	response to organonitrogen compound (GO:0010243)	1/40	0.0256977216686787	0.0452910037072499	MTOR
@@ -1260,7 +1260,7 @@ Cluster_ID	Gene_set	Term	Overlap	P-value	Adjusted P-value	Genes
 2	GO_Molecular_Function_2021	protein phosphorylated amino acid binding (GO:0045309)	1/42	0.0269664668566584	0.0459428694594921	FBXW7
 2	GO_Biological_Process_2021	positive regulation of peptide hormone secretion (GO:0090277)	1/43	0.027600267431624	0.0473735933527875	IRS2
 2	GO_Biological_Process_2021	regulation of cell migration (GO:0030334)	2/408	0.027910160069133	0.0473996204099519	CSF1R;FGF3
-2	GO_Biological_Process_2021	protein modification by small protein conjugation (GO:0032446)	2/409	0.0280370684563749	0.0473996204099519	FBXW7;EPAS1
+2	GO_Biological_Process_2021	protein modification by small protein conjugation (GO:0032446)	2/409	0.0280370684563749	0.0473996204099519	EPAS1;FBXW7
 2	GO_Biological_Process_2021	positive regulation of biosynthetic process (GO:0009891)	1/44	0.0282336869398409	0.0473996204099519	MTOR
 2	GO_Biological_Process_2021	branching morphogenesis of an epithelial tube (GO:0048754)	1/44	0.0282336869398409	0.0473996204099519	NOTCH4
 2	GO_Biological_Process_2021	intracellular steroid hormone receptor signaling pathway (GO:0030518)	1/44	0.0282336869398409	0.0473996204099519	PGR
@@ -1296,7 +1296,7 @@ Cluster_ID	Gene_set	Term	Overlap	P-value	Adjusted P-value	Genes
 2	KEGG_2021_Human	Notch signaling pathway	1/59	0.0376893933426092	0.106786614470726	NOTCH4
 2	GO_Biological_Process_2021	negative regulation of autophagy (GO:0010507)	1/59	0.0376893933426092	0.0575984084305655	MTOR
 2	GO_Biological_Process_2021	positive regulation of tyrosine phosphorylation of STAT protein (GO:0042531)	1/59	0.0376893933426092	0.0575984084305655	CSF1R
-2	GO_Biological_Process_2021	positive regulation of gene expression (GO:0010628)	2/482	0.0379286058029094	0.057772048573968	MTOR;FGF3
+2	GO_Biological_Process_2021	positive regulation of gene expression (GO:0010628)	2/482	0.0379286058029094	0.057772048573968	FGF3;MTOR
 2	GO_Biological_Process_2021	Notch signaling pathway (GO:0007219)	1/60	0.038316744140727	0.0579792838971527	NOTCH4
 2	GO_Biological_Process_2021	peptidyl-threonine phosphorylation (GO:0018107)	1/60	0.038316744140727	0.0579792838971527	PRKD1
 2	GO_Biological_Process_2021	regulation of DNA-templated transcription, initiation (GO:2000142)	1/61	0.0389437174197565	0.0583521498797655	CSF1R
@@ -1321,7 +1321,7 @@ Cluster_ID	Gene_set	Term	Overlap	P-value	Adjusted P-value	Genes
 2	GO_Biological_Process_2021	positive regulation of MAP kinase activity (GO:0043406)	1/69	0.0439459376578998	0.0623923806254133	MST1R
 2	GO_Biological_Process_2021	peptidyl-tyrosine phosphorylation (GO:0018108)	1/69	0.0439459376578998	0.0623923806254133	CSF1R
 2	GO_Cellular_Component_2021	autophagosome (GO:0005776)	1/69	0.0439459376578998	0.1538107818026493	PRKD1
-2	GO_Biological_Process_2021	protein ubiquitination (GO:0016567)	2/525	0.0443049779642187	0.0627085841955096	FBXW7;EPAS1
+2	GO_Biological_Process_2021	protein ubiquitination (GO:0016567)	2/525	0.0443049779642187	0.0627085841955096	EPAS1;FBXW7
 2	KEGG_2021_Human	Central carbon metabolism in cancer	1/70	0.044569522553697	0.1092489421318488	MTOR
 2	KEGG_2021_Human	Adherens junction	1/71	0.0451927319981768	0.1092489421318488	SMAD4
 2	GO_Biological_Process_2021	gland development (GO:0048732)	1/71	0.0451927319981768	0.0633800509730529	NOTCH4
@@ -1357,7 +1357,7 @@ Cluster_ID	Gene_set	Term	Overlap	P-value	Adjusted P-value	Genes
 3	GO_Molecular_Function_2021	transmembrane receptor protein kinase activity (GO:0019199)	6/60	8.552343616568223e-10	5.3879764784379814e-08	NTRK2;EPHA7;FLT1;NTRK3;KIT;EPHA3
 3	GO_Molecular_Function_2021	transmembrane receptor protein tyrosine kinase activity (GO:0004714)	6/60	8.552343616568223e-10	5.3879764784379814e-08	NTRK2;EPHA7;FLT1;NTRK3;KIT;EPHA3
 3	GO_Biological_Process_2021	positive regulation of transferase activity (GO:0051347)	7/148	5.955289788175957e-09	1.366739006386382e-06	NTRK2;EPHA7;FLT1;NTRK3;KIT;POT1;EPHA3
-3	GO_Molecular_Function_2021	DNA binding (GO:0003677)	12/811	6.432621880984075e-09	2.7017011900133116e-07	FOXA1;KDM5A;BLM;WT1;FUBP1;ERCC2;ERCC5;BRCA1;IKZF1;BRCA2;EZH1;NKX3-1
+3	GO_Molecular_Function_2021	DNA binding (GO:0003677)	12/811	6.432621880984075e-09	2.7017011900133116e-07	KDM5A;FOXA1;BLM;WT1;FUBP1;ERCC2;ERCC5;BRCA1;IKZF1;BRCA2;EZH1;NKX3-1
 3	KEGG_2021_Human	PI3K-Akt signaling pathway	9/354	7.2493181016133436e-09	7.39430446364561e-07	RPTOR;GSK3B;NTRK2;FLT1;IRS1;HGF;KIT;BRCA1;PIK3CG
 3	GO_Biological_Process_2021	positive regulation of phosphorylation (GO:0042327)	8/253	1.028416252400915e-08	1.88817223940808e-06	NTRK2;EPHA7;FLT1;HGF;NTRK3;KIT;EPHA3;NKX3-1
 3	GO_Biological_Process_2021	regulation of kinase activity (GO:0043549)	6/94	1.3333101267129176e-08	1.9233578451037704e-06	NTRK2;EPHA7;FLT1;NTRK3;KIT;EPHA3
@@ -1368,16 +1368,16 @@ Cluster_ID	Gene_set	Term	Overlap	P-value	Adjusted P-value	Genes
 3	GO_Biological_Process_2021	enzyme linked receptor protein signaling pathway (GO:0007167)	6/140	1.4507431809192698e-07	1.3317822400838896e-05	NTRK2;EPHA7;FLT1;NTRK3;KIT;EPHA3
 3	GO_Biological_Process_2021	positive regulation of intracellular signal transduction (GO:1902533)	9/546	2.955750492118319e-07	2.4667081379678332e-05	RPTOR;NTRK2;FLT1;IRS1;HGF;NTRK3;KIT;PIK3CG;NKX3-1
 3	GO_Biological_Process_2021	double-strand break repair (GO:0006302)	6/164	3.697190567319869e-07	2.8283507839996997e-05	MDC1;BLM;ERCC5;ATM;BRCA1;BRCA2
-3	GO_Biological_Process_2021	positive regulation of transcription, DNA-templated (GO:0045893)	12/1183	4.060334829441437e-07	2.867221056482491e-05	FOXA1;KDM5A;YAP1;RPTOR;BLM;KMT2A;WT1;HGF;ATM;BRCA1;BRCA2;NKX3-1
+3	GO_Biological_Process_2021	positive regulation of transcription, DNA-templated (GO:0045893)	12/1183	4.060334829441437e-07	2.867221056482491e-05	YAP1;KDM5A;FOXA1;RPTOR;BLM;KMT2A;WT1;HGF;ATM;BRCA1;BRCA2;NKX3-1
 3	GO_Molecular_Function_2021	single-stranded DNA binding (GO:0003697)	5/97	6.995048428639353e-07	1.7627522040171168e-05	BLM;FUBP1;POT1;ERCC5;BRCA2
 3	GO_Biological_Process_2021	DNA repair (GO:0006281)	7/298	7.145518241744282e-07	4.68541838994375e-05	MDC1;BLM;ERCC2;ERCC5;ATM;BRCA1;BRCA2
 3	KEGG_2021_Human	Homologous recombination	4/41	7.598404233691693e-07	3.875186159182763e-05	BLM;ATM;BRCA1;BRCA2
 3	GO_Biological_Process_2021	positive regulation of phospholipase C activity (GO:0010863)	4/43	9.236672482386468e-07	5.652843559220518e-05	NTRK2;FLT1;NTRK3;KIT
-3	GO_Biological_Process_2021	regulation of gene expression (GO:0010468)	11/1079	1.3485403022237988e-06	7.737249984009045e-05	NOTCH2;YAP1;GSK3B;NTRK2;WT1;NTRK3;FUBP1;ATM;BRCA1;BRCA2;NKX3-1
+3	GO_Biological_Process_2021	regulation of gene expression (GO:0010468)	11/1079	1.3485403022237988e-06	7.737249984009045e-05	YAP1;NOTCH2;GSK3B;NTRK2;WT1;NTRK3;FUBP1;ATM;BRCA1;BRCA2;NKX3-1
 3	GO_Biological_Process_2021	regulation of protein kinase B signaling (GO:0051896)	6/207	1.4446308582485652e-06	7.801006634542252e-05	NTRK2;IRS1;HGF;NTRK3;KIT;PIK3CG
-3	GO_Molecular_Function_2021	transcription regulatory region nucleic acid binding (GO:0001067)	6/212	1.6595700602813972e-06	3.485097126590934e-05	FOXA1;KDM5A;YAP1;WT1;BRCA1;NKX3-1
+3	GO_Molecular_Function_2021	transcription regulatory region nucleic acid binding (GO:0001067)	6/212	1.6595700602813972e-06	3.485097126590934e-05	YAP1;KDM5A;FOXA1;WT1;BRCA1;NKX3-1
 3	GO_Biological_Process_2021	regulation of phospholipase C activity (GO:1900274)	3/15	2.2016839444174943e-06	0.00010647659207809624	FLT1;NTRK3;KIT
-3	GO_Biological_Process_2021	positive regulation of nucleic acid-templated transcription (GO:1903508)	8/511	2.2037638883266102e-06	0.00010647659207809624	KDM5A;YAP1;BLM;KMT2A;WT1;BRCA1;BRCA2;NKX3-1
+3	GO_Biological_Process_2021	positive regulation of nucleic acid-templated transcription (GO:1903508)	8/511	2.2037638883266102e-06	0.00010647659207809624	YAP1;KDM5A;BLM;KMT2A;WT1;BRCA1;BRCA2;NKX3-1
 3	GO_Biological_Process_2021	mitotic DNA damage checkpoint signaling (GO:0044773)	4/59	3.339524012294417e-06	0.00015328415216431373	MDC1;BLM;ATM;BRCA1
 3	GO_Biological_Process_2021	positive regulation of DNA metabolic process (GO:0051054)	4/63	4.34912394688487e-06	0.00019011884682096716	WT1;HGF;POT1;BRCA1
 3	GO_Biological_Process_2021	DNA double-strand break processing (GO:0000729)	3/19	4.666445639215671e-06	0.00019049441621678097	BLM;ATM;BRCA1
@@ -1393,7 +1393,7 @@ Cluster_ID	Gene_set	Term	Overlap	P-value	Adjusted P-value	Genes
 3	GO_Biological_Process_2021	positive regulation of cell population proliferation (GO:0008284)	7/474	1.5202290385735332e-05	0.00044772845070725287	YAP1;NTRK2;FLT1;IRS1;NTRK3;TSHR;NKX3-1
 3	GO_Biological_Process_2021	positive regulation of phosphatidylinositol 3-kinase activity (GO:0043552)	3/28	1.5607091963651516e-05	0.00044772845070725287	FLT1;IRS1;KIT
 3	GO_Biological_Process_2021	regulation of DNA biosynthetic process (GO:2000278)	3/29	1.7387058252818938e-05	0.0004759202769268865	HGF;POT1;ATM
-3	GO_Biological_Process_2021	negative regulation of apoptotic process (GO:0043066)	7/485	1.7626676923218017e-05	0.0004759202769268865	NOTCH2;YAP1;GSK3B;NTRK2;WT1;HGF;ERCC5
+3	GO_Biological_Process_2021	negative regulation of apoptotic process (GO:0043066)	7/485	1.7626676923218017e-05	0.0004759202769268865	YAP1;NOTCH2;GSK3B;NTRK2;WT1;HGF;ERCC5
 3	GO_Biological_Process_2021	cellular response to oxygen-containing compound (GO:1901701)	6/323	1.852210862155278e-05	0.00048580844898815574	RPTOR;IRS1;WT1;ATM;TSHR;EPHA3
 3	GO_Biological_Process_2021	positive regulation of lipid kinase activity (GO:0090218)	3/30	1.929581243602365e-05	0.000492043217118603	FLT1;IRS1;KIT
 3	GO_Biological_Process_2021	hemopoiesis (GO:0030097)	4/94	2.1426017565560624e-05	0.0005315968682482338	NOTCH2;FLT1;KMT2A;KIT
@@ -1408,7 +1408,7 @@ Cluster_ID	Gene_set	Term	Overlap	P-value	Adjusted P-value	Genes
 3	GO_Biological_Process_2021	regulation of phosphatidylinositol 3-kinase activity (GO:0043551)	3/35	3.092032691652481e-05	0.0006601130257992971	FLT1;IRS1;KIT
 3	GO_Biological_Process_2021	positive regulation of protein serine/threonine kinase activity (GO:0071902)	4/106	3.438812033341101e-05	0.000717461237865257	RPTOR;FLT1;KIT;PIK3CG
 3	GO_Biological_Process_2021	positive regulation of cell motility (GO:2000147)	5/221	3.900964084788114e-05	0.0007957966732967752	FLT1;HGF;NTRK3;KIT;ATM
-3	GO_Cellular_Component_2021	nucleus (GO:0005634)	19/4484	4.0693089502523995e-05	0.0026043577281615	FOXA1;KDM5A;NOTCH2;YAP1;MDC1;GSK3B;BLM;KMT2A;IRS1;BRCA1;IKZF1;BRCA2;WT1;FUBP1;ERCC2;ERCC5;ATM;SF3B1;NKX3-1
+3	GO_Cellular_Component_2021	nucleus (GO:0005634)	19/4484	4.0693089502523995e-05	0.0026043577281615	YAP1;KDM5A;FOXA1;NOTCH2;MDC1;GSK3B;BLM;KMT2A;IRS1;BRCA1;IKZF1;BRCA2;WT1;FUBP1;ERCC2;ERCC5;ATM;SF3B1;NKX3-1
 3	GO_Biological_Process_2021	positive regulation of protein-containing complex assembly (GO:0031334)	4/118	5.233694045271831e-05	0.0010444632899042	GSK3B;ERCC2;ERCC5;ATM
 3	KEGG_2021_Human	Neurotrophin signaling pathway	4/119	5.409029012273622e-05	0.0013793023981297	GSK3B;NTRK2;IRS1;NTRK3
 3	GO_Biological_Process_2021	positive regulation of intracellular estrogen receptor signaling pathway (GO:0033148)	2/7	6.213249023444066e-05	0.0012135665113875	FOXA1;YAP1
@@ -1438,7 +1438,7 @@ Cluster_ID	Gene_set	Term	Overlap	P-value	Adjusted P-value	Genes
 3	GO_Molecular_Function_2021	G-quadruplex DNA binding (GO:0051880)	2/10	0.00013270327104745937	0.0011943294394271	BLM;POT1
 3	GO_Biological_Process_2021	cellular response to organic cyclic compound (GO:0071407)	4/150	0.0001328077611188769	0.0018472352228352	BLM;WT1;BRCA1;NKX3-1
 3	GO_Cellular_Component_2021	integral component of plasma membrane (GO:0005887)	10/1454	0.00013631771476605193	0.0043621668725136	NOTCH2;NTRK2;EPHA7;FLT1;PTPRS;IRS1;NTRK3;KIT;TSHR;EPHA3
-3	GO_Biological_Process_2021	positive regulation of transcription by RNA polymerase II (GO:0045944)	8/908	0.00013793907469950012	0.0018899712025991	FOXA1;YAP1;KMT2A;WT1;HGF;ATM;BRCA1;NKX3-1
+3	GO_Biological_Process_2021	positive regulation of transcription by RNA polymerase II (GO:0045944)	8/908	0.00013793907469950012	0.0018899712025991	YAP1;FOXA1;KMT2A;WT1;HGF;ATM;BRCA1;NKX3-1
 3	GO_Biological_Process_2021	regulation of histone H3-K9 acetylation (GO:2000615)	2/11	0.00016201486834500342	0.0021580923359108	KMT2A;BRCA1
 3	GO_Biological_Process_2021	cellular response to growth factor stimulus (GO:0071363)	4/158	0.0001622095546599652	0.0021580923359108	NTRK2;FLT1;HGF;NTRK3
 3	GO_Biological_Process_2021	positive regulation of DNA biosynthetic process (GO:2000573)	3/61	0.00016481141446263067	0.0021613839782384	HGF;POT1;ATM
@@ -1458,9 +1458,9 @@ Cluster_ID	Gene_set	Term	Overlap	P-value	Adjusted P-value	Genes
 3	GO_Biological_Process_2021	positive regulation of histone H3-K4 methylation (GO:0051571)	2/15	0.0003079452853975245	0.0034474850243283	KMT2A;BRCA1
 3	GO_Biological_Process_2021	protein localization to chromosome, telomeric region (GO:0070198)	2/15	0.0003079452853975245	0.0034474850243283	POT1;BRCA2
 3	GO_Molecular_Function_2021	phosphatidylinositol kinase activity (GO:0052742)	2/15	0.0003079452853975245	0.0024250691225055	ATM;PIK3CG
-3	GO_Cellular_Component_2021	intracellular membrane-bounded organelle (GO:0043231)	19/5192	0.00033357707852549844	0.0054980705778612	FOXA1;KDM5A;NOTCH2;YAP1;MDC1;GSK3B;BLM;KMT2A;IRS1;BRCA1;IKZF1;BRCA2;WT1;FUBP1;ERCC2;ERCC5;ATM;SF3B1;NKX3-1
+3	GO_Cellular_Component_2021	intracellular membrane-bounded organelle (GO:0043231)	19/5192	0.00033357707852549844	0.0054980705778612	YAP1;KDM5A;FOXA1;NOTCH2;MDC1;GSK3B;BLM;KMT2A;IRS1;BRCA1;IKZF1;BRCA2;WT1;FUBP1;ERCC2;ERCC5;ATM;SF3B1;NKX3-1
 3	KEGG_2021_Human	Transcriptional misregulation in cancer	4/192	0.00034145095333107574	0.0043534996549712	FLT1;KMT2A;WT1;ATM
-3	GO_Molecular_Function_2021	transcription cis-regulatory region binding (GO:0000976)	6/549	0.0003430567676801124	0.0025426560428055	FOXA1;KDM5A;YAP1;WT1;BRCA1;NKX3-1
+3	GO_Molecular_Function_2021	transcription cis-regulatory region binding (GO:0000976)	6/549	0.0003430567676801124	0.0025426560428055	YAP1;KDM5A;FOXA1;WT1;BRCA1;NKX3-1
 3	GO_Biological_Process_2021	regulation of cellular response to heat (GO:1900034)	3/79	0.0003544109627218102	0.0039198706479352	RPTOR;GSK3B;ATM
 3	GO_Cellular_Component_2021	neuron projection (GO:0043005)	6/556	0.0003670436430167333	0.0054980705778612	GSK3B;NTRK2;EPHA7;PTPRS;NTRK3;EPHA3
 3	GO_Biological_Process_2021	cellular response to gamma radiation (GO:0071480)	2/17	0.0003979873115628295	0.0043494327620794	YAP1;ATM
@@ -1485,7 +1485,7 @@ Cluster_ID	Gene_set	Term	Overlap	P-value	Adjusted P-value	Genes
 3	GO_Biological_Process_2021	regulation of autophagy (GO:0010506)	4/231	0.0006853692816335044	0.0062916900053955	RPTOR;GSK3B;HGF;ATM
 3	KEGG_2021_Human	Ras signaling pathway	4/232	0.0006965309057598127	0.0078940169319445	NTRK2;FLT1;HGF;KIT
 3	GO_Biological_Process_2021	regulation of ERK1 and ERK2 cascade (GO:0070372)	4/238	0.0007662282319709876	0.0069314947841764	NOTCH2;NTRK2;EPHA7;NTRK3
-3	GO_Biological_Process_2021	chromatin remodeling (GO:0006338)	3/103	0.0007701660871307196	0.0069314947841764	FOXA1;KDM5A;EZH1
+3	GO_Biological_Process_2021	chromatin remodeling (GO:0006338)	3/103	0.0007701660871307196	0.0069314947841764	KDM5A;FOXA1;EZH1
 3	KEGG_2021_Human	Calcium signaling pathway	4/240	0.000790519853677105	0.0080633025075064	NTRK2;FLT1;HGF;NTRK3
 3	GO_Biological_Process_2021	response to gamma radiation (GO:0010332)	2/24	0.0008014959660444926	0.0071434300662994	YAP1;ATM
 3	GO_Biological_Process_2021	nucleotide-excision repair (GO:0006289)	3/105	0.0008144172103346572	0.0071887980681463	ERCC2;ERCC5;BRCA2
@@ -1495,17 +1495,17 @@ Cluster_ID	Gene_set	Term	Overlap	P-value	Adjusted P-value	Genes
 3	GO_Biological_Process_2021	DNA geometric change (GO:0032392)	2/26	0.0009417208306328502	0.0079103327072189	BLM;POT1
 3	GO_Biological_Process_2021	positive regulation of histone methylation (GO:0031062)	2/26	0.0009417208306328502	0.0079103327072189	KMT2A;BRCA1
 3	GO_Biological_Process_2021	positive regulation of signal transduction (GO:0009967)	4/252	0.0009478612176406096	0.0079103327072189	YAP1;IRS1;NTRK3;NKX3-1
-3	GO_Biological_Process_2021	regulation of transcription by RNA polymerase II (GO:0006357)	11/2206	0.00096457258714891	0.0079772759910153	FOXA1;YAP1;KMT2A;WT1;HGF;KIT;ATM;BRCA1;IKZF1;EZH1;NKX3-1
+3	GO_Biological_Process_2021	regulation of transcription by RNA polymerase II (GO:0006357)	11/2206	0.00096457258714891	0.0079772759910153	YAP1;FOXA1;KMT2A;WT1;HGF;KIT;ATM;BRCA1;IKZF1;EZH1;NKX3-1
 3	GO_Biological_Process_2021	positive regulation of mitotic cell cycle (GO:0045931)	2/27	0.0010159428226569	0.0083271027785628	FOXA1;NKX3-1
 3	GO_Biological_Process_2021	response to ketone (GO:1901654)	2/28	0.0010928921891777	0.0088785400855329	YAP1;NKX3-1
-3	GO_Biological_Process_2021	regulation of transcription, DNA-templated (GO:0006355)	11/2244	0.0011126666962874	0.0088929160561213	FOXA1;KDM5A;YAP1;BLM;KMT2A;WT1;KIT;BRCA1;IKZF1;BRCA2;NKX3-1
+3	GO_Biological_Process_2021	regulation of transcription, DNA-templated (GO:0006355)	11/2244	0.0011126666962874	0.0088929160561213	YAP1;KDM5A;FOXA1;BLM;KMT2A;WT1;KIT;BRCA1;IKZF1;BRCA2;NKX3-1
 3	GO_Biological_Process_2021	positive regulation of cell projection organization (GO:0031346)	3/117	0.0011140363251132	0.0088929160561213	NTRK2;NTRK3;EPHA3
 3	GO_Biological_Process_2021	regulation of cellular response to stress (GO:0080135)	3/118	0.001141732972983	0.0090354385275728	RPTOR;GSK3B;ATM
 3	GO_Molecular_Function_2021	protease binding (GO:0002020)	3/118	0.001141732972983	0.0071929177297932	GSK3B;NTRK2;BRCA2
 3	GO_Biological_Process_2021	negative regulation of transferase activity (GO:0051348)	2/29	0.0011725597091516	0.0090575806474601	GSK3B;POT1
 3	GO_Biological_Process_2021	nucleotide-excision repair, preincision complex assembly (GO:0006294)	2/29	0.0011725597091516	0.0090575806474601	ERCC2;ERCC5
 3	GO_Biological_Process_2021	protein-containing complex assembly (GO:0065003)	4/267	0.0011741308246707	0.0090575806474601	YAP1;GSK3B;BLM;KMT2A
-3	GO_Molecular_Function_2021	sequence-specific double-stranded DNA binding (GO:1990837)	6/712	0.0013386409588864	0.0080318457533188	FOXA1;KDM5A;YAP1;WT1;BRCA1;NKX3-1
+3	GO_Molecular_Function_2021	sequence-specific double-stranded DNA binding (GO:1990837)	6/712	0.0013386409588864	0.0080318457533188	YAP1;KDM5A;FOXA1;WT1;BRCA1;NKX3-1
 3	GO_Biological_Process_2021	cellular response to cytokine stimulus (GO:0071345)	5/482	0.0014228860562162	0.010832243058032	GSK3B;HGF;KIT;BRCA1;NKX3-1
 3	GO_Biological_Process_2021	hematopoietic progenitor cell differentiation (GO:0002244)	2/32	0.0014277793137493	0.010832243058032	FLT1;KIT
 3	GO_Biological_Process_2021	regulation of histone acetylation (GO:0035065)	2/33	0.0015182276826034	0.0113311627043085	KMT2A;BRCA1
@@ -1522,18 +1522,18 @@ Cluster_ID	Gene_set	Term	Overlap	P-value	Adjusted P-value	Genes
 3	GO_Biological_Process_2021	negative regulation of DNA metabolic process (GO:0051053)	2/36	0.0018055707503116	0.0125569238544402	BLM;KMT2A
 3	GO_Biological_Process_2021	regulation of microtubule-based process (GO:0032886)	2/36	0.0018055707503116	0.0125569238544402	GSK3B;EPHA3
 3	GO_Biological_Process_2021	positive regulation of telomere maintenance via telomere lengthening (GO:1904358)	2/36	0.0018055707503116	0.0125569238544402	POT1;ATM
-3	GO_Biological_Process_2021	transcription initiation from RNA polymerase II promoter (GO:0006367)	3/140	0.001864871074714	0.0126833953764543	NOTCH2;YAP1;ERCC2
+3	GO_Biological_Process_2021	transcription initiation from RNA polymerase II promoter (GO:0006367)	3/140	0.001864871074714	0.0126833953764543	YAP1;NOTCH2;ERCC2
 3	GO_Biological_Process_2021	regulation of actin cytoskeleton reorganization (GO:2000249)	2/37	0.0019066542069179	0.0126833953764543	NOTCH2;NTRK3
 3	GO_Biological_Process_2021	regulation of microtubule cytoskeleton organization (GO:0070507)	2/37	0.0019066542069179	0.0126833953764543	GSK3B;EPHA3
 3	GO_Biological_Process_2021	nucleotide-excision repair, DNA incision, 5'-to lesion (GO:0006296)	2/37	0.0019066542069179	0.0126833953764543	ERCC2;ERCC5
 3	GO_Biological_Process_2021	regulation of protein autophosphorylation (GO:0031952)	2/37	0.0019066542069179	0.0126833953764543	ERRFI1;EPHA7
 3	GO_Biological_Process_2021	lysosome localization (GO:0032418)	2/37	0.0019066542069179	0.0126833953764543	KIT;PIK3CG
-3	GO_Biological_Process_2021	chromatin organization (GO:0006325)	3/142	0.0019418938700388	0.0128248818179547	FOXA1;KDM5A;EZH1
+3	GO_Biological_Process_2021	chromatin organization (GO:0006325)	3/142	0.0019418938700388	0.0128248818179547	KDM5A;FOXA1;EZH1
 3	GO_Biological_Process_2021	regulation of axon extension (GO:0030516)	2/38	0.0020103738257067	0.0131823083714202	GSK3B;PTPRS
 3	GO_Biological_Process_2021	positive regulation of apoptotic process (GO:0043065)	4/310	0.0020295322493777	0.0132135503895657	FOXA1;EPHA7;ATM;NKX3-1
 3	GO_Biological_Process_2021	nucleotide-excision repair, DNA incision (GO:0033683)	2/39	0.0021167206063135	0.013588458158013	ERCC2;ERCC5
 3	GO_Biological_Process_2021	replication fork processing (GO:0031297)	2/39	0.0021167206063135	0.013588458158013	BLM;BRCA2
-3	GO_Biological_Process_2021	regulation of cell development (GO:0060284)	2/41	0.0023372597623875	0.0149000309852205	NOTCH2;YAP1
+3	GO_Biological_Process_2021	regulation of cell development (GO:0060284)	2/41	0.0023372597623875	0.0149000309852205	YAP1;NOTCH2
 3	KEGG_2021_Human	mTOR signaling pathway	3/154	0.0024458302598195	0.0191903605001225	RPTOR;GSK3B;IRS1
 3	GO_Biological_Process_2021	regulation of extrinsic apoptotic signaling pathway via death domain receptors (GO:1902041)	2/42	0.0024514342464343	0.015520114746391	GSK3B;BRCA1
 3	GO_Biological_Process_2021	negative regulation of cellular macromolecule biosynthetic process (GO:2000113)	5/547	0.0024749771020537	0.015561842326612	GSK3B;WT1;BRCA1;IKZF1;NKX3-1
@@ -1553,7 +1553,7 @@ Cluster_ID	Gene_set	Term	Overlap	P-value	Adjusted P-value	Genes
 3	GO_Biological_Process_2021	regulation of protein localization to nucleus (GO:1900180)	2/47	0.0030609998620893	0.0177847966670761	YAP1;GSK3B
 3	GO_Biological_Process_2021	epithelial to mesenchymal transition (GO:0001837)	2/47	0.0030609998620893	0.0177847966670761	GSK3B;HGF
 3	GO_Biological_Process_2021	positive regulation of neuron death (GO:1901216)	2/47	0.0030609998620893	0.0177847966670761	GSK3B;EPHA7
-3	GO_Biological_Process_2021	DNA-templated transcription, initiation (GO:0006352)	3/168	0.0031278984753611	0.0180488749424417	NOTCH2;YAP1;ERCC2
+3	GO_Biological_Process_2021	DNA-templated transcription, initiation (GO:0006352)	3/168	0.0031278984753611	0.0180488749424417	YAP1;NOTCH2;ERCC2
 3	GO_Biological_Process_2021	cellular response to DNA damage stimulus (GO:0006974)	4/350	0.0031457734104473	0.0180488749424417	YAP1;BLM;ATM;BRCA1
 3	GO_Biological_Process_2021	cellular response to alcohol (GO:0097306)	2/48	0.0031905896871087	0.0180800082269497	BLM;BRCA1
 3	GO_Biological_Process_2021	histone H4 acetylation (GO:0043967)	2/48	0.0031905896871087	0.0180800082269497	KMT2A;BRCA2
@@ -1572,7 +1572,7 @@ Cluster_ID	Gene_set	Term	Overlap	P-value	Adjusted P-value	Genes
 3	GO_Biological_Process_2021	blood vessel morphogenesis (GO:0048514)	2/56	0.0043179557537066	0.0229126207046397	FLT1;WT1
 3	GO_Biological_Process_2021	regulation of GTPase activity (GO:0043087)	3/189	0.0043522225478852	0.0229617258560842	GSK3B;NTRK2;EPHA3
 3	GO_Biological_Process_2021	negative regulation of DNA recombination (GO:0045910)	2/57	0.0044700771299271	0.0234487474587035	BLM;POT1
-3	GO_Biological_Process_2021	negative regulation of macromolecule metabolic process (GO:0010605)	3/194	0.0046808401080615	0.0244148364727299	NOTCH2;YAP1;NKX3-1
+3	GO_Biological_Process_2021	negative regulation of macromolecule metabolic process (GO:0010605)	3/194	0.0046808401080615	0.0244148364727299	YAP1;NOTCH2;NKX3-1
 3	GO_Molecular_Function_2021	protein homodimerization activity (GO:0042803)	5/636	0.0047162991673836	0.0237701478036135	NTRK2;BLM;KMT2A;KIT;ERCC5
 3	GO_Biological_Process_2021	response to organic cyclic compound (GO:0014070)	2/60	0.0049411685635525	0.0256270776346963	FOXA1;NKX3-1
 3	GO_Biological_Process_2021	phosphorylation (GO:0016310)	4/400	0.0050562269024745	0.0260764960475932	GSK3B;EPHA7;ATM;PIK3CG
@@ -1676,7 +1676,7 @@ Cluster_ID	Gene_set	Term	Overlap	P-value	Adjusted P-value	Genes
 3	GO_Biological_Process_2021	positive regulation of transport (GO:0051050)	2/91	0.011051043327559	0.0395342638405133	GSK3B;KMT2A
 3	GO_Biological_Process_2021	regulation of peptidyl-tyrosine phosphorylation (GO:0050730)	2/92	0.0112843088341156	0.0395342638405133	EPHA7;HGF
 3	GO_Biological_Process_2021	T cell activation (GO:0042110)	2/92	0.0112843088341156	0.0395342638405133	KIT;PIK3CG
-3	GO_Molecular_Function_2021	protein kinase binding (GO:0019901)	4/506	0.0113977911862877	0.0349007917415583	RPTOR;ERRFI1;GSK3B;IRS1
+3	GO_Molecular_Function_2021	protein kinase binding (GO:0019901)	4/506	0.0113977911862877	0.0349007917415583	RPTOR;GSK3B;ERRFI1;IRS1
 3	GO_Biological_Process_2021	regulation of epithelial cell proliferation (GO:0050678)	2/93	0.0115197467944432	0.0395342638405133	YAP1;NKX3-1
 3	GO_Biological_Process_2021	positive regulation of peptidyl-serine phosphorylation (GO:0033138)	2/93	0.0115197467944432	0.0395342638405133	RPTOR;NTRK3
 3	GO_Biological_Process_2021	negative regulation of axon regeneration (GO:0048681)	1/7	0.0121875780684806	0.0395342638405133	PTPRS
@@ -1786,9 +1786,9 @@ Cluster_ID	Gene_set	Term	Overlap	P-value	Adjusted P-value	Genes
 3	GO_Molecular_Function_2021	G-rich strand telomeric DNA binding (GO:0098505)	1/10	0.0173665651965465	0.0437637442952971	POT1
 3	GO_Molecular_Function_2021	H4 histone acetyltransferase activity (GO:0010485)	1/10	0.0173665651965465	0.0437637442952971	BRCA2
 3	GO_Biological_Process_2021	positive regulation of angiogenesis (GO:0045766)	2/116	0.0175165775115795	0.046340686327464	FLT1;BRCA1
-3	GO_Biological_Process_2021	transcription by RNA polymerase II (GO:0006366)	3/320	0.0181996471649373	0.0478740168464265	NOTCH2;YAP1;ERCC2
+3	GO_Biological_Process_2021	transcription by RNA polymerase II (GO:0006366)	3/320	0.0181996471649373	0.0478740168464265	YAP1;NOTCH2;ERCC2
 3	KEGG_2021_Human	Growth hormone synthesis, secretion and action	2/119	0.0183783020682341	0.065436372986762	GSK3B;IRS1
-3	GO_Biological_Process_2021	negative regulation of gene expression (GO:0010629)	3/322	0.0185002731807201	0.0478740168464265	NOTCH2;YAP1;NKX3-1
+3	GO_Biological_Process_2021	negative regulation of gene expression (GO:0010629)	3/322	0.0185002731807201	0.0478740168464265	YAP1;NOTCH2;NKX3-1
 3	KEGG_2021_Human	AMPK signaling pathway	2/120	0.0186694871812331	0.065436372986762	RPTOR;IRS1
 3	KEGG_2021_Human	Thyroid hormone signaling pathway	2/121	0.0189626318178673	0.065436372986762	NOTCH2;GSK3B
 3	GO_Biological_Process_2021	negative regulation of centrosome duplication (GO:0010826)	1/11	0.0190870263243922	0.0478740168464265	BRCA1
@@ -1811,7 +1811,7 @@ Cluster_ID	Gene_set	Term	Overlap	P-value	Adjusted P-value	Genes
 3	GO_Cellular_Component_2021	integral component of postsynaptic density membrane (GO:0099061)	1/11	0.0190870263243922	0.0830069078677016	PTPRS
 3	GO_Cellular_Component_2021	intrinsic component of postsynaptic density membrane (GO:0099146)	1/11	0.0190870263243922	0.0830069078677016	PTPRS
 3	GO_Biological_Process_2021	epithelium development (GO:0060429)	2/122	0.019257728653369	0.0481705583209612	ERRFI1;WT1
-3	GO_Biological_Process_2021	positive regulation of epithelial cell proliferation (GO:0050679)	2/123	0.0195547703691073	0.0484735721239261	NOTCH2;YAP1
+3	GO_Biological_Process_2021	positive regulation of epithelial cell proliferation (GO:0050679)	2/123	0.0195547703691073	0.0484735721239261	YAP1;NOTCH2
 3	KEGG_2021_Human	Cell cycle	2/124	0.0198537496701912	0.065436372986762	GSK3B;ATM
 3	KEGG_2021_Human	Human papillomavirus infection	3/331	0.0198875251234276	0.065436372986762	NOTCH2;GSK3B;ATM
 3	GO_Biological_Process_2021	negative regulation of cell growth (GO:0030308)	2/126	0.0204574919400341	0.0484735721239261	PTPRS;WT1
@@ -2029,7 +2029,7 @@ Cluster_ID	Gene_set	Term	Overlap	P-value	Adjusted P-value	Genes
 3	GO_Biological_Process_2021	positive regulation of vascular endothelial growth factor production (GO:0010575)	1/25	0.0428684260822968	0.0724736927137173	BRCA1
 3	GO_Molecular_Function_2021	chemorepellent activity (GO:0045499)	1/25	0.0428684260822968	0.0739920778954713	EPHA7
 3	GO_Molecular_Function_2021	NF-kappaB binding (GO:0051059)	1/25	0.0428684260822968	0.0739920778954713	GSK3B
-3	GO_Biological_Process_2021	negative regulation of cell differentiation (GO:0045596)	2/191	0.0439332422739784	0.0732845294078665	FOXA1;YAP1
+3	GO_Biological_Process_2021	negative regulation of cell differentiation (GO:0045596)	2/191	0.0439332422739784	0.0732845294078665	YAP1;FOXA1
 3	KEGG_2021_Human	Chemokine signaling pathway	2/192	0.0443478282494987	0.1087123055461432	GSK3B;PIK3CG
 3	GO_Biological_Process_2021	negative regulation of cell development (GO:0010721)	1/26	0.0445454982675267	0.0732845294078665	GSK3B
 3	GO_Biological_Process_2021	cellular response to drug (GO:0035690)	1/26	0.0445454982675267	0.0732845294078665	NKX3-1
@@ -2049,7 +2049,7 @@ Cluster_ID	Gene_set	Term	Overlap	P-value	Adjusted P-value	Genes
 3	GO_Cellular_Component_2021	MLL1/2 complex (GO:0044665)	1/26	0.0445454982675267	0.1187879953800713	KMT2A
 3	KEGG_2021_Human	Kaposi sarcoma-associated herpesvirus infection	2/193	0.0447638905190001	0.1087123055461432	GSK3B;PIK3CG
 3	GO_Biological_Process_2021	cellular response to tumor necrosis factor (GO:0071356)	2/194	0.0451814229929285	0.0741977572585124	BRCA1;NKX3-1
-3	GO_Molecular_Function_2021	kinase binding (GO:0019900)	3/461	0.0462135086247334	0.0786878660367083	RPTOR;ERRFI1;GSK3B
+3	GO_Molecular_Function_2021	kinase binding (GO:0019900)	3/461	0.0462135086247334	0.0786878660367083	RPTOR;GSK3B;ERRFI1
 3	GO_Biological_Process_2021	negative regulation of insulin receptor signaling pathway (GO:0046627)	1/27	0.046219715818065	0.0752299629804675	IRS1
 3	GO_Biological_Process_2021	camera-type eye development (GO:0043010)	1/27	0.046219715818065	0.0752299629804675	WT1
 3	GO_Biological_Process_2021	negative regulation of plasma membrane bounded cell projection assembly (GO:0120033)	1/27	0.046219715818065	0.0752299629804675	YAP1
@@ -2092,7 +2092,7 @@ Cluster_ID	Gene_set	Term	Overlap	P-value	Adjusted P-value	Genes
 4	GO_Biological_Process_2021	positive regulation of nucleic acid-templated transcription (GO:1903508)	13/511	3.3338164491459777e-10	6.634294733800497e-08	KMT2B;GATA3;INHBA;GLI1;ARID1A;TGFBR1;EGFR;FOXO1;AR;SOX17;CTNNB1;TCF3;TP63
 4	GO_Biological_Process_2021	positive regulation of transcription by RNA polymerase II (GO:0045944)	16/908	4.59603922262291e-10	7.83952975973108e-08	IGF2;PIK3R1;GATA3;INHBA;GLI1;EGFR;FOXO1;TBX3;ASXL1;AR;SOX17;TERT;CTNNB1;TCF3;TP63;NFE2L2
 4	KEGG_2021_Human	Proteoglycans in cancer	9/205	2.195640637011533e-09	7.201701289397827e-08	SMO;PLCG2;IGF2;DROSHA;CTNNB1;BRAF;PIK3R1;CBL;EGFR
-4	GO_Biological_Process_2021	regulation of apoptotic process (GO:0042981)	14/742	2.9953233844694067e-09	4.47052015132059e-07	BARD1;FLT3;BRAF;PIK3R1;CBL;EGFR;FOXO1;MALT1;TBX3;CTNNB1;TEK;NF2;JAK2;TP63
+4	GO_Biological_Process_2021	regulation of apoptotic process (GO:0042981)	14/742	2.9953233844694067e-09	4.47052015132059e-07	BARD1;FLT3;BRAF;PIK3R1;CBL;EGFR;FOXO1;MALT1;TBX3;CTNNB1;NF2;TEK;JAK2;TP63
 4	GO_Biological_Process_2021	positive regulation of protein kinase B signaling (GO:0051897)	8/161	7.027308647508067e-09	9.322896139027368e-07	PDGFRA;FLT3;IGF2;PIK3R1;GATA3;TEK;TGFBR1;EGFR
 4	KEGG_2021_Human	Endometrial cancer	6/58	7.421371732359979e-09	2.0285082735117274e-07	PTEN;CTNNB1;BRAF;PIK3R1;MLH1;EGFR
 4	GO_Biological_Process_2021	positive regulation of intracellular signal transduction (GO:1902533)	12/546	9.143940524010016e-09	1.091786498566796e-06	PDGFRA;FLT3;PLCG2;IGF2;PIK3R1;GATA3;TEK;JAK2;CBL;TGFBR1;EGFR;MALT1
@@ -2142,7 +2142,7 @@ Cluster_ID	Gene_set	Term	Overlap	P-value	Adjusted P-value	Genes
 4	GO_Biological_Process_2021	MAPK cascade (GO:0000165)	7/303	1.1178222709318134e-05	0.0003336699478731463	PDGFRA;FLT3;BRAF;PIK3R1;TEK;JAK2;EGFR
 4	KEGG_2021_Human	Focal adhesion	6/201	1.181730042488262e-05	0.00010200196156214472	PDGFRA;PTEN;CTNNB1;BRAF;PIK3R1;EGFR
 4	KEGG_2021_Human	MicroRNAs in cancer	7/310	1.2960329676155447e-05	0.00010627470334447464	PDGFRA;PTEN;DNMT3B;PLCG2;PIK3R1;TP63;EGFR
-4	GO_Biological_Process_2021	regulation of intracellular signal transduction (GO:1902531)	8/437	1.3618630922652395e-05	0.00039660110540602343	BARD1;PTEN;PLCG2;NBN;TEK;NF2;TP63;EGFR
+4	GO_Biological_Process_2021	regulation of intracellular signal transduction (GO:1902531)	8/437	1.3618630922652395e-05	0.00039660110540602343	BARD1;PTEN;PLCG2;NBN;NF2;TEK;TP63;EGFR
 4	GO_Molecular_Function_2021	DNA-binding transcription factor binding (GO:0140297)	6/208	1.4353620115659022e-05	0.0003714400078289833	AR;CTNNB1;NBN;TCF3;TBX3;NFE2L2
 4	GO_Biological_Process_2021	regulation of histone H3-K4 methylation (GO:0051569)	3/19	1.47060488016152e-05	0.000418071958788775	DNMT3B;CTNNB1;BCOR
 4	KEGG_2021_Human	Rap1 signaling pathway	6/210	1.515386244728952e-05	0.00011834444958835624	PDGFRA;CTNNB1;BRAF;PIK3R1;TEK;EGFR
@@ -3365,25 +3365,25 @@ Cluster_ID	Gene_set	Term	Overlap	P-value	Adjusted P-value	Genes
 5	GO_Biological_Process_2021	positive regulation of cell death (GO:0010942)	1/66	0.0483890551226402	0.0668467359426164	NTRK1
 5	GO_Biological_Process_2021	embryonic organ development (GO:0048568)	1/66	0.0483890551226402	0.0668467359426164	KDR
 5	GO_Biological_Process_2021	vascular endothelial growth factor receptor signaling pathway (GO:0048010)	1/67	0.049105124607314	0.067603630452535	KDR
-6	GO_Biological_Process_2021	positive regulation of transcription, DNA-templated (GO:0045893)	9/1183	2.5710345073468876e-07	0.000143720828960691	RET;IL10;KMT2D;FLCN;ZFHX3;ERBB4;REL;ETV1;ARID1B
+6	GO_Biological_Process_2021	positive regulation of transcription, DNA-templated (GO:0045893)	9/1183	2.5710345073468876e-07	0.000143720828960691	IL10;RET;KMT2D;FLCN;ZFHX3;ERBB4;REL;ETV1;ARID1B
 6	GO_Biological_Process_2021	phosphorylation (GO:0016310)	6/400	9.335835659459188e-07	0.0002609366066818843	RET;LATS1;PIK3CA;PLK2;PIM1;TGFBR2
 6	KEGG_2021_Human	Chagas disease	4/102	1.8466533021347331e-06	0.00025114484909032373	IL10;PIK3CA;PPP2R1A;TGFBR2
 6	GO_Biological_Process_2021	protein phosphorylation (GO:0006468)	6/496	3.2516311439106946e-06	0.0006058872698153594	RET;LATS1;ERBB4;PLK2;PIM1;TGFBR2
 6	KEGG_2021_Human	FoxO signaling pathway	4/131	5.009305480642565e-06	0.0003406327726836944	IL10;PIK3CA;PLK2;TGFBR2
 6	GO_Biological_Process_2021	regulation of cell adhesion (GO:0030155)	4/133	5.3200528288424536e-06	0.0006319151863981315	RET;FLCN;ZFHX3;PPP2R1A
 6	GO_Biological_Process_2021	positive regulation of intracellular signal transduction (GO:1902533)	6/546	5.652193080484181e-06	0.0006319151863981315	RET;FLCN;PIK3CA;ERBB4;PLK2;REL
-6	GO_Cellular_Component_2021	nucleus (GO:0005634)	13/4484	9.575710661451936e-06	0.00034472558381226973	KMT2D;SETD2;ZFHX3;DNMT1;PLK2;FANCA;ETV1;LATS1;FLCN;PPP2R1A;ERBB4;REL;PIM1
+6	GO_Cellular_Component_2021	nucleus (GO:0005634)	13/4484	9.575710661451936e-06	0.00034472558381226973	KMT2D;ZFHX3;DNMT1;SETD2;PLK2;FANCA;ETV1;LATS1;FLCN;PPP2R1A;ERBB4;REL;PIM1
 6	GO_Molecular_Function_2021	transmembrane receptor protein kinase activity (GO:0019199)	3/60	2.028339292655642e-05	0.001277853754373	RET;ERBB4;TGFBR2
 6	GO_Biological_Process_2021	mammary gland epithelial cell differentiation (GO:0060644)	2/8	2.1351432280008236e-05	0.0019602083775765	LATS1;ERBB4
 6	GO_Biological_Process_2021	regulation of gene expression (GO:0010468)	7/1079	2.4546437644071246e-05	0.0019602083775765	IL10;KMT2D;FLCN;ZFHX3;DNMT1;PPP2R1A;REL
 6	GO_Biological_Process_2021	regulation of protein kinase B signaling (GO:0051896)	4/207	3.0440094953545887e-05	0.002127001634879	RET;FLCN;PIK3CA;ERBB4
 6	GO_Biological_Process_2021	regulation of cell division (GO:0051302)	3/76	4.12960074597834e-05	0.0025649409077798	FLCN;SETD2;PLK2
 6	GO_Biological_Process_2021	positive regulation of cell adhesion (GO:0045785)	3/80	4.8154409077799535e-05	0.0025956671950096	RET;FLCN;ZFHX3
-6	GO_Biological_Process_2021	regulation of transcription, DNA-templated (GO:0006355)	9/2244	5.223943053505798e-05	0.0025956671950096	RET;IL10;KMT2D;ZFHX3;PPP2R1A;ERBB4;REL;ETV1;ARID1B
-6	GO_Cellular_Component_2021	intracellular membrane-bounded organelle (GO:0043231)	13/5192	5.2307090347554144e-05	0.0009415276262559744	KMT2D;SETD2;ZFHX3;DNMT1;PLK2;FANCA;ETV1;LATS1;FLCN;PPP2R1A;ERBB4;REL;PIM1
+6	GO_Biological_Process_2021	regulation of transcription, DNA-templated (GO:0006355)	9/2244	5.223943053505798e-05	0.0025956671950096	IL10;RET;KMT2D;ZFHX3;PPP2R1A;ERBB4;REL;ETV1;ARID1B
+6	GO_Cellular_Component_2021	intracellular membrane-bounded organelle (GO:0043231)	13/5192	5.2307090347554144e-05	0.0009415276262559744	KMT2D;ZFHX3;DNMT1;SETD2;PLK2;FANCA;ETV1;LATS1;FLCN;PPP2R1A;ERBB4;REL;PIM1
 6	GO_Biological_Process_2021	regulation of cytokinesis (GO:0032465)	3/84	5.5720941574446146e-05	0.0025956671950096	FLCN;SETD2;PLK2
 6	GO_Biological_Process_2021	positive regulation of cardiac muscle cell proliferation (GO:0060045)	2/14	6.917121064943945e-05	0.0027725566877275	ERBB4;PIM1
-6	GO_Biological_Process_2021	positive regulation of nucleic acid-templated transcription (GO:1903508)	5/511	6.943791346723677e-05	0.0027725566877275	RET;IL10;ZFHX3;ERBB4;ARID1B
+6	GO_Biological_Process_2021	positive regulation of nucleic acid-templated transcription (GO:1903508)	5/511	6.943791346723677e-05	0.0027725566877275	IL10;RET;ZFHX3;ERBB4;ARID1B
 6	GO_Biological_Process_2021	hemopoiesis (GO:0030097)	3/94	7.794760240599194e-05	0.0027869811876739	IL10;FLCN;TGFBR2
 6	GO_Biological_Process_2021	mammary gland epithelium development (GO:0061180)	2/15	7.977048122143578e-05	0.0027869811876739	LATS1;ERBB4
 6	KEGG_2021_Human	AGE-RAGE signaling pathway in diabetic complications	3/100	9.371291441807692e-05	0.0042483187869528	PIK3CA;PIM1;TGFBR2
@@ -3661,7 +3661,7 @@ Cluster_ID	Gene_set	Term	Overlap	P-value	Adjusted P-value	Genes
 6	GO_Molecular_Function_2021	transforming growth factor beta receptor binding (GO:0005160)	1/18	0.0160833123117468	0.0482499369352404	TGFBR2
 6	GO_Molecular_Function_2021	transmembrane receptor protein serine/threonine kinase activity (GO:0004675)	1/18	0.0160833123117468	0.0482499369352404	TGFBR2
 6	KEGG_2021_Human	Human T-cell leukemia virus 1 infection	2/219	0.0162717386070958	0.0582356960675008	PIK3CA;TGFBR2
-6	GO_Biological_Process_2021	cellular response to lipid (GO:0071396)	2/219	0.0162717386070958	0.0393761986206344	RET;IL10
+6	GO_Biological_Process_2021	cellular response to lipid (GO:0071396)	2/219	0.0162717386070958	0.0393761986206344	IL10;RET
 6	GO_Biological_Process_2021	atrioventricular valve morphogenesis (GO:0003181)	1/19	0.01696963087688	0.0395490619604067	TGFBR2
 6	GO_Biological_Process_2021	response to cholesterol (GO:0070723)	1/19	0.01696963087688	0.0395490619604067	TGFBR2
 6	GO_Biological_Process_2021	regulation of centriole replication (GO:0046599)	1/19	0.01696963087688	0.0395490619604067	PLK2
@@ -3785,7 +3785,7 @@ Cluster_ID	Gene_set	Term	Overlap	P-value	Adjusted P-value	Genes
 6	GO_Biological_Process_2021	neural crest cell migration (GO:0001755)	1/37	0.0327950148043916	0.0548874648971703	ERBB4
 6	GO_Biological_Process_2021	regulation of intracellular steroid hormone receptor signaling pathway (GO:0033143)	1/37	0.0327950148043916	0.0548874648971703	LATS1
 6	GO_Biological_Process_2021	positive regulation of signaling receptor activity (GO:2000273)	1/37	0.0327950148043916	0.0548874648971703	IL10
-6	GO_Biological_Process_2021	cellular response to oxygen-containing compound (GO:1901701)	2/323	0.0335504588900058	0.0555159718907073	RET;IL10
+6	GO_Biological_Process_2021	cellular response to oxygen-containing compound (GO:1901701)	2/323	0.0335504588900058	0.0555159718907073	IL10;RET
 6	KEGG_2021_Human	Allograft rejection	1/38	0.0336671099659209	0.0974197224545797	IL10
 6	GO_Biological_Process_2021	negative regulation of TOR signaling (GO:0032007)	1/38	0.0336671099659209	0.0555159718907073	FLCN
 6	GO_Biological_Process_2021	positive regulation of production of molecular mediator of immune response (GO:0002702)	1/38	0.0336671099659209	0.0555159718907073	IL10
@@ -3867,13 +3867,13 @@ Cluster_ID	Gene_set	Term	Overlap	P-value	Adjusted P-value	Genes
 6	GO_Biological_Process_2021	DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest (GO:0006977)	1/56	0.0492384039303871	0.068639071813183	PLK2
 6	GO_Biological_Process_2021	peptidyl-tyrosine modification (GO:0018212)	1/56	0.0492384039303871	0.068639071813183	ERBB4
 7	GO_Biological_Process_2021	regulation of transforming growth factor beta receptor signaling pathway (GO:0017015)	5/100	8.849007999698806e-08	5.521780991812054e-05	CREBBP;SPRED1;STK11;LATS2;MEN1
-7	KEGG_2021_Human	Pathways in cancer	7/531	1.5144938224142005e-06	0.00020294217220350288	CREBBP;PTCH1;CXCR4;XIAP;KEAP1;PIK3R2;FGFR2
-7	GO_Cellular_Component_2021	nucleus (GO:0005634)	16/4484	1.881602361149421e-06	3.573242667175809e-05	UPF1;DAXX;CREBBP;XIAP;PIK3R2;HNF1A;DICER1;GATA1;SMARCA4;STK11;LATS2;STAG2;CHEK2;RBM10;FGFR2;MEN1
-7	GO_Cellular_Component_2021	intracellular membrane-bounded organelle (GO:0043231)	17/5192	2.0418529526718906e-06	3.573242667175809e-05	UPF1;DAXX;CREBBP;PTCH1;XIAP;PIK3R2;HNF1A;DICER1;GATA1;SMARCA4;STK11;LATS2;STAG2;CHEK2;RBM10;FGFR2;MEN1
+7	KEGG_2021_Human	Pathways in cancer	7/531	1.5144938224142005e-06	0.00020294217220350288	CREBBP;PTCH1;XIAP;KEAP1;CXCR4;PIK3R2;FGFR2
+7	GO_Cellular_Component_2021	nucleus (GO:0005634)	16/4484	1.881602361149421e-06	3.573242667175809e-05	UPF1;CREBBP;DAXX;XIAP;PIK3R2;DICER1;HNF1A;GATA1;SMARCA4;STK11;STAG2;LATS2;CHEK2;FGFR2;RBM10;MEN1
+7	GO_Cellular_Component_2021	intracellular membrane-bounded organelle (GO:0043231)	17/5192	2.0418529526718906e-06	3.573242667175809e-05	UPF1;CREBBP;DAXX;PTCH1;XIAP;PIK3R2;DICER1;HNF1A;GATA1;SMARCA4;STK11;STAG2;LATS2;CHEK2;FGFR2;RBM10;MEN1
 7	GO_Biological_Process_2021	positive regulation of cellular response to transforming growth factor beta stimulus (GO:1903846)	3/24	2.64653769137704e-06	0.0005504798398064243	CREBBP;STK11;MEN1
 7	GO_Biological_Process_2021	positive regulation of transforming growth factor beta receptor signaling pathway (GO:0030511)	3/24	2.64653769137704e-06	0.0005504798398064243	CREBBP;STK11;MEN1
 7	GO_Biological_Process_2021	beta-catenin-TCF complex assembly (GO:1904837)	3/29	4.760034089780244e-06	0.0007186020685505767	CREBBP;SMARCA4;MEN1
-7	GO_Biological_Process_2021	negative regulation of transcription, DNA-templated (GO:0045892)	8/948	6.416913226335786e-06	0.0007186020685505767	DAXX;CREBBP;PTCH1;DICER1;GATA1;FGFR2;SMARCA4;MEN1
+7	GO_Biological_Process_2021	negative regulation of transcription, DNA-templated (GO:0045892)	8/948	6.416913226335786e-06	0.0007186020685505767	CREBBP;DAXX;PTCH1;DICER1;GATA1;FGFR2;SMARCA4;MEN1
 7	GO_Biological_Process_2021	regulation of intracellular signal transduction (GO:1902531)	6/437	7.741622293222351e-06	0.0007186020685505767	DAXX;SPRED1;STK11;CHEK2;XIAP;PIK3R2
 7	GO_Biological_Process_2021	negative regulation of transcription by RNA polymerase II (GO:0000122)	7/684	8.06124115361224e-06	0.0007186020685505767	CREBBP;PTCH1;DICER1;GATA1;FGFR2;SMARCA4;MEN1
 7	GO_Biological_Process_2021	MAPK cascade (GO:0000165)	5/303	2.076800116253138e-05	0.0016199040906774	SPRED1;ERBB3;PIK3R2;FGFR2;MEN1
@@ -3901,7 +3901,7 @@ Cluster_ID	Gene_set	Term	Overlap	P-value	Adjusted P-value	Genes
 7	KEGG_2021_Human	MicroRNAs in cancer	4/310	0.0003971880753690958	0.009868538924511	CREBBP;ERBB3;PIK3R2;DICER1
 7	GO_Molecular_Function_2021	androgen receptor binding (GO:0050681)	2/27	0.0004363226617166182	0.0112353085392029	DAXX;SMARCA4
 7	KEGG_2021_Human	FoxO signaling pathway	3/131	0.0004418748772169129	0.009868538924511	CREBBP;STK11;PIK3R2
-7	GO_Biological_Process_2021	regulation of transcription by RNA polymerase II (GO:0006357)	9/2206	0.00045800823270849503	0.0119082140504208	CREBBP;PTCH1;PIK3R2;HNF1A;DICER1;GATA1;FGFR2;SMARCA4;MEN1
+7	GO_Biological_Process_2021	regulation of transcription by RNA polymerase II (GO:0006357)	9/2206	0.00045800823270849503	0.0119082140504208	CREBBP;PTCH1;PIK3R2;DICER1;HNF1A;GATA1;FGFR2;SMARCA4;MEN1
 7	KEGG_2021_Human	Apoptosis	3/142	0.0005591799956909647	0.0107043027746556	DAXX;XIAP;PIK3R2
 7	GO_Biological_Process_2021	negative regulation of DNA-binding transcription factor activity (GO:0043433)	3/143	0.000570734729934765	0.0133217212798059	PTCH1;KEAP1;MEN1
 7	GO_Biological_Process_2021	regulation of transmembrane receptor protein serine/threonine kinase signaling pathway (GO:0090092)	2/31	0.0005764206322992976	0.0133217212798059	LATS2;XIAP
@@ -3923,13 +3923,13 @@ Cluster_ID	Gene_set	Term	Overlap	P-value	Adjusted P-value	Genes
 7	GO_Biological_Process_2021	mitotic spindle assembly (GO:0090307)	2/44	0.001162071491037	0.019598178659652	STAG2;CHEK2
 7	GO_Molecular_Function_2021	RNA polymerase II-specific DNA-binding transcription factor binding (GO:0061629)	3/190	0.0012992049746986	0.0191168731991366	CREBBP;GATA1;SMARCA4
 7	GO_Biological_Process_2021	negative regulation of cell differentiation (GO:0045596)	3/191	0.0013189491133339	0.0213947056869423	SPRED1;PTCH1;MEN1
-7	GO_Biological_Process_2021	regulation of apoptotic process (GO:0042981)	5/742	0.0013371691054338	0.0213947056869423	DAXX;CREBBP;LATS2;XIAP;GATA1
+7	GO_Biological_Process_2021	regulation of apoptotic process (GO:0042981)	5/742	0.0013371691054338	0.0213947056869423	CREBBP;DAXX;LATS2;XIAP;GATA1
 7	GO_Biological_Process_2021	regulation of cell population proliferation (GO:0042127)	5/764	0.0015223966409085	0.0237493875981737	STK11;ERBB3;XIAP;FGFR2;MEN1
 7	KEGG_2021_Human	Proteoglycans in cancer	3/205	0.0016155024177631	0.0196797567254788	ERBB3;PTCH1;PIK3R2
 7	GO_Biological_Process_2021	regulation of protein kinase B signaling (GO:0051896)	3/207	0.0016609967806102	0.0252795607585556	ERBB3;PIK3R2;FGFR2
 7	GO_Molecular_Function_2021	transcription regulatory region nucleic acid binding (GO:0001067)	3/212	0.0017782367862597	0.0201329324444079	HNF1A;GATA1;MEN1
 7	GO_Biological_Process_2021	negative regulation of multicellular organismal process (GO:0051241)	3/214	0.0018265480086182	0.0267154862460149	SPRED1;STK11;PTCH1
-7	GO_Biological_Process_2021	regulation of cellular macromolecule biosynthetic process (GO:2000112)	4/468	0.0018409710073375	0.0267154862460149	DAXX;CREBBP;CHEK2;GATA1
+7	GO_Biological_Process_2021	regulation of cellular macromolecule biosynthetic process (GO:2000112)	4/468	0.0018409710073375	0.0267154862460149	CREBBP;DAXX;CHEK2;GATA1
 7	KEGG_2021_Human	cAMP signaling pathway	3/216	0.0018756756021819	0.0198487461324394	CREBBP;PTCH1;PIK3R2
 7	KEGG_2021_Human	Regulation of actin cytoskeleton	3/218	0.0019256246247889	0.0198487461324394	CXCR4;PIK3R2;FGFR2
 7	GO_Molecular_Function_2021	DNA binding (GO:0003677)	5/811	0.0019812746904626	0.0201329324444079	CREBBP;HNF1A;GATA1;SMARCA4;MEN1
@@ -4035,7 +4035,7 @@ Cluster_ID	Gene_set	Term	Overlap	P-value	Adjusted P-value	Genes
 7	GO_Molecular_Function_2021	RNA polymerase I core promoter sequence-specific DNA binding (GO:0001164)	1/8	0.0091645547457302	0.034961079215193	SMARCA4
 7	GO_Molecular_Function_2021	RNA polymerase I transcription regulatory region sequence-specific DNA binding (GO:0001163)	1/8	0.0091645547457302	0.034961079215193	SMARCA4
 7	GO_Molecular_Function_2021	siRNA binding (GO:0035197)	1/8	0.0091645547457302	0.034961079215193	DICER1
-7	GO_Biological_Process_2021	regulation of response to external stimulus (GO:0032101)	2/130	0.0097007772703114	0.0515616162854266	CXCR4;XIAP
+7	GO_Biological_Process_2021	regulation of response to external stimulus (GO:0032101)	2/130	0.0097007772703114	0.0515616162854266	XIAP;CXCR4
 7	GO_Biological_Process_2021	positive regulation of canonical Wnt signaling pathway (GO:0090263)	2/130	0.0097007772703114	0.0515616162854266	XIAP;FGFR2
 7	GO_Biological_Process_2021	regulation of cell adhesion (GO:0030155)	2/133	0.0101342771876109	0.0515616162854266	ERBB3;CXCR4
 7	GO_Biological_Process_2021	positive regulation of peptidyl-tyrosine phosphorylation (GO:0050731)	2/134	0.0102806740410295	0.0515616162854266	ERBB3;GATA1
@@ -4045,7 +4045,7 @@ Cluster_ID	Gene_set	Term	Overlap	P-value	Adjusted P-value	Genes
 7	GO_Biological_Process_2021	embryonic digestive tract morphogenesis (GO:0048557)	1/9	0.0103044643785071	0.0515616162854266	FGFR2
 7	GO_Biological_Process_2021	regulation of protein deacetylation (GO:0090311)	1/9	0.0103044643785071	0.0515616162854266	SPRED1
 7	GO_Biological_Process_2021	phosphorylation (GO:0016310)	3/400	0.0104480463455651	0.0515616162854266	STK11;LATS2;CHEK2
-7	GO_Biological_Process_2021	regulation of transcription, DNA-templated (GO:0006355)	7/2244	0.0107202600103843	0.0515616162854266	DAXX;CREBBP;CHEK2;HNF1A;GATA1;SMARCA4;MEN1
+7	GO_Biological_Process_2021	regulation of transcription, DNA-templated (GO:0006355)	7/2244	0.0107202600103843	0.0515616162854266	CREBBP;DAXX;CHEK2;HNF1A;GATA1;SMARCA4;MEN1
 7	KEGG_2021_Human	Autophagy	2/137	0.0107255248408576	0.0516538604661312	STK11;PIK3R2
 7	KEGG_2021_Human	Fluid shear stress and atherosclerosis	2/139	0.0110267872544234	0.0516538604661312	KEAP1;PIK3R2
 7	KEGG_2021_Human	Ubiquitin mediated proteolysis	2/140	0.0111788205486403	0.0516538604661312	XIAP;KEAP1
@@ -4079,7 +4079,7 @@ Cluster_ID	Gene_set	Term	Overlap	P-value	Adjusted P-value	Genes
 7	GO_Biological_Process_2021	regulation of phospholipase activity (GO:0010517)	1/11	0.0125805227255512	0.0526862159781474	FGFR2
 7	GO_Cellular_Component_2021	npBAF complex (GO:0071564)	1/11	0.0125805227255512	0.0932471577140602	SMARCA4
 7	KEGG_2021_Human	Gastric cancer	2/149	0.012588796477888	0.0544160880011937	PIK3R2;FGFR2
-7	GO_Biological_Process_2021	regulation of nucleic acid-templated transcription (GO:1903506)	3/430	0.0126988849662583	0.0526889566791104	DAXX;CREBBP;CHEK2
+7	GO_Biological_Process_2021	regulation of nucleic acid-templated transcription (GO:1903506)	3/430	0.0126988849662583	0.0526889566791104	CREBBP;DAXX;CHEK2
 7	GO_Biological_Process_2021	brain development (GO:0007420)	2/150	0.0127500520169001	0.0526889566791104	PTCH1;CXCR4
 7	GO_Biological_Process_2021	negative regulation of protein phosphorylation (GO:0001933)	2/152	0.0130752925229748	0.0536775166732653	SPRED1;MEN1
 7	KEGG_2021_Human	mTOR signaling pathway	2/154	0.013404158182741	0.055779051697583	STK11;PIK3R2
@@ -4172,7 +4172,7 @@ Cluster_ID	Gene_set	Term	Overlap	P-value	Adjusted P-value	Genes
 7	GO_Biological_Process_2021	embryonic digit morphogenesis (GO:0042733)	1/18	0.0205073714570783	0.0571276776304325	CREBBP
 7	GO_Molecular_Function_2021	DNA polymerase binding (GO:0070182)	1/18	0.0205073714570783	0.0530832312044505	SMARCA4
 7	KEGG_2021_Human	Kaposi sarcoma-associated herpesvirus infection	2/193	0.0205178097548268	0.0723522765038629	CREBBP;PIK3R2
-7	GO_Biological_Process_2021	regulation of programmed cell death (GO:0043067)	2/194	0.0207171695537746	0.0574556168958016	DAXX;CREBBP
+7	GO_Biological_Process_2021	regulation of programmed cell death (GO:0043067)	2/194	0.0207171695537746	0.0574556168958016	CREBBP;DAXX
 7	GO_Biological_Process_2021	negative regulation of intracellular signal transduction (GO:1902532)	2/198	0.0215227938545348	0.0579404034320871	SPRED1;PIK3R2
 7	GO_Biological_Process_2021	response to cholesterol (GO:0070723)	1/19	0.0216347980764043	0.0579404034320871	PTCH1
 7	GO_Biological_Process_2021	negative regulation of protein localization to nucleus (GO:1900181)	1/19	0.0216347980764043	0.0579404034320871	LATS2
@@ -4275,7 +4275,7 @@ Cluster_ID	Gene_set	Term	Overlap	P-value	Adjusted P-value	Genes
 7	GO_Biological_Process_2021	negative regulation of transferase activity (GO:0051348)	1/29	0.0328410113902878	0.0674350635695221	MEN1
 7	GO_Biological_Process_2021	transition metal ion homeostasis (GO:0055076)	1/29	0.0328410113902878	0.0674350635695221	XIAP
 7	GO_Biological_Process_2021	production of miRNAs involved in gene silencing by miRNA (GO:0035196)	1/29	0.0328410113902878	0.0674350635695221	DICER1
-7	GO_Biological_Process_2021	regulation of gene expression (GO:0010468)	4/1079	0.0328529796877159	0.0674350635695221	DAXX;CREBBP;CHEK2;DICER1
+7	GO_Biological_Process_2021	regulation of gene expression (GO:0010468)	4/1079	0.0328529796877159	0.0674350635695221	CREBBP;DAXX;CHEK2;DICER1
 7	KEGG_2021_Human	Endocytosis	2/252	0.0336210829554412	0.0958558535325346	CXCR4;FGFR2
 7	GO_Biological_Process_2021	positive regulation of cellular process (GO:0048522)	3/625	0.033796779138652	0.0683478388958786	ERBB3;DICER1;FGFR2
 7	GO_Biological_Process_2021	extrinsic apoptotic signaling pathway via death domain receptors (GO:0008625)	1/30	0.0339548558617346	0.0683478388958786	DAXX
@@ -4384,11 +4384,11 @@ Cluster_ID	Gene_set	Term	Overlap	P-value	Adjusted P-value	Genes
 8	GO_Biological_Process_2021	regulation of kinase activity (GO:0043549)	4/94	6.3188208461149856e-06	0.001079437139343	ALK;EPHA5;RAD50;ROS1
 8	GO_Biological_Process_2021	negative regulation of cell population proliferation (GO:0008285)	6/379	7.434140078120522e-06	0.001079437139343	PAK1;NOTCH1;TSC2;TSC1;CTCF;ARID2
 8	GO_Biological_Process_2021	transmembrane receptor protein tyrosine kinase signaling pathway (GO:0007169)	6/404	1.0699303968086713e-05	0.0012946157801384	ALK;EPHA5;PAK1;TSC2;ROS1;FGF4
-8	GO_Molecular_Function_2021	protein tyrosine kinase activity (GO:0004713)	4/108	1.0968446724855086e-05	0.0010420024388612	ALK;EPHA5;ROS1;JAK3
+8	GO_Molecular_Function_2021	protein tyrosine kinase activity (GO:0004713)	4/108	1.0968446724855086e-05	0.0010420024388612	ALK;EPHA5;JAK3;ROS1
 8	GO_Biological_Process_2021	positive regulation of kinase activity (GO:0033674)	4/114	1.3585389852460464e-05	0.001408999004698	ALK;EPHA5;RAD50;ROS1
 8	GO_Biological_Process_2021	negative regulation of transcription, DNA-templated (GO:0045892)	8/948	1.800829867682935e-05	0.0016342531049222	SPEN;KDM5C;NOTCH1;PARP1;BCL6;EP300;CTCF;CIC
 8	GO_Biological_Process_2021	negative regulation of nucleic acid-templated transcription (GO:1903507)	6/464	2.342555558390474e-05	0.0018896614837683	SPEN;KDM5C;NOTCH1;BCL6;CTCF;CIC
-8	GO_Biological_Process_2021	enzyme linked receptor protein signaling pathway (GO:0007167)	4/140	3.0503216316371007e-05	0.0022145335045685	ALK;EPHA5;ROS1;JAK3
+8	GO_Biological_Process_2021	enzyme linked receptor protein signaling pathway (GO:0007167)	4/140	3.0503216316371007e-05	0.0022145335045685	ALK;EPHA5;JAK3;ROS1
 8	GO_Biological_Process_2021	regulation of cell cycle (GO:0051726)	5/296	3.498768622071624e-05	0.002294025104586	NOTCH1;EP300;TSC2;TSC1;PHOX2B
 8	GO_Biological_Process_2021	positive regulation of transferase activity (GO:0051347)	4/148	3.791777032373706e-05	0.002294025104586	ALK;EPHA5;RAD50;ROS1
 8	KEGG_2021_Human	Cellular senescence	4/156	4.657479166540631e-05	0.0021830230042355	RAD50;TSC2;TSC1;HLA-A
@@ -4400,7 +4400,7 @@ Cluster_ID	Gene_set	Term	Overlap	P-value	Adjusted P-value	Genes
 8	KEGG_2021_Human	PI3K-Akt signaling pathway	5/354	8.17954203476488e-05	0.0022493740595603	TSC2;TSC1;IL7R;JAK3;FGF4
 8	GO_Biological_Process_2021	regulation of TOR signaling (GO:0032006)	3/71	0.00010511515842229564	0.0054509717867561	TSC2;TSC1;ROS1
 8	GO_Biological_Process_2021	regulation of receptor signaling pathway via STAT (GO:1904892)	2/13	0.00012564069753470206	0.0060810097606795	IL7R;JAK3
-8	GO_Biological_Process_2021	phosphorylation (GO:0016310)	5/400	0.00014515656890451404	0.0065864793140423	ALK;PAK1;CDK12;ROS1;JAK3
+8	GO_Biological_Process_2021	phosphorylation (GO:0016310)	5/400	0.00014515656890451404	0.0065864793140423	ALK;PAK1;CDK12;JAK3;ROS1
 8	GO_Biological_Process_2021	positive regulation of double-strand break repair via homologous recombination (GO:1905168)	2/15	0.00016886178864621807	0.0068107588087307	PARP1;ARID2
 8	GO_Biological_Process_2021	regulation of endothelial cell chemotaxis (GO:2001026)	2/15	0.00016886178864621807	0.0068107588087307	NOTCH1;FGF4
 8	GO_Biological_Process_2021	negative regulation of telomere maintenance (GO:0032205)	2/16	0.0001928308312214584	0.0072313544363865	RAD50;PARP1
@@ -4412,8 +4412,8 @@ Cluster_ID	Gene_set	Term	Overlap	P-value	Adjusted P-value	Genes
 8	GO_Biological_Process_2021	cellular response to interleukin-7 (GO:0098761)	2/19	0.00027412629302663206	0.0079606275494933	IL7R;JAK3
 8	GO_Biological_Process_2021	nucleotide-excision repair (GO:0006289)	3/105	0.000334811575763451	0.0090375965909501	BRIP1;PARP1;EP300
 8	GO_Biological_Process_2021	positive regulation of transcription from RNA polymerase II promoter involved in cellular response to chemical stimulus (GO:1901522)	2/21	0.00033610896412624667	0.0090375965909501	NOTCH1;EP300
-8	GO_Biological_Process_2021	protein phosphorylation (GO:0006468)	5/496	0.0003929111880318749	0.0101876258039693	ALK;PAK1;CDK12;ROS1;JAK3
-8	GO_Molecular_Function_2021	phosphatase binding (GO:0019902)	3/114	0.0004261634125318104	0.0101213810476304	TSC2;ROS1;JAK3
+8	GO_Biological_Process_2021	protein phosphorylation (GO:0006468)	5/496	0.0003929111880318749	0.0101876258039693	ALK;PAK1;CDK12;JAK3;ROS1
+8	GO_Molecular_Function_2021	phosphatase binding (GO:0019902)	3/114	0.0004261634125318104	0.0101213810476304	TSC2;JAK3;ROS1
 8	GO_Biological_Process_2021	regulation of cardiac muscle hypertrophy (GO:0010611)	2/24	0.00044068597769434504	0.0110323455105549	NOTCH1;PARP1
 8	KEGG_2021_Human	Thyroid hormone signaling pathway	3/121	0.0005073071298513898	0.0111607568567305	NOTCH1;EP300;TSC2
 8	GO_Biological_Process_2021	negative regulation of macroautophagy (GO:0016242)	2/26	0.0005180954502626467	0.012537909896356	TSC2;TSC1
@@ -4443,7 +4443,7 @@ Cluster_ID	Gene_set	Term	Overlap	P-value	Adjusted P-value	Genes
 8	GO_Cellular_Component_2021	phagocytic vesicle membrane (GO:0030670)	2/45	0.0015544397883284	0.0373658523717614	PIK3C3;HLA-A
 8	GO_Biological_Process_2021	regulation of double-strand break repair via homologous recombination (GO:0010569)	2/46	0.0016237998940066	0.0256277983271492	PARP1;ARID2
 8	GO_Biological_Process_2021	telomere organization (GO:0032200)	2/47	0.0016946160725657	0.0256807193569058	RAD50;PARP1
-8	GO_Biological_Process_2021	cellular protein modification process (GO:0006464)	6/1025	0.0016978988004565	0.0256807193569058	PAK1;PARP1;PIK3C3;CDK12;ROS1;JAK3
+8	GO_Biological_Process_2021	cellular protein modification process (GO:0006464)	6/1025	0.0016978988004565	0.0256807193569058	PAK1;PARP1;PIK3C3;CDK12;JAK3;ROS1
 8	GO_Biological_Process_2021	regulation of cell migration (GO:0030334)	4/408	0.0017876103176639	0.0264858181760005	PAK1;NOTCH1;ARID2;FGF4
 8	GO_Biological_Process_2021	regulation of cellular localization (GO:0060341)	2/49	0.0018406022262669	0.0267255443253967	EPHA5;PARP1
 8	GO_Cellular_Component_2021	nucleus (GO:0005634)	13/4484	0.0018528186655972	0.0373658523717614	SPEN;KDM5C;NOTCH1;PARP1;TSC2;TSC1;CTCF;BRIP1;BCL6;EP300;SMYD3;CDK12;CIC
@@ -4455,7 +4455,7 @@ Cluster_ID	Gene_set	Term	Overlap	P-value	Adjusted P-value	Genes
 8	KEGG_2021_Human	Viral carcinogenesis	3/203	0.0022550950668871	0.0190815736428916	EP300;HLA-A;JAK3
 8	GO_Biological_Process_2021	telomere maintenance (GO:0000723)	2/56	0.0023968918556559	0.0322248793927078	RAD50;PARP1
 8	KEGG_2021_Human	Notch signaling pathway	2/59	0.002656677184464	0.0192212923122534	NOTCH1;EP300
-8	KEGG_2021_Human	cAMP signaling pathway	3/216	0.0026889027240622	0.0192212923122534	PAK1;GRIN2A;EP300
+8	KEGG_2021_Human	cAMP signaling pathway	3/216	0.0026889027240622	0.0192212923122534	GRIN2A;PAK1;EP300
 8	GO_Biological_Process_2021	Notch signaling pathway (GO:0007219)	2/60	0.0027460963421768	0.0362484717167345	NOTCH1;EP300
 8	KEGG_2021_Human	Human T-cell leukemia virus 1 infection	3/219	0.0027958243363277	0.0192212923122534	EP300;HLA-A;JAK3
 8	GO_Biological_Process_2021	regulation of neurogenesis (GO:0050767)	2/62	0.0029291495645146	0.0379743318542439	SPEN;NOTCH1
@@ -4463,7 +4463,7 @@ Cluster_ID	Gene_set	Term	Overlap	P-value	Adjusted P-value	Genes
 8	GO_Biological_Process_2021	positive regulation of cell population proliferation (GO:0008284)	4/474	0.0030787533905804	0.0392135958168669	PAK1;NOTCH1;IL7R;FGF4
 8	GO_Biological_Process_2021	apoptotic process (GO:0006915)	3/231	0.0032497300347509	0.0402312607666398	PARP1;EP300;TSC2
 8	GO_Biological_Process_2021	positive regulation of gene expression (GO:0010628)	4/482	0.0032694826242861	0.0402312607666398	NOTCH1;EP300;CTCF;FGF4
-8	KEGG_2021_Human	Ras signaling pathway	3/232	0.0032894759064182	0.0197490858859934	PAK1;GRIN2A;FGF4
+8	KEGG_2021_Human	Ras signaling pathway	3/232	0.0032894759064182	0.0197490858859934	GRIN2A;PAK1;FGF4
 8	KEGG_2021_Human	Long-term potentiation	2/67	0.0034112057439443	0.0197490858859934	GRIN2A;EP300
 8	GO_Molecular_Function_2021	DNA binding (GO:0003677)	5/811	0.0035028688787346	0.0473808069331457	BRIP1;RAD50;BCL6;EP300;CTCF
 8	GO_Biological_Process_2021	regulation of ERK1 and ERK2 cascade (GO:0070372)	3/238	0.0035342553411627	0.0427644896280687	NOTCH1;ROS1;FGF4
@@ -4590,7 +4590,7 @@ Cluster_ID	Gene_set	Term	Overlap	P-value	Adjusted P-value	Genes
 8	GO_Biological_Process_2021	innate immune response activating cell surface receptor signaling pathway (GO:0002220)	2/119	0.0103932050776124	0.0474818201332136	PAK1;EP300
 8	KEGG_2021_Human	AMPK signaling pathway	2/120	0.0105609691774649	0.0464682643808457	TSC2;TSC1
 8	GO_Biological_Process_2021	regulation of anatomical structure morphogenesis (GO:0022603)	2/123	0.0110714821643748	0.0474818201332136	PAK1;BCL6
-8	GO_Molecular_Function_2021	protein phosphatase binding (GO:0019903)	2/123	0.0110714821643748	0.0491225450613703	ROS1;JAK3
+8	GO_Molecular_Function_2021	protein phosphatase binding (GO:0019903)	2/123	0.0110714821643748	0.0491225450613703	JAK3;ROS1
 8	GO_Biological_Process_2021	negative regulation of growth (GO:0045926)	2/126	0.0115927598751306	0.0474818201332136	NOTCH1;BCL6
 8	GO_Biological_Process_2021	circulatory system development (GO:0072359)	2/126	0.0115927598751306	0.0474818201332136	NOTCH1;TSC2
 8	GO_Biological_Process_2021	epithelial to mesenchymal transition involved in endocardial cushion formation (GO:0003198)	1/9	0.0116415481869311	0.0474818201332136	NOTCH1

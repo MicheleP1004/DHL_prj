@@ -1,0 +1,18 @@
+--- 🏆 TOP 3 PATHWAY/ONTOLOGY PER OGNI CLUSTER (PANCREAS - FILTRATA_KRAS) ---
+
+================================================================================
+🎯 CLUSTER 0  |  DIMENSIONE: 6 geni
+🧬 TUTTI I GENI: TP53, KRAS, CDKN2A, KDM6A, TGFBR2, RNF43
+================================================================================
+
+🔸 [KEGG_2021_Human] Chronic myeloid leukemia
+   P-value: 2.87e-09  |  Overlap: 4/76
+   🎯 Geni nel pathway: CDKN2A;KRAS;TP53;TGFBR2
+
+🔸 [KEGG_2021_Human] Pancreatic cancer
+   P-value: 2.87e-09  |  Overlap: 4/76
+   🎯 Geni nel pathway: CDKN2A;KRAS;TP53;TGFBR2
+
+🔸 [KEGG_2021_Human] Cellular senescence
+   P-value: 5.28e-08  |  Overlap: 4/156
+   🎯 Geni nel pathway: CDKN2A;KRAS;TP53;TGFBR2

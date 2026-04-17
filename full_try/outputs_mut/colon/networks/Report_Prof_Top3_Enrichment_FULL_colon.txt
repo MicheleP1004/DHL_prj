@@ -1,0 +1,86 @@
+--- 🏆 TOP 3 PATHWAY/ONTOLOGY PER OGNI CLUSTER (COLON - FULL) ---
+
+================================================================================
+🎯 CLUSTER 0  |  DIMENSIONE: 71 geni
+🧬 TUTTI I GENI: CD274, PPP4R2, GSK3B, EPHA3, ELF3, IRS2, PIK3CD, KIT, EPAS1, NEGR1, BCL2L11, KDM6A, HGF, RPS6KB2, ERCC5, SUZ12, SMAD3, MAP2K1, PRKD1, TCF7L2, FGFR2, FOXP1, SPRED1, PIK3R3, CDKN1B, SMARCA4, MALT1, ACVR1, GATA1, U2AF1, PMS2, SMAD2, CUL3, AKT2, MDC1, SMYD3, STAG2, MSH3, STAT3, SF3B1, ERCC2, FLT4, NKX3-1, BAP1, SMAD4, FLCN, APC, MYD88, REL, KRAS, AMER1, PTPRT, PIK3CA, PGBD5, FAM175A, KLF4, TCF3, GATA2, WT1, TRAF7, PRDM1, SOX9, RBM10, MEN1, PMS1, GLI1, DNMT3A, ERCC4, IDH1, NRAS, AKT3
+================================================================================
+
+🔸 [KEGG_2021_Human] Colorectal cancer
+   P-value: 9.43e-26  |  Overlap: 17/86
+   🎯 Geni nel pathway: SMAD2;GSK3B;TCF7L2;MAP2K1;SMAD4;SMAD3;PIK3CD;PIK3R3;NRAS;BCL2L11;PIK3CA;APC;MSH3;AKT2;AKT3;RPS6KB2;KRAS
+
+🔸 [KEGG_2021_Human] Signaling pathways regulating pluripotency of stem cells
+   P-value: 1.78e-23  |  Overlap: 18/143
+   🎯 Geni nel pathway: ACVR1;SMAD2;GSK3B;MAP2K1;SMAD4;SMAD3;STAT3;PIK3CD;PIK3R3;KLF4;NRAS;PIK3CA;APC;AKT2;AKT3;KRAS;TCF3;FGFR2
+
+🔸 [KEGG_2021_Human] Pathways in cancer
+   P-value: 3.36e-23  |  Overlap: 26/531
+   🎯 Geni nel pathway: GSK3B;CDKN1B;EPAS1;FLT4;PIK3CD;PIK3R3;GLI1;NRAS;BCL2L11;AKT2;AKT3;NKX3-1;SMAD2;TCF7L2;MAP2K1;SMAD4;SMAD3;HGF;STAT3;PIK3CA;APC;MSH3;KIT;RPS6KB2;KRAS;FGFR2
+
+================================================================================
+🎯 CLUSTER 1  |  DIMENSIONE: 73 geni
+🧬 TUTTI I GENI: YES1, DIS3, NTRK1, IL7R, USP8, EZH2, PPP2R1A, MET, BLM, EPHA5, DOT1L, KDM5A, ERBB4, PGR, TOP1, INHBA, WHSC1, KDR, AXIN1, AR, PBRM1, SESN3, INPP4B, DDR2, WWTR1, GATA3, CBL, NKX2-1, ATRX, ROS1, BRAF, RAD50, PIK3CB, MAX, MAP2K4, SETD2, PARK2, ATM, BCOR, PDGFRA, GRIN2A, PIK3R1, VTCN1, IGF1R, PIK3C3, NOTCH4, RNF43, IGF1, EP300, ZRSR2, RICTOR, CASP8, FH, ALOX12B, PLK2, PAK7, ATR, FYN, PIK3R2, NCOA3, RB1, PARP1, NPM1, ETV6, TET2, ETV1, BMPR1A, PTPRS, XPO1, NOTCH3, RAF1, LATS1, INPP4A
+================================================================================
+
+🔸 [KEGG_2021_Human] Pathways in cancer
+   P-value: 1.01e-17  |  Overlap: 22/531
+   🎯 Geni nel pathway: RB1;NTRK1;PDGFRA;NOTCH3;FH;MAX;NCOA3;NOTCH4;AXIN1;PIK3R2;BRAF;PIK3CB;PIK3R1;IGF1;CBL;IGF1R;AR;CASP8;EP300;RAF1;IL7R;MET
+
+🔸 [KEGG_2021_Human] Breast cancer
+   P-value: 6.30e-15  |  Overlap: 13/147
+   🎯 Geni nel pathway: RB1;NOTCH3;NCOA3;NOTCH4;AXIN1;PIK3R2;BRAF;PIK3CB;PIK3R1;IGF1;IGF1R;PGR;RAF1
+
+🔸 [GO_Biological_Process_2021] positive regulation of transcription, DNA-templated (GO:0045893)
+   P-value: 2.62e-14  |  Overlap: 26/1183
+   🎯 Geni nel pathway: KDM5A;BLM;MAX;NOTCH4;DOT1L;PIK3R2;GATA3;PIK3R1;ERBB4;NKX2-1;EP300;WWTR1;NPM1;PARP1;NCOA3;ATRX;AXIN1;TET2;ETV1;INHBA;IGF1;AR;PGR;ATM;MET;BMPR1A
+
+================================================================================
+🎯 CLUSTER 2  |  DIMENSIONE: 8 geni
+🧬 TUTTI I GENI: AKT1, HLA-B, AURKA, TERT, ERF, TMPRSS2, FBXW7, CDK8
+================================================================================
+
+🔸 [GO_Biological_Process_2021] regulation of protein binding (GO:0043393)
+   P-value: 1.10e-05  |  Overlap: 3/118
+   🎯 Geni nel pathway: TERT;AKT1;AURKA
+
+🔸 [GO_Biological_Process_2021] positive regulation of nitric-oxide synthase activity (GO:0051000)
+   P-value: 2.14e-05  |  Overlap: 2/18
+   🎯 Geni nel pathway: TERT;AKT1
+
+🔸 [GO_Biological_Process_2021] negative regulation of extrinsic apoptotic signaling pathway in absence of ligand (GO:2001240)
+   P-value: 3.53e-05  |  Overlap: 2/23
+   🎯 Geni nel pathway: TERT;AKT1
+
+================================================================================
+🎯 CLUSTER 3  |  DIMENSIONE: 79 geni
+🧬 TUTTI I GENI: MPL, RAD21, AGO2, SLX4, SMARCA2, RTEL1-TNFRSF6B, TP63, ERG, PIK3C2G, CTR9, MYOD1, MGA, CTNNB1, PDGFRB, ATXN7, DCUN1D1, UPF1, SESN1, ERCC3, MST1R, TP53, NUF2, NTRK3, RECQL4, EPHA7, NOTCH2, LATS2, JAK2, MRE11A, MAP3K1, FGFR1, RET, CCND2, RFWD2, RPS6KA4, MDM4, ABL1, ALK, DICER1, MED12, KMT2A, NOTCH1, MSH6, ZFHX3, BRD4, CSF3R, POLD1, MUTYH, TP53BP1, TBX3, EGFR, RPTOR, PAX5, SPEN, ARAF, TSHR, GNAQ, KMT2D, POLE, EIF4A2, ERBB2, SETDB1, NFKBIA, PIK3CG, FANCA, BARD1, ASXL1, ETAA1, DNMT1, SOX17, MLH1, IRS1, DROSHA, ALB, PREX2, EPHB1, NBN, PALB2, FGFR4
+================================================================================
+
+🔸 [GO_Molecular_Function_2021] protein tyrosine kinase activity (GO:0004713)
+   P-value: 3.09e-16  |  Overlap: 13/108
+   🎯 Geni nel pathway: RET;ALK;PDGFRB;EPHA7;NTRK3;MST1R;EGFR;ERBB2;ABL1;JAK2;FGFR4;EPHB1;FGFR1
+
+🔸 [GO_Molecular_Function_2021] transmembrane receptor protein kinase activity (GO:0019199)
+   P-value: 5.19e-16  |  Overlap: 11/60
+   🎯 Geni nel pathway: ALK;RET;PDGFRB;EPHA7;NTRK3;ERBB2;MST1R;FGFR4;EPHB1;EGFR;FGFR1
+
+🔸 [GO_Molecular_Function_2021] transmembrane receptor protein tyrosine kinase activity (GO:0004714)
+   P-value: 5.19e-16  |  Overlap: 11/60
+   🎯 Geni nel pathway: ALK;RET;PDGFRB;EPHA7;NTRK3;ERBB2;MST1R;FGFR4;EPHB1;EGFR;FGFR1
+
+================================================================================
+🎯 CLUSTER 4  |  DIMENSIONE: 68 geni
+🧬 TUTTI I GENI: CREBBP, INPPL1, PTEN, BTK, INSR, FAT1, ARID2, TSC1, DNMT3B, TNFAIP3, ARID1B, RUNX1, IKBKE, NF1, JAK1, BRCA1, SOS1, BIRC3, TEK, ASXL2, CDC73, TGFBR2, PTCH1, PRKAR1A, KMT2C, DAXX, CYLD, TET1, NSD1, CHEK2, MAPKAP1, FLT1, AXIN2, TSC2, TGFBR1, ANKRD11, PRDM14, IKZF1, CIC, GNAS, MYC, RASA1, AXL, PTPRD, CDH1, BRCA2, WHSC1L1, ERBB3, RAD54L, ESR1, FLT3, KDM5C, BCL6, SMO, B2M, SUFU, ARID5B, RARA, NCOR1, KMT2B, PLCG2, NTRK2, PHOX2B, PTPN11, CSDE1, CARD11, MITF, MTOR
+================================================================================
+
+🔸 [KEGG_2021_Human] Pathways in cancer
+   P-value: 1.79e-18  |  Overlap: 22/531
+   🎯 Geni nel pathway: CREBBP;FLT3;PTCH1;PTEN;MITF;AXIN2;BRCA2;ESR1;TGFBR1;MTOR;RUNX1;TGFBR2;SMO;CDH1;MYC;SUFU;RARA;PLCG2;GNAS;SOS1;JAK1;BIRC3
+
+🔸 [GO_Cellular_Component_2021] nucleus (GO:0005634)
+   P-value: 3.46e-12  |  Overlap: 42/4484
+   🎯 Geni nel pathway: KDM5C;KMT2C;ANKRD11;KMT2B;INPPL1;PTEN;TNFAIP3;PRDM14;BRCA1;IKZF1;BRCA2;CDC73;CHEK2;MYC;SUFU;NSD1;DNMT3B;RAD54L;CIC;IKBKE;JAK1;DAXX;CREBBP;INSR;TET1;TSC2;ARID5B;TSC1;MITF;PTPN11;AXIN2;ESR1;TGFBR1;MTOR;RUNX1;NCOR1;BCL6;BTK;RARA;FAT1;NF1;BIRC3
+
+🔸 [GO_Biological_Process_2021] regulation of gene expression (GO:0010468)
+   P-value: 3.82e-12  |  Overlap: 22/1079
+   🎯 Geni nel pathway: NTRK2;DAXX;CREBBP;INSR;PRDM14;MITF;BRCA1;BRCA2;ESR1;TGFBR1;PHOX2B;MTOR;RUNX1;SMO;BCL6;CDH1;CHEK2;MYC;SUFU;NSD1;DNMT3B;PLCG2

@@ -1,8 +1,8 @@
 Gene	Degree	Degree_Centrality	Betweenness_Centrality	Closeness_Centrality	Clustering_Coefficient
 KRAS	6	1.0	1.0	1.0	0
-STK11	1	0.1667	0.0	0.5455	0
+NUF2	1	0.1667	0.0	0.5455	0
 CHEK2	1	0.1667	0.0	0.5455	0
 HIST1H3E	1	0.1667	0.0	0.5455	0
 CCNE1	1	0.1667	0.0	0.5455	0
-NUF2	1	0.1667	0.0	0.5455	0
 FOXP1	1	0.1667	0.0	0.5455	0
+STK11	1	0.1667	0.0	0.5455	0
