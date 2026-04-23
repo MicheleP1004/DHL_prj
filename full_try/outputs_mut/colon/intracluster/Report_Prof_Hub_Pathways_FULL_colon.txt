@@ -1,0 +1,54 @@
+--- 🏆 PATHWAY DOMINANTI DEGLI HUB DELLA RETE (COLON - FULL) ---
+Geni Hub analizzati (15): PIK3CG, NSD1, CDK8, SMAD2, POLE, KMT2C, TCF7L2, KDM5A, PIK3CA, TMPRSS2, KMT2D, ATR, ATM, ARID2, FBXW7
+================================================================================
+
+🔸 [Reactome_2022] Chromatin Modifying Enzymes R-HSA-3247509
+   - P-value: 6.23e-07 | Adjusted: 9.36e-05
+   - Overlap: 5/238
+   - Hubs coinvolti: KDM5A;KMT2D;KMT2C;NSD1;ARID2
+
+🔸 [GO_Biological_Process_2021] positive regulation of transcription, DNA-templated (GO:0045893)
+   - P-value: 6.48e-07 | Adjusted: 2.70e-04
+   - Overlap: 8/1183
+   - Hubs coinvolti: SMAD2;KDM5A;TCF7L2;KMT2D;CDK8;KMT2C;NSD1;ATM
+
+🔸 [Reactome_2022] Generic Transcription Pathway R-HSA-212436
+   - P-value: 6.78e-07 | Adjusted: 9.36e-05
+   - Overlap: 8/1190
+   - Hubs coinvolti: SMAD2;TCF7L2;KMT2D;CDK8;FBXW7;KMT2C;ATM;ARID2
+
+🔸 [Reactome_2022] RNA Polymerase II Transcription R-HSA-73857
+   - P-value: 1.43e-06 | Adjusted: 1.31e-04
+   - Overlap: 8/1312
+   - Hubs coinvolti: SMAD2;TCF7L2;KMT2D;CDK8;FBXW7;KMT2C;ATM;ARID2
+
+🔸 [Reactome_2022] Gene Expression (Transcription) R-HSA-74160
+   - P-value: 3.02e-06 | Adjusted: 2.08e-04
+   - Overlap: 8/1449
+   - Hubs coinvolti: SMAD2;TCF7L2;KMT2D;CDK8;FBXW7;KMT2C;ATM;ARID2
+
+🔸 [KEGG_2021_Human] Cellular senescence
+   - P-value: 4.55e-06 | Adjusted: 3.90e-04
+   - Overlap: 4/156
+   - Hubs coinvolti: SMAD2;PIK3CA;ATM;ATR
+
+🔸 [Reactome_2022] PKMTs Methylate Histone Lysines R-HSA-3214841
+   - P-value: 5.43e-06 | Adjusted: 2.99e-04
+   - Overlap: 3/47
+   - Hubs coinvolti: KMT2D;KMT2C;NSD1
+
+🔸 [KEGG_2021_Human] Hepatocellular carcinoma
+   - P-value: 6.10e-06 | Adjusted: 3.90e-04
+   - Overlap: 4/168
+   - Hubs coinvolti: SMAD2;TCF7L2;PIK3CA;ARID2
+
+🔸 [Reactome_2022] Diseases Of Signal Transduction By Growth Factor Receptors And Second Messengers R-HSA-5663202
+   - P-value: 1.05e-05 | Adjusted: 4.85e-04
+   - Overlap: 5/424
+   - Hubs coinvolti: SMAD2;TCF7L2;CDK8;PIK3CA;FBXW7
+
+🔸 [KEGG_2021_Human] Lysine degradation
+   - P-value: 1.32e-05 | Adjusted: 5.56e-04
+   - Overlap: 3/63
+   - Hubs coinvolti: KMT2D;KMT2C;NSD1
+

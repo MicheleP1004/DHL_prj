@@ -1,0 +1,54 @@
+--- 🏆 PATHWAY DOMINANTI DEGLI HUB DELLA RETE (KRAS_PANCREAS - FULL) ---
+Geni Hub analizzati (21): TBX3, ANKRD11, SMAD4, EP300, PTPRD, RBM10, KMT2C, ATM, AKT3, DOT1L, CDKN2A, CASP8, ARID1A, TSC2, KMT2D, SMARCA4, BCOR, NOTCH3, RNF43, BRCA2, PREX2
+================================================================================
+
+🔸 [Reactome_2022] Generic Transcription Pathway R-HSA-212436
+   - P-value: 6.41e-09 | Adjusted: 1.96e-06
+   - Overlap: 11/1190
+   - Hubs coinvolti: KMT2D;NOTCH3;SMAD4;CDKN2A;KMT2C;AKT3;TSC2;EP300;ATM;ARID1A;SMARCA4
+
+🔸 [Reactome_2022] RNA Polymerase II Transcription R-HSA-73857
+   - P-value: 1.78e-08 | Adjusted: 2.71e-06
+   - Overlap: 11/1312
+   - Hubs coinvolti: KMT2D;NOTCH3;SMAD4;CDKN2A;KMT2C;AKT3;TSC2;EP300;ATM;ARID1A;SMARCA4
+
+🔸 [Reactome_2022] Gene Expression (Transcription) R-HSA-74160
+   - P-value: 4.98e-08 | Adjusted: 5.06e-06
+   - Overlap: 11/1449
+   - Hubs coinvolti: KMT2D;NOTCH3;SMAD4;CDKN2A;KMT2C;AKT3;TSC2;EP300;ATM;ARID1A;SMARCA4
+
+🔸 [GO_Biological_Process_2021] positive regulation of transcription, DNA-templated (GO:0045893)
+   - P-value: 9.77e-08 | Adjusted: 3.86e-05
+   - Overlap: 10/1183
+   - Hubs coinvolti: KMT2D;SMAD4;KMT2C;DOT1L;EP300;ATM;ARID1A;BRCA2;TBX3;SMARCA4
+
+🔸 [Reactome_2022] Chromatin Modifying Enzymes R-HSA-3247509
+   - P-value: 1.25e-07 | Adjusted: 9.50e-06
+   - Overlap: 6/238
+   - Hubs coinvolti: KMT2D;KMT2C;DOT1L;EP300;ARID1A;SMARCA4
+
+🔸 [GO_Biological_Process_2021] positive regulation of transcription by RNA polymerase II (GO:0045944)
+   - P-value: 1.41e-07 | Adjusted: 3.86e-05
+   - Overlap: 9/908
+   - Hubs coinvolti: KMT2D;NOTCH3;SMAD4;KMT2C;DOT1L;EP300;ATM;TBX3;SMARCA4
+
+🔸 [KEGG_2021_Human] Hepatocellular carcinoma
+   - P-value: 7.19e-07 | Adjusted: 2.72e-05
+   - Overlap: 5/168
+   - Hubs coinvolti: SMAD4;CDKN2A;AKT3;ARID1A;SMARCA4
+
+🔸 [KEGG_2021_Human] Pathways in cancer
+   - P-value: 7.52e-07 | Adjusted: 2.72e-05
+   - Overlap: 7/531
+   - Hubs coinvolti: NOTCH3;SMAD4;CASP8;CDKN2A;AKT3;EP300;BRCA2
+
+🔸 [KEGG_2021_Human] Human papillomavirus infection
+   - P-value: 8.64e-07 | Adjusted: 2.72e-05
+   - Overlap: 6/331
+   - Hubs coinvolti: NOTCH3;CASP8;AKT3;TSC2;EP300;ATM
+
+🔸 [KEGG_2021_Human] p53 signaling pathway
+   - P-value: 9.32e-07 | Adjusted: 2.72e-05
+   - Overlap: 4/73
+   - Hubs coinvolti: CASP8;CDKN2A;TSC2;ATM
+

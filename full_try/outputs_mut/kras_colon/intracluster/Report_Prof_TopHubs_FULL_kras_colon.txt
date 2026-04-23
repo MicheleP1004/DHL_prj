@@ -1,0 +1,66 @@
+--- 👑 TOP 3 HUB GENES PER OGNI CLUSTER (KRAS_COLON - FULL) ---
+
+------------------------------------------------------------
+🎯 CLUSTER 0 | Totale geni nel network: 50
+------------------------------------------------------------
+🔸 HUB: ARID1A
+   - Degree Centrality:      0.7347
+   - Betweenness Centrality: 0.1436
+🔸 HUB: ANKRD11
+   - Degree Centrality:      0.7143
+   - Betweenness Centrality: 0.1368
+🔸 HUB: SPEN
+   - Degree Centrality:      0.7143
+   - Betweenness Centrality: 0.0804
+
+------------------------------------------------------------
+🎯 CLUSTER 1 | Totale geni nel network: 70
+------------------------------------------------------------
+🔸 HUB: EP300
+   - Degree Centrality:      0.6957
+   - Betweenness Centrality: 0.0502
+🔸 HUB: ARID2
+   - Degree Centrality:      0.6377
+   - Betweenness Centrality: 0.0435
+🔸 HUB: PAK7
+   - Degree Centrality:      0.6232
+   - Betweenness Centrality: 0.0540
+
+------------------------------------------------------------
+🎯 CLUSTER 2 | Totale geni nel network: 70
+------------------------------------------------------------
+🔸 HUB: FAT1
+   - Degree Centrality:      0.6377
+   - Betweenness Centrality: 0.1766
+🔸 HUB: KMT2B
+   - Degree Centrality:      0.5797
+   - Betweenness Centrality: 0.1205
+🔸 HUB: KMT2D
+   - Degree Centrality:      0.5217
+   - Betweenness Centrality: 0.1297
+
+------------------------------------------------------------
+🎯 CLUSTER 3 | Totale geni nel network: 52
+------------------------------------------------------------
+🔸 HUB: NOTCH4
+   - Degree Centrality:      0.7255
+   - Betweenness Centrality: 0.0588
+🔸 HUB: KDM5A
+   - Degree Centrality:      0.7255
+   - Betweenness Centrality: 0.0275
+🔸 HUB: NCOR1
+   - Degree Centrality:      0.7059
+   - Betweenness Centrality: 0.0814
+
+------------------------------------------------------------
+🎯 CLUSTER 4 | Totale geni nel network: 38
+------------------------------------------------------------
+🔸 HUB: EPHA5
+   - Degree Centrality:      0.7027
+   - Betweenness Centrality: 0.2467
+🔸 HUB: ZFHX3
+   - Degree Centrality:      0.6486
+   - Betweenness Centrality: 0.1976
+🔸 HUB: BCOR
+   - Degree Centrality:      0.5405
+   - Betweenness Centrality: 0.1498

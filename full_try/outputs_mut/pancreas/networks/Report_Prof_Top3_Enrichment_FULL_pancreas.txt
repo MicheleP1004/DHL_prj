@@ -2,7 +2,7 @@
 
 ================================================================================
 🎯 CLUSTER 0  |  DIMENSIONE: 6 geni
-🧬 TUTTI I GENI: GATA1, HIST1H1C, CASP8, AKT3, FANCA, SMAD4
+🧬 TUTTI I GENI: GATA1, SMAD4, AKT3, CASP8, FANCA, HIST1H1C
 ================================================================================
 
 🔸 [KEGG_2021_Human] Hepatitis B
@@ -19,16 +19,16 @@
 
 ================================================================================
 🎯 CLUSTER 1  |  DIMENSIONE: 65 geni
-🧬 TUTTI I GENI: CDK12, JAK2, PTPRD, AXIN2, NCOR1, LATS2, IRS1, ANKRD11, INSR, ATM, PIK3CA, KMT2C, KMT2D, AXIN1, SETD2, CREBBP, AXL, KDM5A, TET2, CBL, RPTOR, PTPRS, BRCA2, PALB2, ERF, SMAD2, EP300, ERBB4, NOTCH1, BCOR, WHSC1L1, NOTCH3, ZFHX3, DOT1L, PREX2, SPEN, PIK3CD, SRC, KDM5C, ARID1A, BRAF, GNAS, INPPL1, PRDM14, FLT4, ARID1B, KMT2A, RICTOR, EPHA7, NTRK1, RBM10, APC, NTRK3, TET1, AMER1, POLD1, FAT1, ALK, MSH2, BRCA1, ARID2, AR, PGR, CSF1R, PBRM1
+🧬 TUTTI I GENI: JAK2, RICTOR, KDM5C, ERBB4, LATS2, INPPL1, DOT1L, CSF1R, GNAS, PTPRS, WHSC1L1, PIK3CA, CDK12, SPEN, KDM5A, ZFHX3, ARID1A, AXIN2, AXL, BCOR, FAT1, CREBBP, AR, PBRM1, BRCA2, AMER1, ATM, NTRK3, PIK3CD, CBL, PRDM14, PGR, SETD2, BRCA1, RBM10, KMT2D, RPTOR, ANKRD11, SRC, POLD1, NCOR1, KMT2C, ALK, NOTCH3, AXIN1, PTPRD, MSH2, IRS1, ARID1B, ARID2, TET2, INSR, ERF, NTRK1, PREX2, EP300, TET1, SMAD2, NOTCH1, FLT4, EPHA7, PALB2, BRAF, KMT2A, APC
 ================================================================================
 
 🔸 [KEGG_2021_Human] Pathways in cancer
    P-value: 1.12e-17  |  Overlap: 21/531
-   🎯 Geni nel pathway: ALK;SMAD2;NTRK1;NOTCH3;CSF1R;CREBBP;NOTCH1;FLT4;AXIN1;PIK3CD;BRAF;AXIN2;BRCA2;CBL;AR;PIK3CA;MSH2;APC;GNAS;EP300;JAK2
+   🎯 Geni nel pathway: ALK;NTRK1;SMAD2;CSF1R;NOTCH3;CREBBP;NOTCH1;FLT4;AXIN1;PIK3CD;BRAF;AXIN2;BRCA2;CBL;AR;PIK3CA;MSH2;APC;GNAS;EP300;JAK2
 
 🔸 [GO_Biological_Process_2021] enzyme linked receptor protein signaling pathway (GO:0007167)
    P-value: 2.51e-14  |  Overlap: 12/140
-   🎯 Geni nel pathway: ALK;NTRK1;PTPRD;CSF1R;EPHA7;SRC;ERBB4;AXL;FLT4;INSR;NTRK3;JAK2
+   🎯 Geni nel pathway: ALK;NTRK1;PTPRD;CSF1R;EPHA7;SRC;ERBB4;AXL;FLT4;NTRK3;INSR;JAK2
 
 🔸 [KEGG_2021_Human] Breast cancer
    P-value: 4.54e-14  |  Overlap: 12/147
@@ -36,7 +36,7 @@
 
 ================================================================================
 🎯 CLUSTER 2  |  DIMENSIONE: 14 geni
-🧬 TUTTI I GENI: KDM6A, PTPN11, TBX3, KRAS, ICOSLG, JAK3, RET, REL, ABL1, CDKN2A, TP53, RNF43, U2AF1, TGFBR2
+🧬 TUTTI I GENI: U2AF1, JAK3, RET, PTPN11, KDM6A, KRAS, TGFBR2, ABL1, CDKN2A, TP53, RNF43, TBX3, ICOSLG, REL
 ================================================================================
 
 🔸 [KEGG_2021_Human] Chronic myeloid leukemia
@@ -53,7 +53,7 @@
 
 ================================================================================
 🎯 CLUSTER 3  |  DIMENSIONE: 16 geni
-🧬 TUTTI I GENI: PTPRT, DAXX, ATRX, CARD11, TSC2, FLT1, PIK3C2G, PTEN, SMARCA4, POLE, RB1, MGA, MET, MEN1, NKX2-1, CCND2
+🧬 TUTTI I GENI: PTPRT, PIK3C2G, CCND2, MEN1, FLT1, CARD11, MET, ATRX, DAXX, PTEN, RB1, NKX2-1, MGA, POLE, TSC2, SMARCA4
 ================================================================================
 
 🔸 [GO_Biological_Process_2021] chromatin remodeling (GO:0006338)

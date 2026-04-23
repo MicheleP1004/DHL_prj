@@ -1,0 +1,54 @@
+--- 🏆 PATHWAY DOMINANTI DEGLI HUB DELLA RETE (LUNG - FILTRATA_KRAS) ---
+Geni Hub analizzati (3): KRAS, CCNE1, CHEK2
+================================================================================
+
+🔸 [KEGG_2021_Human] Cellular senescence
+   - P-value: 4.65e-07 | Adjusted: 4.00e-05
+   - Overlap: 3/156
+   - Hubs coinvolti: CCNE1;CHEK2;KRAS
+
+🔸 [KEGG_2021_Human] Human T-cell leukemia virus 1 infection
+   - P-value: 1.30e-06 | Adjusted: 5.57e-05
+   - Overlap: 3/219
+   - Hubs coinvolti: CCNE1;CHEK2;KRAS
+
+🔸 [Reactome_2022] p53-Dependent G1 DNA Damage Response R-HSA-69563
+   - P-value: 3.11e-05 | Adjusted: 9.93e-04
+   - Overlap: 2/65
+   - Hubs coinvolti: CCNE1;CHEK2
+
+🔸 [Reactome_2022] G1/S DNA Damage Checkpoints R-HSA-69615
+   - P-value: 3.31e-05 | Adjusted: 9.93e-04
+   - Overlap: 2/67
+   - Hubs coinvolti: CCNE1;CHEK2
+
+🔸 [KEGG_2021_Human] p53 signaling pathway
+   - P-value: 3.93e-05 | Adjusted: 1.13e-03
+   - Overlap: 2/73
+   - Hubs coinvolti: CCNE1;CHEK2
+
+🔸 [KEGG_2021_Human] Prostate cancer
+   - P-value: 6.96e-05 | Adjusted: 1.50e-03
+   - Overlap: 2/97
+   - Hubs coinvolti: CCNE1;KRAS
+
+🔸 [KEGG_2021_Human] Cell cycle
+   - P-value: 1.14e-04 | Adjusted: 1.96e-03
+   - Overlap: 2/124
+   - Hubs coinvolti: CCNE1;CHEK2
+
+🔸 [KEGG_2021_Human] Gastric cancer
+   - P-value: 1.65e-04 | Adjusted: 2.36e-03
+   - Overlap: 2/149
+   - Hubs coinvolti: CCNE1;KRAS
+
+🔸 [KEGG_2021_Human] Hepatitis B
+   - P-value: 1.95e-04 | Adjusted: 2.39e-03
+   - Overlap: 2/162
+   - Hubs coinvolti: CCNE1;KRAS
+
+🔸 [KEGG_2021_Human] Viral carcinogenesis
+   - P-value: 3.05e-04 | Adjusted: 3.28e-03
+   - Overlap: 2/203
+   - Hubs coinvolti: CCNE1;KRAS
+

@@ -1,0 +1,70 @@
+--- 🏆 ENRICHMENT HUB LOCALI PER OGNI CLUSTER (PANCREAS - FULL) ---
+
+================================================================================
+🎯 CLUSTER 0  |  TOP HUB ANALIZZATI: 5
+🧬 GENI HUB: SMAD4, GATA1, AKT3, CASP8, FANCA
+================================================================================
+
+🔸 [KEGG_2021_Human] Hepatitis B
+   - P-value: 5.15e-06 | Overlap: 3/162
+   - Geni nel pathway: SMAD4;CASP8;AKT3
+
+🔸 [Reactome_2022] Intrinsic Pathway For Apoptosis R-HSA-109606
+   - P-value: 7.39e-05 | Overlap: 2/55
+   - Geni nel pathway: CASP8;AKT3
+
+🔸 [Reactome_2022] FOXO-mediated Transcription R-HSA-9614085
+   - P-value: 1.03e-04 | Overlap: 2/65
+   - Geni nel pathway: SMAD4;AKT3
+
+================================================================================
+🎯 CLUSTER 1  |  TOP HUB ANALIZZATI: 5
+🧬 GENI HUB: ZFHX3, KMT2D, BRCA2, ATM, ARID1A
+================================================================================
+
+🔸 [GO_Biological_Process_2021] positive regulation of transcription, DNA-templated (GO:0045893)
+   - P-value: 7.18e-07 | Overlap: 5/1183
+   - Geni nel pathway: KMT2D;ZFHX3;ATM;BRCA2;ARID1A
+
+🔸 [Reactome_2022] Impaired BRCA2 Binding To PALB2 R-HSA-9709603
+   - P-value: 1.38e-05 | Overlap: 2/24
+   - Geni nel pathway: ATM;BRCA2
+
+🔸 [Reactome_2022] Defective HDR Thru Homologous Recombination (HRR) Due To BRCA1 Loss-Of-Function R-HSA-9701192
+   - P-value: 1.50e-05 | Overlap: 2/25
+   - Geni nel pathway: ATM;BRCA2
+
+================================================================================
+🎯 CLUSTER 2  |  TOP HUB ANALIZZATI: 5
+🧬 GENI HUB: CDKN2A, KRAS, RNF43, TGFBR2, TP53
+================================================================================
+
+🔸 [KEGG_2021_Human] Chronic myeloid leukemia
+   - P-value: 9.60e-10 | Overlap: 4/76
+   - Geni nel pathway: CDKN2A;KRAS;TP53;TGFBR2
+
+🔸 [KEGG_2021_Human] Pancreatic cancer
+   - P-value: 9.60e-10 | Overlap: 4/76
+   - Geni nel pathway: CDKN2A;KRAS;TP53;TGFBR2
+
+🔸 [KEGG_2021_Human] Cellular senescence
+   - P-value: 1.77e-08 | Overlap: 4/156
+   - Geni nel pathway: CDKN2A;KRAS;TP53;TGFBR2
+
+================================================================================
+🎯 CLUSTER 3  |  TOP HUB ANALIZZATI: 5
+🧬 GENI HUB: TSC2, MEN1, DAXX, SMARCA4, PTPRT
+================================================================================
+
+🔸 [GO_Biological_Process_2021] beta-catenin-TCF complex assembly (GO:1904837)
+   - P-value: 2.02e-05 | Overlap: 2/29
+   - Geni nel pathway: MEN1;SMARCA4
+
+🔸 [Reactome_2022] Generic Transcription Pathway R-HSA-212436
+   - P-value: 5.94e-05 | Overlap: 4/1190
+   - Geni nel pathway: DAXX;TSC2;MEN1;SMARCA4
+
+🔸 [Reactome_2022] RNA Polymerase II Transcription R-HSA-73857
+   - P-value: 8.74e-05 | Overlap: 4/1312
+   - Geni nel pathway: DAXX;TSC2;MEN1;SMARCA4
+

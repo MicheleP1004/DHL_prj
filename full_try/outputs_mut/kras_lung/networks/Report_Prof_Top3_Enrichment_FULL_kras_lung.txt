@@ -2,7 +2,7 @@
 
 ================================================================================
 🎯 CLUSTER 0  |  DIMENSIONE: 17 geni
-🧬 TUTTI I GENI: APC, ETV6, ATRX, TET2, ARAF, AMER1, ANKRD11, BTK, PRDM14, RECQL4, EPHB1, DDR2, FLT4, KMT2C, RUNX1, NRAS, MED12
+🧬 TUTTI I GENI: ETV6, ARAF, ANKRD11, FLT4, KMT2C, AMER1, BTK, RUNX1, NRAS, RECQL4, ATRX, DDR2, PRDM14, TET2, APC, EPHB1, MED12
 ================================================================================
 
 🔸 [GO_Biological_Process_2021] regulation of tissue remodeling (GO:0034103)
@@ -19,7 +19,7 @@
 
 ================================================================================
 🎯 CLUSTER 1  |  DIMENSIONE: 50 geni
-🧬 TUTTI I GENI: PTPRT, MAP2K4, SLX4, MLL3, PTPRD, NF1, AXIN2, IDH1, TP53, NCOA3, NCOR1, MLL2, FAM175A, RB1, MAP3K1, RASA1, CSDE1, FH, ERCC3, INPPL1, B2M, AXIN1, DNMT3A, SOX9, TNFAIP3, NSD1, CYLD, PARK2, AXL, MLL, BRD4, TET1, PDGFRB, FGF19, CCND2, NUF2, XRCC2, KDM6A, ASXL2, XPO1, ESR1, ATR, MET, DIS3, MYCN, CUL3, FGFR3, NEGR1, FGFR4, BABAM1
+🧬 TUTTI I GENI: CSDE1, PTPRT, XPO1, INPPL1, BRD4, NF1, B2M, MLL, NCOR1, MYCN, AXIN1, PTPRD, CYLD, KDM6A, FAM175A, NSD1, XRCC2, RB1, MLL2, ASXL2, CUL3, NEGR1, TNFAIP3, SOX9, AXIN2, SLX4, AXL, RASA1, DIS3, TET1, MLL3, TP53, IDH1, BABAM1, DNMT3A, CCND2, MAP3K1, NCOA3, ESR1, FGF19, PARK2, MET, FGFR4, ATR, NUF2, MAP2K4, FH, PDGFRB, ERCC3, FGFR3
 ================================================================================
 
 🔸 [KEGG_2021_Human] Pathways in cancer
@@ -36,7 +36,7 @@
 
 ================================================================================
 🎯 CLUSTER 2  |  DIMENSIONE: 13 geni
-🧬 TUTTI I GENI: MTOR, PRKD1, CARD11, FGF3, SMAD4, NOTCH4, MST1R, PIK3C2G, EPAS1, PGR, FBXW7, CSF1R, IRS2
+🧬 TUTTI I GENI: FBXW7, PRKD1, SMAD4, CARD11, CSF1R, IRS2, NOTCH4, EPAS1, MST1R, PGR, PIK3C2G, MTOR, FGF3
 ================================================================================
 
 🔸 [KEGG_2021_Human] Pathways in cancer
@@ -53,7 +53,7 @@
 
 ================================================================================
 🎯 CLUSTER 3  |  DIMENSIONE: 35 geni
-🧬 TUTTI I GENI: YAP1, NKX3-1, HGF, POT1, FLT1, IRS1, PIK3CG, BLM, FUBP1, ATM, NTRK2, ERRFI1, KIT, KMT2A, WT1, IKZF1, ERCC5, EPHA7, PAK7, NTRK3, KDM5A, RPTOR, PTPRS, BRCA2, INPP4B, EPHA3, FOXA1, GSK3B, ERCC2, BRCA1, EZH1, TSHR, MDC1, SF3B1, NOTCH2
+🧬 TUTTI I GENI: ERCC2, MDC1, TSHR, SF3B1, HGF, RPTOR, PTPRS, FUBP1, IRS1, YAP1, NTRK2, GSK3B, PIK3CG, KDM5A, IKZF1, KIT, BLM, INPP4B, FOXA1, BRCA2, PAK7, ATM, EPHA7, FLT1, EZH1, ERRFI1, NKX3-1, NTRK3, ERCC5, EPHA3, KMT2A, POT1, NOTCH2, WT1, BRCA1
 ================================================================================
 
 🔸 [GO_Biological_Process_2021] positive regulation of phosphatidylinositol 3-kinase signaling (GO:0014068)
@@ -70,7 +70,7 @@
 
 ================================================================================
 🎯 CLUSTER 4  |  DIMENSIONE: 51 geni
-🧬 TUTTI I GENI: SH2B3, SMO, INHBA, JAK2, TGFBR1, NBN, PREX2, TP63, ARID1A, U2AF1, PTEN, TEK, NF2, ASXL1, EGFR, MSH6, PIK3R1, TBX3, PPM1D, PLCG2, TCF3, EIF1AX, SOX17, DROSHA, PDGFRA, BARD1, HIST1H1C, PMS1, IGF2, TERT, PDCD1, KMT2B, MLH1, CBL, PALB2, FAT1, POLE, NFE2L2, MSH3, MGA, SDHB, FLT3, DNMT3B, MALT1, GLI1, FOXO1, AR, BRAF, CTNNB1, BCOR, GATA3
+🧬 TUTTI I GENI: JAK2, EGFR, SMO, TGFBR1, KMT2B, MSH6, ASXL1, MSH3, PIK3R1, GLI1, PDGFRA, FOXO1, MGA, IGF2, TBX3, TCF3, SH2B3, PMS1, NF2, ARID1A, DNMT3B, TP63, PREX2, INHBA, BARD1, FAT1, BCOR, AR, CTNNB1, NBN, PDCD1, PLCG2, SDHB, PPM1D, U2AF1, PALB2, NFE2L2, FLT3, EIF1AX, BRAF, HIST1H1C, PTEN, TEK, CBL, MALT1, GATA3, SOX17, MLH1, POLE, DROSHA, TERT
 ================================================================================
 
 🔸 [KEGG_2021_Human] Pathways in cancer
@@ -87,7 +87,7 @@
 
 ================================================================================
 🎯 CLUSTER 5  |  DIMENSIONE: 15 geni
-🧬 TUTTI I GENI: PRDM1, NOTCH3, MRE11A, NTRK1, MSH2, FOXP1, DOT1L, RICTOR, BAP1, KDR, CDKN2A, ARID5B, PBRM1, KLF4, POLD1
+🧬 TUTTI I GENI: NOTCH3, PRDM1, RICTOR, MSH2, MRE11A, KDR, CDKN2A, DOT1L, ARID5B, FOXP1, PBRM1, POLD1, KLF4, NTRK1, BAP1
 ================================================================================
 
 🔸 [GO_Biological_Process_2021] regulation of cell population proliferation (GO:0042127)
@@ -104,7 +104,7 @@
 
 ================================================================================
 🎯 CLUSTER 6  |  DIMENSIONE: 18 geni
-🧬 TUTTI I GENI: ZFHX3, RET, REL, DNMT1, PPP2R1A, IL10, PLK2, ETV1, LATS1, FLCN, PIK3CA, KMT2D, ERBB4, FANCA, ARID1B, SETD2, PIM1, TGFBR2
+🧬 TUTTI I GENI: PLK2, ERBB4, KMT2D, PIM1, FLCN, ETV1, PIK3CA, RET, TGFBR2, ARID1B, PPP2R1A, DNMT1, IL10, ZFHX3, SETD2, LATS1, FANCA, REL
 ================================================================================
 
 🔸 [GO_Biological_Process_2021] positive regulation of transcription, DNA-templated (GO:0045893)
@@ -121,24 +121,24 @@
 
 ================================================================================
 🎯 CLUSTER 7  |  DIMENSIONE: 23 geni
-🧬 TUTTI I GENI: KEAP1, DAXX, CREBBP, RBM10, CHEK2, HNF1A, PIK3R2, SPRED1, FGFR2, STAG2, SCG5, LATS2, UPF1, SMARCA4, STK11, CXCR4, PTCH1, XIAP, MEN1, GATA1, DICER1, CD79B, ERBB3
+🧬 TUTTI I GENI: DICER1, CHEK2, HNF1A, LATS2, CXCR4, CREBBP, CD79B, RBM10, XIAP, GATA1, KEAP1, STK11, FGFR2, MEN1, SPRED1, ERBB3, DAXX, PTCH1, PIK3R2, UPF1, STAG2, SMARCA4, SCG5
 ================================================================================
 
 🔸 [GO_Biological_Process_2021] regulation of transforming growth factor beta receptor signaling pathway (GO:0017015)
    P-value: 8.85e-08  |  Overlap: 5/100
-   🎯 Geni nel pathway: CREBBP;SPRED1;STK11;LATS2;MEN1
+   🎯 Geni nel pathway: CREBBP;STK11;SPRED1;LATS2;MEN1
 
 🔸 [KEGG_2021_Human] Pathways in cancer
    P-value: 1.51e-06  |  Overlap: 7/531
-   🎯 Geni nel pathway: CREBBP;PTCH1;KEAP1;CXCR4;XIAP;PIK3R2;FGFR2
+   🎯 Geni nel pathway: CREBBP;PTCH1;CXCR4;XIAP;KEAP1;PIK3R2;FGFR2
 
 🔸 [GO_Cellular_Component_2021] nucleus (GO:0005634)
    P-value: 1.88e-06  |  Overlap: 16/4484
-   🎯 Geni nel pathway: UPF1;DAXX;CREBBP;XIAP;PIK3R2;HNF1A;DICER1;GATA1;SMARCA4;STK11;STAG2;LATS2;CHEK2;RBM10;FGFR2;MEN1
+   🎯 Geni nel pathway: UPF1;CREBBP;DAXX;XIAP;PIK3R2;DICER1;HNF1A;GATA1;SMARCA4;STK11;LATS2;STAG2;CHEK2;RBM10;FGFR2;MEN1
 
 ================================================================================
 🎯 CLUSTER 8  |  DIMENSIONE: 26 geni
-🧬 TUTTI I GENI: FGF4, IL7R, CDK12, GRIN2A, PIK3C3, JAK3, TSC1, PAK1, BCL6, TSC2, CTCF, SPEN, PARP1, KDM5C, BRIP1, EPHA5, PHOX2B, ALK, ROS1, RAD50, CIC, SMYD3, ARID2, EP300, NOTCH1, HLA-A
+🧬 TUTTI I GENI: KDM5C, PHOX2B, CIC, BRIP1, EP300, SMYD3, FGF4, BCL6, NOTCH1, HLA-A, GRIN2A, EPHA5, ROS1, TSC1, ALK, PARP1, RAD50, CDK12, JAK3, PIK3C3, IL7R, SPEN, ARID2, PAK1, CTCF, TSC2
 ================================================================================
 
 🔸 [GO_Biological_Process_2021] regulation of cell population proliferation (GO:0042127)

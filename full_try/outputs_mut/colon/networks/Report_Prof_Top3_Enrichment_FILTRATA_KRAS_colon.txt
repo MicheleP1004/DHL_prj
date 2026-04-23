@@ -2,7 +2,7 @@
 
 ================================================================================
 🎯 CLUSTER 0  |  DIMENSIONE: 9 geni
-🧬 TUTTI I GENI: MYD88, RAD54L, MSH3, KRAS, BAP1, FLCN, AMER1, CDKN1B, STAT3
+🧬 TUTTI I GENI: BAP1, MSH3, RAD54L, STAT3, CDKN1B, FLCN, MYD88, KRAS, AMER1
 ================================================================================
 
 🔸 [KEGG_2021_Human] PD-L1 expression and PD-1 checkpoint pathway in cancer

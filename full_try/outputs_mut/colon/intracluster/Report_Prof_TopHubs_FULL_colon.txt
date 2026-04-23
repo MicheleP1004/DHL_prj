@@ -1,0 +1,66 @@
+--- 👑 TOP 3 HUB GENES PER OGNI CLUSTER (COLON - FULL) ---
+
+------------------------------------------------------------
+🎯 CLUSTER 0 | Totale geni nel network: 71
+------------------------------------------------------------
+🔸 HUB: PIK3CA
+   - Degree Centrality:      0.3143
+   - Betweenness Centrality: 0.4268
+🔸 HUB: SMAD2
+   - Degree Centrality:      0.1857
+   - Betweenness Centrality: 0.2162
+🔸 HUB: TCF7L2
+   - Degree Centrality:      0.1714
+   - Betweenness Centrality: 0.1630
+
+------------------------------------------------------------
+🎯 CLUSTER 1 | Totale geni nel network: 73
+------------------------------------------------------------
+🔸 HUB: KDM5A
+   - Degree Centrality:      0.6806
+   - Betweenness Centrality: 0.0153
+🔸 HUB: ATR
+   - Degree Centrality:      0.6806
+   - Betweenness Centrality: 0.0144
+🔸 HUB: ATM
+   - Degree Centrality:      0.6667
+   - Betweenness Centrality: 0.1488
+
+------------------------------------------------------------
+🎯 CLUSTER 2 | Totale geni nel network: 8
+------------------------------------------------------------
+🔸 HUB: FBXW7
+   - Degree Centrality:      0.8571
+   - Betweenness Centrality: 0.9524
+🔸 HUB: CDK8
+   - Degree Centrality:      0.2857
+   - Betweenness Centrality: 0.2857
+🔸 HUB: TMPRSS2
+   - Degree Centrality:      0.1429
+   - Betweenness Centrality: 0.0000
+
+------------------------------------------------------------
+🎯 CLUSTER 3 | Totale geni nel network: 79
+------------------------------------------------------------
+🔸 HUB: PIK3CG
+   - Degree Centrality:      0.5256
+   - Betweenness Centrality: 0.1233
+🔸 HUB: POLE
+   - Degree Centrality:      0.4872
+   - Betweenness Centrality: 0.0727
+🔸 HUB: KMT2D
+   - Degree Centrality:      0.4872
+   - Betweenness Centrality: 0.1232
+
+------------------------------------------------------------
+🎯 CLUSTER 4 | Totale geni nel network: 68
+------------------------------------------------------------
+🔸 HUB: KMT2C
+   - Degree Centrality:      0.7612
+   - Betweenness Centrality: 0.0610
+🔸 HUB: ARID2
+   - Degree Centrality:      0.7612
+   - Betweenness Centrality: 0.0248
+🔸 HUB: NSD1
+   - Degree Centrality:      0.7612
+   - Betweenness Centrality: 0.0216

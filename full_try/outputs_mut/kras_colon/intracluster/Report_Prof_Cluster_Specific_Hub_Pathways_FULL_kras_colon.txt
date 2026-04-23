@@ -1,0 +1,67 @@
+--- 🏆 ENRICHMENT HUB LOCALI PER OGNI CLUSTER (KRAS_COLON - FULL) ---
+
+================================================================================
+🎯 CLUSTER 0  |  TOP HUB ANALIZZATI: 5
+🧬 GENI HUB: ARID1A, ANKRD11, SPEN, TGFBR2, PTPRS
+================================================================================
+
+🔸 [KEGG_2021_Human] Hepatocellular carcinoma
+   - P-value: 6.90e-04 | Overlap: 2/168
+   - Geni nel pathway: ARID1A;TGFBR2
+
+🔸 [GO_Biological_Process_2021] cell-cell adhesion via plasma-membrane adhesion molecules (GO:0098742)
+   - P-value: 7.06e-04 | Overlap: 2/170
+   - Geni nel pathway: PTPRS;TGFBR2
+
+🔸 [GO_Biological_Process_2021] negative regulation of collateral sprouting (GO:0048671)
+   - P-value: 1.25e-03 | Overlap: 1/5
+   - Geni nel pathway: PTPRS
+
+================================================================================
+🎯 CLUSTER 1  |  TOP HUB ANALIZZATI: 5
+🧬 GENI HUB: EP300, ARID2, PAK7, IGF1R, PTEN
+================================================================================
+
+🔸 [KEGG_2021_Human] Prostate cancer
+   - P-value: 1.10e-06 | Overlap: 3/97
+   - Geni nel pathway: PTEN;EP300;IGF1R
+
+🔸 [KEGG_2021_Human] FoxO signaling pathway
+   - P-value: 2.72e-06 | Overlap: 3/131
+   - Geni nel pathway: PTEN;EP300;IGF1R
+
+🔸 [KEGG_2021_Human] Hepatocellular carcinoma
+   - P-value: 5.75e-06 | Overlap: 3/168
+   - Geni nel pathway: PTEN;ARID2;IGF1R
+
+================================================================================
+🎯 CLUSTER 2  |  TOP HUB ANALIZZATI: 5
+🧬 GENI HUB: FAT1, KMT2B, KMT2D, TCF7L2, POLE
+================================================================================
+
+🔸 [GO_Biological_Process_2021] histone H3-K4 dimethylation (GO:0044648)
+   - P-value: 1.05e-06 | Overlap: 2/7
+   - Geni nel pathway: KMT2D;KMT2B
+
+🔸 [GO_Biological_Process_2021] histone H3-K4 monomethylation (GO:0097692)
+   - P-value: 1.40e-06 | Overlap: 2/8
+   - Geni nel pathway: KMT2D;KMT2B
+
+🔸 [GO_Biological_Process_2021] peptidyl-lysine dimethylation (GO:0018027)
+   - P-value: 8.54e-06 | Overlap: 2/19
+   - Geni nel pathway: KMT2D;KMT2B
+
+================================================================================
+🎯 CLUSTER 3  |  TOP HUB ANALIZZATI: 5
+🧬 GENI HUB: NOTCH4, KDM5A, NCOR1, DNMT3A, FLT4
+================================================================================
+
+[-] Errore Enrichr per questo cluster.
+
+================================================================================
+🎯 CLUSTER 4  |  TOP HUB ANALIZZATI: 5
+🧬 GENI HUB: EPHA5, ZFHX3, BCOR, ERBB4, KMT2C
+================================================================================
+
+[-] Errore Enrichr per questo cluster.
+

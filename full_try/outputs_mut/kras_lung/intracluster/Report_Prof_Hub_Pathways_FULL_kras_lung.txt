@@ -1,0 +1,54 @@
+--- 🏆 PATHWAY DOMINANTI DEGLI HUB DELLA RETE (KRAS_LUNG - FULL) ---
+Geni Hub analizzati (27): NTRK3, PTPRD, RBM10, MDC1, PDGFRA, KEAP1, MRE11A, EPHA3, KDM5C, ARID1A, IRS2, CIC, RET, GRIN2A, MTOR, TP53, PTPRT, AMER1, KMT2D, SMARCA4, FAT1, NOTCH3, APC, SETD2, PRDM14, KDR, FBXW7
+================================================================================
+
+🔸 [GO_Biological_Process_2021] enzyme linked receptor protein signaling pathway (GO:0007167)
+   - P-value: 5.59e-10 | Adjusted: 3.86e-07
+   - Overlap: 7/140
+   - Hubs coinvolti: RET;PTPRT;PTPRD;PDGFRA;NTRK3;KDR;EPHA3
+
+🔸 [GO_Biological_Process_2021] regulation of kinase activity (GO:0043549)
+   - P-value: 2.51e-09 | Adjusted: 8.65e-07
+   - Overlap: 6/94
+   - Hubs coinvolti: RET;PDGFRA;NTRK3;KDR;IRS2;EPHA3
+
+🔸 [KEGG_2021_Human] Central carbon metabolism in cancer
+   - P-value: 3.45e-08 | Adjusted: 3.66e-06
+   - Overlap: 5/70
+   - Hubs coinvolti: RET;PDGFRA;NTRK3;TP53;MTOR
+
+🔸 [GO_Biological_Process_2021] positive regulation of transferase activity (GO:0051347)
+   - P-value: 3.86e-08 | Adjusted: 7.08e-06
+   - Overlap: 6/148
+   - Hubs coinvolti: RET;PDGFRA;FBXW7;NTRK3;KDR;EPHA3
+
+🔸 [GO_Biological_Process_2021] transmembrane receptor protein tyrosine kinase signaling pathway (GO:0007169)
+   - P-value: 4.10e-08 | Adjusted: 7.08e-06
+   - Overlap: 8/404
+   - Hubs coinvolti: RET;PTPRT;PDGFRA;APC;NTRK3;KDR;IRS2;EPHA3
+
+🔸 [KEGG_2021_Human] Hepatocellular carcinoma
+   - P-value: 8.21e-08 | Adjusted: 4.35e-06
+   - Overlap: 6/168
+   - Hubs coinvolti: APC;KEAP1;ARID1A;TP53;MTOR;SMARCA4
+
+🔸 [GO_Biological_Process_2021] positive regulation of kinase activity (GO:0033674)
+   - P-value: 4.02e-07 | Adjusted: 5.55e-05
+   - Overlap: 5/114
+   - Hubs coinvolti: RET;PDGFRA;NTRK3;KDR;EPHA3
+
+🔸 [GO_Biological_Process_2021] positive regulation of cell migration (GO:0030335)
+   - P-value: 1.31e-06 | Adjusted: 1.50e-04
+   - Overlap: 6/269
+   - Hubs coinvolti: RET;PDGFRA;APC;NTRK3;KDR;MTOR
+
+🔸 [KEGG_2021_Human] MicroRNAs in cancer
+   - P-value: 2.97e-06 | Adjusted: 1.05e-04
+   - Overlap: 6/310
+   - Hubs coinvolti: NOTCH3;PDGFRA;APC;IRS2;TP53;MTOR
+
+🔸 [GO_Biological_Process_2021] positive regulation of phosphatidylinositol 3-kinase signaling (GO:0014068)
+   - P-value: 3.33e-06 | Adjusted: 3.28e-04
+   - Overlap: 4/77
+   - Hubs coinvolti: PDGFRA;NTRK3;KDR;IRS2
+

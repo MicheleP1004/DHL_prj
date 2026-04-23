@@ -1,0 +1,87 @@
+--- 🏆 ENRICHMENT HUB LOCALI PER OGNI CLUSTER (COLON - FULL) ---
+
+================================================================================
+🎯 CLUSTER 0  |  TOP HUB ANALIZZATI: 5
+🧬 GENI HUB: PIK3CA, SMAD2, TCF7L2, PRKD1, EPHA3
+================================================================================
+
+🔸 [KEGG_2021_Human] Colorectal cancer
+   - P-value: 7.63e-07 | Overlap: 3/86
+   - Geni nel pathway: SMAD2;TCF7L2;PIK3CA
+
+🔸 [KEGG_2021_Human] Gastric cancer
+   - P-value: 4.01e-06 | Overlap: 3/149
+   - Geni nel pathway: SMAD2;TCF7L2;PIK3CA
+
+🔸 [KEGG_2021_Human] Hepatocellular carcinoma
+   - P-value: 5.75e-06 | Overlap: 3/168
+   - Geni nel pathway: SMAD2;TCF7L2;PIK3CA
+
+================================================================================
+🎯 CLUSTER 1  |  TOP HUB ANALIZZATI: 5
+🧬 GENI HUB: KDM5A, ATR, ATM, EP300, DIS3
+================================================================================
+
+🔸 [GO_Biological_Process_2021] regulation of cellular response to heat (GO:1900034)
+   - P-value: 5.90e-07 | Overlap: 3/79
+   - Geni nel pathway: EP300;ATM;ATR
+
+🔸 [GO_Biological_Process_2021] regulation of cellular response to stress (GO:0080135)
+   - P-value: 1.98e-06 | Overlap: 3/118
+   - Geni nel pathway: EP300;ATM;ATR
+
+🔸 [KEGG_2021_Human] Cell cycle
+   - P-value: 2.31e-06 | Overlap: 3/124
+   - Geni nel pathway: EP300;ATM;ATR
+
+================================================================================
+🎯 CLUSTER 2  |  TOP HUB ANALIZZATI: 5
+🧬 GENI HUB: FBXW7, CDK8, TMPRSS2, HLA-B, AKT1
+================================================================================
+
+🔸 [Reactome_2022] Disease R-HSA-1643685
+   - P-value: 4.90e-06 | Overlap: 5/1736
+   - Geni nel pathway: CDK8;FBXW7;HLA-B;TMPRSS2;AKT1
+
+🔸 [Reactome_2022] Signaling By NOTCH R-HSA-157118
+   - P-value: 1.01e-05 | Overlap: 3/203
+   - Geni nel pathway: CDK8;FBXW7;AKT1
+
+🔸 [GO_Biological_Process_2021] negative regulation of Notch signaling pathway (GO:0045746)
+   - P-value: 2.17e-05 | Overlap: 2/30
+   - Geni nel pathway: FBXW7;AKT1
+
+================================================================================
+🎯 CLUSTER 3  |  TOP HUB ANALIZZATI: 5
+🧬 GENI HUB: PIK3CG, POLE, KMT2D, MGA, ZFHX3
+================================================================================
+
+🔸 [GO_Biological_Process_2021] regulation of cell adhesion (GO:0030155)
+   - P-value: 4.33e-04 | Overlap: 2/133
+   - Geni nel pathway: ZFHX3;PIK3CG
+
+🔸 [GO_Biological_Process_2021] neutrophil extravasation (GO:0072672)
+   - P-value: 1.50e-03 | Overlap: 1/6
+   - Geni nel pathway: PIK3CG
+
+🔸 [Reactome_2022] RUNX3 Regulates CDKN1A Transcription R-HSA-8941855
+   - P-value: 1.75e-03 | Overlap: 1/7
+   - Geni nel pathway: ZFHX3
+
+================================================================================
+🎯 CLUSTER 4  |  TOP HUB ANALIZZATI: 5
+🧬 GENI HUB: KMT2C, ARID2, NSD1, BRCA2, PLCG2
+================================================================================
+
+🔸 [Reactome_2022] Chromatin Modifying Enzymes R-HSA-3247509
+   - P-value: 1.63e-05 | Overlap: 3/238
+   - Geni nel pathway: KMT2C;NSD1;ARID2
+
+🔸 [Reactome_2022] PKMTs Methylate Histone Lysines R-HSA-3214841
+   - P-value: 5.38e-05 | Overlap: 2/47
+   - Geni nel pathway: KMT2C;NSD1
+
+🔸 [KEGG_2021_Human] Lysine degradation
+   - P-value: 9.71e-05 | Overlap: 2/63
+   - Geni nel pathway: KMT2C;NSD1
+

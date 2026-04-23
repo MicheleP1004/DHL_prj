@@ -1,0 +1,19 @@
+--- 🏆 ENRICHMENT HUB LOCALI PER OGNI CLUSTER (COLON - FILTRATA_KRAS) ---
+
+================================================================================
+🎯 CLUSTER 0  |  TOP HUB ANALIZZATI: 5
+🧬 GENI HUB: KRAS, FLCN, AMER1, BAP1, MSH3
+================================================================================
+
+🔸 [KEGG_2021_Human] Renal cell carcinoma
+   - P-value: 1.17e-04 | Overlap: 2/69
+   - Geni nel pathway: FLCN;KRAS
+
+🔸 [KEGG_2021_Human] Colorectal cancer
+   - P-value: 1.81e-04 | Overlap: 2/86
+   - Geni nel pathway: MSH3;KRAS
+
+🔸 [GO_Biological_Process_2021] positive regulation of cellular catabolic process (GO:0031331)
+   - P-value: 4.87e-04 | Overlap: 2/141
+   - Geni nel pathway: AMER1;FLCN
+

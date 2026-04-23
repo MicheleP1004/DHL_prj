@@ -2,7 +2,7 @@
 
 ================================================================================
 🎯 CLUSTER 0  |  DIMENSIONE: 6 geni
-🧬 TUTTI I GENI: KDM6A, KRAS, CDKN2A, RNF43, TP53, TGFBR2
+🧬 TUTTI I GENI: KDM6A, TGFBR2, CDKN2A, RNF43, TP53, KRAS
 ================================================================================
 
 🔸 [KEGG_2021_Human] Chronic myeloid leukemia

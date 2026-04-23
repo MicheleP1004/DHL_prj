@@ -2,7 +2,7 @@
 
 ================================================================================
 🎯 CLUSTER 0  |  DIMENSIONE: 10 geni
-🧬 TUTTI I GENI: CASP8, HIST1H1C, SETD2, FANCA, AKT3, SMAD4, CTCF, PGR, GATA1, KMT2A
+🧬 TUTTI I GENI: SMAD4, CASP8, AKT3, HIST1H1C, KMT2A, GATA1, CTCF, PGR, FANCA, SETD2
 ================================================================================
 
 🔸 [GO_Molecular_Function_2021] transcription coregulator binding (GO:0001221)
@@ -19,7 +19,7 @@
 
 ================================================================================
 🎯 CLUSTER 1  |  DIMENSIONE: 6 geni
-🧬 TUTTI I GENI: SMARCA4, KMT2C, FLT1, CCND2, PTPRD, BRCA1
+🧬 TUTTI I GENI: PTPRD, FLT1, KMT2C, SMARCA4, BRCA1, CCND2
 ================================================================================
 
 🔸 [GO_Biological_Process_2021] negative regulation of intracellular steroid hormone receptor signaling pathway (GO:0033144)
@@ -36,7 +36,7 @@
 
 ================================================================================
 🎯 CLUSTER 2  |  DIMENSIONE: 7 geni
-🧬 TUTTI I GENI: REL, ABL1, ANKRD11, PTPN11, CDKN2A, TBX3, BAP1
+🧬 TUTTI I GENI: CDKN2A, ANKRD11, TBX3, PTPN11, ABL1, BAP1, REL
 ================================================================================
 
 🔸 [GO_Biological_Process_2021] regulation of cell cycle (GO:0051726)
@@ -53,7 +53,7 @@
 
 ================================================================================
 🎯 CLUSTER 3  |  DIMENSIONE: 14 geni
-🧬 TUTTI I GENI: RBM10, GNAS, RET, JAK3, PIK3CA, FLT4, TGFBR2, PTPRS, AR, RNF43, SRC, CSF1R, PTEN, BCOR
+🧬 TUTTI I GENI: PIK3CA, RET, JAK3, BCOR, TGFBR2, AR, PTEN, RBM10, PTPRS, RNF43, SRC, FLT4, CSF1R, GNAS
 ================================================================================
 
 🔸 [KEGG_2021_Human] Pathways in cancer
@@ -70,16 +70,16 @@
 
 ================================================================================
 🎯 CLUSTER 4  |  DIMENSIONE: 11 geni
-🧬 TUTTI I GENI: POLE, PTPRT, RB1, MAP2K4, MGA, TSC2, SMAD2, AXIN1, RPTOR, ARID1A, BRCA2
+🧬 TUTTI I GENI: AXIN1, ARID1A, PTPRT, SMAD2, RPTOR, RB1, MGA, MAP2K4, BRCA2, POLE, TSC2
 ================================================================================
 
 🔸 [KEGG_2021_Human] Hepatocellular carcinoma
    P-value: 1.51e-06  |  Overlap: 4/168
-   🎯 Geni nel pathway: RB1;SMAD2;AXIN1;ARID1A
+   🎯 Geni nel pathway: SMAD2;RB1;AXIN1;ARID1A
 
 🔸 [KEGG_2021_Human] Pancreatic cancer
    P-value: 8.51e-06  |  Overlap: 3/76
-   🎯 Geni nel pathway: RB1;SMAD2;BRCA2
+   🎯 Geni nel pathway: SMAD2;RB1;BRCA2
 
 🔸 [GO_Biological_Process_2021] negative regulation of protein kinase activity (GO:0006469)
    P-value: 1.42e-05  |  Overlap: 3/90
@@ -87,7 +87,7 @@
 
 ================================================================================
 🎯 CLUSTER 5  |  DIMENSIONE: 11 geni
-🧬 TUTTI I GENI: PALB2, KDM6A, FAT1, INSR, ATM, NTRK3, AXIN2, EP300, KMT2D, ARID1B, LATS2
+🧬 TUTTI I GENI: ATM, PALB2, AXIN2, NTRK3, KDM6A, LATS2, EP300, ARID1B, FAT1, KMT2D, INSR
 ================================================================================
 
 🔸 [GO_Biological_Process_2021] beta-catenin-TCF complex assembly (GO:1904837)
@@ -96,15 +96,15 @@
 
 🔸 [GO_Biological_Process_2021] regulation of gene expression (GO:0010468)
    P-value: 8.89e-06  |  Overlap: 6/1079
-   🎯 Geni nel pathway: KMT2D;INSR;NTRK3;EP300;ATM;KDM6A
+   🎯 Geni nel pathway: KMT2D;NTRK3;INSR;EP300;ATM;KDM6A
 
 🔸 [GO_Biological_Process_2021] positive regulation of cellular process (GO:0048522)
    P-value: 1.16e-05  |  Overlap: 5/625
-   🎯 Geni nel pathway: KMT2D;INSR;NTRK3;ATM;AXIN2
+   🎯 Geni nel pathway: KMT2D;NTRK3;INSR;ATM;AXIN2
 
 ================================================================================
 🎯 CLUSTER 6  |  DIMENSIONE: 7 geni
-🧬 TUTTI I GENI: NOTCH3, TET1, PREX2, ZFHX3, DOT1L, INPPL1, POLD1
+🧬 TUTTI I GENI: NOTCH3, DOT1L, POLD1, PREX2, TET1, ZFHX3, INPPL1
 ================================================================================
 
 🔸 [GO_Biological_Process_2021] telomere organization (GO:0032200)

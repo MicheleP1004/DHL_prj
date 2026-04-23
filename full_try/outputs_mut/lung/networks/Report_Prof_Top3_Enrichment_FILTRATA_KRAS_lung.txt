@@ -2,7 +2,7 @@
 
 ================================================================================
 🎯 CLUSTER 0  |  DIMENSIONE: 7 geni
-🧬 TUTTI I GENI: CCNE1, STK11, FOXP1, CHEK2, KRAS, HIST1H3E, NUF2
+🧬 TUTTI I GENI: CHEK2, CCNE1, HIST1H3E, FOXP1, NUF2, STK11, KRAS
 ================================================================================
 
 🔸 [KEGG_2021_Human] Cellular senescence
