@@ -1,54 +1,54 @@
 --- 🏆 PATHWAY DOMINANTI DEGLI HUB DELLA RETE (KRAS_LUNG - FULL) ---
-Geni Hub analizzati (27): NTRK3, PTPRD, RBM10, MDC1, PDGFRA, KEAP1, MRE11A, EPHA3, KDM5C, ARID1A, IRS2, CIC, RET, GRIN2A, MTOR, TP53, PTPRT, AMER1, KMT2D, SMARCA4, FAT1, NOTCH3, APC, SETD2, PRDM14, KDR, FBXW7
+Geni Hub analizzati (18): NTRK1, EPHA3, ATRX, RET, KEAP1, FAT1, MGA, TP53, STK11, SMARCA4, SETD2, GRIN2A, RBM10, GLI1, ARID1A, PTPRD, CIC, PTPRT
 ================================================================================
 
 🔸 [GO_Biological_Process_2021] enzyme linked receptor protein signaling pathway (GO:0007167)
-   - P-value: 5.59e-10 | Adjusted: 3.86e-07
-   - Overlap: 7/140
-   - Hubs coinvolti: RET;PTPRT;PTPRD;PDGFRA;NTRK3;KDR;EPHA3
+   - P-value: 1.25e-07 | Adjusted: 5.64e-05
+   - Overlap: 5/140
+   - Hubs coinvolti: NTRK1;RET;PTPRT;PTPRD;EPHA3
 
-🔸 [GO_Biological_Process_2021] regulation of kinase activity (GO:0043549)
-   - P-value: 2.51e-09 | Adjusted: 8.65e-07
-   - Overlap: 6/94
-   - Hubs coinvolti: RET;PDGFRA;NTRK3;KDR;IRS2;EPHA3
+🔸 [GO_Biological_Process_2021] nucleosome organization (GO:0034728)
+   - P-value: 1.33e-06 | Adjusted: 3.01e-04
+   - Overlap: 4/94
+   - Hubs coinvolti: SETD2;ATRX;ARID1A;SMARCA4
 
-🔸 [KEGG_2021_Human] Central carbon metabolism in cancer
-   - P-value: 3.45e-08 | Adjusted: 3.66e-06
-   - Overlap: 5/70
-   - Hubs coinvolti: RET;PDGFRA;NTRK3;TP53;MTOR
+🔸 [GO_Biological_Process_2021] positive regulation of cell projection organization (GO:0031346)
+   - P-value: 3.19e-06 | Adjusted: 3.72e-04
+   - Overlap: 4/117
+   - Hubs coinvolti: NTRK1;RET;PTPRD;EPHA3
 
-🔸 [GO_Biological_Process_2021] positive regulation of transferase activity (GO:0051347)
-   - P-value: 3.86e-08 | Adjusted: 7.08e-06
-   - Overlap: 6/148
-   - Hubs coinvolti: RET;PDGFRA;FBXW7;NTRK3;KDR;EPHA3
+🔸 [GO_Biological_Process_2021] signal transduction by p53 class mediator (GO:0072331)
+   - P-value: 3.28e-06 | Adjusted: 3.72e-04
+   - Overlap: 3/33
+   - Hubs coinvolti: STK11;ATRX;TP53
 
-🔸 [GO_Biological_Process_2021] transmembrane receptor protein tyrosine kinase signaling pathway (GO:0007169)
-   - P-value: 4.10e-08 | Adjusted: 7.08e-06
-   - Overlap: 8/404
-   - Hubs coinvolti: RET;PTPRT;PDGFRA;APC;NTRK3;KDR;IRS2;EPHA3
+🔸 [KEGG_2021_Human] Thyroid cancer
+   - P-value: 4.67e-06 | Adjusted: 3.69e-04
+   - Overlap: 3/37
+   - Hubs coinvolti: NTRK1;RET;TP53
+
+🔸 [GO_Biological_Process_2021] chromatin organization (GO:0006325)
+   - P-value: 6.90e-06 | Adjusted: 6.25e-04
+   - Overlap: 4/142
+   - Hubs coinvolti: SETD2;ATRX;ARID1A;SMARCA4
 
 🔸 [KEGG_2021_Human] Hepatocellular carcinoma
-   - P-value: 8.21e-08 | Adjusted: 4.35e-06
-   - Overlap: 6/168
-   - Hubs coinvolti: APC;KEAP1;ARID1A;TP53;MTOR;SMARCA4
+   - P-value: 1.34e-05 | Adjusted: 5.30e-04
+   - Overlap: 4/168
+   - Hubs coinvolti: KEAP1;ARID1A;TP53;SMARCA4
 
-🔸 [GO_Biological_Process_2021] positive regulation of kinase activity (GO:0033674)
-   - P-value: 4.02e-07 | Adjusted: 5.55e-05
-   - Overlap: 5/114
-   - Hubs coinvolti: RET;PDGFRA;NTRK3;KDR;EPHA3
+🔸 [GO_Biological_Process_2021] cellular response to peptide (GO:1901653)
+   - P-value: 1.74e-05 | Adjusted: 1.31e-03
+   - Overlap: 3/57
+   - Hubs coinvolti: NTRK1;GRIN2A;TP53
 
-🔸 [GO_Biological_Process_2021] positive regulation of cell migration (GO:0030335)
-   - P-value: 1.31e-06 | Adjusted: 1.50e-04
-   - Overlap: 6/269
-   - Hubs coinvolti: RET;PDGFRA;APC;NTRK3;KDR;MTOR
+🔸 [KEGG_2021_Human] Central carbon metabolism in cancer
+   - P-value: 3.23e-05 | Adjusted: 8.50e-04
+   - Overlap: 3/70
+   - Hubs coinvolti: NTRK1;RET;TP53
 
-🔸 [KEGG_2021_Human] MicroRNAs in cancer
-   - P-value: 2.97e-06 | Adjusted: 1.05e-04
-   - Overlap: 6/310
-   - Hubs coinvolti: NOTCH3;PDGFRA;APC;IRS2;TP53;MTOR
-
-🔸 [GO_Biological_Process_2021] positive regulation of phosphatidylinositol 3-kinase signaling (GO:0014068)
-   - P-value: 3.33e-06 | Adjusted: 3.28e-04
-   - Overlap: 4/77
-   - Hubs coinvolti: PDGFRA;NTRK3;KDR;IRS2
+🔸 [GO_Biological_Process_2021] positive regulation of neuron projection development (GO:0010976)
+   - P-value: 6.40e-05 | Adjusted: 3.92e-03
+   - Overlap: 3/88
+   - Hubs coinvolti: NTRK1;RET;EPHA3
 

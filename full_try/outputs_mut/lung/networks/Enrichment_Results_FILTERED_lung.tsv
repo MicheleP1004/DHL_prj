@@ -1,0 +1,491 @@
+Cluster_ID	Gene_set	Term	Overlap	P-value	Adjusted P-value	Genes
+0	GO_Molecular_Function_2021	sequence-specific double-stranded DNA binding (GO:1990837)	9/712	1.583588434697639e-07	8.508317652028154e-06	FOXA1;SOX17;MAX;NKX2-1;ETV1;GATA3;ERG;GLI1;FOXP1
+0	GO_Molecular_Function_2021	transcription cis-regulatory region binding (GO:0000976)	8/549	3.0939336916466017e-07	8.508317652028154e-06	FOXA1;SOX17;MAX;NKX2-1;PRDM14;GATA3;GLI1;FOXP1
+0	GO_Biological_Process_2021	positive regulation of transcription by RNA polymerase II (GO:0045944)	9/908	1.2238090278150965e-06	0.0005862045243234311	FOXA1;SOX17;MAX;NKX2-1;ETV1;ATM;GATA3;ERG;GLI1
+0	GO_Molecular_Function_2021	RNA polymerase II transcription regulatory region sequence-specific DNA binding (GO:0000977)	10/1359	3.940124290151214e-06	7.223561198610558e-05	FOXA1;SOX17;MAX;NKX2-1;PRDM14;ETV1;GATA3;ERG;GLI1;FOXP1
+0	KEGG_2021_Human	Transcriptional misregulation in cancer	5/192	4.321263564350242e-06	0.0004796602556428769	FLT1;MAX;ETV1;ATM;ERG
+0	GO_Cellular_Component_2021	intracellular membrane-bounded organelle (GO:0043231)	18/5192	4.650386545506595e-06	0.00014416198291070445	AMER1;FOXA1;MAX;PRDM14;ETV1;GATA3;GLI1;FOXP1;TRAF7;STAG2;SOX17;CCNE1;DNMT3B;NKX2-1;ATM;ERG;POLE;RBM10
+0	GO_Molecular_Function_2021	DNA binding (GO:0003677)	8/811	5.755454072034399e-06	7.703961580712784e-05	FOXA1;MAX;NKX2-1;GATA3;ERG;GLI1;POLE;PALB2
+0	GO_Biological_Process_2021	regulation of transcription by RNA polymerase II (GO:0006357)	12/2206	6.879858838434697e-06	0.001112526964593	FOXA1;SOX17;MAX;DNMT3B;NKX2-1;PRDM14;ETV1;ATM;GATA3;ERG;GLI1;FOXP1
+0	GO_Biological_Process_2021	negative regulation of epithelial to mesenchymal transition (GO:0010719)	3/29	6.967809799121566e-06	0.001112526964593	FOXA1;NKX2-1;GATA3
+0	GO_Molecular_Function_2021	transcription regulatory region nucleic acid binding (GO:0001067)	5/212	7.003601437011622e-06	7.703961580712784e-05	FOXA1;SOX17;NKX2-1;GATA3;GLI1
+0	GO_Molecular_Function_2021	RNA polymerase II cis-regulatory region sequence-specific DNA binding (GO:0000978)	9/1149	8.476092842050001e-06	7.769751771879168e-05	FOXA1;SOX17;MAX;NKX2-1;ETV1;GATA3;ERG;GLI1;FOXP1
+0	GO_Biological_Process_2021	positive regulation of transcription, DNA-templated (GO:0045893)	9/1183	1.0734072348043884e-05	0.0012854051636782	FOXA1;SOX17;MAX;NKX2-1;ETV1;ATM;GATA3;ERG;GLI1
+0	GO_Cellular_Component_2021	nucleus (GO:0005634)	16/4484	2.019303057963206e-05	0.0003129919739842969	FOXA1;MAX;PRDM14;ETV1;GATA3;GLI1;FOXP1;STAG2;SOX17;CCNE1;DNMT3B;NKX2-1;ATM;ERG;POLE;RBM10
+0	KEGG_2021_Human	MicroRNAs in cancer	5/310	4.360987241427352e-05	0.0024203479189921	CCNE1;DNMT3B;ATM;KRAS;FOXP1
+0	GO_Biological_Process_2021	regulation of gene expression (GO:0010468)	8/1079	4.566588513751917e-05	0.0042756413870489	SOX17;DNMT3B;NKX2-1;PRDM14;ATM;KRAS;GATA3;FOXP1
+0	GO_Biological_Process_2021	regulation of transcription, DNA-templated (GO:0006355)	11/2244	5.3557094618567656e-05	0.0042756413870489	FOXA1;SOX17;MAX;CCNE1;NKX2-1;PRDM14;ETV1;GATA3;ERG;GLI1;FOXP1
+0	GO_Molecular_Function_2021	DNA-binding transcription activator activity, RNA polymerase II-specific (GO:0001228)	5/333	6.126084941361488e-05	0.0004813352453926883	FOXA1;SOX17;ETV1;GATA3;ERG
+0	GO_Molecular_Function_2021	cis-regulatory region sequence-specific DNA binding (GO:0000987)	8/1149	7.134927371791002e-05	0.0004905262568106314	FOXA1;SOX17;NKX2-1;ETV1;GATA3;ERG;GLI1;FOXP1
+0	GO_Biological_Process_2021	cell cycle G1/S phase transition (GO:0044843)	3/63	7.353862470866202e-05	0.0050321430336355	MAX;CCNE1;POLE
+0	GO_Biological_Process_2021	regulation of epithelial to mesenchymal transition (GO:0010717)	3/76	0.000128734691875851	0.0077079896760665	FOXA1;NKX2-1;GATA3
+0	GO_Molecular_Function_2021	double-stranded DNA binding (GO:0003690)	6/651	0.00015329136846811085	0.0009367805850828996	FOXA1;MAX;ETV1;GATA3;ERG;FOXP1
+0	GO_Biological_Process_2021	G1/S transition of mitotic cell cycle (GO:0000082)	3/85	0.0001794725745630903	0.0092365968155078	MAX;CCNE1;POLE
+0	GO_Biological_Process_2021	digestive tract morphogenesis (GO:0048546)	2/16	0.0001928308312214584	0.0092365968155078	SOX17;GLI1
+0	GO_Molecular_Function_2021	sequence-specific DNA binding (GO:0043565)	6/707	0.0002399602180061756	0.0013197811990339	FOXA1;MAX;ETV1;GATA3;ERG;FOXP1
+0	KEGG_2021_Human	Prostate cancer	3/97	0.0002651547273213109	0.0098107249108885	CCNE1;KRAS;ERG
+0	KEGG_2021_Human	Cell cycle	3/124	0.0005449069495693542	0.0151211678505495	STAG2;CCNE1;ATM
+0	GO_Biological_Process_2021	regulation of multicellular organismal development (GO:2000026)	2/28	0.0006016231301227688	0.0261979526662551	SOX17;GATA3
+0	GO_Biological_Process_2021	epithelial tube morphogenesis (GO:0060562)	2/34	0.0008886174067263165	0.0354706448184921	SOX17;GATA3
+0	KEGG_2021_Human	Cellular senescence	3/156	0.0010608453942312	0.0235507677519343	CCNE1;ATM;KRAS
+0	GO_Biological_Process_2021	negative regulation of canonical Wnt signaling pathway (GO:0090090)	3/165	0.0012468891695578	0.0459430701706311	AMER1;SOX17;GLI1
+0	KEGG_2021_Human	Homologous recombination	2/41	0.0012916324588701	0.0238952004890973	ATM;PALB2
+0	GO_Molecular_Function_2021	E-box binding (GO:0070888)	2/41	0.0012916324588701	0.0064581622943506	MAX;GATA3
+0	GO_Biological_Process_2021	positive regulation of macromolecule metabolic process (GO:0010604)	4/384	0.0014313395967974	0.0489722619189986	DNMT3B;NKX2-1;ATM;KRAS
+0	GO_Biological_Process_2021	negative regulation of transcription by RNA polymerase II (GO:0000122)	5/684	0.0016689332412724	0.0532946015046347	MAX;DNMT3B;NKX2-1;GATA3;FOXP1
+0	GO_Cellular_Component_2021	microbody lumen (GO:0031907)	2/49	0.0018406022262669	0.0142646672535692	IDH1;ATM
+0	GO_Cellular_Component_2021	peroxisomal matrix (GO:0005782)	2/49	0.0018406022262669	0.0142646672535692	IDH1;ATM
+0	GO_Biological_Process_2021	negative regulation of cell differentiation (GO:0045596)	3/191	0.0018960525245221	0.0534240681909463	FOXA1;NKX2-1;GATA3
+0	GO_Biological_Process_2021	negative regulation of Wnt signaling pathway (GO:0030178)	3/191	0.0018960525245221	0.0534240681909463	AMER1;SOX17;GLI1
+0	GO_Biological_Process_2021	blood vessel morphogenesis (GO:0048514)	2/56	0.0023968918556559	0.0594456101611619	FLT1;SOX17
+0	GO_Biological_Process_2021	mitotic cell cycle phase transition (GO:0044772)	3/209	0.0024494110682986	0.0594456101611619	MAX;CCNE1;POLE
+0	GO_Biological_Process_2021	renal system development (GO:0072001)	2/57	0.0024820714054764	0.0594456101611619	SOX17;GATA3
+0	GO_Biological_Process_2021	negative regulation of multicellular organismal process (GO:0051241)	3/214	0.0026190558689058	0.0597394172002804	FOXA1;NKX2-1;GATA3
+0	KEGG_2021_Human	Human T-cell leukemia virus 1 infection	3/219	0.0027958243363277	0.0443337859046261	CCNE1;ATM;KRAS
+0	GO_Biological_Process_2021	positive regulation of cell population proliferation (GO:0008284)	4/474	0.0030787533905804	0.0629353541455244	FLT1;KRAS;GLI1;FOXP1
+0	GO_Biological_Process_2021	positive regulation of gene expression (GO:0010628)	4/482	0.0032694826242861	0.0629353541455244	DNMT3B;NKX2-1;ATM;KRAS
+0	GO_Biological_Process_2021	embryonic organ development (GO:0048568)	2/66	0.0033120172933686	0.0629353541455244	SOX17;GATA3
+0	GO_Biological_Process_2021	canonical Wnt signaling pathway (GO:0060070)	2/68	0.0035117758263918	0.0629353541455244	AMER1;GATA3
+0	GO_Biological_Process_2021	protein phosphorylation (GO:0006468)	4/496	0.0036225288416545	0.0629353541455244	FLT1;CCNE1;ATM;ERG
+0	KEGG_2021_Human	Central carbon metabolism in cancer	2/70	0.0037170469862234	0.0497678273063494	IDH1;KRAS
+0	GO_Biological_Process_2021	kidney development (GO:0001822)	2/70	0.0037170469862234	0.0629353541455244	SOX17;GATA3
+0	GO_Biological_Process_2021	positive regulation of nucleic acid-templated transcription (GO:1903508)	4/511	0.0040288575302104	0.0629353541455244	SOX17;NKX2-1;GATA3;GLI1
+0	KEGG_2021_Human	p53 signaling pathway	2/73	0.0040352292410553	0.0497678273063494	CCNE1;ATM
+0	GO_Biological_Process_2021	positive regulation of signal transduction (GO:0009967)	3/252	0.0041481394822865	0.0629353541455244	TRAF7;GATA3;GLI1
+0	GO_Biological_Process_2021	regulation of canonical Wnt signaling pathway (GO:0060828)	3/253	0.0041943141798124	0.0629353541455244	AMER1;SOX17;GLI1
+0	GO_Molecular_Function_2021	DNA-binding transcription repressor activity, RNA polymerase II-specific (GO:0001227)	3/256	0.0043347232189729	0.0198674814202924	MAX;GATA3;FOXP1
+0	KEGG_2021_Human	Pathways in cancer	4/531	0.004617573252149	0.051255063098855	MAX;CCNE1;KRAS;GLI1
+0	GO_Biological_Process_2021	positive regulation of endothelial cell migration (GO:0010595)	2/86	0.0055543621266744	0.0629353541455244	GATA3;FOXP1
+0	GO_Biological_Process_2021	regulation of endothelial cell migration (GO:0010594)	2/89	0.0059368006654117	0.0629353541455244	GATA3;FOXP1
+0	KEGG_2021_Human	Small cell lung cancer	2/92	0.0063309980598904	0.0588740408823313	MAX;CCNE1
+0	KEGG_2021_Human	MAPK signaling pathway	3/294	0.0063647611764682	0.0588740408823313	FLT1;MAX;KRAS
+0	GO_Biological_Process_2021	beta-catenin destruction complex assembly (GO:1904885)	1/5	0.0064836893697988	0.0629353541455244	AMER1
+0	GO_Biological_Process_2021	cardiac cell fate commitment (GO:0060911)	1/5	0.0064836893697988	0.0629353541455244	SOX17
+0	GO_Biological_Process_2021	cardiac endothelial cell differentiation (GO:0003348)	1/5	0.0064836893697988	0.0629353541455244	SOX17
+0	GO_Biological_Process_2021	regulation of endothelial tube morphogenesis (GO:1901509)	1/5	0.0064836893697988	0.0629353541455244	FOXP1
+0	GO_Biological_Process_2021	isocitrate metabolic process (GO:0006102)	1/5	0.0064836893697988	0.0629353541455244	IDH1
+0	GO_Biological_Process_2021	negative regulation of vascular endothelial cell proliferation (GO:1905563)	1/5	0.0064836893697988	0.0629353541455244	FLT1
+0	GO_Biological_Process_2021	lung morphogenesis (GO:0060425)	1/5	0.0064836893697988	0.0629353541455244	NKX2-1
+0	GO_Biological_Process_2021	nephric duct development (GO:0072176)	1/5	0.0064836893697988	0.0629353541455244	GATA3
+0	GO_Biological_Process_2021	peripheral nervous system neuron differentiation (GO:0048934)	1/5	0.0064836893697988	0.0629353541455244	ETV1
+0	GO_Biological_Process_2021	endocardial cell differentiation (GO:0060956)	1/5	0.0064836893697988	0.0629353541455244	SOX17
+0	GO_Biological_Process_2021	endodermal cell fate specification (GO:0001714)	1/5	0.0064836893697988	0.0629353541455244	SOX17
+0	GO_Molecular_Function_2021	single-stranded DNA 3'-5' exodeoxyribonuclease activity (GO:0008310)	1/5	0.0064836893697988	0.0237735276892625	POLE
+0	GO_Molecular_Function_2021	intronic transcription regulatory region sequence-specific DNA binding (GO:0001161)	1/5	0.0064836893697988	0.0237735276892625	NKX2-1
+0	GO_Molecular_Function_2021	isocitrate dehydrogenase activity (GO:0004448)	1/5	0.0064836893697988	0.0237735276892625	IDH1
+0	GO_Biological_Process_2021	positive regulation of epithelial cell migration (GO:0010634)	2/94	0.0066002844839779	0.0629353541455244	GATA3;FOXP1
+0	GO_Biological_Process_2021	negative regulation of transcription, DNA-templated (GO:0045892)	5/948	0.0067822633112481	0.0629353541455244	MAX;DNMT3B;NKX2-1;GATA3;FOXP1
+0	GO_Biological_Process_2021	positive regulation of apoptotic process (GO:0043065)	3/310	0.0073636893637585	0.0629353541455244	FOXA1;TRAF7;ATM
+0	GO_Biological_Process_2021	epithelial cell differentiation (GO:0030855)	2/101	0.0075832442771842	0.0629353541455244	GATA3;GLI1
+0	GO_Biological_Process_2021	epithelial tube branching involved in lung morphogenesis (GO:0060441)	1/6	0.007775574144635	0.0629353541455244	NKX2-1
+0	GO_Biological_Process_2021	epithelial tube formation (GO:0072175)	1/6	0.007775574144635	0.0629353541455244	GATA3
+0	GO_Biological_Process_2021	positive regulation of animal organ morphogenesis (GO:0110110)	1/6	0.007775574144635	0.0629353541455244	GATA3
+0	GO_Biological_Process_2021	negative regulation of histone H3-K9 methylation (GO:0051573)	1/6	0.007775574144635	0.0629353541455244	DNMT3B
+0	GO_Biological_Process_2021	cellular response to X-ray (GO:0071481)	1/6	0.007775574144635	0.0629353541455244	ATM
+0	GO_Biological_Process_2021	nephric duct morphogenesis (GO:0072178)	1/6	0.007775574144635	0.0629353541455244	GATA3
+0	GO_Biological_Process_2021	norepinephrine biosynthetic process (GO:0042421)	1/6	0.007775574144635	0.0629353541455244	GATA3
+0	GO_Biological_Process_2021	peripheral nervous system neuron development (GO:0048935)	1/6	0.007775574144635	0.0629353541455244	ETV1
+0	GO_Biological_Process_2021	ear development (GO:0043583)	1/6	0.007775574144635	0.0629353541455244	GATA3
+0	GO_Molecular_Function_2021	pre-mRNA 3'-splice site binding (GO:0030628)	1/6	0.007775574144635	0.0251562692914663	U2AF1
+0	GO_Molecular_Function_2021	DNA-methyltransferase activity (GO:0009008)	1/6	0.007775574144635	0.0251562692914663	DNMT3B
+0	GO_Biological_Process_2021	positive regulation of cellular process (GO:0048522)	4/625	0.0081718350246007	0.0629353541455244	FLT1;ATM;KRAS;GLI1
+0	GO_Biological_Process_2021	DNA replication (GO:0006260)	2/108	0.008628277760813	0.0629353541455244	ATM;POLE
+0	KEGG_2021_Human	Human papillomavirus infection	3/331	0.008809345935752	0.0752182614514209	CCNE1;ATM;KRAS
+0	GO_Biological_Process_2021	positive regulation of B cell receptor signaling pathway (GO:0050861)	1/7	0.0090658443341152	0.0629353541455244	FOXP1
+0	GO_Biological_Process_2021	positive regulation of epithelial tube formation (GO:1905278)	1/7	0.0090658443341152	0.0629353541455244	GATA3
+0	GO_Biological_Process_2021	positive regulation of hormone metabolic process (GO:0032352)	1/7	0.0090658443341152	0.0629353541455244	GATA3
+0	GO_Biological_Process_2021	positive regulation of interleukin-5 production (GO:0032754)	1/7	0.0090658443341152	0.0629353541455244	GATA3
+0	GO_Biological_Process_2021	positive regulation of intracellular estrogen receptor signaling pathway (GO:0033148)	1/7	0.0090658443341152	0.0629353541455244	FOXA1
+0	GO_Biological_Process_2021	regulation of defense response to bacterium (GO:1900424)	1/7	0.0090658443341152	0.0629353541455244	FOXP1
+0	GO_Biological_Process_2021	negative regulation of telomere capping (GO:1904354)	1/7	0.0090658443341152	0.0629353541455244	ATM
+0	GO_Biological_Process_2021	norepinephrine metabolic process (GO:0042415)	1/7	0.0090658443341152	0.0629353541455244	GATA3
+0	GO_Biological_Process_2021	regulation of morphogenesis of an epithelium (GO:1905330)	1/7	0.0090658443341152	0.0629353541455244	FOXP1
+0	GO_Biological_Process_2021	ureter development (GO:0072189)	1/7	0.0090658443341152	0.0629353541455244	SOX17
+0	GO_Biological_Process_2021	pexophagy (GO:0000425)	1/7	0.0090658443341152	0.0629353541455244	ATM
+0	GO_Molecular_Function_2021	vascular endothelial growth factor-activated receptor activity (GO:0005021)	1/7	0.0090658443341152	0.0277011910209075	FLT1
+0	GO_Biological_Process_2021	negative regulation of cell motility (GO:2000146)	2/114	0.0095725791190474	0.063587260662396	NKX2-1;GATA3
+0	GO_Biological_Process_2021	response to lipid (GO:0033993)	2/114	0.0095725791190474	0.063587260662396	FOXA1;FOXP1
+0	GO_Biological_Process_2021	negative regulation of B cell apoptotic process (GO:0002903)	1/8	0.0103545017362565	0.063587260662396	FOXP1
+0	GO_Biological_Process_2021	positive regulation of intracellular steroid hormone receptor signaling pathway (GO:0033145)	1/8	0.0103545017362565	0.063587260662396	FOXA1
+0	GO_Biological_Process_2021	cellular response to interferon-alpha (GO:0035457)	1/8	0.0103545017362565	0.063587260662396	GATA3
+0	GO_Biological_Process_2021	thyroid gland development (GO:0030878)	1/8	0.0103545017362565	0.063587260662396	NKX2-1
+0	GO_Biological_Process_2021	regulation of myeloid leukocyte differentiation (GO:0002761)	1/8	0.0103545017362565	0.063587260662396	FOXP1
+0	GO_Biological_Process_2021	DNA damage induced protein phosphorylation (GO:0006975)	1/8	0.0103545017362565	0.063587260662396	ATM
+0	GO_Biological_Process_2021	peptidyl-serine autophosphorylation (GO:0036289)	1/8	0.0103545017362565	0.063587260662396	ATM
+0	KEGG_2021_Human	PI3K-Akt signaling pathway	3/354	0.0105722550010376	0.0838228789367984	FLT1;CCNE1;KRAS
+0	GO_Biological_Process_2021	positive regulation of cell-cell adhesion mediated by cadherin (GO:2000049)	1/9	0.0116415481869311	0.0663845426373813	FOXA1
+0	GO_Biological_Process_2021	regulation of tumor necrosis factor superfamily cytokine production (GO:1903555)	1/9	0.0116415481869311	0.0663845426373813	FOXP1
+0	GO_Biological_Process_2021	bone cell development (GO:0098751)	1/9	0.0116415481869311	0.0663845426373813	FOXP1
+0	GO_Biological_Process_2021	histone arginine methylation (GO:0034969)	1/9	0.0116415481869311	0.0663845426373813	PRDM14
+0	GO_Biological_Process_2021	regulation of mammary gland epithelial cell proliferation (GO:0033599)	1/9	0.0116415481869311	0.0663845426373813	GATA3
+0	GO_Biological_Process_2021	regulation of nephron tubule epithelial cell differentiation (GO:0072182)	1/9	0.0116415481869311	0.0663845426373813	GATA3
+0	GO_Molecular_Function_2021	single-stranded DNA exodeoxyribonuclease activity (GO:0008297)	1/9	0.0116415481869311	0.0336992184358533	POLE
+0	GO_Cellular_Component_2021	peroxisome (GO:0005777)	2/128	0.0119462168255942	0.0740665443186843	IDH1;ATM
+0	KEGG_2021_Human	FoxO signaling pathway	2/131	0.012485247380843	0.0923908306182383	ATM;KRAS
+0	GO_Biological_Process_2021	positive regulation of circadian rhythm (GO:0042753)	1/10	0.0129269855424658	0.068044242580672	NKX2-1
+0	GO_Biological_Process_2021	negative regulation of lymphocyte apoptotic process (GO:0070229)	1/10	0.0129269855424658	0.068044242580672	FOXP1
+0	GO_Biological_Process_2021	response to interleukin-4 (GO:0070670)	1/10	0.0129269855424658	0.068044242580672	GATA3
+0	GO_Biological_Process_2021	cellular response to interleukin-4 (GO:0071353)	1/10	0.0129269855424658	0.068044242580672	GATA3
+0	GO_Biological_Process_2021	mesenchymal to epithelial transition (GO:0060231)	1/10	0.0129269855424658	0.068044242580672	GATA3
+0	GO_Biological_Process_2021	monocyte activation (GO:0042117)	1/10	0.0129269855424658	0.068044242580672	FOXP1
+0	GO_Biological_Process_2021	endodermal cell fate commitment (GO:0001711)	1/10	0.0129269855424658	0.068044242580672	SOX17
+0	GO_Molecular_Function_2021	1-phosphatidylinositol-3-kinase activity (GO:0016303)	1/10	0.0129269855424658	0.0355492102417811	ATM
+0	GO_Biological_Process_2021	positive regulation of interleukin-13 production (GO:0032736)	1/11	0.0142108156769532	0.0720501590943639	GATA3
+0	GO_Biological_Process_2021	mesonephros development (GO:0001823)	1/11	0.0142108156769532	0.0720501590943639	GATA3
+0	GO_Molecular_Function_2021	3'-5'-exodeoxyribonuclease activity (GO:0008296)	1/11	0.0142108156769532	0.0372188029634488	POLE
+0	KEGG_2021_Human	Apoptosis	2/142	0.0145512286041589	0.1009491484413528	ATM;KRAS
+0	GO_Biological_Process_2021	phosphorylation (GO:0016310)	3/400	0.014677765390049	0.0720501590943639	CCNE1;ATM;ERG
+0	GO_Biological_Process_2021	regulation of cell migration (GO:0030334)	3/408	0.015472204304082	0.0720501590943639	FLT1;NKX2-1;ATM
+0	GO_Biological_Process_2021	negative regulation of B cell proliferation (GO:0030889)	1/12	0.0154930404733183	0.0720501590943639	ATM
+0	GO_Biological_Process_2021	attachment of mitotic spindle microtubules to kinetochore (GO:0051315)	1/12	0.0154930404733183	0.0720501590943639	NUF2
+0	GO_Biological_Process_2021	regulation of B cell apoptotic process (GO:0002902)	1/12	0.0154930404733183	0.0720501590943639	FOXP1
+0	GO_Biological_Process_2021	autophagy of peroxisome (GO:0030242)	1/12	0.0154930404733183	0.0720501590943639	ATM
+0	GO_Biological_Process_2021	replicative senescence (GO:0090399)	1/12	0.0154930404733183	0.0720501590943639	ATM
+0	GO_Biological_Process_2021	catecholamine biosynthetic process (GO:0042423)	1/12	0.0154930404733183	0.0720501590943639	GATA3
+0	GO_Biological_Process_2021	regulation of histone H3-K9 methylation (GO:0051570)	1/12	0.0154930404733183	0.0720501590943639	DNMT3B
+0	GO_Biological_Process_2021	tricarboxylic acid metabolic process (GO:0072350)	1/12	0.0154930404733183	0.0720501590943639	IDH1
+0	GO_Molecular_Function_2021	phosphatidylinositol 3-kinase activity (GO:0035004)	1/12	0.0154930404733183	0.0387326011832958	ATM
+0	KEGG_2021_Human	Gastric cancer	2/149	0.0159378462546048	0.1040647608388904	CCNE1;KRAS
+0	GO_Biological_Process_2021	regulation of cytokine production (GO:0001817)	2/150	0.0161404226851223	0.0723836397606359	GATA3;FOXP1
+0	GO_Biological_Process_2021	regulation of cell population proliferation (GO:0042127)	4/764	0.0161715836372693	0.0723836397606359	FLT1;KRAS;GATA3;GLI1
+0	GO_Biological_Process_2021	negative regulation of histone methylation (GO:0031061)	1/13	0.0167736618234459	0.0723836397606359	DNMT3B
+0	GO_Biological_Process_2021	negative regulation of locomotion (GO:0040013)	1/13	0.0167736618234459	0.0723836397606359	GATA3
+0	GO_Biological_Process_2021	regulation of chemokine (C-X-C motif) ligand 2 production (GO:2000341)	1/13	0.0167736618234459	0.0723836397606359	FOXP1
+0	GO_Biological_Process_2021	cardiac right ventricle morphogenesis (GO:0003215)	1/13	0.0167736618234459	0.0723836397606359	GATA3
+0	GO_Biological_Process_2021	kinetochore organization (GO:0051383)	1/13	0.0167736618234459	0.0723836397606359	NUF2
+0	GO_Biological_Process_2021	regulation of interleukin-5 production (GO:0032674)	1/13	0.0167736618234459	0.0723836397606359	GATA3
+0	GO_Biological_Process_2021	mitotic spindle organization (GO:0007052)	2/157	0.0175894542914014	0.0726658360909581	STAG2;NUF2
+0	GO_Biological_Process_2021	protein autophosphorylation (GO:0046777)	2/159	0.0180133370409422	0.0726658360909581	FLT1;ATM
+0	GO_Biological_Process_2021	2-oxoglutarate metabolic process (GO:0006103)	1/14	0.0180526816175866	0.0726658360909581	IDH1
+0	GO_Biological_Process_2021	positive regulation of cardiac muscle cell proliferation (GO:0060045)	1/14	0.0180526816175866	0.0726658360909581	GLI1
+0	GO_Biological_Process_2021	negative regulation of fibroblast growth factor receptor signaling pathway (GO:0040037)	1/14	0.0180526816175866	0.0726658360909581	GATA3
+0	GO_Biological_Process_2021	response to X-ray (GO:0010165)	1/14	0.0180526816175866	0.0726658360909581	ATM
+0	GO_Biological_Process_2021	negative regulation of TORC1 signaling (GO:1904262)	1/14	0.0180526816175866	0.0726658360909581	ATM
+0	GO_Biological_Process_2021	T-helper cell differentiation (GO:0042093)	1/14	0.0180526816175866	0.0726658360909581	FOXP1
+0	KEGG_2021_Human	Hepatitis B	2/162	0.018657300304255	0.1150533518762394	CCNE1;KRAS
+0	GO_Biological_Process_2021	double-strand break repair (GO:0006302)	2/164	0.0190920008682535	0.0729064467761242	ATM;PALB2
+0	GO_Biological_Process_2021	negative regulation of androgen receptor signaling pathway (GO:0060766)	1/15	0.0193301017548387	0.0729064467761242	FOXP1
+0	GO_Biological_Process_2021	negative regulation of cellular component movement (GO:0051271)	1/15	0.0193301017548387	0.0729064467761242	GATA3
+0	GO_Biological_Process_2021	positive regulation of DNA damage response, signal transduction by p53 class mediator (GO:0043517)	1/15	0.0193301017548387	0.0729064467761242	ATM
+0	GO_Biological_Process_2021	positive regulation of histone H3-K4 methylation (GO:0051571)	1/15	0.0193301017548387	0.0729064467761242	DNMT3B
+0	GO_Biological_Process_2021	histone mRNA catabolic process (GO:0071044)	1/15	0.0193301017548387	0.0729064467761242	ATM
+0	GO_Biological_Process_2021	regulation of phospholipase C activity (GO:1900274)	1/15	0.0193301017548387	0.0729064467761242	FLT1
+0	GO_Biological_Process_2021	endoderm development (GO:0007492)	1/15	0.0193301017548387	0.0729064467761242	SOX17
+0	GO_Molecular_Function_2021	phosphatidylinositol kinase activity (GO:0052742)	1/15	0.0193301017548387	0.0462241563702666	ATM
+0	GO_Biological_Process_2021	regulation of MAPK cascade (GO:0043408)	2/166	0.0195309874193331	0.0730886169832858	TRAF7;FLT1
+0	GO_Biological_Process_2021	negative regulation of telomere maintenance (GO:0032205)	1/16	0.0206059241328129	0.074212313230206	ATM
+0	GO_Biological_Process_2021	regulation of interleukin-1 production (GO:0032652)	1/16	0.0206059241328129	0.074212313230206	FOXP1
+0	GO_Biological_Process_2021	sympathetic nervous system development (GO:0048485)	1/16	0.0206059241328129	0.074212313230206	GATA3
+0	GO_Biological_Process_2021	regulation of interleukin-13 production (GO:0032656)	1/16	0.0206059241328129	0.074212313230206	GATA3
+0	GO_Biological_Process_2021	regulation of monocyte differentiation (GO:0045655)	1/16	0.0206059241328129	0.074212313230206	FOXP1
+0	GO_Biological_Process_2021	negative regulation of nucleic acid-templated transcription (GO:1903507)	3/464	0.0217131699193213	0.0743304408723294	NKX2-1;GATA3;FOXP1
+0	GO_Biological_Process_2021	positive regulation of cardiac muscle tissue growth (GO:0055023)	1/17	0.0218801506534414	0.0743304408723294	GLI1
+0	GO_Biological_Process_2021	regulation of transferase activity (GO:0051338)	1/17	0.0218801506534414	0.0743304408723294	ATM
+0	GO_Biological_Process_2021	positive regulation of DNA replication (GO:0045740)	1/17	0.0218801506534414	0.0743304408723294	GLI1
+0	GO_Biological_Process_2021	cellular response to gamma radiation (GO:0071480)	1/17	0.0218801506534414	0.0743304408723294	ATM
+0	GO_Biological_Process_2021	positive regulation of stem cell proliferation (GO:2000648)	1/17	0.0218801506534414	0.0743304408723294	CCNE1
+0	GO_Biological_Process_2021	DNA biosynthetic process (GO:0071897)	1/17	0.0218801506534414	0.0743304408723294	POLE
+0	GO_Biological_Process_2021	pharyngeal system development (GO:0060037)	1/17	0.0218801506534414	0.0743304408723294	GATA3
+0	GO_Biological_Process_2021	positive regulation of cell cycle phase transition (GO:1901989)	1/18	0.0231527832149216	0.0744307594627347	GLI1
+0	GO_Biological_Process_2021	regulation of telomere maintenance via telomere lengthening (GO:1904356)	1/18	0.0231527832149216	0.0744307594627347	ATM
+0	GO_Biological_Process_2021	regulation of vascular endothelial cell proliferation (GO:1905562)	1/18	0.0231527832149216	0.0744307594627347	FLT1
+0	GO_Biological_Process_2021	response to interferon-alpha (GO:0035455)	1/18	0.0231527832149216	0.0744307594627347	GATA3
+0	GO_Biological_Process_2021	regulation of cellular protein catabolic process (GO:1903362)	1/18	0.0231527832149216	0.0744307594627347	AMER1
+0	GO_Biological_Process_2021	positive regulation of interleukin-4 production (GO:0032753)	1/18	0.0231527832149216	0.0744307594627347	GATA3
+0	GO_Biological_Process_2021	DNA strand elongation involved in DNA replication (GO:0006271)	1/18	0.0231527832149216	0.0744307594627347	POLE
+0	GO_Biological_Process_2021	embryonic heart tube development (GO:0035050)	1/18	0.0231527832149216	0.0744307594627347	SOX17
+0	GO_Biological_Process_2021	positive regulation of cellular protein catabolic process (GO:1903364)	1/19	0.0244238237126149	0.0745159971868952	AMER1
+0	GO_Biological_Process_2021	regulation of cell-cell adhesion mediated by cadherin (GO:2000047)	1/19	0.0244238237126149	0.0745159971868952	FOXA1
+0	GO_Biological_Process_2021	regulation of epithelial cell differentiation (GO:0030856)	1/19	0.0244238237126149	0.0745159971868952	GATA3
+0	GO_Biological_Process_2021	regulation of histone H3-K4 methylation (GO:0051569)	1/19	0.0244238237126149	0.0745159971868952	DNMT3B
+0	GO_Biological_Process_2021	ureteric bud morphogenesis (GO:0060675)	1/19	0.0244238237126149	0.0745159971868952	GATA3
+0	GO_Biological_Process_2021	DNA alkylation (GO:0006305)	1/19	0.0244238237126149	0.0745159971868952	DNMT3B
+0	GO_Biological_Process_2021	DNA double-strand break processing (GO:0000729)	1/19	0.0244238237126149	0.0745159971868952	ATM
+0	GO_Biological_Process_2021	DNA methylation or demethylation (GO:0044728)	1/19	0.0244238237126149	0.0745159971868952	DNMT3B
+0	GO_Biological_Process_2021	cardiac ventricle development (GO:0003231)	1/20	0.0256932740553108	0.0755227146791849	GATA3
+0	GO_Biological_Process_2021	positive regulation of lymphocyte differentiation (GO:0045621)	1/20	0.0256932740553108	0.0755227146791849	GATA3
+0	GO_Biological_Process_2021	positive regulation of nitrogen compound metabolic process (GO:0051173)	1/20	0.0256932740553108	0.0755227146791849	GATA3
+0	GO_Biological_Process_2021	dopaminergic neuron differentiation (GO:0071542)	1/20	0.0256932740553108	0.0755227146791849	FOXA1
+0	GO_Biological_Process_2021	myeloid cell development (GO:0061515)	1/20	0.0256932740553108	0.0755227146791849	FOXP1
+0	GO_Biological_Process_2021	positive regulation of antigen receptor-mediated signaling pathway (GO:0050857)	1/21	0.0269611361380806	0.0755227146791849	FOXP1
+0	GO_Biological_Process_2021	autonomic nervous system development (GO:0048483)	1/21	0.0269611361380806	0.0755227146791849	GATA3
+0	GO_Biological_Process_2021	beta-catenin destruction complex disassembly (GO:1904886)	1/21	0.0269611361380806	0.0755227146791849	AMER1
+0	GO_Biological_Process_2021	regulation of cardiac muscle cell proliferation (GO:0060043)	1/21	0.0269611361380806	0.0755227146791849	GLI1
+0	GO_Biological_Process_2021	spindle assembly checkpoint signaling (GO:0071173)	1/21	0.0269611361380806	0.0755227146791849	ATM
+0	GO_Biological_Process_2021	positive regulation of smoothened signaling pathway (GO:0045880)	1/21	0.0269611361380806	0.0755227146791849	GLI1
+0	GO_Biological_Process_2021	positive regulation of transcription regulatory region DNA binding (GO:2000679)	1/21	0.0269611361380806	0.0755227146791849	GATA3
+0	GO_Biological_Process_2021	mitotic spindle assembly checkpoint signaling (GO:0007094)	1/21	0.0269611361380806	0.0755227146791849	ATM
+0	GO_Biological_Process_2021	mitotic spindle checkpoint signaling (GO:0071174)	1/21	0.0269611361380806	0.0755227146791849	ATM
+0	GO_Molecular_Function_2021	DNA-directed DNA polymerase activity (GO:0003887)	1/21	0.0269611361380806	0.0617859369831014	POLE
+0	GO_Biological_Process_2021	regulation of signal transduction (GO:0009966)	2/198	0.0271188437606929	0.075522826519604	GATA3;GLI1
+0	GO_Biological_Process_2021	regulation of macromolecule metabolic process (GO:0060255)	2/200	0.0276271829006745	0.076389436614148	PRDM14;FOXP1
+0	GO_Biological_Process_2021	negative regulation of B cell activation (GO:0050869)	1/22	0.0282274118595077	0.076389436614148	ATM
+0	GO_Biological_Process_2021	negative regulation of mitotic metaphase/anaphase transition (GO:0045841)	1/22	0.0282274118595077	0.076389436614148	ATM
+0	GO_Biological_Process_2021	positive regulation of signal transduction by p53 class mediator (GO:1901798)	1/22	0.0282274118595077	0.076389436614148	ATM
+0	GO_Biological_Process_2021	osteoclast differentiation (GO:0030316)	1/22	0.0282274118595077	0.076389436614148	FOXP1
+0	GO_Molecular_Function_2021	DNA polymerase activity (GO:0034061)	1/22	0.0282274118595077	0.0621003060909169	POLE
+0	KEGG_2021_Human	Viral carcinogenesis	2/203	0.0283969557018182	0.1625774108463942	CCNE1;KRAS
+0	GO_Biological_Process_2021	regulation of inflammatory response (GO:0050727)	2/206	0.0291753798046063	0.077619326323991	GATA3;FOXP1
+0	GO_Biological_Process_2021	regulation of telomere capping (GO:1904353)	1/23	0.0294921031126646	0.077619326323991	ATM
+0	GO_Biological_Process_2021	regulation of B cell receptor signaling pathway (GO:0050855)	1/23	0.0294921031126646	0.077619326323991	FOXP1
+0	GO_Biological_Process_2021	regulation of interleukin-4 production (GO:0032673)	1/23	0.0294921031126646	0.077619326323991	GATA3
+0	GO_Biological_Process_2021	DNA methylation (GO:0006306)	1/23	0.0294921031126646	0.077619326323991	DNMT3B
+0	KEGG_2021_Human	Rap1 signaling pathway	2/210	0.0302266093031515	0.1625774108463942	FLT1;KRAS
+0	GO_Biological_Process_2021	response to gamma radiation (GO:0010332)	1/24	0.0307552117947077	0.0792029379014247	ATM
+0	GO_Biological_Process_2021	positive regulation of phospholipase activity (GO:0010518)	1/24	0.0307552117947077	0.0792029379014247	FLT1
+0	GO_Biological_Process_2021	nucleotide-excision repair, DNA gap filling (GO:0006297)	1/24	0.0307552117947077	0.0792029379014247	POLE
+0	GO_Biological_Process_2021	endocrine system development (GO:0035270)	1/24	0.0307552117947077	0.0792029379014247	NKX2-1
+0	KEGG_2021_Human	Human immunodeficiency virus 1 infection	2/212	0.030757888538507	0.1625774108463942	ATM;KRAS
+0	GO_Biological_Process_2021	ribosomal large subunit assembly (GO:0000027)	1/25	0.0320167398038226	0.0820107934012355	TRAF7
+0	GO_Biological_Process_2021	positive regulation of intracellular signal transduction (GO:1902533)	3/546	0.033020703813848	0.082588259296198	TRAF7;FLT1;GATA3
+0	GO_Biological_Process_2021	negative regulation of cellular macromolecule biosynthetic process (GO:2000113)	3/547	0.033174520420238	0.082588259296198	NKX2-1;GATA3;FOXP1
+0	GO_Biological_Process_2021	positive regulation of cell motility (GO:2000147)	2/221	0.0331947133294385	0.082588259296198	FLT1;ATM
+0	GO_Biological_Process_2021	positive regulation of histone methylation (GO:0031062)	1/26	0.0332766890274869	0.082588259296198	DNMT3B
+0	GO_Biological_Process_2021	TOR signaling (GO:0031929)	1/26	0.0332766890274869	0.082588259296198	GATA3
+0	GO_Biological_Process_2021	metanephros development (GO:0001656)	1/26	0.0332766890274869	0.082588259296198	SOX17
+0	GO_Cellular_Component_2021	MLL1 complex (GO:0071339)	1/26	0.0332766890274869	0.1473681942645848	MAX
+0	GO_Cellular_Component_2021	MLL1/2 complex (GO:0044665)	1/26	0.0332766890274869	0.1473681942645848	MAX
+0	GO_Biological_Process_2021	negative regulation of endothelial cell apoptotic process (GO:2000352)	1/27	0.0345350613606546	0.0843994611824163	GATA3
+0	GO_Biological_Process_2021	regulation of transcription regulatory region DNA binding (GO:2000677)	1/27	0.0345350613606546	0.0843994611824163	GATA3
+0	GO_Biological_Process_2021	positive regulation of mitotic cell cycle (GO:0045931)	1/27	0.0345350613606546	0.0843994611824163	FOXA1
+0	GO_Molecular_Function_2021	androgen receptor binding (GO:0050681)	1/27	0.0345350613606546	0.0730549374936926	FOXP1
+0	GO_Biological_Process_2021	positive regulation of cell communication (GO:0010647)	1/28	0.0357918586912164	0.0857215015654633	GATA3
+0	GO_Biological_Process_2021	histone mRNA metabolic process (GO:0008334)	1/28	0.0357918586912164	0.0857215015654633	ATM
+0	GO_Biological_Process_2021	regulation of DNA damage response, signal transduction by p53 class mediator (GO:0043516)	1/28	0.0357918586912164	0.0857215015654633	ATM
+0	GO_Biological_Process_2021	positive regulation of phosphatidylinositol 3-kinase activity (GO:0043552)	1/28	0.0357918586912164	0.0857215015654633	FLT1
+0	KEGG_2021_Human	Ras signaling pathway	2/232	0.0362732909268594	0.183015240585518	FLT1;KRAS
+0	GO_Biological_Process_2021	regulation of response to biotic stimulus (GO:0002831)	1/29	0.0370470829069464	0.0878492708536008	FOXP1
+0	GO_Biological_Process_2021	regulation of DNA biosynthetic process (GO:2000278)	1/29	0.0370470829069464	0.0878492708536008	ATM
+0	GO_Molecular_Function_2021	pre-mRNA binding (GO:0036002)	1/29	0.0370470829069464	0.0752335883563694	U2AF1
+0	KEGG_2021_Human	Citrate cycle (TCA cycle)	1/30	0.0383007358905153	0.1848426819064002	IDH1
+0	GO_Biological_Process_2021	negative regulation of gene expression, epigenetic (GO:0045814)	1/30	0.0383007358905153	0.0894929389832041	DNMT3B
+0	GO_Biological_Process_2021	respiratory tube development (GO:0030323)	1/30	0.0383007358905153	0.0894929389832041	NKX2-1
+0	GO_Biological_Process_2021	positive regulation of lipid kinase activity (GO:0090218)	1/30	0.0383007358905153	0.0894929389832041	FLT1
+0	GO_Cellular_Component_2021	cyclin-dependent protein kinase holoenzyme complex (GO:0000307)	1/30	0.0383007358905153	0.148415351575747	CCNE1
+0	GO_Molecular_Function_2021	miRNA binding (GO:0035198)	1/30	0.0383007358905153	0.0752335883563694	RBM10
+0	KEGG_2021_Human	Shigellosis	2/246	0.0403457775115726	0.1864501505669174	U2AF1;ATM
+0	GO_Biological_Process_2021	aortic valve morphogenesis (GO:0003180)	1/32	0.0408033357136717	0.0921567086381335	GATA3
+0	GO_Biological_Process_2021	regulation of transcription involved in G1/S transition of mitotic cell cycle (GO:0000083)	1/32	0.0408033357136717	0.0921567086381335	CCNE1
+0	GO_Biological_Process_2021	negative regulation of intracellular steroid hormone receptor signaling pathway (GO:0033144)	1/32	0.0408033357136717	0.0921567086381335	FOXP1
+0	GO_Biological_Process_2021	hematopoietic progenitor cell differentiation (GO:0002244)	1/32	0.0408033357136717	0.0921567086381335	FLT1
+0	GO_Biological_Process_2021	regulation of intracellular estrogen receptor signaling pathway (GO:0033146)	1/32	0.0408033357136717	0.0921567086381335	FOXA1
+0	GO_Biological_Process_2021	positive regulation of telomere maintenance (GO:0032206)	1/32	0.0408033357136717	0.0921567086381335	ATM
+0	GO_Biological_Process_2021	DNA damage checkpoint signaling (GO:0000077)	1/32	0.0408033357136717	0.0921567086381335	ATM
+0	GO_Biological_Process_2021	RNA splicing, via transesterification reactions with bulged adenosine as nucleophile (GO:0000377)	2/251	0.0418409015533308	0.0921567086381335	U2AF1;RBM10
+0	KEGG_2021_Human	Base excision repair	1/33	0.0420522863055333	0.1864501505669174	POLE
+0	GO_Biological_Process_2021	positive regulation of telomere maintenance via telomerase (GO:0032212)	1/33	0.0420522863055333	0.0921567086381335	ATM
+0	GO_Biological_Process_2021	vasculogenesis (GO:0001570)	1/33	0.0420522863055333	0.0921567086381335	SOX17
+0	GO_Biological_Process_2021	mitotic G2 DNA damage checkpoint signaling (GO:0007095)	1/33	0.0420522863055333	0.0921567086381335	ATM
+0	GO_Biological_Process_2021	positive regulation of phosphorylation (GO:0042327)	2/253	0.0424448202374921	0.0921567086381335	FLT1;KRAS
+0	GO_Biological_Process_2021	positive regulation of DNA binding (GO:0043388)	1/34	0.0432996732000933	0.0921567086381335	GATA3
+0	GO_Biological_Process_2021	positive regulation of pri-miRNA transcription by RNA polymerase II (GO:1902895)	1/34	0.0432996732000933	0.0921567086381335	GATA3
+0	GO_Biological_Process_2021	cellular response to vascular endothelial growth factor stimulus (GO:0035924)	1/34	0.0432996732000933	0.0921567086381335	FLT1
+0	GO_Biological_Process_2021	phosphatidylinositol 3-kinase signaling (GO:0014065)	1/34	0.0432996732000933	0.0921567086381335	GATA3
+0	GO_Biological_Process_2021	protein destabilization (GO:0031648)	1/34	0.0432996732000933	0.0921567086381335	SOX17
+0	GO_Biological_Process_2021	positive regulation of cell cycle G1/S phase transition (GO:1902808)	1/35	0.0445454982675267	0.0921567086381335	GLI1
+0	GO_Biological_Process_2021	regulation of TORC1 signaling (GO:1903432)	1/35	0.0445454982675267	0.0921567086381335	ATM
+0	GO_Biological_Process_2021	base-excision repair, gap-filling (GO:0006287)	1/35	0.0445454982675267	0.0921567086381335	POLE
+0	GO_Biological_Process_2021	respiratory system development (GO:0060541)	1/35	0.0445454982675267	0.0921567086381335	NKX2-1
+0	GO_Biological_Process_2021	response to estrogen (GO:0043627)	1/35	0.0445454982675267	0.0921567086381335	GATA3
+0	GO_Biological_Process_2021	smoothened signaling pathway (GO:0007224)	1/35	0.0445454982675267	0.0921567086381335	GLI1
+0	GO_Biological_Process_2021	lung development (GO:0030324)	1/35	0.0445454982675267	0.0921567086381335	NKX2-1
+0	GO_Biological_Process_2021	regulation of phosphatidylinositol 3-kinase activity (GO:0043551)	1/35	0.0445454982675267	0.0921567086381335	FLT1
+0	KEGG_2021_Human	DNA replication	1/36	0.0457897633734358	0.1864501505669174	POLE
+0	GO_Biological_Process_2021	aortic valve development (GO:0003176)	1/36	0.0457897633734358	0.0921567086381335	GATA3
+0	GO_Biological_Process_2021	regulation of androgen receptor signaling pathway (GO:0060765)	1/36	0.0457897633734358	0.0921567086381335	FOXP1
+0	GO_Biological_Process_2021	negative regulation of fat cell differentiation (GO:0045599)	1/36	0.0457897633734358	0.0921567086381335	GATA3
+0	GO_Biological_Process_2021	regulation of cell cycle G1/S phase transition (GO:1902806)	1/36	0.0457897633734358	0.0921567086381335	GLI1
+0	GO_Biological_Process_2021	regulation of embryonic development (GO:0045995)	1/36	0.0457897633734358	0.0921567086381335	SOX17
+0	GO_Biological_Process_2021	macrophage activation (GO:0042116)	1/36	0.0457897633734358	0.0921567086381335	FOXP1
+0	GO_Biological_Process_2021	positive regulation of telomere maintenance via telomere lengthening (GO:1904358)	1/36	0.0457897633734358	0.0921567086381335	ATM
+0	GO_Biological_Process_2021	endoderm formation (GO:0001706)	1/36	0.0457897633734358	0.0921567086381335	SOX17
+0	KEGG_2021_Human	Aldosterone-regulated sodium reabsorption	1/37	0.0470324704132764	0.1864501505669174	KRAS
+0	KEGG_2021_Human	Thyroid cancer	1/37	0.0470324704132764	0.1864501505669174	KRAS
+0	GO_Biological_Process_2021	negative regulation of endothelial cell proliferation (GO:0001937)	1/37	0.0470324704132764	0.0932381635883219	FLT1
+0	GO_Biological_Process_2021	negative regulation of epithelial cell apoptotic process (GO:1904036)	1/37	0.0470324704132764	0.0932381635883219	GATA3
+0	GO_Cellular_Component_2021	serine/threonine protein kinase complex (GO:1902554)	1/37	0.0470324704132764	0.1620007314235078	CCNE1
+0	GO_Molecular_Function_2021	core promoter sequence-specific DNA binding (GO:0001046)	1/37	0.0470324704132764	0.0891995128527657	FOXP1
+0	GO_Biological_Process_2021	positive regulation of cell migration (GO:0030335)	2/269	0.0473941675384968	0.0932381635883219	FLT1;ATM
+0	GO_Biological_Process_2021	regulation of apoptotic signaling pathway (GO:2001233)	1/38	0.048273621231532	0.0932381635883219	TRAF7
+0	GO_Biological_Process_2021	negative regulation of G0 to G1 transition (GO:0070317)	1/38	0.048273621231532	0.0932381635883219	MAX
+0	GO_Biological_Process_2021	response to estradiol (GO:0032355)	1/38	0.048273621231532	0.0932381635883219	FOXA1
+0	GO_Biological_Process_2021	negative regulation of TOR signaling (GO:0032007)	1/38	0.048273621231532	0.0932381635883219	ATM
+0	GO_Biological_Process_2021	positive regulation of signaling (GO:0023056)	1/38	0.048273621231532	0.0932381635883219	GATA3
+0	GO_Biological_Process_2021	ventricular septum development (GO:0003281)	1/38	0.048273621231532	0.0932381635883219	GATA3
+0	GO_Biological_Process_2021	DNA replication initiation (GO:0006270)	1/38	0.048273621231532	0.0932381635883219	POLE
+0	GO_Biological_Process_2021	positive regulation of MAPK cascade (GO:0043410)	2/274	0.0489828735082703	0.0937424161471042	TRAF7;FLT1
+0	GO_Biological_Process_2021	mRNA splicing, via spliceosome (GO:0000398)	2/274	0.0489828735082703	0.0937424161471042	U2AF1;RBM10
+0	GO_Biological_Process_2021	regulation of T cell differentiation (GO:0045580)	1/39	0.0495132177144412	0.0937424161471042	GATA3
+0	GO_Biological_Process_2021	negative regulation of lymphocyte proliferation (GO:0050672)	1/39	0.0495132177144412	0.0937424161471042	ATM
+0	GO_Biological_Process_2021	DNA integrity checkpoint signaling (GO:0031570)	1/39	0.0495132177144412	0.0937424161471042	ATM
+0	GO_Biological_Process_2021	DNA metabolic process (GO:0006259)	2/277	0.0499454729539701	0.0941885100194948	ATM;POLE
+1	GO_Biological_Process_2021	positive regulation of transmembrane receptor protein serine/threonine kinase signaling pathway (GO:0090100)	2/92	0.0004329893407438501	0.0262683673231458	STK11;INHBA
+1	GO_Biological_Process_2021	intrinsic apoptotic signaling pathway (GO:0097193)	2/102	0.0005319184795012633	0.0262683673231458	STK11;CHEK2
+1	GO_Biological_Process_2021	negative regulation of cell growth (GO:0030308)	2/126	0.0008099619795892264	0.0262683673231458	STK11;INHBA
+1	GO_Biological_Process_2021	negative regulation of growth (GO:0045926)	2/126	0.0008099619795892264	0.0262683673231458	STK11;INHBA
+1	GO_Biological_Process_2021	regulation of signal transduction by p53 class mediator (GO:1901796)	2/156	0.00123727062735	0.0262683673231458	STK11;CHEK2
+1	GO_Biological_Process_2021	protein autophosphorylation (GO:0046777)	2/159	0.0012848279487441	0.0262683673231458	STK11;CHEK2
+1	GO_Biological_Process_2021	negative regulation of B cell differentiation (GO:0045578)	1/5	0.0017489165149326	0.0262683673231458	INHBA
+1	GO_Biological_Process_2021	hemoglobin metabolic process (GO:0020027)	1/5	0.0017489165149326	0.0262683673231458	INHBA
+1	GO_Biological_Process_2021	negative regulation of macrophage differentiation (GO:0045650)	1/5	0.0017489165149326	0.0262683673231458	INHBA
+1	GO_Biological_Process_2021	negative regulation of gonadotropin secretion (GO:0032277)	1/5	0.0017489165149326	0.0262683673231458	INHBA
+1	GO_Biological_Process_2021	chromatin organization involved in negative regulation of transcription (GO:0097549)	1/6	0.0020983872819732	0.0262683673231458	EZH1
+1	GO_Molecular_Function_2021	nucleosomal histone binding (GO:0031493)	1/6	0.0020983872819732	0.0436903037136124	EZH1
+1	GO_Biological_Process_2021	mitotic cell cycle phase transition (GO:0044772)	2/209	0.0022048097971488	0.0262683673231458	CHEK2;INHBA
+1	GO_Biological_Process_2021	regulation of cell growth (GO:0001558)	2/217	0.0023740726037392	0.0262683673231458	STK11;INHBA
+1	GO_Biological_Process_2021	negative regulation of lymphocyte differentiation (GO:0045620)	1/7	0.0024477534600423	0.0262683673231458	INHBA
+1	GO_Biological_Process_2021	positive regulation of lymphocyte apoptotic process (GO:0070230)	1/7	0.0024477534600423	0.0262683673231458	PDCD1
+1	GO_Biological_Process_2021	regulation of autophagy (GO:0010506)	2/231	0.0026847470782915	0.0262683673231458	STK11;KEAP1
+1	GO_Biological_Process_2021	DNA damage induced protein phosphorylation (GO:0006975)	1/8	0.002797015027105	0.0262683673231458	CHEK2
+1	GO_Biological_Process_2021	cellular response to UV-B (GO:0071493)	1/8	0.002797015027105	0.0262683673231458	STK11
+1	GO_Biological_Process_2021	forebrain neuron differentiation (GO:0021879)	1/8	0.002797015027105	0.0262683673231458	INHBA
+1	GO_Biological_Process_2021	chromatin silencing at telomere (GO:0006348)	1/8	0.002797015027105	0.0262683673231458	EZH1
+1	GO_Cellular_Component_2021	ESC/E(Z) complex (GO:0035098)	1/8	0.002797015027105	0.0139850751355252	EZH1
+1	GO_Biological_Process_2021	anoikis (GO:0043276)	1/9	0.0031461719727636	0.0262683673231458	STK11
+1	GO_Biological_Process_2021	negative regulation of interferon-beta production (GO:0032688)	1/10	0.0034952242970889	0.0262683673231458	REL
+1	GO_Biological_Process_2021	positive regulation of T cell apoptotic process (GO:0070234)	1/10	0.0034952242970889	0.0262683673231458	PDCD1
+1	GO_Molecular_Function_2021	activin receptor binding (GO:0070697)	1/10	0.0034952242970889	0.0436903037136124	INHBA
+1	GO_Biological_Process_2021	regulation of T cell apoptotic process (GO:0070232)	1/11	0.0038441720045859	0.0262683673231458	PDCD1
+1	GO_Biological_Process_2021	cellular protein modification process (GO:0006464)	3/1025	0.0040207971157978	0.0262683673231458	STK11;CHEK2;KEAP1
+1	GO_Biological_Process_2021	replicative senescence (GO:0090399)	1/12	0.0041930151049605	0.0262683673231458	CHEK2
+1	GO_Biological_Process_2021	regulation of cell cycle (GO:0051726)	2/296	0.0043646803682731	0.0262683673231458	STK11;INHBA
+1	GO_Biological_Process_2021	cytoplasmic sequestering of protein (GO:0051220)	1/13	0.0045417536091676	0.0262683673231458	KEAP1
+1	GO_Biological_Process_2021	mitotic DNA integrity checkpoint signaling (GO:0044774)	1/13	0.0045417536091676	0.0262683673231458	CHEK2
+1	GO_Biological_Process_2021	response to UV-B (GO:0010224)	1/13	0.0045417536091676	0.0262683673231458	STK11
+1	GO_Biological_Process_2021	regulation of gene expression (GO:0010468)	3/1079	0.0046519796091913	0.0262683673231458	CHEK2;REL;INHBA
+1	GO_Biological_Process_2021	cytoplasmic sequestering of transcription factor (GO:0042994)	1/14	0.0048903875335643	0.0262683673231458	KEAP1
+1	GO_Biological_Process_2021	ovarian follicle development (GO:0001541)	1/14	0.0048903875335643	0.0262683673231458	INHBA
+1	GO_Biological_Process_2021	heterochromatin organization (GO:0070828)	1/14	0.0048903875335643	0.0262683673231458	EZH1
+1	GO_Biological_Process_2021	negative regulation of TORC1 signaling (GO:1904262)	1/14	0.0048903875335643	0.0262683673231458	STK11
+1	GO_Biological_Process_2021	mitotic intra-S DNA damage checkpoint signaling (GO:0031573)	1/15	0.0052389168941443	0.0266193615161928	CHEK2
+1	GO_Biological_Process_2021	regulation of macrophage differentiation (GO:0045649)	1/15	0.0052389168941443	0.0266193615161928	INHBA
+1	GO_Molecular_Function_2021	protein serine/threonine kinase activity (GO:0004674)	2/344	0.0058505780912765	0.0487548174273045	STK11;CHEK2
+1	GO_Biological_Process_2021	vasculature development (GO:0001944)	1/17	0.0059356619951244	0.0281278338456697	STK11
+1	GO_Biological_Process_2021	positive regulation of transcription, DNA-templated (GO:0045893)	3/1183	0.0060342689700948	0.0281278338456697	CHEK2;REL;INHBA
+1	GO_Biological_Process_2021	cellular response to DNA damage stimulus (GO:0006974)	2/350	0.006050662490753	0.0281278338456697	STK11;CHEK2
+1	GO_Biological_Process_2021	regulation of catabolic process (GO:0009894)	1/18	0.0062838777740325	0.0281278338456697	CHEK2
+1	GO_Biological_Process_2021	regulation of B cell differentiation (GO:0045577)	1/18	0.0062838777740325	0.0281278338456697	INHBA
+1	GO_Biological_Process_2021	negative regulation of immune system process (GO:0002683)	1/19	0.006631989066781	0.0283366805580645	PDCD1
+1	GO_Biological_Process_2021	activin receptor signaling pathway (GO:0032924)	1/19	0.006631989066781	0.0283366805580645	INHBA
+1	GO_Biological_Process_2021	negative regulation of cell population proliferation (GO:0008285)	2/379	0.0070620183536169	0.0295035433439998	STK11;INHBA
+1	GO_Biological_Process_2021	negative regulation of B cell activation (GO:0050869)	1/22	0.0076756962402828	0.0300631436077743	INHBA
+1	GO_Biological_Process_2021	female gonad development (GO:0008585)	1/22	0.0076756962402828	0.0300631436077743	INHBA
+1	GO_Biological_Process_2021	negative regulation of phosphate metabolic process (GO:0045936)	1/22	0.0076756962402828	0.0300631436077743	INHBA
+1	GO_Biological_Process_2021	phosphorylation (GO:0016310)	2/400	0.0078397277125643	0.0300789553053487	STK11;CHEK2
+1	GO_Biological_Process_2021	positive regulation of transforming growth factor beta receptor signaling pathway (GO:0030511)	1/24	0.0083709789916443	0.0302643086620986	STK11
+1	GO_Biological_Process_2021	heterochromatin assembly (GO:0031507)	1/24	0.0083709789916443	0.0302643086620986	EZH1
+1	GO_Biological_Process_2021	positive regulation of cellular response to transforming growth factor beta stimulus (GO:1903846)	1/24	0.0083709789916443	0.0302643086620986	STK11
+1	GO_Biological_Process_2021	regulation of intracellular signal transduction (GO:1902531)	2/437	0.0093012106575997	0.0321757574691129	STK11;CHEK2
+1	GO_Biological_Process_2021	positive regulation of erythrocyte differentiation (GO:0045648)	1/27	0.0094131205361766	0.0321757574691129	INHBA
+1	GO_Biological_Process_2021	positive regulation of cellular component movement (GO:0051272)	1/27	0.0094131205361766	0.0321757574691129	STK11
+1	GO_Biological_Process_2021	regulation of extrinsic apoptotic signaling pathway in absence of ligand (GO:2001239)	1/28	0.009760292455613	0.032206503430264	INHBA
+1	GO_Biological_Process_2021	positive regulation of extrinsic apoptotic signaling pathway (GO:2001238)	1/29	0.0101073601190722	0.032206503430264	INHBA
+1	GO_Biological_Process_2021	negative regulation of interferon-gamma production (GO:0032689)	1/29	0.0101073601190722	0.032206503430264	INHBA
+1	GO_Biological_Process_2021	negative regulation of myeloid leukocyte differentiation (GO:0002762)	1/29	0.0101073601190722	0.032206503430264	INHBA
+1	GO_Molecular_Function_2021	kinase activator activity (GO:0019209)	1/31	0.0108011827726926	0.067507392329329	STK11
+1	GO_Biological_Process_2021	hematopoietic progenitor cell differentiation (GO:0002244)	1/32	0.0111479378107245	0.0338034243292938	INHBA
+1	GO_Biological_Process_2021	DNA damage checkpoint signaling (GO:0000077)	1/32	0.0111479378107245	0.0338034243292938	CHEK2
+1	GO_Biological_Process_2021	endodermal cell differentiation (GO:0035987)	1/32	0.0111479378107245	0.0338034243292938	INHBA
+1	GO_Biological_Process_2021	signal transduction by p53 class mediator (GO:0072331)	1/33	0.0114945886890378	0.034021252071028	STK11
+1	GO_Biological_Process_2021	protein phosphorylation (GO:0006468)	2/496	0.0118673894078311	0.034021252071028	STK11;CHEK2
+1	GO_Biological_Process_2021	regulation of TORC1 signaling (GO:1903432)	1/35	0.0121875780684806	0.034021252071028	STK11
+1	GO_Biological_Process_2021	positive regulation of reproductive process (GO:2000243)	1/35	0.0121875780684806	0.034021252071028	INHBA
+1	GO_Biological_Process_2021	intrinsic apoptotic signaling pathway by p53 class mediator (GO:0072332)	1/36	0.0125339166174689	0.034021252071028	STK11
+1	GO_Biological_Process_2021	endoderm formation (GO:0001706)	1/36	0.0125339166174689	0.034021252071028	INHBA
+1	GO_Cellular_Component_2021	Cul3-RING ubiquitin ligase complex (GO:0031463)	1/36	0.0125339166174689	0.0313347915436724	KEAP1
+1	GO_Biological_Process_2021	positive regulation of nucleic acid-templated transcription (GO:1903508)	2/511	0.012565063826619	0.034021252071028	CHEK2;INHBA
+1	GO_Biological_Process_2021	positive regulation of myeloid cell differentiation (GO:0045639)	1/37	0.012880151107249	0.034021252071028	INHBA
+1	GO_Biological_Process_2021	regulation of erythrocyte differentiation (GO:0045646)	1/37	0.012880151107249	0.034021252071028	INHBA
+1	GO_Biological_Process_2021	negative regulation of TOR signaling (GO:0032007)	1/38	0.0132262815609199	0.034021252071028	STK11
+1	GO_Biological_Process_2021	odontogenesis (GO:0042476)	1/39	0.013572308007059	0.034021252071028	INHBA
+1	GO_Biological_Process_2021	DNA integrity checkpoint signaling (GO:0031570)	1/39	0.013572308007059	0.034021252071028	CHEK2
+1	GO_Biological_Process_2021	positive regulation of intracellular transport (GO:0032388)	1/39	0.013572308007059	0.034021252071028	STK11
+1	GO_Biological_Process_2021	development of primary male sexual characteristics (GO:0046546)	1/43	0.0149553741881686	0.0359570702599023	INHBA
+1	GO_Biological_Process_2021	negative regulation of type I interferon production (GO:0032480)	1/43	0.0149553741881686	0.0359570702599023	REL
+1	GO_Biological_Process_2021	male gonad development (GO:0008584)	1/43	0.0149553741881686	0.0359570702599023	INHBA
+1	GO_Biological_Process_2021	negative regulation of cellular process (GO:0048523)	2/566	0.0152764476926317	0.0359570702599023	STK11;INHBA
+1	GO_Biological_Process_2021	mitotic spindle assembly (GO:0090307)	1/44	0.0153008809616605	0.0359570702599023	CHEK2
+1	GO_Biological_Process_2021	erythrocyte differentiation (GO:0030218)	1/46	0.0159915829549078	0.0370037868311807	INHBA
+1	GO_Biological_Process_2021	positive regulation of pathway-restricted SMAD protein phosphorylation (GO:0010862)	1/47	0.0163367782286595	0.0370037868311807	INHBA
+1	GO_Biological_Process_2021	negative regulation of cold-induced thermogenesis (GO:0120163)	1/47	0.0163367782286595	0.0370037868311807	STK11
+1	GO_Biological_Process_2021	regulation of protein metabolic process (GO:0051246)	1/48	0.0166818697165673	0.0372215023353789	CHEK2
+1	GO_Biological_Process_2021	regulation of cellular protein metabolic process (GO:0032268)	1/49	0.0170268574512903	0.0372215023353789	INHBA
+1	GO_Biological_Process_2021	regulation of interferon-beta production (GO:0032648)	1/49	0.0170268574512903	0.0372215023353789	REL
+1	GO_Biological_Process_2021	intrinsic apoptotic signaling pathway in response to DNA damage (GO:0008630)	1/51	0.0177165217463898	0.0377278365778245	CHEK2
+1	GO_Biological_Process_2021	gonad development (GO:0008406)	1/51	0.0177165217463898	0.0377278365778245	INHBA
+1	GO_Biological_Process_2021	signal transduction in response to DNA damage (GO:0042770)	1/52	0.0180611983617244	0.0377278365778245	CHEK2
+1	GO_Biological_Process_2021	myeloid cell differentiation (GO:0030099)	1/52	0.0180611983617244	0.0377278365778245	INHBA
+1	GO_Biological_Process_2021	cellular macromolecule catabolic process (GO:0044265)	1/53	0.0184057713212007	0.0380251099822608	CHEK2
+1	GO_Biological_Process_2021	negative regulation of metabolic process (GO:0009892)	1/56	0.0194388685228235	0.0392957772289336	STK11
+1	GO_Biological_Process_2021	DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest (GO:0006977)	1/56	0.0194388685228235	0.0392957772289336	CHEK2
+1	GO_Biological_Process_2021	regulation of pathway-restricted SMAD protein phosphorylation (GO:0060393)	1/58	0.0201270821818301	0.0402541643636602	INHBA
+1	GO_Biological_Process_2021	mitotic DNA damage checkpoint signaling (GO:0044773)	1/59	0.0204710337470903	0.0405110983626629	CHEK2
+1	GO_Biological_Process_2021	cellular protein catabolic process (GO:0044257)	1/60	0.0208148818369865	0.0407624769307652	CHEK2
+1	GO_Biological_Process_2021	negative regulation of response to stimulus (GO:0048585)	1/61	0.0211586264750493	0.0410084719310233	PDCD1
+1	GO_Biological_Process_2021	I-kappaB kinase/NF-kappaB signaling (GO:0007249)	1/62	0.0215022676893736	0.041249248220431	REL
+1	KEGG_2021_Human	Lysine degradation	1/63	0.0218458055031972	0.0789300728039007	EZH1
+1	GO_Biological_Process_2021	cell cycle G1/S phase transition (GO:0044843)	1/63	0.0218458055031972	0.0414849639858695	INHBA
+1	GO_Molecular_Function_2021	protein kinase activator activity (GO:0030295)	1/63	0.0218458055031972	0.1056396456787487	STK11
+1	GO_Biological_Process_2021	protein catabolic process (GO:0030163)	1/64	0.0221892399395956	0.0415306211212638	CHEK2
+1	GO_Biological_Process_2021	regulation of cellular catabolic process (GO:0031329)	1/65	0.0225325710338771	0.0415306211212638	KEAP1
+1	GO_Biological_Process_2021	mitotic G1 DNA damage checkpoint signaling (GO:0031571)	1/65	0.0225325710338771	0.0415306211212638	CHEK2
+1	KEGG_2021_Human	Adipocytokine signaling pathway	1/69	0.0239048624297548	0.0789300728039007	STK11
+1	GO_Biological_Process_2021	carbohydrate homeostasis (GO:0033500)	1/70	0.0242476771638985	0.044185009450622	STK11
+1	GO_Biological_Process_2021	response to ionizing radiation (GO:0010212)	1/72	0.024932997075323	0.044185009450622	STK11
+1	GO_Biological_Process_2021	extrinsic apoptotic signaling pathway (GO:0097191)	1/72	0.024932997075323	0.044185009450622	INHBA
+1	KEGG_2021_Human	p53 signaling pathway	1/73	0.0252755023025473	0.0789300728039007	CHEK2
+1	GO_Biological_Process_2021	chromatin assembly (GO:0031497)	1/73	0.0252755023025473	0.044185009450622	EZH1
+1	GO_Biological_Process_2021	mitotic nuclear division (GO:0140014)	1/74	0.0256179044155202	0.044185009450622	CHEK2
+1	GO_Biological_Process_2021	DNA damage response, signal transduction by p53 class mediator (GO:0030330)	1/74	0.0256179044155202	0.044185009450622	CHEK2
+1	GO_Biological_Process_2021	NIK/NF-kappaB signaling (GO:0038061)	1/74	0.0256179044155202	0.044185009450622	REL
+1	GO_Biological_Process_2021	cellular response to UV (GO:0034644)	1/77	0.0266444923046077	0.0454666671950491	STK11
+1	GO_Biological_Process_2021	regulation of cell population proliferation (GO:0042127)	2/764	0.0269332385689169	0.0454666671950491	STK11;INHBA
+1	GO_Molecular_Function_2021	hormone activity (GO:0005179)	1/78	0.026986482201804	0.1056396456787487	INHBA
+1	GO_Biological_Process_2021	positive regulation of ubiquitin-dependent protein catabolic process (GO:2000060)	1/79	0.0273283691119178	0.0454666671950491	KEAP1
+1	GO_Biological_Process_2021	positive regulation of proteasomal ubiquitin-dependent protein catabolic process (GO:0032436)	1/79	0.0273283691119178	0.0454666671950491	KEAP1
+1	GO_Biological_Process_2021	negative regulation of cell cycle (GO:0045786)	1/80	0.0276701530557868	0.0456314804779642	INHBA
+1	GO_Biological_Process_2021	spindle assembly (GO:0051225)	1/84	0.0290362597234849	0.0465592903145123	CHEK2
+1	GO_Biological_Process_2021	G1/S transition of mitotic cell cycle (GO:0000082)	1/85	0.0293775292387813	0.0465592903145123	INHBA
+1	GO_Biological_Process_2021	positive regulation of proteasomal protein catabolic process (GO:1901800)	1/86	0.0297186959454334	0.0465592903145123	KEAP1
+1	GO_Biological_Process_2021	regulation of interferon-gamma production (GO:0032649)	1/86	0.0297186959454334	0.0465592903145123	INHBA
+1	GO_Biological_Process_2021	negative regulation of phosphorylation (GO:0042326)	1/86	0.0297186959454334	0.0465592903145123	INHBA
+1	GO_Biological_Process_2021	glucose homeostasis (GO:0042593)	1/86	0.0297186959454334	0.0465592903145123	STK11
+1	GO_Molecular_Function_2021	growth factor activity (GO:0008083)	1/87	0.0300597598671569	0.1056396456787487	INHBA
+1	KEGG_2021_Human	PD-L1 expression and PD-1 checkpoint pathway in cancer	1/89	0.0307415794593238	0.0789300728039007	PDCD1
+1	GO_Biological_Process_2021	positive regulation of autophagy (GO:0010508)	1/90	0.0310823351837607	0.0482932149962563	STK11
+1	KEGG_2021_Human	TGF-beta signaling pathway	1/94	0.0324443315283112	0.0789300728039007	INHBA
+1	GO_Biological_Process_2021	hemopoiesis (GO:0030097)	1/94	0.0324443315283112	0.0499961830108402	INHBA
+1	GO_Biological_Process_2021	regulation of transcription by RNA polymerase II (GO:0006357)	3/2206	0.0333327191548852	0.0509475707408001	REL;INHBA;EZH1
+1	GO_Molecular_Function_2021	protein kinase regulator activity (GO:0019887)	1/98	0.0338046866171995	0.1056396456787487	STK11
+1	GO_Biological_Process_2021	regulation of transforming growth factor beta receptor signaling pathway (GO:0017015)	1/100	0.0344842492004146	0.0512458883147358	STK11
+1	GO_Biological_Process_2021	cellular response to chemical stress (GO:0062197)	1/101	0.0348238768451011	0.0512458883147358	KEAP1
+1	GO_Biological_Process_2021	regulation of transcription, DNA-templated (GO:0006355)	3/2244	0.0348727547538782	0.0512458883147358	CHEK2;REL;INHBA
+1	KEGG_2021_Human	Longevity regulating pathway	1/102	0.0351634020883028	0.0789300728039007	STK11
+1	GO_Biological_Process_2021	positive regulation of cellular protein metabolic process (GO:0032270)	1/102	0.0351634020883028	0.0512458883147358	INHBA
+1	GO_Biological_Process_2021	regulation of proteasomal ubiquitin-dependent protein catabolic process (GO:0032434)	1/102	0.0351634020883028	0.0512458883147358	KEAP1
+1	GO_Biological_Process_2021	regulation of protein catabolic process (GO:0042176)	1/102	0.0351634020883028	0.0512458883147358	CHEK2
+1	GO_Biological_Process_2021	chromatin remodeling (GO:0006338)	1/103	0.0355028249621205	0.0513425468682974	EZH1
+1	KEGG_2021_Human	T cell receptor signaling pathway	1/104	0.0358421454858948	0.0789300728039007	PDCD1
+1	GO_Biological_Process_2021	positive regulation of cellular metabolic process (GO:0031325)	1/105	0.0361813636837844	0.0519243997904692	INHBA
+1	GO_Biological_Process_2021	chromosome organization (GO:0051276)	1/106	0.0365204795889454	0.0520140163842556	EZH1
+1	GO_Biological_Process_2021	positive regulation of transcription by RNA polymerase II (GO:0045944)	2/908	0.0371364345837735	0.0524936067800708	REL;INHBA
+1	GO_Biological_Process_2021	activation of protein kinase activity (GO:0032147)	1/114	0.0392297272340265	0.0550387217910223	STK11
+1	GO_Biological_Process_2021	positive regulation of protein metabolic process (GO:0051247)	1/115	0.039567923627146	0.055101997347433	INHBA
+1	KEGG_2021_Human	AMPK signaling pathway	1/120	0.0412573754770396	0.0789300728039007	STK11
+1	KEGG_2021_Human	Cell cycle	1/124	0.0426071023827973	0.0789300728039007	CHEK2
+1	GO_Biological_Process_2021	cellular response to oxidative stress (GO:0034599)	1/125	0.0429442795187326	0.0589308361278959	KEAP1
+1	GO_Biological_Process_2021	regulation of phosphorylation (GO:0042325)	1/125	0.0429442795187326	0.0589308361278959	INHBA
+1	GO_Biological_Process_2021	circulatory system development (GO:0072359)	1/126	0.0432813548722839	0.0589630051883289	STK11
+1	GO_Biological_Process_2021	G2/M transition of mitotic cell cycle (GO:0000086)	1/130	0.0446286389467339	0.0603610368488199	CHEK2
+1	KEGG_2021_Human	FoxO signaling pathway	1/131	0.044965205761108	0.0789300728039007	STK11
+1	GO_Biological_Process_2021	cell cycle G2/M phase transition (GO:0044839)	1/131	0.044965205761108	0.060381847736345	CHEK2
+1	GO_Biological_Process_2021	transmembrane receptor protein serine/threonine kinase signaling pathway (GO:0007178)	1/133	0.0456380345107204	0.0608507126809606	INHBA
+1	KEGG_2021_Human	Autophagy	1/137	0.0469824732592036	0.0789300728039007	STK11
+1	KEGG_2021_Human	Fluid shear stress and atherosclerosis	1/139	0.047654083666241	0.0789300728039007	KEAP1
+1	GO_Biological_Process_2021	regulation of cellular component organization (GO:0051128)	1/139	0.047654083666241	0.0626501239807924	STK11
+1	GO_Biological_Process_2021	protein dephosphorylation (GO:0006470)	1/139	0.047654083666241	0.0626501239807924	STK11
+1	KEGG_2021_Human	Ubiquitin mediated proteolysis	1/140	0.047989736708364	0.0789300728039007	KEAP1
+1	GO_Biological_Process_2021	positive regulation of cellular catabolic process (GO:0031331)	1/141	0.0483252883534014	0.0630908524442867	STK11
+1	GO_Biological_Process_2021	chromatin organization (GO:0006325)	1/142	0.048660738622087	0.0630908524442867	EZH1
+1	KEGG_2021_Human	Signaling pathways regulating pluripotency of stem cells	1/143	0.0489960875365205	0.0789300728039007	INHBA
+1	GO_Biological_Process_2021	negative regulation of DNA-binding transcription factor activity (GO:0043433)	1/143	0.0489960875365205	0.0630908524442867	KEAP1

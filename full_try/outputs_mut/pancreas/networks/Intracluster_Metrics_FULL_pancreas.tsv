@@ -1,5 +1,0 @@
-Cluster_ID	N_Nodes	N_Edges	Density	Avg_Degree	Avg_Clustering
-0	6	5	0.333	1.67	0.0
-1	65	171	0.082	5.26	0.104
-2	14	14	0.154	2.0	0.004
-3	16	18	0.15	2.25	0.099

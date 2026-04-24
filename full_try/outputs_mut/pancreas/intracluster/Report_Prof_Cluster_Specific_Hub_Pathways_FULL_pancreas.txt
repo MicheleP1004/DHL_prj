@@ -2,24 +2,24 @@
 
 ================================================================================
 🎯 CLUSTER 0  |  TOP HUB ANALIZZATI: 5
-🧬 GENI HUB: SMAD4, GATA1, AKT3, CASP8, FANCA
+🧬 GENI HUB: RNF43, PIK3CA, GNAS, ARID2, FLT4
 ================================================================================
 
-🔸 [KEGG_2021_Human] Hepatitis B
-   - P-value: 5.15e-06 | Overlap: 3/162
-   - Geni nel pathway: SMAD4;CASP8;AKT3
+🔸 [GO_Biological_Process_2021] vascular endothelial growth factor signaling pathway (GO:0038084)
+   - P-value: 4.54e-06 | Overlap: 2/14
+   - Geni nel pathway: PIK3CA;FLT4
 
-🔸 [Reactome_2022] Intrinsic Pathway For Apoptosis R-HSA-109606
-   - P-value: 7.39e-05 | Overlap: 2/55
-   - Geni nel pathway: CASP8;AKT3
+🔸 [GO_Biological_Process_2021] vasculature development (GO:0001944)
+   - P-value: 6.79e-06 | Overlap: 2/17
+   - Geni nel pathway: PIK3CA;FLT4
 
-🔸 [Reactome_2022] FOXO-mediated Transcription R-HSA-9614085
-   - P-value: 1.03e-04 | Overlap: 2/65
-   - Geni nel pathway: SMAD4;AKT3
+🔸 [KEGG_2021_Human] Rap1 signaling pathway
+   - P-value: 1.12e-05 | Overlap: 3/210
+   - Geni nel pathway: PIK3CA;FLT4;GNAS
 
 ================================================================================
 🎯 CLUSTER 1  |  TOP HUB ANALIZZATI: 5
-🧬 GENI HUB: ZFHX3, KMT2D, BRCA2, ATM, ARID1A
+🧬 GENI HUB: KMT2D, ATM, BRCA2, ZFHX3, ARID1A
 ================================================================================
 
 🔸 [GO_Biological_Process_2021] positive regulation of transcription, DNA-templated (GO:0045893)
@@ -36,35 +36,35 @@
 
 ================================================================================
 🎯 CLUSTER 2  |  TOP HUB ANALIZZATI: 5
-🧬 GENI HUB: CDKN2A, KRAS, RNF43, TGFBR2, TP53
+🧬 GENI HUB: CDKN2A, SMAD4, KRAS, KDM6A, TP53
 ================================================================================
 
 🔸 [KEGG_2021_Human] Chronic myeloid leukemia
    - P-value: 9.60e-10 | Overlap: 4/76
-   - Geni nel pathway: CDKN2A;KRAS;TP53;TGFBR2
+   - Geni nel pathway: SMAD4;CDKN2A;KRAS;TP53
 
 🔸 [KEGG_2021_Human] Pancreatic cancer
    - P-value: 9.60e-10 | Overlap: 4/76
-   - Geni nel pathway: CDKN2A;KRAS;TP53;TGFBR2
+   - Geni nel pathway: SMAD4;CDKN2A;KRAS;TP53
 
-🔸 [KEGG_2021_Human] Cellular senescence
-   - P-value: 1.77e-08 | Overlap: 4/156
-   - Geni nel pathway: CDKN2A;KRAS;TP53;TGFBR2
+🔸 [KEGG_2021_Human] Hepatocellular carcinoma
+   - P-value: 2.39e-08 | Overlap: 4/168
+   - Geni nel pathway: SMAD4;CDKN2A;KRAS;TP53
 
 ================================================================================
 🎯 CLUSTER 3  |  TOP HUB ANALIZZATI: 5
-🧬 GENI HUB: TSC2, MEN1, DAXX, SMARCA4, PTPRT
+🧬 GENI HUB: TSC2, MEN1, DAXX, SMARCA4, ATRX
 ================================================================================
 
-🔸 [GO_Biological_Process_2021] beta-catenin-TCF complex assembly (GO:1904837)
-   - P-value: 2.02e-05 | Overlap: 2/29
-   - Geni nel pathway: MEN1;SMARCA4
+🔸 [GO_Biological_Process_2021] nucleosome organization (GO:0034728)
+   - P-value: 9.99e-07 | Overlap: 3/94
+   - Geni nel pathway: DAXX;ATRX;SMARCA4
 
-🔸 [Reactome_2022] Generic Transcription Pathway R-HSA-212436
-   - P-value: 5.94e-05 | Overlap: 4/1190
-   - Geni nel pathway: DAXX;TSC2;MEN1;SMARCA4
+🔸 [GO_Biological_Process_2021] chromatin remodeling (GO:0006338)
+   - P-value: 1.32e-06 | Overlap: 3/103
+   - Geni nel pathway: DAXX;ATRX;SMARCA4
 
-🔸 [Reactome_2022] RNA Polymerase II Transcription R-HSA-73857
-   - P-value: 8.74e-05 | Overlap: 4/1312
-   - Geni nel pathway: DAXX;TSC2;MEN1;SMARCA4
+🔸 [GO_Biological_Process_2021] positive regulation of histone exchange (GO:1900051)
+   - P-value: 2.75e-06 | Overlap: 2/11
+   - Geni nel pathway: DAXX;ATRX
 

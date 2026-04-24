@@ -1,0 +1,70 @@
+--- 🏆 ENRICHMENT HUB LOCALI PER OGNI CLUSTER (COLON - FILTERED) ---
+
+================================================================================
+🎯 CLUSTER 0  |  TOP HUB ANALIZZATI: 3
+🧬 GENI HUB: SMAD2, BAP1, SMAD3
+================================================================================
+
+🔸 [Reactome_2022] SMAD2/3 Phosphorylation Motif Mutants In Cancer R-HSA-3304356
+   - P-value: 2.25e-07 | Overlap: 2/6
+   - Geni nel pathway: SMAD2;SMAD3
+
+🔸 [GO_Biological_Process_2021] SMAD protein complex assembly (GO:0007183)
+   - P-value: 3.15e-07 | Overlap: 2/7
+   - Geni nel pathway: SMAD2;SMAD3
+
+🔸 [Reactome_2022] Loss Of Function Of SMAD2/3 In Cancer R-HSA-3304349
+   - P-value: 3.15e-07 | Overlap: 2/7
+   - Geni nel pathway: SMAD2;SMAD3
+
+================================================================================
+🎯 CLUSTER 1  |  TOP HUB ANALIZZATI: 3
+🧬 GENI HUB: EP300, PTPRD, RAD54L
+================================================================================
+
+🔸 [GO_Biological_Process_2021] positive regulation of cell projection organization (GO:0031346)
+   - P-value: 1.01e-04 | Overlap: 2/117
+   - Geni nel pathway: PTPRD;EP300
+
+🔸 [GO_Biological_Process_2021] double-strand break repair via synthesis-dependent strand annealing (GO:0045003)
+   - P-value: 7.50e-04 | Overlap: 1/5
+   - Geni nel pathway: RAD54L
+
+🔸 [Reactome_2022] LRR FLII-interacting Protein 1 (LRRFIP1) Activates Type I IFN Production R-HSA-3134973
+   - P-value: 7.50e-04 | Overlap: 1/5
+   - Geni nel pathway: EP300
+
+================================================================================
+🎯 CLUSTER 2  |  TOP HUB ANALIZZATI: 5
+🧬 GENI HUB: KMT2C, ATRX, KMT2D, KMT2B, MED12
+================================================================================
+
+🔸 [GO_Biological_Process_2021] histone H3-K4 monomethylation (GO:0097692)
+   - P-value: 4.20e-10 | Overlap: 3/8
+   - Geni nel pathway: KMT2D;KMT2C;KMT2B
+
+🔸 [GO_Biological_Process_2021] histone H3-K4 methylation (GO:0051568)
+   - P-value: 3.04e-08 | Overlap: 3/30
+   - Geni nel pathway: KMT2D;KMT2C;KMT2B
+
+🔸 [Reactome_2022] PKMTs Methylate Histone Lysines R-HSA-3214841
+   - P-value: 1.21e-07 | Overlap: 3/47
+   - Geni nel pathway: KMT2D;KMT2C;KMT2B
+
+================================================================================
+🎯 CLUSTER 3  |  TOP HUB ANALIZZATI: 5
+🧬 GENI HUB: KRAS, CTNNB1, FLCN, PIK3CA, AMER1
+================================================================================
+
+🔸 [KEGG_2021_Human] Endometrial cancer
+   - P-value: 2.30e-07 | Overlap: 3/58
+   - Geni nel pathway: PIK3CA;CTNNB1;KRAS
+
+🔸 [KEGG_2021_Human] Renal cell carcinoma
+   - P-value: 3.91e-07 | Overlap: 3/69
+   - Geni nel pathway: FLCN;PIK3CA;KRAS
+
+🔸 [KEGG_2021_Human] Colorectal cancer
+   - P-value: 7.63e-07 | Overlap: 3/86
+   - Geni nel pathway: PIK3CA;CTNNB1;KRAS
+

@@ -1,0 +1,19 @@
+--- 🏆 ENRICHMENT HUB LOCALI PER OGNI CLUSTER (PANCREAS - FILTERED) ---
+
+================================================================================
+🎯 CLUSTER 0  |  TOP HUB ANALIZZATI: 5
+🧬 GENI HUB: KRAS, CDKN2A, KDM6A, RNF43, SMAD4
+================================================================================
+
+🔸 [KEGG_2021_Human] Chronic myeloid leukemia
+   - P-value: 5.24e-07 | Overlap: 3/76
+   - Geni nel pathway: SMAD4;CDKN2A;KRAS
+
+🔸 [KEGG_2021_Human] Pancreatic cancer
+   - P-value: 5.24e-07 | Overlap: 3/76
+   - Geni nel pathway: SMAD4;CDKN2A;KRAS
+
+🔸 [KEGG_2021_Human] Hepatocellular carcinoma
+   - P-value: 5.75e-06 | Overlap: 3/168
+   - Geni nel pathway: SMAD4;CDKN2A;KRAS
+

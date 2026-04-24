@@ -1,54 +1,54 @@
 --- 🏆 PATHWAY DOMINANTI DEGLI HUB DELLA RETE (KRAS_COLON - FULL) ---
-Geni Hub analizzati (15): FAT1, ANKRD11, EP300, KMT2B, SPEN, EPHA5, NOTCH4, ZFHX3, KDM5A, PAK7, KMT2D, NCOR1, ARID2, ARID1A, BCOR
+Geni Hub analizzati (15): ARID2, PTPRS, FLCN, APC, KMT2D, PTPRT, IKBKE, FAT1, NOTCH3, TGFBR2, KMT2C, SESN1, NOTCH4, EP300, SPEN
 ================================================================================
 
-🔸 [Reactome_2022] Chromatin Modifying Enzymes R-HSA-3247509
-   - P-value: 1.84e-10 | Adjusted: 2.68e-08
-   - Overlap: 7/238
-   - Hubs coinvolti: KDM5A;KMT2D;NCOR1;KMT2B;EP300;ARID1A;ARID2
+🔸 [GO_Biological_Process_2021] positive regulation of transcription of Notch receptor target (GO:0007221)
+   - P-value: 2.31e-07 | Adjusted: 9.64e-05
+   - Overlap: 3/17
+   - Hubs coinvolti: NOTCH3;NOTCH4;EP300
 
-🔸 [Reactome_2022] Transcriptional Regulation By RUNX1 R-HSA-8878171
-   - P-value: 2.90e-07 | Adjusted: 2.12e-05
-   - Overlap: 5/204
-   - Hubs coinvolti: KMT2D;KMT2B;EP300;ARID1A;ARID2
+🔸 [KEGG_2021_Human] Human papillomavirus infection
+   - P-value: 3.16e-06 | Adjusted: 2.21e-04
+   - Overlap: 5/331
+   - Hubs coinvolti: NOTCH3;APC;NOTCH4;EP300;IKBKE
 
-🔸 [GO_Biological_Process_2021] regulation of transcription, DNA-templated (GO:0006355)
-   - P-value: 5.46e-07 | Adjusted: 1.36e-04
-   - Overlap: 10/2244
-   - Hubs coinvolti: SPEN;KDM5A;KMT2D;ZFHX3;NCOR1;NOTCH4;KMT2B;EP300;BCOR;ARID1A
+🔸 [Reactome_2022] Defective LFNG Causes SCDO3 R-HSA-5083630
+   - P-value: 5.24e-06 | Adjusted: 3.95e-04
+   - Overlap: 2/5
+   - Hubs coinvolti: NOTCH3;NOTCH4
 
-🔸 [Reactome_2022] Generic Transcription Pathway R-HSA-212436
-   - P-value: 6.78e-07 | Adjusted: 3.30e-05
-   - Overlap: 8/1190
-   - Hubs coinvolti: KMT2D;ZFHX3;NCOR1;NOTCH4;KMT2B;EP300;ARID1A;ARID2
-
-🔸 [GO_Biological_Process_2021] positive regulation of nucleic acid-templated transcription (GO:1903508)
-   - P-value: 1.11e-06 | Adjusted: 1.38e-04
-   - Overlap: 6/511
-   - Hubs coinvolti: KDM5A;ZFHX3;NOTCH4;KMT2B;EP300;ARID1A
-
-🔸 [Reactome_2022] RNA Polymerase II Transcription R-HSA-73857
-   - P-value: 1.43e-06 | Adjusted: 5.20e-05
-   - Overlap: 8/1312
-   - Hubs coinvolti: KMT2D;ZFHX3;NCOR1;NOTCH4;KMT2B;EP300;ARID1A;ARID2
-
-🔸 [Reactome_2022] RUNX1 Interacts With Co-Factors Whose Precise Effect On RUNX1 Targets Is Not Known R-HSA-8939243
-   - P-value: 2.20e-06 | Adjusted: 6.43e-05
-   - Overlap: 3/35
-   - Hubs coinvolti: EP300;ARID1A;ARID2
-
-🔸 [Reactome_2022] Gene Expression (Transcription) R-HSA-74160
-   - P-value: 3.02e-06 | Adjusted: 7.35e-05
-   - Overlap: 8/1449
-   - Hubs coinvolti: KMT2D;ZFHX3;NCOR1;NOTCH4;KMT2B;EP300;ARID1A;ARID2
-
-🔸 [GO_Biological_Process_2021] negative regulation of transcription by RNA polymerase II (GO:0000122)
-   - P-value: 6.02e-06 | Adjusted: 4.55e-04
-   - Overlap: 6/684
-   - Hubs coinvolti: SPEN;ZFHX3;NCOR1;NOTCH4;EP300;BCOR
+🔸 [Reactome_2022] Pre-NOTCH Processing In Endoplasmic Reticulum R-HSA-1912399
+   - P-value: 7.86e-06 | Adjusted: 3.95e-04
+   - Overlap: 2/6
+   - Hubs coinvolti: NOTCH3;NOTCH4
 
 🔸 [GO_Biological_Process_2021] regulation of megakaryocyte differentiation (GO:0045652)
-   - P-value: 8.27e-06 | Adjusted: 4.55e-04
+   - P-value: 8.27e-06 | Adjusted: 1.39e-03
    - Overlap: 3/54
-   - Hubs coinvolti: KMT2D;KMT2B;EP300
+   - Hubs coinvolti: KMT2D;KMT2C;EP300
+
+🔸 [KEGG_2021_Human] Notch signaling pathway
+   - P-value: 1.08e-05 | Adjusted: 3.79e-04
+   - Overlap: 3/59
+   - Hubs coinvolti: NOTCH3;NOTCH4;EP300
+
+🔸 [Reactome_2022] Generic Transcription Pathway R-HSA-212436
+   - P-value: 1.09e-05 | Adjusted: 3.95e-04
+   - Overlap: 7/1190
+   - Hubs coinvolti: KMT2D;NOTCH3;KMT2C;NOTCH4;SESN1;EP300;ARID2
+
+🔸 [GO_Biological_Process_2021] Notch signaling pathway (GO:0007219)
+   - P-value: 1.14e-05 | Adjusted: 1.39e-03
+   - Overlap: 3/60
+   - Hubs coinvolti: NOTCH3;NOTCH4;EP300
+
+🔸 [Reactome_2022] Pre-NOTCH Transcription And Translation R-HSA-1912408
+   - P-value: 1.26e-05 | Adjusted: 3.95e-04
+   - Overlap: 3/62
+   - Hubs coinvolti: NOTCH3;NOTCH4;EP300
+
+🔸 [Reactome_2022] Transcriptional Regulation By RUNX1 R-HSA-8878171
+   - P-value: 1.31e-05 | Adjusted: 3.95e-04
+   - Overlap: 4/204
+   - Hubs coinvolti: KMT2D;KMT2C;EP300;ARID2
 

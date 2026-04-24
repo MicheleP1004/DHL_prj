@@ -1,7 +1,0 @@
-Cluster_ID	Gene	Degree_Centrality	Betweenness_Centrality	Closeness_Centrality
-0	KRAS	1.0	0.9	1.0
-0	TGFBR2	0.4	0.0	0.625
-0	RNF43	0.4	0.0	0.625
-0	KDM6A	0.2	0.0	0.5556
-0	CDKN2A	0.2	0.0	0.5556
-0	TP53	0.2	0.0	0.5556

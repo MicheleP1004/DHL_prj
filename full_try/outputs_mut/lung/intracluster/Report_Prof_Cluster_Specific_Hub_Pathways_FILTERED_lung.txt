@@ -1,0 +1,36 @@
+--- 🏆 ENRICHMENT HUB LOCALI PER OGNI CLUSTER (LUNG - FILTERED) ---
+
+================================================================================
+🎯 CLUSTER 0  |  TOP HUB ANALIZZATI: 5
+🧬 GENI HUB: KRAS, GLI1, POLE, AMER1, ATM
+================================================================================
+
+🔸 [Reactome_2022] HDR Thru Homologous Recombination (HRR) R-HSA-5685942
+   - P-value: 1.10e-04 | Overlap: 2/67
+   - Geni nel pathway: ATM;POLE
+
+🔸 [GO_Biological_Process_2021] DNA replication (GO:0006260)
+   - P-value: 2.86e-04 | Overlap: 2/108
+   - Geni nel pathway: ATM;POLE
+
+🔸 [GO_Biological_Process_2021] positive regulation of cellular process (GO:0048522)
+   - P-value: 2.90e-04 | Overlap: 3/625
+   - Geni nel pathway: KRAS;ATM;GLI1
+
+================================================================================
+🎯 CLUSTER 1  |  TOP HUB ANALIZZATI: 5
+🧬 GENI HUB: KEAP1, STK11, CHEK2, INHBA, PDCD1
+================================================================================
+
+🔸 [Reactome_2022] Regulation Of TP53 Activity Thru Phosphorylation R-HSA-6804756
+   - P-value: 1.98e-04 | Overlap: 2/90
+   - Geni nel pathway: STK11;CHEK2
+
+🔸 [GO_Biological_Process_2021] positive regulation of transmembrane receptor protein serine/threonine kinase signaling pathway (GO:0090100)
+   - P-value: 2.07e-04 | Overlap: 2/92
+   - Geni nel pathway: STK11;INHBA
+
+🔸 [Reactome_2022] Potential Therapeutics For SARS R-HSA-9679191
+   - P-value: 2.31e-04 | Overlap: 2/97
+   - Geni nel pathway: KEAP1;PDCD1
+

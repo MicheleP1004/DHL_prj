@@ -1,59 +1,59 @@
 --- 🏆 TOP 3 PATHWAY/ONTOLOGY PER OGNI CLUSTER (PANCREAS - FULL) ---
 
 ================================================================================
-🎯 CLUSTER 0  |  DIMENSIONE: 6 geni
-🧬 TUTTI I GENI: GATA1, SMAD4, AKT3, CASP8, FANCA, HIST1H1C
+🎯 CLUSTER 0  |  DIMENSIONE: 10 geni
+🧬 TUTTI I GENI: ARID2, FLT4, GNAS, JAK3, NTRK1, PIK3CA, RET, RNF43, TET2, TGFBR2
 ================================================================================
 
-🔸 [KEGG_2021_Human] Hepatitis B
-   P-value: 1.02e-05  |  Overlap: 3/162
-   🎯 Geni nel pathway: SMAD4;CASP8;AKT3
+🔸 [KEGG_2021_Human] Pathways in cancer
+   P-value: 1.00e-09  |  Overlap: 7/531
+   🎯 Geni nel pathway: NTRK1;RET;PIK3CA;FLT4;GNAS;JAK3;TGFBR2
+
+🔸 [GO_Molecular_Function_2021] transmembrane receptor protein kinase activity (GO:0019199)
+   P-value: 1.52e-08  |  Overlap: 4/60
+   🎯 Geni nel pathway: NTRK1;RET;FLT4;TGFBR2
+
+🔸 [GO_Molecular_Function_2021] protein tyrosine kinase activity (GO:0004713)
+   P-value: 1.65e-07  |  Overlap: 4/108
+   🎯 Geni nel pathway: NTRK1;RET;FLT4;JAK3
+
+================================================================================
+🎯 CLUSTER 1  |  DIMENSIONE: 59 geni
+🧬 TUTTI I GENI: ALK, AMER1, ANKRD11, APC, AR, ARID1A, ARID1B, ATM, AXIN1, AXIN2, AXL, BCOR, BRAF, BRCA1, BRCA2, CBL, CDK12, CREBBP, CSF1R, DOT1L, EP300, EPHA7, ERBB4, ERF, FAT1, INPPL1, INSR, IRS1, JAK2, KDM5A, KDM5C, KMT2A, KMT2C, KMT2D, LATS2, MSH2, NCOR1, NOTCH1, NOTCH3, NTRK3, PALB2, PBRM1, PGR, PIK3CD, POLD1, PRDM14, PREX2, PTPRD, PTPRS, RBM10, RICTOR, RPTOR, SETD2, SMAD2, SPEN, SRC, TET1, WHSC1L1, ZFHX3
+================================================================================
+
+🔸 [KEGG_2021_Human] Pathways in cancer
+   P-value: 1.24e-13  |  Overlap: 17/531
+   🎯 Geni nel pathway: ALK;SMAD2;CSF1R;NOTCH3;CREBBP;NOTCH1;AXIN1;PIK3CD;BRAF;AXIN2;BRCA2;CBL;AR;MSH2;APC;EP300;JAK2
+
+🔸 [GO_Cellular_Component_2021] intracellular membrane-bounded organelle (GO:0043231)
+   P-value: 3.03e-12  |  Overlap: 41/5192
+   🎯 Geni nel pathway: KDM5A;AMER1;CSF1R;KMT2D;KDM5C;SETD2;NOTCH1;KMT2A;IRS1;ANKRD11;KMT2C;DOT1L;INPPL1;PRDM14;BRCA1;BRCA2;ERBB4;POLD1;EP300;JAK2;RBM10;SMAD2;SPEN;CREBBP;ZFHX3;AXIN1;TET1;BRAF;AXIN2;ARID1A;AR;LATS2;NCOR1;MSH2;APC;AXL;ERF;FAT1;ATM;BCOR;CDK12
+
+🔸 [GO_Cellular_Component_2021] nucleus (GO:0005634)
+   P-value: 5.74e-12  |  Overlap: 38/4484
+   🎯 Geni nel pathway: KDM5A;KMT2D;KDM5C;SETD2;NOTCH1;KMT2A;IRS1;ANKRD11;KMT2C;DOT1L;INPPL1;PRDM14;BRCA1;BRCA2;ERBB4;POLD1;EP300;JAK2;RBM10;SMAD2;SPEN;CREBBP;ZFHX3;INSR;AXIN1;TET1;AXIN2;ARID1A;AR;LATS2;NCOR1;MSH2;APC;ERF;FAT1;ATM;BCOR;CDK12
+
+================================================================================
+🎯 CLUSTER 2  |  DIMENSIONE: 16 geni
+🧬 TUTTI I GENI: ABL1, AKT3, CASP8, CDKN2A, FANCA, GATA1, HIST1H1C, ICOSLG, KDM6A, KRAS, PTPN11, REL, SMAD4, TBX3, TP53, U2AF1
+================================================================================
 
 🔸 [KEGG_2021_Human] Chronic myeloid leukemia
-   P-value: 2.12e-04  |  Overlap: 2/76
-   🎯 Geni nel pathway: SMAD4;AKT3
+   P-value: 9.59e-14  |  Overlap: 7/76
+   🎯 Geni nel pathway: SMAD4;CDKN2A;AKT3;ABL1;PTPN11;KRAS;TP53
 
 🔸 [KEGG_2021_Human] Pancreatic cancer
-   P-value: 2.12e-04  |  Overlap: 2/76
-   🎯 Geni nel pathway: SMAD4;AKT3
+   P-value: 2.93e-09  |  Overlap: 5/76
+   🎯 Geni nel pathway: SMAD4;CDKN2A;AKT3;KRAS;TP53
 
-================================================================================
-🎯 CLUSTER 1  |  DIMENSIONE: 65 geni
-🧬 TUTTI I GENI: JAK2, RICTOR, KDM5C, ERBB4, LATS2, INPPL1, DOT1L, CSF1R, GNAS, PTPRS, WHSC1L1, PIK3CA, CDK12, SPEN, KDM5A, ZFHX3, ARID1A, AXIN2, AXL, BCOR, FAT1, CREBBP, AR, PBRM1, BRCA2, AMER1, ATM, NTRK3, PIK3CD, CBL, PRDM14, PGR, SETD2, BRCA1, RBM10, KMT2D, RPTOR, ANKRD11, SRC, POLD1, NCOR1, KMT2C, ALK, NOTCH3, AXIN1, PTPRD, MSH2, IRS1, ARID1B, ARID2, TET2, INSR, ERF, NTRK1, PREX2, EP300, TET1, SMAD2, NOTCH1, FLT4, EPHA7, PALB2, BRAF, KMT2A, APC
-================================================================================
-
-🔸 [KEGG_2021_Human] Pathways in cancer
-   P-value: 1.12e-17  |  Overlap: 21/531
-   🎯 Geni nel pathway: ALK;NTRK1;SMAD2;CSF1R;NOTCH3;CREBBP;NOTCH1;FLT4;AXIN1;PIK3CD;BRAF;AXIN2;BRCA2;CBL;AR;PIK3CA;MSH2;APC;GNAS;EP300;JAK2
-
-🔸 [GO_Biological_Process_2021] enzyme linked receptor protein signaling pathway (GO:0007167)
-   P-value: 2.51e-14  |  Overlap: 12/140
-   🎯 Geni nel pathway: ALK;NTRK1;PTPRD;CSF1R;EPHA7;SRC;ERBB4;AXL;FLT4;NTRK3;INSR;JAK2
-
-🔸 [KEGG_2021_Human] Breast cancer
-   P-value: 4.54e-14  |  Overlap: 12/147
-   🎯 Geni nel pathway: NOTCH3;NOTCH1;PIK3CA;APC;FLT4;AXIN1;PIK3CD;PGR;BRAF;BRCA1;AXIN2;BRCA2
-
-================================================================================
-🎯 CLUSTER 2  |  DIMENSIONE: 14 geni
-🧬 TUTTI I GENI: U2AF1, JAK3, RET, PTPN11, KDM6A, KRAS, TGFBR2, ABL1, CDKN2A, TP53, RNF43, TBX3, ICOSLG, REL
-================================================================================
-
-🔸 [KEGG_2021_Human] Chronic myeloid leukemia
-   P-value: 7.21e-12  |  Overlap: 6/76
-   🎯 Geni nel pathway: CDKN2A;ABL1;PTPN11;KRAS;TP53;TGFBR2
-
-🔸 [KEGG_2021_Human] Non-small cell lung cancer
-   P-value: 1.02e-09  |  Overlap: 5/72
-   🎯 Geni nel pathway: RET;CDKN2A;KRAS;JAK3;TP53
-
-🔸 [KEGG_2021_Human] Pathways in cancer
-   P-value: 2.61e-08  |  Overlap: 7/531
-   🎯 Geni nel pathway: RET;CDKN2A;ABL1;KRAS;JAK3;TP53;TGFBR2
+🔸 [KEGG_2021_Human] Neurotrophin signaling pathway
+   P-value: 2.84e-08  |  Overlap: 5/119
+   🎯 Geni nel pathway: AKT3;ABL1;PTPN11;KRAS;TP53
 
 ================================================================================
 🎯 CLUSTER 3  |  DIMENSIONE: 16 geni
-🧬 TUTTI I GENI: PTPRT, PIK3C2G, CCND2, MEN1, FLT1, CARD11, MET, ATRX, DAXX, PTEN, RB1, NKX2-1, MGA, POLE, TSC2, SMARCA4
+🧬 TUTTI I GENI: ATRX, CARD11, CCND2, DAXX, FLT1, MEN1, MET, MGA, NKX2-1, PIK3C2G, POLE, PTEN, PTPRT, RB1, SMARCA4, TSC2
 ================================================================================
 
 🔸 [GO_Biological_Process_2021] chromatin remodeling (GO:0006338)

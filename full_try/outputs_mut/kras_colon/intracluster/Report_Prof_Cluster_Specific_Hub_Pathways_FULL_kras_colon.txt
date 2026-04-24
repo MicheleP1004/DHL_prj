@@ -2,8 +2,46 @@
 
 ================================================================================
 🎯 CLUSTER 0  |  TOP HUB ANALIZZATI: 5
-🧬 GENI HUB: ARID1A, ANKRD11, SPEN, TGFBR2, PTPRS
+🧬 GENI HUB: FAT1, FLCN, KMT2C, POLE, CTNNB1
 ================================================================================
+
+🔸 [GO_Biological_Process_2021] cell-cell junction assembly (GO:0007043)
+   - P-value: 1.07e-04 | Overlap: 2/66
+   - Geni nel pathway: FLCN;CTNNB1
+
+🔸 [GO_Biological_Process_2021] regulation of cell cycle process (GO:0010564)
+   - P-value: 2.75e-04 | Overlap: 2/106
+   - Geni nel pathway: FLCN;CTNNB1
+
+🔸 [GO_Biological_Process_2021] positive regulation of transcription by RNA polymerase II (GO:0045944)
+   - P-value: 8.71e-04 | Overlap: 3/908
+   - Geni nel pathway: FLCN;KMT2C;CTNNB1
+
+================================================================================
+🎯 CLUSTER 1  |  TOP HUB ANALIZZATI: 5
+🧬 GENI HUB: ARID2, EP300, NOTCH4, AR, ATRX
+================================================================================
+
+🔸 [GO_Biological_Process_2021] negative regulation of transcription by RNA polymerase II (GO:0000122)
+   - P-value: 6.60e-06 | Overlap: 4/684
+   - Geni nel pathway: AR;NOTCH4;ATRX;EP300
+
+🔸 [GO_Biological_Process_2021] positive regulation of transcription of Notch receptor target (GO:0007221)
+   - P-value: 6.79e-06 | Overlap: 2/17
+   - Geni nel pathway: NOTCH4;EP300
+
+🔸 [Reactome_2022] NOTCH4 Intracellular Domain Regulates Transcription R-HSA-9013695
+   - P-value: 9.48e-06 | Overlap: 2/20
+   - Geni nel pathway: NOTCH4;EP300
+
+================================================================================
+🎯 CLUSTER 2  |  TOP HUB ANALIZZATI: 5
+🧬 GENI HUB: PTPRS, TGFBR2, SPEN, ARID1A, ZFHX3
+================================================================================
+
+🔸 [GO_Biological_Process_2021] brain development (GO:0007420)
+   - P-value: 5.51e-04 | Overlap: 2/150
+   - Geni nel pathway: ZFHX3;TGFBR2
 
 🔸 [KEGG_2021_Human] Hepatocellular carcinoma
    - P-value: 6.90e-04 | Overlap: 2/168
@@ -13,55 +51,37 @@
    - P-value: 7.06e-04 | Overlap: 2/170
    - Geni nel pathway: PTPRS;TGFBR2
 
-🔸 [GO_Biological_Process_2021] negative regulation of collateral sprouting (GO:0048671)
-   - P-value: 1.25e-03 | Overlap: 1/5
-   - Geni nel pathway: PTPRS
-
 ================================================================================
-🎯 CLUSTER 1  |  TOP HUB ANALIZZATI: 5
-🧬 GENI HUB: EP300, ARID2, PAK7, IGF1R, PTEN
+🎯 CLUSTER 3  |  TOP HUB ANALIZZATI: 3
+🧬 GENI HUB: PTPRT, APC, SESN1
 ================================================================================
 
-🔸 [KEGG_2021_Human] Prostate cancer
-   - P-value: 1.10e-06 | Overlap: 3/97
-   - Geni nel pathway: PTEN;EP300;IGF1R
+🔸 [GO_Biological_Process_2021] beta-catenin destruction complex assembly (GO:1904885)
+   - P-value: 7.50e-04 | Overlap: 1/5
+   - Geni nel pathway: APC
 
-🔸 [KEGG_2021_Human] FoxO signaling pathway
-   - P-value: 2.72e-06 | Overlap: 3/131
-   - Geni nel pathway: PTEN;EP300;IGF1R
+🔸 [GO_Biological_Process_2021] positive regulation of protein localization to centrosome (GO:1904781)
+   - P-value: 1.05e-03 | Overlap: 1/7
+   - Geni nel pathway: APC
 
-🔸 [KEGG_2021_Human] Hepatocellular carcinoma
-   - P-value: 5.75e-06 | Overlap: 3/168
-   - Geni nel pathway: PTEN;ARID2;IGF1R
-
-================================================================================
-🎯 CLUSTER 2  |  TOP HUB ANALIZZATI: 5
-🧬 GENI HUB: FAT1, KMT2B, KMT2D, TCF7L2, POLE
-================================================================================
-
-🔸 [GO_Biological_Process_2021] histone H3-K4 dimethylation (GO:0044648)
-   - P-value: 1.05e-06 | Overlap: 2/7
-   - Geni nel pathway: KMT2D;KMT2B
-
-🔸 [GO_Biological_Process_2021] histone H3-K4 monomethylation (GO:0097692)
-   - P-value: 1.40e-06 | Overlap: 2/8
-   - Geni nel pathway: KMT2D;KMT2B
-
-🔸 [GO_Biological_Process_2021] peptidyl-lysine dimethylation (GO:0018027)
-   - P-value: 8.54e-06 | Overlap: 2/19
-   - Geni nel pathway: KMT2D;KMT2B
-
-================================================================================
-🎯 CLUSTER 3  |  TOP HUB ANALIZZATI: 5
-🧬 GENI HUB: NOTCH4, KDM5A, NCOR1, DNMT3A, FLT4
-================================================================================
-
-[-] Errore Enrichr per questo cluster.
+🔸 [GO_Biological_Process_2021] peptidyl-tyrosine dephosphorylation involved in inactivation of protein kinase activity (GO:1990264)
+   - P-value: 1.20e-03 | Overlap: 1/8
+   - Geni nel pathway: PTPRT
 
 ================================================================================
 🎯 CLUSTER 4  |  TOP HUB ANALIZZATI: 5
-🧬 GENI HUB: EPHA5, ZFHX3, BCOR, ERBB4, KMT2C
+🧬 GENI HUB: KMT2D, NOTCH3, IKBKE, ARID1B, B2M
 ================================================================================
 
-[-] Errore Enrichr per questo cluster.
+🔸 [Reactome_2022] SARS-CoV-2 Activates/Modulates Innate And Adaptive Immune Responses R-HSA-9705671
+   - P-value: 3.59e-04 | Overlap: 2/121
+   - Geni nel pathway: IKBKE;B2M
+
+🔸 [Reactome_2022] SARS-CoV-2-host Interactions R-HSA-9705683
+   - P-value: 9.37e-04 | Overlap: 2/196
+   - Geni nel pathway: IKBKE;B2M
+
+🔸 [KEGG_2021_Human] Epstein-Barr virus infection
+   - P-value: 9.95e-04 | Overlap: 2/202
+   - Geni nel pathway: IKBKE;B2M
 

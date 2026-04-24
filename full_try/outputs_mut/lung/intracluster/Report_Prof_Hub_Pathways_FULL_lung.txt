@@ -1,54 +1,54 @@
 --- 🏆 PATHWAY DOMINANTI DEGLI HUB DELLA RETE (LUNG - FULL) ---
-Geni Hub analizzati (24): NTRK3, PTPRD, KMT2C, PDGFRA, PTCH1, KEAP1, KMT2B, EPHA3, ALK, ERBB4, ARID1A, EPHB1, TP53, PTPRT, INPP4B, KMT2D, SMARCA4, HGF, FAT1, GLI1, STK11, PAK7, ZFHX3, ERCC4
+Geni Hub analizzati (15): NTRK3, ZFHX3, PTPRT, ARAF, FAT1, EPHB1, TP53, NF1, ERBB4, SMARCA4, GRIN2A, PIK3CG, PTPRD, PDGFRA, KEAP1
 ================================================================================
 
 🔸 [GO_Biological_Process_2021] enzyme linked receptor protein signaling pathway (GO:0007167)
-   - P-value: 3.15e-12 | Adjusted: 1.69e-09
-   - Overlap: 8/140
-   - Hubs coinvolti: ALK;PTPRT;PTPRD;PDGFRA;ERBB4;NTRK3;EPHB1;EPHA3
+   - P-value: 5.02e-10 | Adjusted: 2.45e-07
+   - Overlap: 6/140
+   - Hubs coinvolti: PTPRT;PTPRD;PDGFRA;ERBB4;NTRK3;EPHB1
 
 🔸 [GO_Biological_Process_2021] regulation of kinase activity (GO:0043549)
-   - P-value: 1.15e-09 | Adjusted: 3.09e-07
-   - Overlap: 6/94
-   - Hubs coinvolti: ALK;PDGFRA;ERBB4;NTRK3;EPHB1;EPHA3
+   - P-value: 6.00e-07 | Adjusted: 1.47e-04
+   - Overlap: 4/94
+   - Hubs coinvolti: PDGFRA;ERBB4;NTRK3;EPHB1
 
 🔸 [GO_Biological_Process_2021] positive regulation of kinase activity (GO:0033674)
-   - P-value: 3.72e-09 | Adjusted: 6.64e-07
-   - Overlap: 6/114
-   - Hubs coinvolti: ALK;PDGFRA;ERBB4;NTRK3;EPHB1;EPHA3
+   - P-value: 1.30e-06 | Adjusted: 2.12e-04
+   - Overlap: 4/114
+   - Hubs coinvolti: PDGFRA;ERBB4;NTRK3;EPHB1
 
-🔸 [GO_Biological_Process_2021] positive regulation of phosphorylation (GO:0042327)
-   - P-value: 1.37e-08 | Adjusted: 1.54e-06
-   - Overlap: 7/253
-   - Hubs coinvolti: ALK;PDGFRA;ERBB4;NTRK3;HGF;EPHB1;EPHA3
-
-🔸 [GO_Biological_Process_2021] transmembrane receptor protein tyrosine kinase signaling pathway (GO:0007169)
-   - P-value: 1.43e-08 | Adjusted: 1.54e-06
-   - Overlap: 8/404
-   - Hubs coinvolti: ALK;PTPRT;PDGFRA;ERBB4;NTRK3;HGF;EPHB1;EPHA3
+🔸 [KEGG_2021_Human] MAPK signaling pathway
+   - P-value: 1.77e-06 | Adjusted: 1.75e-04
+   - Overlap: 5/294
+   - Hubs coinvolti: PDGFRA;ERBB4;ARAF;NF1;TP53
 
 🔸 [GO_Biological_Process_2021] positive regulation of transferase activity (GO:0051347)
-   - P-value: 1.79e-08 | Adjusted: 1.60e-06
-   - Overlap: 6/148
-   - Hubs coinvolti: ALK;PDGFRA;ERBB4;NTRK3;EPHB1;EPHA3
+   - P-value: 3.69e-06 | Adjusted: 4.51e-04
+   - Overlap: 4/148
+   - Hubs coinvolti: PDGFRA;ERBB4;NTRK3;EPHB1
 
-🔸 [GO_Biological_Process_2021] histone H3-K4 monomethylation (GO:0097692)
-   - P-value: 8.47e-08 | Adjusted: 6.48e-06
-   - Overlap: 3/8
-   - Hubs coinvolti: KMT2D;KMT2C;KMT2B
-
-🔸 [GO_Biological_Process_2021] positive regulation of transcription, DNA-templated (GO:0045893)
-   - P-value: 4.61e-07 | Adjusted: 3.09e-05
-   - Overlap: 10/1183
-   - Hubs coinvolti: KMT2D;ZFHX3;ERBB4;KMT2C;HGF;KMT2B;ARID1A;GLI1;TP53;SMARCA4
-
-🔸 [GO_Biological_Process_2021] protein autophosphorylation (GO:0046777)
-   - P-value: 1.12e-06 | Adjusted: 6.68e-05
-   - Overlap: 5/159
-   - Hubs coinvolti: ALK;PDGFRA;STK11;ERBB4;EPHB1
+🔸 [GO_Biological_Process_2021] regulation of fibroblast proliferation (GO:0048145)
+   - P-value: 5.08e-06 | Adjusted: 4.97e-04
+   - Overlap: 3/46
+   - Hubs coinvolti: PDGFRA;NF1;TP53
 
 🔸 [KEGG_2021_Human] Hepatocellular carcinoma
-   - P-value: 1.47e-06 | Adjusted: 8.46e-05
-   - Overlap: 5/168
-   - Hubs coinvolti: HGF;KEAP1;ARID1A;TP53;SMARCA4
+   - P-value: 6.10e-06 | Adjusted: 3.02e-04
+   - Overlap: 4/168
+   - Hubs coinvolti: ARAF;KEAP1;TP53;SMARCA4
+
+🔸 [GO_Biological_Process_2021] transmembrane receptor protein tyrosine kinase signaling pathway (GO:0007169)
+   - P-value: 8.34e-06 | Adjusted: 6.11e-04
+   - Overlap: 5/404
+   - Hubs coinvolti: PTPRT;PDGFRA;ERBB4;NTRK3;EPHB1
+
+🔸 [GO_Biological_Process_2021] regulation of cell migration (GO:0030334)
+   - P-value: 8.75e-06 | Adjusted: 6.11e-04
+   - Overlap: 5/408
+   - Hubs coinvolti: PTPRT;PDGFRA;ERBB4;NTRK3;NF1
+
+🔸 [Reactome_2022] RUNX3 Regulates CDKN1A Transcription R-HSA-8941855
+   - P-value: 1.10e-05 | Adjusted: 2.17e-03
+   - Overlap: 2/7
+   - Hubs coinvolti: ZFHX3;TP53
 

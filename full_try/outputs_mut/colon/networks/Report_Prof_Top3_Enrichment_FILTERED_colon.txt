@@ -1,0 +1,35 @@
+--- 🏆 TOP 3 PATHWAY/ONTOLOGY PER OGNI CLUSTER (COLON - FILTERED) ---
+
+================================================================================
+🎯 CLUSTER 2  |  DIMENSIONE: 7 geni
+🧬 TUTTI I GENI: ATRX, KMT2B, KMT2C, KMT2D, MED12, MSH3, MYOD1
+================================================================================
+
+🔸 [GO_Biological_Process_2021] histone H3-K4 monomethylation (GO:0097692)
+   P-value: 1.47e-09  |  Overlap: 3/8
+   🎯 Geni nel pathway: KMT2D;KMT2C;KMT2B
+
+🔸 [GO_Molecular_Function_2021] histone methyltransferase activity (H3-K4 specific) (GO:0042800)
+   P-value: 1.47e-08  |  Overlap: 3/16
+   🎯 Geni nel pathway: KMT2D;KMT2C;KMT2B
+
+🔸 [GO_Biological_Process_2021] histone H3-K4 methylation (GO:0051568)
+   P-value: 1.06e-07  |  Overlap: 3/30
+   🎯 Geni nel pathway: KMT2D;KMT2C;KMT2B
+
+================================================================================
+🎯 CLUSTER 3  |  DIMENSIONE: 8 geni
+🧬 TUTTI I GENI: AMER1, CDKN1B, CTNNB1, FLCN, KRAS, MYD88, PIK3CA, STAT3
+================================================================================
+
+🔸 [KEGG_2021_Human] PD-L1 expression and PD-1 checkpoint pathway in cancer
+   P-value: 2.53e-08  |  Overlap: 4/89
+   🎯 Geni nel pathway: PIK3CA;STAT3;KRAS;MYD88
+
+🔸 [KEGG_2021_Human] Prostate cancer
+   P-value: 3.58e-08  |  Overlap: 4/97
+   🎯 Geni nel pathway: CDKN1B;PIK3CA;CTNNB1;KRAS
+
+🔸 [KEGG_2021_Human] AGE-RAGE signaling pathway in diabetic complications
+   P-value: 4.06e-08  |  Overlap: 4/100
+   🎯 Geni nel pathway: CDKN1B;PIK3CA;STAT3;KRAS

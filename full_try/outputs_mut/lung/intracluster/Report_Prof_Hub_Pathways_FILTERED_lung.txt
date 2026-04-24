@@ -1,0 +1,54 @@
+--- 🏆 PATHWAY DOMINANTI DEGLI HUB DELLA RETE (LUNG - FILTERED) ---
+Geni Hub analizzati (6): CHEK2, POLE, STK11, KRAS, GLI1, KEAP1
+================================================================================
+
+🔸 [Reactome_2022] Regulation Of TP53 Activity Thru Phosphorylation R-HSA-6804756
+   - P-value: 2.97e-04 | Adjusted: 2.46e-02
+   - Overlap: 2/90
+   - Hubs coinvolti: STK11;CHEK2
+
+🔸 [KEGG_2021_Human] Pathways in cancer
+   - P-value: 3.51e-04 | Adjusted: 1.35e-02
+   - Overlap: 3/531
+   - Hubs coinvolti: KEAP1;KRAS;GLI1
+
+🔸 [GO_Biological_Process_2021] intrinsic apoptotic signaling pathway (GO:0097193)
+   - P-value: 3.81e-04 | Adjusted: 2.66e-02
+   - Overlap: 2/102
+   - Hubs coinvolti: STK11;CHEK2
+
+🔸 [KEGG_2021_Human] Longevity regulating pathway
+   - P-value: 3.81e-04 | Adjusted: 1.35e-02
+   - Overlap: 2/102
+   - Hubs coinvolti: STK11;KRAS
+
+🔸 [KEGG_2021_Human] FoxO signaling pathway
+   - P-value: 6.28e-04 | Adjusted: 1.35e-02
+   - Overlap: 2/131
+   - Hubs coinvolti: STK11;KRAS
+
+🔸 [KEGG_2021_Human] Autophagy
+   - P-value: 6.86e-04 | Adjusted: 1.35e-02
+   - Overlap: 2/137
+   - Hubs coinvolti: STK11;KRAS
+
+🔸 [Reactome_2022] DNA Double-Strand Break Repair R-HSA-5693532
+   - P-value: 8.11e-04 | Adjusted: 2.49e-02
+   - Overlap: 2/149
+   - Hubs coinvolti: CHEK2;POLE
+
+🔸 [KEGG_2021_Human] mTOR signaling pathway
+   - P-value: 8.66e-04 | Adjusted: 1.35e-02
+   - Overlap: 2/154
+   - Hubs coinvolti: STK11;KRAS
+
+🔸 [GO_Biological_Process_2021] regulation of signal transduction by p53 class mediator (GO:1901796)
+   - P-value: 8.88e-04 | Adjusted: 2.66e-02
+   - Overlap: 2/156
+   - Hubs coinvolti: STK11;CHEK2
+
+🔸 [KEGG_2021_Human] Cellular senescence
+   - P-value: 8.88e-04 | Adjusted: 1.35e-02
+   - Overlap: 2/156
+   - Hubs coinvolti: CHEK2;KRAS
+

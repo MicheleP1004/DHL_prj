@@ -2,137 +2,86 @@
 
 ================================================================================
 🎯 CLUSTER 0  |  TOP HUB ANALIZZATI: 5
-🧬 GENI HUB: ERBB4, ZFHX3, EPHA3, BRCA1, RASA1
+🧬 GENI HUB: NF1, EPHB1, PIK3CG, KMT2B, HGF
 ================================================================================
 
-🔸 [GO_Biological_Process_2021] peptidyl-tyrosine modification (GO:0018212)
-   - P-value: 7.66e-05 | Overlap: 2/56
-   - Geni nel pathway: ERBB4;EPHA3
+🔸 [GO_Biological_Process_2021] phosphatidylinositol 3-kinase signaling (GO:0014065)
+   - P-value: 2.80e-05 | Overlap: 2/34
+   - Geni nel pathway: NF1;PIK3CG
 
-🔸 [GO_Biological_Process_2021] transmembrane receptor protein tyrosine kinase signaling pathway (GO:0007169)
-   - P-value: 7.94e-05 | Overlap: 3/404
-   - Geni nel pathway: ERBB4;RASA1;EPHA3
+🔸 [GO_Biological_Process_2021] cell chemotaxis (GO:0060326)
+   - P-value: 1.17e-04 | Overlap: 2/69
+   - Geni nel pathway: HGF;EPHB1
 
-🔸 [GO_Biological_Process_2021] regulation of cell-matrix adhesion (GO:0001952)
-   - P-value: 1.03e-04 | Overlap: 2/65
-   - Geni nel pathway: RASA1;EPHA3
+🔸 [GO_Biological_Process_2021] phosphatidylinositol-mediated signaling (GO:0048015)
+   - P-value: 1.23e-04 | Overlap: 2/71
+   - Geni nel pathway: NF1;PIK3CG
 
 ================================================================================
 🎯 CLUSTER 1  |  TOP HUB ANALIZZATI: 5
-🧬 GENI HUB: PDGFRA, FAT1, ARID1A, PREX2, KDR
-================================================================================
-
-🔸 [Reactome_2022] Signaling By PDGFR In Disease R-HSA-9671555
-   - P-value: 8.54e-06 | Overlap: 2/19
-   - Geni nel pathway: PDGFRA;KDR
-
-🔸 [GO_Biological_Process_2021] peptidyl-tyrosine modification (GO:0018212)
-   - P-value: 7.66e-05 | Overlap: 2/56
-   - Geni nel pathway: PDGFRA;KDR
-
-🔸 [GO_Biological_Process_2021] peptidyl-tyrosine phosphorylation (GO:0018108)
-   - P-value: 1.17e-04 | Overlap: 2/69
-   - Geni nel pathway: PDGFRA;KDR
-
-================================================================================
-🎯 CLUSTER 2  |  TOP HUB ANALIZZATI: 5
-🧬 GENI HUB: KMT2D, ALK, KMT2C, GRIN2A, NOTCH3
-================================================================================
-
-🔸 [GO_Biological_Process_2021] histone H3-K4 monomethylation (GO:0097692)
-   - P-value: 1.40e-06 | Overlap: 2/8
-   - Geni nel pathway: KMT2D;KMT2C
-
-🔸 [GO_Biological_Process_2021] histone H3-K4 methylation (GO:0051568)
-   - P-value: 2.17e-05 | Overlap: 2/30
-   - Geni nel pathway: KMT2D;KMT2C
-
-🔸 [Reactome_2022] PKMTs Methylate Histone Lysines R-HSA-3214841
-   - P-value: 5.38e-05 | Overlap: 2/47
-   - Geni nel pathway: KMT2D;KMT2C
-
-================================================================================
-🎯 CLUSTER 3  |  TOP HUB ANALIZZATI: 5
-🧬 GENI HUB: PTPRT, HGF, PAK7, MDC1, IRS2
-================================================================================
-
-🔸 [GO_Biological_Process_2021] transmembrane receptor protein tyrosine kinase signaling pathway (GO:0007169)
-   - P-value: 7.94e-05 | Overlap: 3/404
-   - Geni nel pathway: PTPRT;HGF;IRS2
-
-🔸 [GO_Biological_Process_2021] positive regulation of phosphatidylinositol 3-kinase signaling (GO:0014068)
-   - P-value: 1.45e-04 | Overlap: 2/77
-   - Geni nel pathway: HGF;IRS2
-
-🔸 [GO_Biological_Process_2021] regulation of phosphatidylinositol 3-kinase signaling (GO:0014066)
-   - P-value: 2.75e-04 | Overlap: 2/106
-   - Geni nel pathway: HGF;IRS2
-
-================================================================================
-🎯 CLUSTER 4  |  TOP HUB ANALIZZATI: 5
-🧬 GENI HUB: NTRK3, PTPRD, INPP4B, RET, NF1
-================================================================================
-
-🔸 [GO_Biological_Process_2021] positive regulation of cell projection organization (GO:0031346)
-   - P-value: 1.93e-06 | Overlap: 3/117
-   - Geni nel pathway: PTPRD;RET;NTRK3
-
-🔸 [GO_Biological_Process_2021] enzyme linked receptor protein signaling pathway (GO:0007167)
-   - P-value: 3.32e-06 | Overlap: 3/140
-   - Geni nel pathway: PTPRD;RET;NTRK3
-
-🔸 [GO_Biological_Process_2021] regulation of MAPK cascade (GO:0043408)
-   - P-value: 5.55e-06 | Overlap: 3/166
-   - Geni nel pathway: RET;NTRK3;NF1
-
-================================================================================
-🎯 CLUSTER 5  |  TOP HUB ANALIZZATI: 5
-🧬 GENI HUB: KEAP1, SMARCA4, STK11, KRAS, CHEK2
+🧬 GENI HUB: KEAP1, SMARCA4, GRIN2A, ATM, KRAS
 ================================================================================
 
 🔸 [KEGG_2021_Human] Hepatocellular carcinoma
    - P-value: 5.75e-06 | Overlap: 3/168
    - Geni nel pathway: KEAP1;KRAS;SMARCA4
 
-🔸 [Reactome_2022] Regulation Of TP53 Activity Thru Phosphorylation R-HSA-6804756
-   - P-value: 1.98e-04 | Overlap: 2/90
-   - Geni nel pathway: STK11;CHEK2
+🔸 [GO_Biological_Process_2021] regulation of cellular catabolic process (GO:0031329)
+   - P-value: 1.03e-04 | Overlap: 2/65
+   - Geni nel pathway: KEAP1;ATM
 
-🔸 [GO_Biological_Process_2021] intrinsic apoptotic signaling pathway (GO:0097193)
-   - P-value: 2.55e-04 | Overlap: 2/102
-   - Geni nel pathway: STK11;CHEK2
-
-================================================================================
-🎯 CLUSTER 6  |  TOP HUB ANALIZZATI: 5
-🧬 GENI HUB: TP53, PTCH1, ERCC4, ATRX, INPPL1
-================================================================================
-
-🔸 [GO_Biological_Process_2021] negative regulation of telomerase activity (GO:0051974)
-   - P-value: 2.25e-06 | Overlap: 2/10
-   - Geni nel pathway: ERCC4;TP53
-
-🔸 [GO_Biological_Process_2021] regulation of telomere maintenance (GO:0032204)
-   - P-value: 1.62e-05 | Overlap: 2/26
-   - Geni nel pathway: ERCC4;ATRX
-
-🔸 [GO_Biological_Process_2021] negative regulation of transferase activity (GO:0051348)
-   - P-value: 2.02e-05 | Overlap: 2/29
-   - Geni nel pathway: ERCC4;TP53
+🔸 [KEGG_2021_Human] Long-term potentiation
+   - P-value: 1.10e-04 | Overlap: 2/67
+   - Geni nel pathway: GRIN2A;KRAS
 
 ================================================================================
-🎯 CLUSTER 7  |  TOP HUB ANALIZZATI: 5
-🧬 GENI HUB: EPHB1, KMT2B, GLI1, TET2, EPHA5
+🎯 CLUSTER 2  |  TOP HUB ANALIZZATI: 5
+🧬 GENI HUB: ZFHX3, PTPRT, ERBB4, ALK, EPHA7
 ================================================================================
 
-🔸 [GO_Biological_Process_2021] histone H3-K4 methylation (GO:0051568)
-   - P-value: 2.17e-05 | Overlap: 2/30
-   - Geni nel pathway: KMT2B;TET2
+🔸 [GO_Biological_Process_2021] enzyme linked receptor protein signaling pathway (GO:0007167)
+   - P-value: 1.14e-08 | Overlap: 4/140
+   - Geni nel pathway: PTPRT;ALK;EPHA7;ERBB4
 
-🔸 [Reactome_2022] EPH-ephrin Mediated Repulsion Of Cells R-HSA-3928665
-   - P-value: 5.85e-05 | Overlap: 2/49
-   - Geni nel pathway: EPHA5;EPHB1
+🔸 [GO_Biological_Process_2021] transmembrane receptor protein tyrosine kinase signaling pathway (GO:0007169)
+   - P-value: 8.07e-07 | Overlap: 4/404
+   - Geni nel pathway: PTPRT;ALK;EPHA7;ERBB4
 
-🔸 [GO_Biological_Process_2021] ephrin receptor signaling pathway (GO:0048013)
-   - P-value: 1.65e-04 | Overlap: 2/82
-   - Geni nel pathway: EPHA5;EPHB1
+🔸 [GO_Biological_Process_2021] regulation of kinase activity (GO:0043549)
+   - P-value: 9.99e-07 | Overlap: 3/94
+   - Geni nel pathway: ALK;EPHA7;ERBB4
+
+================================================================================
+🎯 CLUSTER 3  |  TOP HUB ANALIZZATI: 5
+🧬 GENI HUB: TP53, PTPRD, NTRK3, BRCA1, PIK3C2G
+================================================================================
+
+🔸 [Reactome_2022] Receptor-type Tyrosine-Protein Phosphatases R-HSA-388844
+   - P-value: 9.48e-06 | Overlap: 2/20
+   - Geni nel pathway: PTPRD;NTRK3
+
+🔸 [GO_Biological_Process_2021] intrinsic apoptotic signaling pathway in response to DNA damage (GO:0008630)
+   - P-value: 6.34e-05 | Overlap: 2/51
+   - Geni nel pathway: BRCA1;TP53
+
+🔸 [GO_Biological_Process_2021] positive regulation of macromolecule metabolic process (GO:0010604)
+   - P-value: 6.82e-05 | Overlap: 3/384
+   - Geni nel pathway: NTRK3;BRCA1;TP53
+
+================================================================================
+🎯 CLUSTER 4  |  TOP HUB ANALIZZATI: 5
+🧬 GENI HUB: FAT1, PDGFRA, ARAF, BRCA2, KDR
+================================================================================
+
+🔸 [Reactome_2022] Signaling By PDGFR In Disease R-HSA-9671555
+   - P-value: 8.54e-06 | Overlap: 2/19
+   - Geni nel pathway: PDGFRA;KDR
+
+🔸 [KEGG_2021_Human] MAPK signaling pathway
+   - P-value: 3.08e-05 | Overlap: 3/294
+   - Geni nel pathway: PDGFRA;ARAF;KDR
+
+🔸 [GO_Biological_Process_2021] MAPK cascade (GO:0000165)
+   - P-value: 3.37e-05 | Overlap: 3/303
+   - Geni nel pathway: PDGFRA;ARAF;KDR
 

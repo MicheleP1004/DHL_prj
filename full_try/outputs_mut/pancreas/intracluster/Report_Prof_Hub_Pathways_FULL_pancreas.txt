@@ -1,54 +1,54 @@
 --- 🏆 PATHWAY DOMINANTI DEGLI HUB DELLA RETE (PANCREAS - FULL) ---
-Geni Hub analizzati (12): SMAD4, RNF43, BRCA2, CDKN2A, ZFHX3, MEN1, TSC2, DAXX, GATA1, KMT2D, KRAS, AKT3
+Geni Hub analizzati (12): SMAD4, PIK3CA, RNF43, ATM, CDKN2A, KMT2D, MEN1, TSC2, GNAS, KRAS, BRCA2, DAXX
 ================================================================================
 
 🔸 [KEGG_2021_Human] Pancreatic cancer
-   - P-value: 5.38e-10 | Adjusted: 6.83e-08
+   - P-value: 5.38e-10 | Adjusted: 8.33e-08
    - Overlap: 5/76
-   - Hubs coinvolti: SMAD4;CDKN2A;AKT3;KRAS;BRCA2
-
-🔸 [Reactome_2022] Generic Transcription Pathway R-HSA-212436
-   - P-value: 1.70e-09 | Adjusted: 2.92e-07
-   - Overlap: 9/1190
-   - Hubs coinvolti: KMT2D;SMAD4;ZFHX3;DAXX;CDKN2A;AKT3;TSC2;GATA1;MEN1
-
-🔸 [Reactome_2022] RNA Polymerase II Transcription R-HSA-73857
-   - P-value: 4.02e-09 | Adjusted: 3.46e-07
-   - Overlap: 9/1312
-   - Hubs coinvolti: KMT2D;SMAD4;ZFHX3;DAXX;CDKN2A;AKT3;TSC2;GATA1;MEN1
-
-🔸 [Reactome_2022] Gene Expression (Transcription) R-HSA-74160
-   - P-value: 9.67e-09 | Adjusted: 5.54e-07
-   - Overlap: 9/1449
-   - Hubs coinvolti: KMT2D;SMAD4;ZFHX3;DAXX;CDKN2A;AKT3;TSC2;GATA1;MEN1
-
-🔸 [KEGG_2021_Human] Chronic myeloid leukemia
-   - P-value: 9.31e-08 | Adjusted: 5.91e-06
-   - Overlap: 4/76
-   - Hubs coinvolti: SMAD4;CDKN2A;AKT3;KRAS
-
-🔸 [Reactome_2022] Regulation Of TP53 Degradation R-HSA-6804757
-   - P-value: 1.17e-06 | Adjusted: 4.36e-05
-   - Overlap: 3/36
-   - Hubs coinvolti: DAXX;CDKN2A;AKT3
-
-🔸 [KEGG_2021_Human] Signaling pathways regulating pluripotency of stem cells
-   - P-value: 1.19e-06 | Adjusted: 5.02e-05
-   - Overlap: 4/143
-   - Hubs coinvolti: SMAD4;ZFHX3;AKT3;KRAS
-
-🔸 [Reactome_2022] Regulation Of TP53 Expression And Degradation R-HSA-6806003
-   - P-value: 1.27e-06 | Adjusted: 4.36e-05
-   - Overlap: 3/37
-   - Hubs coinvolti: DAXX;CDKN2A;AKT3
+   - Hubs coinvolti: SMAD4;PIK3CA;CDKN2A;KRAS;BRCA2
 
 🔸 [KEGG_2021_Human] Cellular senescence
-   - P-value: 1.68e-06 | Adjusted: 5.33e-05
-   - Overlap: 4/156
-   - Hubs coinvolti: CDKN2A;AKT3;TSC2;KRAS
+   - P-value: 2.05e-08 | Adjusted: 1.59e-06
+   - Overlap: 5/156
+   - Hubs coinvolti: PIK3CA;CDKN2A;TSC2;ATM;KRAS
 
-🔸 [KEGG_2021_Human] Hepatocellular carcinoma
-   - P-value: 2.26e-06 | Adjusted: 5.73e-05
-   - Overlap: 4/168
-   - Hubs coinvolti: SMAD4;CDKN2A;AKT3;KRAS
+🔸 [Reactome_2022] Disease R-HSA-1643685
+   - P-value: 4.74e-08 | Adjusted: 1.34e-05
+   - Overlap: 9/1736
+   - Hubs coinvolti: RNF43;SMAD4;DAXX;PIK3CA;CDKN2A;GNAS;TSC2;ATM;BRCA2
+
+🔸 [KEGG_2021_Human] Chronic myeloid leukemia
+   - P-value: 9.31e-08 | Adjusted: 3.97e-06
+   - Overlap: 4/76
+   - Hubs coinvolti: SMAD4;PIK3CA;CDKN2A;KRAS
+
+🔸 [KEGG_2021_Human] Human T-cell leukemia virus 1 infection
+   - P-value: 1.12e-07 | Adjusted: 3.97e-06
+   - Overlap: 5/219
+   - Hubs coinvolti: SMAD4;PIK3CA;CDKN2A;ATM;KRAS
+
+🔸 [KEGG_2021_Human] Human cytomegalovirus infection
+   - P-value: 1.28e-07 | Adjusted: 3.97e-06
+   - Overlap: 5/225
+   - Hubs coinvolti: PIK3CA;CDKN2A;GNAS;TSC2;KRAS
+
+🔸 [KEGG_2021_Human] Pathways in cancer
+   - P-value: 2.75e-07 | Adjusted: 7.10e-06
+   - Overlap: 6/531
+   - Hubs coinvolti: SMAD4;PIK3CA;CDKN2A;GNAS;KRAS;BRCA2
+
+🔸 [KEGG_2021_Human] FoxO signaling pathway
+   - P-value: 8.35e-07 | Adjusted: 1.68e-05
+   - Overlap: 4/131
+   - Hubs coinvolti: SMAD4;PIK3CA;ATM;KRAS
+
+🔸 [KEGG_2021_Human] Human papillomavirus infection
+   - P-value: 8.67e-07 | Adjusted: 1.68e-05
+   - Overlap: 5/331
+   - Hubs coinvolti: PIK3CA;GNAS;TSC2;ATM;KRAS
+
+🔸 [KEGG_2021_Human] Apoptosis
+   - P-value: 1.15e-06 | Adjusted: 1.99e-05
+   - Overlap: 4/142
+   - Hubs coinvolti: DAXX;PIK3CA;ATM;KRAS
 

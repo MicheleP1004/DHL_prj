@@ -1,0 +1,35 @@
+--- 🏆 TOP 3 PATHWAY/ONTOLOGY PER OGNI CLUSTER (LUNG - FILTERED) ---
+
+================================================================================
+🎯 CLUSTER 0  |  DIMENSIONE: 26 geni
+🧬 TUTTI I GENI: AMER1, ATM, CCNE1, DNMT3B, ERG, ETV1, FLT1, FOXA1, FOXP1, GATA3, GLI1, HIST1H3E, IDH1, KRAS, MAX, MRE11A, NKX2-1, NUF2, PALB2, POLE, PRDM14, RBM10, SOX17, STAG2, TRAF7, U2AF1
+================================================================================
+
+🔸 [GO_Molecular_Function_2021] sequence-specific double-stranded DNA binding (GO:1990837)
+   P-value: 1.58e-07  |  Overlap: 9/712
+   🎯 Geni nel pathway: FOXA1;SOX17;MAX;NKX2-1;ETV1;GATA3;ERG;GLI1;FOXP1
+
+🔸 [GO_Molecular_Function_2021] transcription cis-regulatory region binding (GO:0000976)
+   P-value: 3.09e-07  |  Overlap: 8/549
+   🎯 Geni nel pathway: FOXA1;SOX17;MAX;NKX2-1;PRDM14;GATA3;GLI1;FOXP1
+
+🔸 [GO_Biological_Process_2021] positive regulation of transcription by RNA polymerase II (GO:0045944)
+   P-value: 1.22e-06  |  Overlap: 9/908
+   🎯 Geni nel pathway: FOXA1;SOX17;MAX;NKX2-1;ETV1;ATM;GATA3;ERG;GLI1
+
+================================================================================
+🎯 CLUSTER 1  |  DIMENSIONE: 7 geni
+🧬 TUTTI I GENI: CHEK2, EZH1, INHBA, KEAP1, PDCD1, REL, STK11
+================================================================================
+
+🔸 [GO_Biological_Process_2021] positive regulation of transmembrane receptor protein serine/threonine kinase signaling pathway (GO:0090100)
+   P-value: 4.33e-04  |  Overlap: 2/92
+   🎯 Geni nel pathway: STK11;INHBA
+
+🔸 [GO_Biological_Process_2021] intrinsic apoptotic signaling pathway (GO:0097193)
+   P-value: 5.32e-04  |  Overlap: 2/102
+   🎯 Geni nel pathway: STK11;CHEK2
+
+🔸 [GO_Biological_Process_2021] negative regulation of cell growth (GO:0030308)
+   P-value: 8.10e-04  |  Overlap: 2/126
+   🎯 Geni nel pathway: STK11;INHBA

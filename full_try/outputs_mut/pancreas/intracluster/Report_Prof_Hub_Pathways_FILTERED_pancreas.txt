@@ -1,0 +1,54 @@
+--- 🏆 PATHWAY DOMINANTI DEGLI HUB DELLA RETE (PANCREAS - FILTERED) ---
+Geni Hub analizzati (3): KRAS, KDM6A, CDKN2A
+================================================================================
+
+🔸 [KEGG_2021_Human] Bladder cancer
+   - P-value: 1.23e-05 | Adjusted: 5.90e-04
+   - Overlap: 2/41
+   - Hubs coinvolti: CDKN2A;KRAS
+
+🔸 [KEGG_2021_Human] Melanoma
+   - P-value: 3.83e-05 | Adjusted: 5.90e-04
+   - Overlap: 2/72
+   - Hubs coinvolti: CDKN2A;KRAS
+
+🔸 [KEGG_2021_Human] Non-small cell lung cancer
+   - P-value: 3.83e-05 | Adjusted: 5.90e-04
+   - Overlap: 2/72
+   - Hubs coinvolti: CDKN2A;KRAS
+
+🔸 [KEGG_2021_Human] Glioma
+   - P-value: 4.15e-05 | Adjusted: 5.90e-04
+   - Overlap: 2/75
+   - Hubs coinvolti: CDKN2A;KRAS
+
+🔸 [KEGG_2021_Human] Chronic myeloid leukemia
+   - P-value: 4.26e-05 | Adjusted: 5.90e-04
+   - Overlap: 2/76
+   - Hubs coinvolti: CDKN2A;KRAS
+
+🔸 [KEGG_2021_Human] Pancreatic cancer
+   - P-value: 4.26e-05 | Adjusted: 5.90e-04
+   - Overlap: 2/76
+   - Hubs coinvolti: CDKN2A;KRAS
+
+🔸 [GO_Biological_Process_2021] small GTPase mediated signal transduction (GO:0007264)
+   - P-value: 8.32e-05 | Adjusted: 5.23e-03
+   - Overlap: 2/106
+   - Hubs coinvolti: CDKN2A;KRAS
+
+🔸 [GO_Biological_Process_2021] Ras protein signal transduction (GO:0007265)
+   - P-value: 1.49e-04 | Adjusted: 5.23e-03
+   - Overlap: 2/142
+   - Hubs coinvolti: CDKN2A;KRAS
+
+🔸 [KEGG_2021_Human] Cellular senescence
+   - P-value: 1.80e-04 | Adjusted: 2.14e-03
+   - Overlap: 2/156
+   - Hubs coinvolti: CDKN2A;KRAS
+
+🔸 [KEGG_2021_Human] Hepatocellular carcinoma
+   - P-value: 2.09e-04 | Adjusted: 2.17e-03
+   - Overlap: 2/168
+   - Hubs coinvolti: CDKN2A;KRAS
+
