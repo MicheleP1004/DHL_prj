@@ -1,0 +1,3 @@
+Consensus_ID	Size	Genes	ClusterID_Pancreas	ClusterID_Lung	ClusterID_Colon
+M_0	4	BRCA1;FLT1;KMT2C;PTPRD	0	1	0
+M_1	4	DOT1L;LATS2;POLD1;TSC2	5	2	2
