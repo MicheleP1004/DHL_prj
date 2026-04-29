@@ -5,17 +5,17 @@
 🧬 TUTTI I GENI: AGO2, ALK, AMER1, ASXL2, ATM, ATR, BIRC3, BRCA1, CARD11, CDH1, CTNNB1, DIS3, DNMT3A, ERBB4, ERCC4, ERF, ESR1, FAT1, FGFR4, FLCN, FLT1, FYN, GATA1, GSK3B, IKZF1, INPPL1, INSR, IRS2, JAK1, JUN, KDR, KIT, KMT2C, MDM4, MET, MITF, MTOR, NEGR1, NF1, NFE2L2, NKX3-1, NSD1, NTRK1, PARK2, PARP1, PBRM1, PGR, PIK3C3, PIK3CB, PIK3CG, PIK3R2, PMS1, POLE, PPM1D, PRDM1, PREX2, PTPRD, RAF1, RASA1, RECQL4, SESN3, SETD2, SHOC2, SHQ1, SMO, STAT3, TBX3, TCF3, TEK, TET2, TOP1, TP53BP1, UPF1, WHSC1, WWTR1, XPO1
 ================================================================================
 
+🔸 [Reactome_Pathways_2024] Diseases of Signal Transduction by Growth Factor Receptors and Second Messengers
+   P-value: 1.52e-17  |  Overlap: 21/451
+   🎯 Geni nel pathway: ALK;AMER1;GSK3B;JUN;STAT3;IRS2;PIK3R2;PIK3CB;ESR1;MTOR;ERBB4;KIT;AGO2;KDR;NF1;CTNNB1;FYN;SHOC2;RAF1;FGFR4;MET
+
+🔸 [Reactome_Pathways_2024] Signal Transduction
+   P-value: 1.68e-16  |  Overlap: 40/2613
+   🎯 Geni nel pathway: ALK;AMER1;GSK3B;FLT1;IRS2;PIK3R2;IKZF1;PIK3CB;PRDM1;PIK3CG;PREX2;XPO1;CDH1;ERBB4;KDR;FYN;SHOC2;JAK1;NTRK1;WWTR1;JUN;PARP1;INSR;STAT3;ESR1;MTOR;SMO;RASA1;KIT;AGO2;NF1;CTNNB1;PGR;PIK3C3;TCF3;TEK;RAF1;FGFR4;MET;BIRC3
+
 🔸 [KEGG_2021_Human] Pathways in cancer
    P-value: 4.07e-16  |  Overlap: 21/531
    🎯 Geni nel pathway: ALK;NTRK1;GSK3B;JUN;STAT3;MITF;PIK3R2;PIK3CB;ESR1;MTOR;SMO;CDH1;KIT;CTNNB1;RAF1;FGFR4;MET;JAK1;NKX3-1;BIRC3;NFE2L2
-
-🔸 [GO_Biological_Process_2021] enzyme linked receptor protein signaling pathway (GO:0007167)
-   P-value: 5.76e-15  |  Overlap: 13/140
-   🎯 Geni nel pathway: ALK;NTRK1;FLT1;INSR;PIK3CB;PTPRD;ERBB4;KIT;KDR;FYN;TEK;FGFR4;MET
-
-🔸 [GO_Molecular_Function_2021] protein tyrosine kinase activity (GO:0004713)
-   P-value: 7.63e-15  |  Overlap: 12/108
-   🎯 Geni nel pathway: ALK;NTRK1;FLT1;ERBB4;INSR;KIT;KDR;FYN;TEK;FGFR4;MET;JAK1
 
 ================================================================================
 🎯 CLUSTER 1  |  DIMENSIONE: 62 geni
@@ -56,14 +56,14 @@
 🧬 TUTTI I GENI: AKT1, AKT2, AKT3, ARID1B, AURKA, AXL, B2M, BRD4, BTK, CDC73, DCUN1D1, DDR2, DICER1, DNMT3B, ELF3, ERBB3, EZH2, FBXW7, GNAS, IKBKE, INPP4B, KDM5A, KDM5C, KMT2D, LATS1, MALT1, MED12, MYD88, MYOD1, NCOR1, NOTCH3, NTRK2, PAX5, PDGFRA, PDGFRB, PIK3CD, PIK3R1, PPP2R1A, PTPN11, RAD50, RB1, RET, RUNX1, SMAD2, SMAD3, SYK, TRAF2
 ================================================================================
 
-🔸 [GO_Biological_Process_2021] protein phosphorylation (GO:0006468)
-   P-value: 1.19e-14  |  Overlap: 16/496
-   🎯 Geni nel pathway: RET;PDGFRB;SMAD2;NTRK2;PDGFRA;SYK;PIK3CD;AURKA;LATS1;AKT2;MYOD1;AKT3;BTK;AKT1;IKBKE;DDR2
+🔸 [Reactome_Pathways_2024] Disease
+   P-value: 2.47e-18  |  Overlap: 30/2131
+   🎯 Geni nel pathway: RB1;NOTCH3;PIK3CD;PIK3R1;MED12;ERBB3;PPP2R1A;AKT2;AKT3;DNMT3B;AKT1;B2M;IKBKE;BRD4;PDGFRB;SMAD2;NTRK2;PDGFRA;SMAD3;SYK;FBXW7;PTPN11;TRAF2;RUNX1;RAD50;NCOR1;BTK;GNAS;MYD88;EZH2
 
-🔸 [KEGG_2021_Human] Epstein-Barr virus infection
-   P-value: 3.11e-14  |  Overlap: 12/202
-   🎯 Geni nel pathway: RB1;SYK;AKT2;AKT3;BTK;PIK3CD;AKT1;TRAF2;PIK3R1;B2M;IKBKE;MYD88
+🔸 [Reactome_Pathways_2024] Negative Regulation of the PI3K AKT Network
+   P-value: 4.40e-17  |  Overlap: 12/118
+   🎯 Geni nel pathway: PDGFRB;NTRK2;PDGFRA;ERBB3;PPP2R1A;AKT2;AKT3;PIK3CD;AKT1;PTPN11;PIK3R1;MYD88
 
-🔸 [KEGG_2021_Human] Chronic myeloid leukemia
-   P-value: 1.23e-13  |  Overlap: 9/76
-   🎯 Geni nel pathway: RB1;SMAD3;AKT2;AKT3;PIK3CD;AKT1;PTPN11;PIK3R1;RUNX1
+🔸 [Reactome_Pathways_2024] Signal Transduction
+   P-value: 6.02e-17  |  Overlap: 31/2613
+   🎯 Geni nel pathway: RET;KMT2D;NOTCH3;PIK3CD;PIK3R1;CDC73;ERBB3;PPP2R1A;AKT2;AKT3;AKT1;IKBKE;PDGFRB;SMAD2;NTRK2;PDGFRA;SMAD3;SYK;FBXW7;PTPN11;TRAF2;RUNX1;LATS1;NCOR1;ELF3;AXL;MYOD1;BTK;GNAS;MYD88;EZH2

@@ -1,5 +1,5 @@
 --- 🏆 PATHWAY DOMINANTI DEGLI HUB DELLA RETE (LUNG - FILTERED) ---
-Geni Hub analizzati (6): CHEK2, POLE, STK11, KRAS, GLI1, KEAP1
+Geni Hub analizzati (6): STK11, KRAS, GLI1, KEAP1, CHEK2, POLE
 ================================================================================
 
 🔸 [Reactome_2022] Regulation Of TP53 Activity Thru Phosphorylation R-HSA-6804756

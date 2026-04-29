@@ -1,5 +1,5 @@
 --- 🏆 PATHWAY DOMINANTI DEGLI HUB DELLA RETE (PANCREAS - FULL) ---
-Geni Hub analizzati (12): SMAD4, PIK3CA, RNF43, ATM, CDKN2A, KMT2D, MEN1, TSC2, GNAS, KRAS, BRCA2, DAXX
+Geni Hub analizzati (12): TSC2, CDKN2A, ATM, RNF43, PIK3CA, GNAS, KRAS, KMT2D, SMAD4, DAXX, BRCA2, MEN1
 ================================================================================
 
 🔸 [KEGG_2021_Human] Pancreatic cancer

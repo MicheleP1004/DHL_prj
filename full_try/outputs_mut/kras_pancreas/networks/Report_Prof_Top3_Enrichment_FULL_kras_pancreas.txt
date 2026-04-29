@@ -5,17 +5,17 @@
 🧬 TUTTI I GENI: ARID1A, AXIN1, BRCA1, BRCA2, CCND2, FAT1, FLT1, INSR, KMT2C, KMT2D, MAP2K4, POLE, PTPRD, RPTOR, SMAD2, SMARCA4
 ================================================================================
 
+🔸 [Reactome_Pathways_2024] Transcriptional Regulation by RUNX1
+   P-value: 7.25e-09  |  Overlap: 6/202
+   🎯 Geni nel pathway: KMT2D;CCND2;KMT2C;AXIN1;ARID1A;SMARCA4
+
 🔸 [GO_Biological_Process_2021] positive regulation of transcription, DNA-templated (GO:0045893)
    P-value: 6.74e-08  |  Overlap: 9/1183
    🎯 Geni nel pathway: SMAD2;RPTOR;KMT2D;KMT2C;AXIN1;BRCA1;ARID1A;BRCA2;SMARCA4
 
-🔸 [GO_Molecular_Function_2021] DNA binding (GO:0003677)
-   P-value: 1.46e-06  |  Overlap: 7/811
-   🎯 Geni nel pathway: SMAD2;KMT2D;BRCA1;ARID1A;BRCA2;POLE;SMARCA4
-
-🔸 [GO_Biological_Process_2021] positive regulation of nucleic acid-templated transcription (GO:1903508)
-   P-value: 1.74e-06  |  Overlap: 6/511
-   🎯 Geni nel pathway: SMAD2;AXIN1;BRCA1;ARID1A;BRCA2;SMARCA4
+🔸 [Reactome_Pathways_2024] Generic Transcription Pathway
+   P-value: 9.43e-08  |  Overlap: 9/1230
+   🎯 Geni nel pathway: SMAD2;RPTOR;KMT2D;CCND2;KMT2C;AXIN1;BRCA1;ARID1A;SMARCA4
 
 ================================================================================
 🎯 CLUSTER 1  |  DIMENSIONE: 13 geni
@@ -64,9 +64,9 @@
    P-value: 3.71e-08  |  Overlap: 5/296
    🎯 Geni nel pathway: CDKN2A;ABL1;TP53;BAP1;TBX3
 
-🔸 [GO_Biological_Process_2021] regulation of peptidyl-tyrosine phosphorylation (GO:0050730)
-   P-value: 5.19e-06  |  Overlap: 3/92
-   🎯 Geni nel pathway: ABL1;PTPN11;TP53
+🔸 [Reactome_Pathways_2024] Recruitment and ATM-med Phosphorylation of Repair and Signaling Proteins at DNA Double Strand Breaks
+   P-value: 1.42e-06  |  Overlap: 3/60
+   🎯 Geni nel pathway: ABL1;TP53;BAP1
 
 ================================================================================
 🎯 CLUSTER 5  |  DIMENSIONE: 16 geni
@@ -77,10 +77,10 @@
    P-value: 1.37e-07  |  Overlap: 6/331
    🎯 Geni nel pathway: RB1;NOTCH3;TSC2;EP300;ATM;AXIN2
 
-🔸 [KEGG_2021_Human] Homologous recombination
-   P-value: 4.40e-06  |  Overlap: 3/41
-   🎯 Geni nel pathway: POLD1;ATM;PALB2
+🔸 [Reactome_Pathways_2024] Generic Transcription Pathway
+   P-value: 1.65e-06  |  Overlap: 8/1230
+   🎯 Geni nel pathway: RB1;NOTCH3;ZFHX3;MGA;TSC2;EP300;ATM;ARID1B
 
-🔸 [GO_Biological_Process_2021] telomere organization (GO:0032200)
-   P-value: 6.67e-06  |  Overlap: 3/47
-   🎯 Geni nel pathway: POLD1;DOT1L;ATM
+🔸 [Reactome_Pathways_2024] RNA Polymerase II Transcription
+   P-value: 3.52e-06  |  Overlap: 8/1360
+   🎯 Geni nel pathway: RB1;NOTCH3;ZFHX3;MGA;TSC2;EP300;ATM;ARID1B

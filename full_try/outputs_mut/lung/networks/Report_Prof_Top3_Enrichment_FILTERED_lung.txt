@@ -26,10 +26,10 @@
    P-value: 4.33e-04  |  Overlap: 2/92
    🎯 Geni nel pathway: STK11;INHBA
 
+🔸 [Reactome_Pathways_2024] Regulation of TP53 Activity Through Phosphorylation
+   P-value: 4.33e-04  |  Overlap: 2/92
+   🎯 Geni nel pathway: STK11;CHEK2
+
 🔸 [GO_Biological_Process_2021] intrinsic apoptotic signaling pathway (GO:0097193)
    P-value: 5.32e-04  |  Overlap: 2/102
    🎯 Geni nel pathway: STK11;CHEK2
-
-🔸 [GO_Biological_Process_2021] negative regulation of cell growth (GO:0030308)
-   P-value: 8.10e-04  |  Overlap: 2/126
-   🎯 Geni nel pathway: STK11;INHBA

@@ -1,5 +1,5 @@
 --- 🏆 PATHWAY DOMINANTI DEGLI HUB DELLA RETE (PANCREAS - FILTERED) ---
-Geni Hub analizzati (3): KRAS, KDM6A, CDKN2A
+Geni Hub analizzati (3): CDKN2A, KRAS, KDM6A
 ================================================================================
 
 🔸 [KEGG_2021_Human] Bladder cancer

@@ -1,5 +1,5 @@
 --- 🏆 PATHWAY DOMINANTI DEGLI HUB DELLA RETE (KRAS_PANCREAS - FULL) ---
-Geni Hub analizzati (15): SMAD4, RNF43, CDKN2A, ATM, DOT1L, KMT2D, PREX2, AKT3, BAP1, BCOR, RBM10, EP300, ARID1A, BRCA2, ABL1
+Geni Hub analizzati (15): PREX2, BCOR, CDKN2A, ATM, RNF43, AKT3, KMT2D, SMAD4, BAP1, EP300, DOT1L, BRCA2, RBM10, ARID1A, ABL1
 ================================================================================
 
 🔸 [KEGG_2021_Human] Cell cycle
@@ -25,7 +25,7 @@ Geni Hub analizzati (15): SMAD4, RNF43, CDKN2A, ATM, DOT1L, KMT2D, PREX2, AKT3, 
 🔸 [GO_Biological_Process_2021] positive regulation of transcription, DNA-templated (GO:0045893)
    - P-value: 6.48e-07 | Adjusted: 2.95e-04
    - Overlap: 8/1183
-   - Hubs coinvolti: KMT2D;SMAD4;DOT1L;ABL1;EP300;ATM;ARID1A;BRCA2
+   - Hubs coinvolti: KMT2D;SMAD4;DOT1L;ABL1;EP300;ATM;BRCA2;ARID1A
 
 🔸 [Reactome_2022] Generic Transcription Pathway R-HSA-212436
    - P-value: 6.78e-07 | Adjusted: 1.58e-04

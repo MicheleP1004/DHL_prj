@@ -1,5 +1,5 @@
 --- 🏆 PATHWAY DOMINANTI DEGLI HUB DELLA RETE (COLON - FULL) ---
-Geni Hub analizzati (12): PIK3CA, ATM, ATR, POLE, ROS1, APC, KMT2D, TCF7L2, NF1, CTNNB1, PIK3CG, BRCA2
+Geni Hub analizzati (12): CTNNB1, ATM, PIK3CA, ATR, ROS1, KMT2D, PIK3CG, TCF7L2, BRCA2, NF1, APC, POLE
 ================================================================================
 
 🔸 [KEGG_2021_Human] Breast cancer

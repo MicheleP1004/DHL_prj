@@ -1,16 +1,16 @@
 --- 🏆 PATHWAY DOMINANTI DEGLI HUB DELLA RETE (COLON - FILTERED) ---
-Geni Hub analizzati (12): SMAD2, ATRX, FLCN, RAD54L, KMT2D, SMAD3, KMT2C, BAP1, KRAS, EP300, PTPRD, CTNNB1
+Geni Hub analizzati (12): SMAD3, ATRX, CTNNB1, KRAS, SMAD2, FLCN, KMT2C, EP300, BAP1, KMT2D, PTPRD, RAD54L
 ================================================================================
 
 🔸 [GO_Biological_Process_2021] positive regulation of transcription by RNA polymerase II (GO:0045944)
    - P-value: 7.37e-09 | Adjusted: 3.25e-06
    - Overlap: 8/908
-   - Hubs coinvolti: SMAD2;FLCN;KMT2D;SMAD3;KMT2C;ATRX;EP300;CTNNB1
+   - Hubs coinvolti: SMAD2;FLCN;KMT2D;SMAD3;KMT2C;ATRX;CTNNB1;EP300
 
 🔸 [GO_Biological_Process_2021] positive regulation of transcription, DNA-templated (GO:0045893)
    - P-value: 5.85e-08 | Adjusted: 1.29e-05
    - Overlap: 8/1183
-   - Hubs coinvolti: SMAD2;FLCN;KMT2D;SMAD3;KMT2C;ATRX;EP300;CTNNB1
+   - Hubs coinvolti: SMAD2;FLCN;KMT2D;SMAD3;KMT2C;ATRX;CTNNB1;EP300
 
 🔸 [Reactome_2022] Gastrulation R-HSA-9758941
    - P-value: 1.12e-07 | Adjusted: 1.97e-05
@@ -30,7 +30,7 @@ Geni Hub analizzati (12): SMAD2, ATRX, FLCN, RAD54L, KMT2D, SMAD3, KMT2C, BAP1, 
 🔸 [GO_Biological_Process_2021] beta-catenin-TCF complex assembly (GO:1904837)
    - P-value: 5.98e-07 | Adjusted: 6.59e-05
    - Overlap: 3/29
-   - Hubs coinvolti: KMT2D;EP300;CTNNB1
+   - Hubs coinvolti: KMT2D;CTNNB1;EP300
 
 🔸 [Reactome_2022] SMAD2/SMAD3:SMAD4 Heterotrimer Regulates Transcription R-HSA-2173796
    - P-value: 1.17e-06 | Adjusted: 1.03e-04

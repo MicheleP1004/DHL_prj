@@ -1,11 +1,11 @@
 --- 🏆 PATHWAY DOMINANTI DEGLI HUB DELLA RETE (KRAS_LUNG - FULL) ---
-Geni Hub analizzati (18): NTRK1, EPHA3, ATRX, RET, KEAP1, FAT1, MGA, TP53, STK11, SMARCA4, SETD2, GRIN2A, RBM10, GLI1, ARID1A, PTPRD, CIC, PTPRT
+Geni Hub analizzati (18): PTPRT, STK11, SETD2, RBM10, ATRX, RET, EPHA3, SMARCA4, GRIN2A, CIC, TP53, GLI1, NTRK1, FAT1, KEAP1, MGA, ARID1A, PTPRD
 ================================================================================
 
 🔸 [GO_Biological_Process_2021] enzyme linked receptor protein signaling pathway (GO:0007167)
    - P-value: 1.25e-07 | Adjusted: 5.64e-05
    - Overlap: 5/140
-   - Hubs coinvolti: NTRK1;RET;PTPRT;PTPRD;EPHA3
+   - Hubs coinvolti: PTPRT;RET;NTRK1;PTPRD;EPHA3
 
 🔸 [GO_Biological_Process_2021] nucleosome organization (GO:0034728)
    - P-value: 1.33e-06 | Adjusted: 3.01e-04
@@ -15,7 +15,7 @@ Geni Hub analizzati (18): NTRK1, EPHA3, ATRX, RET, KEAP1, FAT1, MGA, TP53, STK11
 🔸 [GO_Biological_Process_2021] positive regulation of cell projection organization (GO:0031346)
    - P-value: 3.19e-06 | Adjusted: 3.72e-04
    - Overlap: 4/117
-   - Hubs coinvolti: NTRK1;RET;PTPRD;EPHA3
+   - Hubs coinvolti: RET;NTRK1;PTPRD;EPHA3
 
 🔸 [GO_Biological_Process_2021] signal transduction by p53 class mediator (GO:0072331)
    - P-value: 3.28e-06 | Adjusted: 3.72e-04
@@ -25,7 +25,7 @@ Geni Hub analizzati (18): NTRK1, EPHA3, ATRX, RET, KEAP1, FAT1, MGA, TP53, STK11
 🔸 [KEGG_2021_Human] Thyroid cancer
    - P-value: 4.67e-06 | Adjusted: 3.69e-04
    - Overlap: 3/37
-   - Hubs coinvolti: NTRK1;RET;TP53
+   - Hubs coinvolti: RET;NTRK1;TP53
 
 🔸 [GO_Biological_Process_2021] chromatin organization (GO:0006325)
    - P-value: 6.90e-06 | Adjusted: 6.25e-04
@@ -45,10 +45,10 @@ Geni Hub analizzati (18): NTRK1, EPHA3, ATRX, RET, KEAP1, FAT1, MGA, TP53, STK11
 🔸 [KEGG_2021_Human] Central carbon metabolism in cancer
    - P-value: 3.23e-05 | Adjusted: 8.50e-04
    - Overlap: 3/70
-   - Hubs coinvolti: NTRK1;RET;TP53
+   - Hubs coinvolti: RET;NTRK1;TP53
 
 🔸 [GO_Biological_Process_2021] positive regulation of neuron projection development (GO:0010976)
    - P-value: 6.40e-05 | Adjusted: 3.92e-03
    - Overlap: 3/88
-   - Hubs coinvolti: NTRK1;RET;EPHA3
+   - Hubs coinvolti: RET;NTRK1;EPHA3
 

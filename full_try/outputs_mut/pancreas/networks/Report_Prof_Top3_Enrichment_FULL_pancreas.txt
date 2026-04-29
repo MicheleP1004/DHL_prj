@@ -22,17 +22,17 @@
 🧬 TUTTI I GENI: ALK, AMER1, ANKRD11, APC, AR, ARID1A, ARID1B, ATM, AXIN1, AXIN2, AXL, BCOR, BRAF, BRCA1, BRCA2, CBL, CDK12, CREBBP, CSF1R, DOT1L, EP300, EPHA7, ERBB4, ERF, FAT1, INPPL1, INSR, IRS1, JAK2, KDM5A, KDM5C, KMT2A, KMT2C, KMT2D, LATS2, MSH2, NCOR1, NOTCH1, NOTCH3, NTRK3, PALB2, PBRM1, PGR, PIK3CD, POLD1, PRDM14, PREX2, PTPRD, PTPRS, RBM10, RICTOR, RPTOR, SETD2, SMAD2, SPEN, SRC, TET1, WHSC1L1, ZFHX3
 ================================================================================
 
-🔸 [KEGG_2021_Human] Pathways in cancer
-   P-value: 1.24e-13  |  Overlap: 17/531
-   🎯 Geni nel pathway: ALK;SMAD2;CSF1R;NOTCH3;CREBBP;NOTCH1;AXIN1;PIK3CD;BRAF;AXIN2;BRCA2;CBL;AR;MSH2;APC;EP300;JAK2
+🔸 [Reactome_Pathways_2024] Diseases of Signal Transduction by Growth Factor Receptors and Second Messengers
+   P-value: 4.49e-16  |  Overlap: 18/451
+   🎯 Geni nel pathway: ALK;AMER1;SMAD2;CREBBP;NOTCH1;IRS1;SRC;NTRK3;AXIN1;PIK3CD;BRAF;CBL;NCOR1;APC;ERBB4;EP300;RICTOR;JAK2
 
-🔸 [GO_Cellular_Component_2021] intracellular membrane-bounded organelle (GO:0043231)
-   P-value: 3.03e-12  |  Overlap: 41/5192
-   🎯 Geni nel pathway: KDM5A;AMER1;CSF1R;KMT2D;KDM5C;SETD2;NOTCH1;KMT2A;IRS1;ANKRD11;KMT2C;DOT1L;INPPL1;PRDM14;BRCA1;BRCA2;ERBB4;POLD1;EP300;JAK2;RBM10;SMAD2;SPEN;CREBBP;ZFHX3;AXIN1;TET1;BRAF;AXIN2;ARID1A;AR;LATS2;NCOR1;MSH2;APC;AXL;ERF;FAT1;ATM;BCOR;CDK12
+🔸 [Reactome_Pathways_2024] Chromatin Modifying Enzymes
+   P-value: 6.43e-15  |  Overlap: 14/238
+   🎯 Geni nel pathway: KDM5A;KMT2D;KDM5C;SETD2;PBRM1;CREBBP;KMT2A;KMT2C;DOT1L;ARID1A;ARID1B;NCOR1;EP300;JAK2
 
-🔸 [GO_Cellular_Component_2021] nucleus (GO:0005634)
-   P-value: 5.74e-12  |  Overlap: 38/4484
-   🎯 Geni nel pathway: KDM5A;KMT2D;KDM5C;SETD2;NOTCH1;KMT2A;IRS1;ANKRD11;KMT2C;DOT1L;INPPL1;PRDM14;BRCA1;BRCA2;ERBB4;POLD1;EP300;JAK2;RBM10;SMAD2;SPEN;CREBBP;ZFHX3;INSR;AXIN1;TET1;AXIN2;ARID1A;AR;LATS2;NCOR1;MSH2;APC;ERF;FAT1;ATM;BCOR;CDK12
+🔸 [Reactome_Pathways_2024] Chromatin Organization
+   P-value: 6.43e-15  |  Overlap: 14/238
+   🎯 Geni nel pathway: KDM5A;KMT2D;KDM5C;SETD2;PBRM1;CREBBP;KMT2A;KMT2C;DOT1L;ARID1A;ARID1B;NCOR1;EP300;JAK2
 
 ================================================================================
 🎯 CLUSTER 2  |  DIMENSIONE: 16 geni
@@ -56,14 +56,14 @@
 🧬 TUTTI I GENI: ATRX, CARD11, CCND2, DAXX, FLT1, MEN1, MET, MGA, NKX2-1, PIK3C2G, POLE, PTEN, PTPRT, RB1, SMARCA4, TSC2
 ================================================================================
 
-🔸 [GO_Biological_Process_2021] chromatin remodeling (GO:0006338)
-   P-value: 1.15e-06  |  Overlap: 4/103
-   🎯 Geni nel pathway: RB1;DAXX;ATRX;SMARCA4
+🔸 [Reactome_Pathways_2024] Diseases of Mitotic Cell Cycle
+   P-value: 1.98e-08  |  Overlap: 4/38
+   🎯 Geni nel pathway: RB1;DAXX;CCND2;ATRX
 
-🔸 [GO_Biological_Process_2021] chromatin organization (GO:0006325)
-   P-value: 4.15e-06  |  Overlap: 4/142
-   🎯 Geni nel pathway: RB1;DAXX;ATRX;SMARCA4
+🔸 [Reactome_Pathways_2024] Generic Transcription Pathway
+   P-value: 9.43e-08  |  Overlap: 9/1230
+   🎯 Geni nel pathway: RB1;DAXX;CCND2;MGA;PTEN;TSC2;MET;SMARCA4;MEN1
 
-🔸 [GO_Biological_Process_2021] negative regulation of protein phosphorylation (GO:0001933)
-   P-value: 5.44e-06  |  Overlap: 4/152
-   🎯 Geni nel pathway: RB1;PTEN;TSC2;MEN1
+🔸 [Reactome_Pathways_2024] RNA Polymerase II Transcription
+   P-value: 2.24e-07  |  Overlap: 9/1360
+   🎯 Geni nel pathway: RB1;DAXX;CCND2;MGA;PTEN;TSC2;MET;SMARCA4;MEN1

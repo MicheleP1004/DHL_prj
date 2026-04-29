@@ -1,5 +1,5 @@
 --- 🏆 PATHWAY DOMINANTI DEGLI HUB DELLA RETE (KRAS_COLON - FULL) ---
-Geni Hub analizzati (15): ARID2, PTPRS, FLCN, APC, KMT2D, PTPRT, IKBKE, FAT1, NOTCH3, TGFBR2, KMT2C, SESN1, NOTCH4, EP300, SPEN
+Geni Hub analizzati (15): PTPRT, NOTCH3, NOTCH4, IKBKE, FLCN, KMT2D, EP300, ARID2, SPEN, FAT1, SESN1, PTPRS, APC, TGFBR2, KMT2C
 ================================================================================
 
 🔸 [GO_Biological_Process_2021] positive regulation of transcription of Notch receptor target (GO:0007221)
@@ -35,7 +35,7 @@ Geni Hub analizzati (15): ARID2, PTPRS, FLCN, APC, KMT2D, PTPRT, IKBKE, FAT1, NO
 🔸 [Reactome_2022] Generic Transcription Pathway R-HSA-212436
    - P-value: 1.09e-05 | Adjusted: 3.95e-04
    - Overlap: 7/1190
-   - Hubs coinvolti: KMT2D;NOTCH3;KMT2C;NOTCH4;SESN1;EP300;ARID2
+   - Hubs coinvolti: NOTCH3;KMT2D;NOTCH4;KMT2C;SESN1;EP300;ARID2
 
 🔸 [GO_Biological_Process_2021] Notch signaling pathway (GO:0007219)
    - P-value: 1.14e-05 | Adjusted: 1.39e-03

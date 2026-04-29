@@ -1,5 +1,5 @@
 --- 🏆 PATHWAY DOMINANTI DEGLI HUB DELLA RETE (LUNG - FULL) ---
-Geni Hub analizzati (15): NTRK3, ZFHX3, PTPRT, ARAF, FAT1, EPHB1, TP53, NF1, ERBB4, SMARCA4, GRIN2A, PIK3CG, PTPRD, PDGFRA, KEAP1
+Geni Hub analizzati (15): PTPRT, ERBB4, NTRK3, SMARCA4, GRIN2A, PDGFRA, ZFHX3, PIK3CG, EPHB1, TP53, ARAF, NF1, KEAP1, FAT1, PTPRD
 ================================================================================
 
 🔸 [GO_Biological_Process_2021] enzyme linked receptor protein signaling pathway (GO:0007167)
