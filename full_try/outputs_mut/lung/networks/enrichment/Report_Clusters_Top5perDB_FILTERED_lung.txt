@@ -1,0 +1,113 @@
+--- 🏆 TOP 5 PATHWAY/ONTOLOGY PER DATABASE PER OGNI CLUSTER (LUNG - FILTERED) ---
+
+================================================================================
+🎯 CLUSTER 0  |  DIMENSIONE: 26 geni
+🧬 TUTTI I GENI: AMER1, ATM, CCNE1, DNMT3B, ERG, ETV1, FLT1, FOXA1, FOXP1, GATA3, GLI1, HIST1H3E, IDH1, KRAS, MAX, MRE11A, NKX2-1, NUF2, PALB2, POLE, PRDM14, RBM10, SOX17, STAG2, TRAF7, U2AF1
+================================================================================
+
+  [GO]
+  🔸 [GO_Molecular_Function_2021] sequence-specific double-stranded DNA binding (GO:1990837)
+     P-value: 1.58e-07  |  Overlap: 9/712
+     🎯 Geni nel pathway: FOXA1;SOX17;MAX;NKX2-1;ETV1;GATA3;ERG;GLI1;FOXP1
+  🔸 [GO_Molecular_Function_2021] transcription cis-regulatory region binding (GO:0000976)
+     P-value: 3.09e-07  |  Overlap: 8/549
+     🎯 Geni nel pathway: FOXA1;SOX17;MAX;NKX2-1;PRDM14;GATA3;GLI1;FOXP1
+  🔸 [GO_Biological_Process_2021] positive regulation of transcription by RNA polymerase II (GO:0045944)
+     P-value: 1.22e-06  |  Overlap: 9/908
+     🎯 Geni nel pathway: FOXA1;SOX17;MAX;NKX2-1;ETV1;ATM;GATA3;ERG;GLI1
+  🔸 [GO_Molecular_Function_2021] RNA polymerase II transcription regulatory region sequence-specific DNA binding (GO:0000977)
+     P-value: 3.94e-06  |  Overlap: 10/1359
+     🎯 Geni nel pathway: FOXA1;SOX17;MAX;NKX2-1;PRDM14;ETV1;GATA3;ERG;GLI1;FOXP1
+  🔸 [GO_Cellular_Component_2021] intracellular membrane-bounded organelle (GO:0043231)
+     P-value: 4.65e-06  |  Overlap: 18/5192
+     🎯 Geni nel pathway: AMER1;FOXA1;MAX;PRDM14;ETV1;GATA3;GLI1;FOXP1;TRAF7;STAG2;SOX17;CCNE1;DNMT3B;NKX2-1;ATM;ERG;POLE;RBM10
+
+  [KEGG]
+  🔸 [KEGG_2021_Human] Transcriptional misregulation in cancer
+     P-value: 4.32e-06  |  Overlap: 5/192
+     🎯 Geni nel pathway: FLT1;MAX;ETV1;ATM;ERG
+  🔸 [KEGG_2021_Human] MicroRNAs in cancer
+     P-value: 4.36e-05  |  Overlap: 5/310
+     🎯 Geni nel pathway: CCNE1;DNMT3B;ATM;KRAS;FOXP1
+  🔸 [KEGG_2021_Human] Prostate cancer
+     P-value: 2.65e-04  |  Overlap: 3/97
+     🎯 Geni nel pathway: CCNE1;KRAS;ERG
+  🔸 [KEGG_2021_Human] Cell cycle
+     P-value: 5.45e-04  |  Overlap: 3/124
+     🎯 Geni nel pathway: STAG2;CCNE1;ATM
+  🔸 [KEGG_2021_Human] Cellular senescence
+     P-value: 1.06e-03  |  Overlap: 3/156
+     🎯 Geni nel pathway: CCNE1;ATM;KRAS
+
+  [Reactome]
+  🔸 [Reactome_Pathways_2024] S Phase
+     P-value: 4.00e-05  |  Overlap: 4/150
+     🎯 Geni nel pathway: STAG2;MAX;CCNE1;POLE
+  🔸 [Reactome_Pathways_2024] HDR Through Homologous Recombination (HRR)
+     P-value: 9.65e-05  |  Overlap: 3/69
+     🎯 Geni nel pathway: ATM;POLE;PALB2
+  🔸 [Reactome_Pathways_2024] ESR-mediated Signaling
+     P-value: 1.04e-04  |  Overlap: 4/192
+     🎯 Geni nel pathway: FOXA1;STAG2;KRAS;GATA3
+  🔸 [Reactome_Pathways_2024] Cell Cycle
+     P-value: 1.51e-04  |  Overlap: 6/649
+     🎯 Geni nel pathway: STAG2;MAX;CCNE1;NUF2;ATM;POLE
+  🔸 [Reactome_Pathways_2024] Signaling by Nuclear Receptors
+     P-value: 3.84e-04  |  Overlap: 4/270
+     🎯 Geni nel pathway: FOXA1;STAG2;KRAS;GATA3
+
+================================================================================
+🎯 CLUSTER 1  |  DIMENSIONE: 7 geni
+🧬 TUTTI I GENI: CHEK2, EZH1, INHBA, KEAP1, PDCD1, REL, STK11
+================================================================================
+
+  [GO]
+  🔸 [GO_Biological_Process_2021] positive regulation of transmembrane receptor protein serine/threonine kinase signaling pathway (GO:0090100)
+     P-value: 4.33e-04  |  Overlap: 2/92
+     🎯 Geni nel pathway: STK11;INHBA
+  🔸 [GO_Biological_Process_2021] intrinsic apoptotic signaling pathway (GO:0097193)
+     P-value: 5.32e-04  |  Overlap: 2/102
+     🎯 Geni nel pathway: STK11;CHEK2
+  🔸 [GO_Biological_Process_2021] negative regulation of cell growth (GO:0030308)
+     P-value: 8.10e-04  |  Overlap: 2/126
+     🎯 Geni nel pathway: STK11;INHBA
+  🔸 [GO_Biological_Process_2021] negative regulation of growth (GO:0045926)
+     P-value: 8.10e-04  |  Overlap: 2/126
+     🎯 Geni nel pathway: STK11;INHBA
+  🔸 [GO_Biological_Process_2021] regulation of signal transduction by p53 class mediator (GO:1901796)
+     P-value: 1.24e-03  |  Overlap: 2/156
+     🎯 Geni nel pathway: STK11;CHEK2
+
+  [KEGG]
+  🔸 [KEGG_2021_Human] Lysine degradation
+     P-value: 2.18e-02  |  Overlap: 1/63
+     🎯 Geni nel pathway: EZH1
+  🔸 [KEGG_2021_Human] Adipocytokine signaling pathway
+     P-value: 2.39e-02  |  Overlap: 1/69
+     🎯 Geni nel pathway: STK11
+  🔸 [KEGG_2021_Human] p53 signaling pathway
+     P-value: 2.53e-02  |  Overlap: 1/73
+     🎯 Geni nel pathway: CHEK2
+  🔸 [KEGG_2021_Human] PD-L1 expression and PD-1 checkpoint pathway in cancer
+     P-value: 3.07e-02  |  Overlap: 1/89
+     🎯 Geni nel pathway: PDCD1
+  🔸 [KEGG_2021_Human] TGF-beta signaling pathway
+     P-value: 3.24e-02  |  Overlap: 1/94
+     🎯 Geni nel pathway: INHBA
+
+  [Reactome]
+  🔸 [Reactome_Pathways_2024] Regulation of TP53 Activity Through Phosphorylation
+     P-value: 4.33e-04  |  Overlap: 2/92
+     🎯 Geni nel pathway: STK11;CHEK2
+  🔸 [Reactome_Pathways_2024] Regulation of TP53 Activity
+     P-value: 1.30e-03  |  Overlap: 2/160
+     🎯 Geni nel pathway: STK11;CHEK2
+  🔸 [Reactome_Pathways_2024] Potential Therapeutics for SARS
+     P-value: 1.37e-03  |  Overlap: 2/164
+     🎯 Geni nel pathway: KEAP1;PDCD1
+  🔸 [Reactome_Pathways_2024] Adaptive Immune System
+     P-value: 2.39e-03  |  Overlap: 3/854
+     🎯 Geni nel pathway: REL;KEAP1;PDCD1
+  🔸 [Reactome_Pathways_2024] AMPK Inhibits chREBP Transcriptional Activation Activity
+     P-value: 2.80e-03  |  Overlap: 1/8
+     🎯 Geni nel pathway: STK11

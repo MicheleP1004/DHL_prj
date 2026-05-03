@@ -1,0 +1,85 @@
+--- 🏆 TOP 5 PATHWAY PER DATABASE — HUB GLOBALI DELLA RETE (LUNG - FULL) ---
+Geni Hub analizzati (15): TP53, EPHB1, ARAF, NTRK3, SMARCA4, NF1, ZFHX3, PTPRD, PDGFRA, PTPRT, ERBB4, FAT1, PIK3CG, KEAP1, GRIN2A
+================================================================================
+
+
+  [GO]
+  🔸 [GO_Biological_Process_2021] enzyme linked receptor protein signaling pathway (GO:0007167)
+     - P-value: 5.02e-10 | Adjusted: 2.45e-07
+     - Overlap: 6/140
+     - Hubs coinvolti: PTPRT;PTPRD;PDGFRA;ERBB4;NTRK3;EPHB1
+
+  🔸 [GO_Biological_Process_2021] regulation of kinase activity (GO:0043549)
+     - P-value: 6.00e-07 | Adjusted: 1.47e-04
+     - Overlap: 4/94
+     - Hubs coinvolti: PDGFRA;ERBB4;NTRK3;EPHB1
+
+  🔸 [GO_Biological_Process_2021] positive regulation of kinase activity (GO:0033674)
+     - P-value: 1.30e-06 | Adjusted: 2.12e-04
+     - Overlap: 4/114
+     - Hubs coinvolti: PDGFRA;ERBB4;NTRK3;EPHB1
+
+  🔸 [GO_Biological_Process_2021] positive regulation of transferase activity (GO:0051347)
+     - P-value: 3.69e-06 | Adjusted: 4.51e-04
+     - Overlap: 4/148
+     - Hubs coinvolti: PDGFRA;ERBB4;NTRK3;EPHB1
+
+  🔸 [GO_Biological_Process_2021] regulation of fibroblast proliferation (GO:0048145)
+     - P-value: 5.08e-06 | Adjusted: 4.97e-04
+     - Overlap: 3/46
+     - Hubs coinvolti: PDGFRA;NF1;TP53
+
+
+  [KEGG]
+  🔸 [KEGG_2021_Human] MAPK signaling pathway
+     - P-value: 1.77e-06 | Adjusted: 1.75e-04
+     - Overlap: 5/294
+     - Hubs coinvolti: PDGFRA;ERBB4;ARAF;NF1;TP53
+
+  🔸 [KEGG_2021_Human] Hepatocellular carcinoma
+     - P-value: 6.10e-06 | Adjusted: 3.02e-04
+     - Overlap: 4/168
+     - Hubs coinvolti: ARAF;KEAP1;TP53;SMARCA4
+
+  🔸 [KEGG_2021_Human] Central carbon metabolism in cancer
+     - P-value: 1.81e-05 | Adjusted: 4.10e-04
+     - Overlap: 3/70
+     - Hubs coinvolti: PDGFRA;NTRK3;TP53
+
+  🔸 [KEGG_2021_Human] Melanoma
+     - P-value: 1.97e-05 | Adjusted: 4.10e-04
+     - Overlap: 3/72
+     - Hubs coinvolti: PDGFRA;ARAF;TP53
+
+  🔸 [KEGG_2021_Human] Glioma
+     - P-value: 2.23e-05 | Adjusted: 4.10e-04
+     - Overlap: 3/75
+     - Hubs coinvolti: PDGFRA;ARAF;TP53
+
+
+  [Reactome]
+  🔸 [Reactome_2022] RUNX3 Regulates CDKN1A Transcription R-HSA-8941855
+     - P-value: 1.10e-05 | Adjusted: 2.17e-03
+     - Overlap: 2/7
+     - Hubs coinvolti: ZFHX3;TP53
+
+  🔸 [Reactome_2022] Protein-protein Interactions At Synapses R-HSA-6794362
+     - P-value: 3.60e-05 | Adjusted: 2.17e-03
+     - Overlap: 3/88
+     - Hubs coinvolti: PTPRD;GRIN2A;NTRK3
+
+  🔸 [Reactome_2022] RAF/MAP Kinase Cascade R-HSA-5673001
+     - P-value: 4.00e-05 | Adjusted: 2.17e-03
+     - Overlap: 4/271
+     - Hubs coinvolti: PDGFRA;ERBB4;ARAF;NF1
+
+  🔸 [Reactome_2022] MAPK1/MAPK3 Signaling R-HSA-5684996
+     - P-value: 4.36e-05 | Adjusted: 2.17e-03
+     - Overlap: 4/277
+     - Hubs coinvolti: PDGFRA;ERBB4;ARAF;NF1
+
+  🔸 [Reactome_2022] MAPK Family Signaling Cascades R-HSA-5683057
+     - P-value: 7.45e-05 | Adjusted: 2.97e-03
+     - Overlap: 4/318
+     - Hubs coinvolti: PDGFRA;ERBB4;ARAF;NF1
+

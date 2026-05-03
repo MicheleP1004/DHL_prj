@@ -1,0 +1,342 @@
+--- 🏆 TOP 5 PATHWAY PER DATABASE — HUB LOCALI PER OGNI CLUSTER (KRAS_PANCREAS - FULL) ---
+
+================================================================================
+🎯 CLUSTER 0  |  TOP HUB ANALIZZATI: 5
+🧬 GENI HUB: ARID1A, KMT2D, BRCA2, KMT2C, SMARCA4
+================================================================================
+
+  [GO]
+  🔸 [GO_Biological_Process_2021] positive regulation of transcription, DNA-templated (GO:0045893)
+     - P-value: 7.18e-07 | Overlap: 5/1183
+     - Geni nel pathway: KMT2D;KMT2C;ARID1A;BRCA2;SMARCA4
+
+  🔸 [GO_Biological_Process_2021] histone H3-K4 monomethylation (GO:0097692)
+     - P-value: 1.40e-06 | Overlap: 2/8
+     - Geni nel pathway: KMT2D;KMT2C
+
+  🔸 [GO_Biological_Process_2021] chromatin disassembly (GO:0031498)
+     - P-value: 7.64e-06 | Overlap: 2/18
+     - Geni nel pathway: ARID1A;SMARCA4
+
+  🔸 [GO_Biological_Process_2021] nucleosome disassembly (GO:0006337)
+     - P-value: 7.64e-06 | Overlap: 2/18
+     - Geni nel pathway: ARID1A;SMARCA4
+
+  🔸 [GO_Biological_Process_2021] protein-DNA complex disassembly (GO:0032986)
+     - P-value: 9.48e-06 | Overlap: 2/20
+     - Geni nel pathway: ARID1A;SMARCA4
+
+  [KEGG]
+  🔸 [KEGG_2021_Human] Lysine degradation
+     - P-value: 9.71e-05 | Overlap: 2/63
+     - Geni nel pathway: KMT2D;KMT2C
+
+  🔸 [KEGG_2021_Human] Hepatocellular carcinoma
+     - P-value: 6.90e-04 | Overlap: 2/168
+     - Geni nel pathway: ARID1A;SMARCA4
+
+  🔸 [KEGG_2021_Human] Thermogenesis
+     - P-value: 1.31e-03 | Overlap: 2/232
+     - Geni nel pathway: ARID1A;SMARCA4
+
+  🔸 [KEGG_2021_Human] Homologous recombination
+     - P-value: 1.02e-02 | Overlap: 1/41
+     - Geni nel pathway: BRCA2
+
+  🔸 [KEGG_2021_Human] Fanconi anemia pathway
+     - P-value: 1.34e-02 | Overlap: 1/54
+     - Geni nel pathway: BRCA2
+
+  [Reactome]
+  🔸 [Reactome_2022] Transcriptional Regulation By RUNX1 R-HSA-8878171
+     - P-value: 5.21e-08 | Overlap: 4/204
+     - Geni nel pathway: KMT2D;KMT2C;ARID1A;SMARCA4
+
+  🔸 [Reactome_2022] Chromatin Modifying Enzymes R-HSA-3247509
+     - P-value: 9.69e-08 | Overlap: 4/238
+     - Geni nel pathway: KMT2D;KMT2C;ARID1A;SMARCA4
+
+  🔸 [Reactome_2022] RUNX1 Interacts With Co-Factors Whose Precise Effect On RUNX1 Targets Is Not Known R-HSA-8939243
+     - P-value: 2.97e-05 | Overlap: 2/35
+     - Geni nel pathway: ARID1A;SMARCA4
+
+  🔸 [Reactome_2022] PKMTs Methylate Histone Lysines R-HSA-3214841
+     - P-value: 5.38e-05 | Overlap: 2/47
+     - Geni nel pathway: KMT2D;KMT2C
+
+  🔸 [Reactome_2022] RMTs Methylate Histone Arginines R-HSA-3214858
+     - P-value: 5.85e-05 | Overlap: 2/49
+     - Geni nel pathway: ARID1A;SMARCA4
+
+================================================================================
+🎯 CLUSTER 1  |  TOP HUB ANALIZZATI: 5
+🧬 GENI HUB: SMAD4, PREX2, AKT3, ANKRD11, CASP8
+================================================================================
+
+  [GO]
+  🔸 [GO_Biological_Process_2021] endocardial cell differentiation (GO:0060956)
+     - P-value: 1.25e-03 | Overlap: 1/5
+     - Geni nel pathway: SMAD4
+
+  🔸 [GO_Biological_Process_2021] positive regulation of cell proliferation involved in heart morphogenesis (GO:2000138)
+     - P-value: 1.25e-03 | Overlap: 1/5
+     - Geni nel pathway: SMAD4
+
+  🔸 [GO_Biological_Process_2021] cardiac endothelial cell differentiation (GO:0003348)
+     - P-value: 1.25e-03 | Overlap: 1/5
+     - Geni nel pathway: SMAD4
+
+  🔸 [GO_Biological_Process_2021] positive regulation of histone H3-K9 acetylation (GO:2000617)
+     - P-value: 1.25e-03 | Overlap: 1/5
+     - Geni nel pathway: SMAD4
+
+  🔸 [GO_Biological_Process_2021] negative regulation of cardiac muscle cell differentiation (GO:2000726)
+     - P-value: 1.50e-03 | Overlap: 1/6
+     - Geni nel pathway: SMAD4
+
+  [KEGG]
+  🔸 [KEGG_2021_Human] Hepatitis B
+     - P-value: 5.15e-06 | Overlap: 3/162
+     - Geni nel pathway: SMAD4;CASP8;AKT3
+
+  🔸 [KEGG_2021_Human] Pancreatic cancer
+     - P-value: 1.41e-04 | Overlap: 2/76
+     - Geni nel pathway: SMAD4;AKT3
+
+  🔸 [KEGG_2021_Human] Chronic myeloid leukemia
+     - P-value: 1.41e-04 | Overlap: 2/76
+     - Geni nel pathway: SMAD4;AKT3
+
+  🔸 [KEGG_2021_Human] Pathways in cancer
+     - P-value: 1.79e-04 | Overlap: 3/531
+     - Geni nel pathway: SMAD4;CASP8;AKT3
+
+  🔸 [KEGG_2021_Human] Colorectal cancer
+     - P-value: 1.81e-04 | Overlap: 2/86
+     - Geni nel pathway: SMAD4;AKT3
+
+  [Reactome]
+  🔸 [Reactome_2022] Intrinsic Pathway For Apoptosis R-HSA-109606
+     - P-value: 7.39e-05 | Overlap: 2/55
+     - Geni nel pathway: CASP8;AKT3
+
+  🔸 [Reactome_2022] FOXO-mediated Transcription R-HSA-9614085
+     - P-value: 1.03e-04 | Overlap: 2/65
+     - Geni nel pathway: SMAD4;AKT3
+
+  🔸 [Reactome_2022] Regulation Of PTEN Stability And Activity R-HSA-8948751
+     - P-value: 1.10e-04 | Overlap: 2/67
+     - Geni nel pathway: PREX2;AKT3
+
+  🔸 [Reactome_2022] Transcriptional Regulation By RUNX2 R-HSA-8878166
+     - P-value: 3.47e-04 | Overlap: 2/119
+     - Geni nel pathway: SMAD4;AKT3
+
+  🔸 [Reactome_2022] PTEN Regulation R-HSA-6807070
+     - P-value: 4.73e-04 | Overlap: 2/139
+     - Geni nel pathway: PREX2;AKT3
+
+================================================================================
+🎯 CLUSTER 2  |  TOP HUB ANALIZZATI: 5
+🧬 GENI HUB: RNF43, RBM10, BCOR, GNAS, PIK3CA
+================================================================================
+
+  [GO]
+  🔸 [GO_Biological_Process_2021] circulatory system development (GO:0072359)
+     - P-value: 3.89e-04 | Overlap: 2/126
+     - Geni nel pathway: PIK3CA;BCOR
+
+  🔸 [GO_Biological_Process_2021] regulation of tooth mineralization (GO:0070170)
+     - P-value: 1.50e-03 | Overlap: 1/6
+     - Geni nel pathway: BCOR
+
+  🔸 [GO_Biological_Process_2021] negative regulation of actin filament depolymerization (GO:0030835)
+     - P-value: 1.50e-03 | Overlap: 1/6
+     - Geni nel pathway: PIK3CA
+
+  🔸 [GO_Biological_Process_2021] adenylate cyclase-activating dopamine receptor signaling pathway (GO:0007191)
+     - P-value: 1.75e-03 | Overlap: 1/7
+     - Geni nel pathway: GNAS
+
+  🔸 [GO_Biological_Process_2021] phosphatidylinositol-3-phosphate biosynthetic process (GO:0036092)
+     - P-value: 2.00e-03 | Overlap: 1/8
+     - Geni nel pathway: PIK3CA
+
+  [KEGG]
+  🔸 [KEGG_2021_Human] Regulation of lipolysis in adipocytes
+     - P-value: 7.39e-05 | Overlap: 2/55
+     - Geni nel pathway: PIK3CA;GNAS
+
+  🔸 [KEGG_2021_Human] Inflammatory mediator regulation of TRP channels
+     - P-value: 2.35e-04 | Overlap: 2/98
+     - Geni nel pathway: PIK3CA;GNAS
+
+  🔸 [KEGG_2021_Human] Amoebiasis
+     - P-value: 2.55e-04 | Overlap: 2/102
+     - Geni nel pathway: PIK3CA;GNAS
+
+  🔸 [KEGG_2021_Human] Chagas disease
+     - P-value: 2.55e-04 | Overlap: 2/102
+     - Geni nel pathway: PIK3CA;GNAS
+
+  🔸 [KEGG_2021_Human] Growth hormone synthesis, secretion and action
+     - P-value: 3.47e-04 | Overlap: 2/119
+     - Geni nel pathway: PIK3CA;GNAS
+
+  [Reactome]
+  🔸 [Reactome_2022] Activated NTRK3 Signals Thru PI3K R-HSA-9603381
+     - P-value: 1.50e-03 | Overlap: 1/6
+     - Geni nel pathway: PIK3CA
+
+  🔸 [Reactome_2022] Activated NTRK2 Signals Thru PI3K R-HSA-9028335
+     - P-value: 1.50e-03 | Overlap: 1/6
+     - Geni nel pathway: PIK3CA
+
+  🔸 [Reactome_2022] MET Activates PI3K/AKT Signaling R-HSA-8851907
+     - P-value: 1.50e-03 | Overlap: 1/6
+     - Geni nel pathway: PIK3CA
+
+  🔸 [Reactome_2022] Signaling By RNF43 Mutants R-HSA-5340588
+     - P-value: 1.75e-03 | Overlap: 1/7
+     - Geni nel pathway: RNF43
+
+  🔸 [Reactome_2022] PI3K/AKT Activation R-HSA-198203
+     - P-value: 2.25e-03 | Overlap: 1/9
+     - Geni nel pathway: PIK3CA
+
+================================================================================
+🎯 CLUSTER 3  |  TOP HUB ANALIZZATI: 5
+🧬 GENI HUB: CDKN2A, ABL1, BAP1, KDM6A, PTPN11
+================================================================================
+
+  [GO]
+  🔸 [GO_Biological_Process_2021] regulation of cellular component organization (GO:0051128)
+     - P-value: 3.25e-06 | Overlap: 3/139
+     - Geni nel pathway: ABL1;PTPN11;BAP1
+
+  🔸 [GO_Biological_Process_2021] regulation of cell cycle (GO:0051726)
+     - P-value: 3.14e-05 | Overlap: 3/296
+     - Geni nel pathway: CDKN2A;ABL1;BAP1
+
+  🔸 [GO_Biological_Process_2021] protein modification process (GO:0036211)
+     - P-value: 1.49e-04 | Overlap: 2/78
+     - Geni nel pathway: ABL1;BAP1
+
+  🔸 [GO_Biological_Process_2021] negative regulation of protein serine/threonine kinase activity (GO:0071901)
+     - P-value: 1.49e-04 | Overlap: 2/78
+     - Geni nel pathway: CDKN2A;ABL1
+
+  🔸 [GO_Biological_Process_2021] regulation of peptidyl-tyrosine phosphorylation (GO:0050730)
+     - P-value: 2.07e-04 | Overlap: 2/92
+     - Geni nel pathway: ABL1;PTPN11
+
+  [KEGG]
+  🔸 [KEGG_2021_Human] Chronic myeloid leukemia
+     - P-value: 5.24e-07 | Overlap: 3/76
+     - Geni nel pathway: CDKN2A;ABL1;PTPN11
+
+  🔸 [KEGG_2021_Human] Neurotrophin signaling pathway
+     - P-value: 3.47e-04 | Overlap: 2/119
+     - Geni nel pathway: ABL1;PTPN11
+
+  🔸 [KEGG_2021_Human] Cell cycle
+     - P-value: 3.77e-04 | Overlap: 2/124
+     - Geni nel pathway: CDKN2A;ABL1
+
+  🔸 [KEGG_2021_Human] Axon guidance
+     - P-value: 8.09e-04 | Overlap: 2/182
+     - Geni nel pathway: ABL1;PTPN11
+
+  🔸 [KEGG_2021_Human] Pathogenic Escherichia coli infection
+     - P-value: 9.47e-04 | Overlap: 2/197
+     - Geni nel pathway: ABL1;PTPN11
+
+  [Reactome]
+  🔸 [Reactome_2022] Cyclin D Associated Events In G1 R-HSA-69231
+     - P-value: 5.38e-05 | Overlap: 2/47
+     - Geni nel pathway: CDKN2A;ABL1
+
+  🔸 [Reactome_2022] Mitotic G1 Phase And G1/S Transition R-HSA-453279
+     - P-value: 5.29e-04 | Overlap: 2/147
+     - Geni nel pathway: CDKN2A;ABL1
+
+  🔸 [Reactome_2022] Transcriptional Regulation By RUNX1 R-HSA-8878171
+     - P-value: 1.01e-03 | Overlap: 2/204
+     - Geni nel pathway: ABL1;PTPN11
+
+  🔸 [Reactome_2022] MET Activates PTPN11 R-HSA-8865999
+     - P-value: 1.25e-03 | Overlap: 1/5
+     - Geni nel pathway: PTPN11
+
+  🔸 [Reactome_2022] Developmental Biology R-HSA-1266738
+     - P-value: 1.42e-03 | Overlap: 3/1073
+     - Geni nel pathway: ABL1;PTPN11;KDM6A
+
+================================================================================
+🎯 CLUSTER 5  |  TOP HUB ANALIZZATI: 5
+🧬 GENI HUB: ATM, EP300, DOT1L, NOTCH3, PTPRT
+================================================================================
+
+  [GO]
+  🔸 [GO_Biological_Process_2021] regulation of receptor signaling pathway via STAT (GO:1904892)
+     - P-value: 3.90e-06 | Overlap: 2/13
+     - Geni nel pathway: PTPRT;DOT1L
+
+  🔸 [GO_Biological_Process_2021] positive regulation of transcription of Notch receptor target (GO:0007221)
+     - P-value: 6.79e-06 | Overlap: 2/17
+     - Geni nel pathway: NOTCH3;EP300
+
+  🔸 [GO_Biological_Process_2021] positive regulation of transcription by RNA polymerase II (GO:0045944)
+     - P-value: 2.03e-05 | Overlap: 4/908
+     - Geni nel pathway: NOTCH3;DOT1L;EP300;ATM
+
+  🔸 [GO_Biological_Process_2021] DNA damage checkpoint signaling (GO:0000077)
+     - P-value: 2.47e-05 | Overlap: 2/32
+     - Geni nel pathway: DOT1L;ATM
+
+  🔸 [GO_Biological_Process_2021] DNA integrity checkpoint signaling (GO:0031570)
+     - P-value: 3.69e-05 | Overlap: 2/39
+     - Geni nel pathway: DOT1L;ATM
+
+  [KEGG]
+  🔸 [KEGG_2021_Human] MicroRNAs in cancer
+     - P-value: 3.60e-05 | Overlap: 3/310
+     - Geni nel pathway: NOTCH3;EP300;ATM
+
+  🔸 [KEGG_2021_Human] Human papillomavirus infection
+     - P-value: 4.38e-05 | Overlap: 3/331
+     - Geni nel pathway: NOTCH3;EP300;ATM
+
+  🔸 [KEGG_2021_Human] Notch signaling pathway
+     - P-value: 8.51e-05 | Overlap: 2/59
+     - Geni nel pathway: NOTCH3;EP300
+
+  🔸 [KEGG_2021_Human] Thyroid hormone signaling pathway
+     - P-value: 3.59e-04 | Overlap: 2/121
+     - Geni nel pathway: NOTCH3;EP300
+
+  🔸 [KEGG_2021_Human] Cell cycle
+     - P-value: 3.77e-04 | Overlap: 2/124
+     - Geni nel pathway: EP300;ATM
+
+  [Reactome]
+  🔸 [Reactome_2022] Regulation Of TP53 Activity Thru Methylation R-HSA-6804760
+     - P-value: 8.54e-06 | Overlap: 2/19
+     - Geni nel pathway: EP300;ATM
+
+  🔸 [Reactome_2022] NOTCH3 Intracellular Domain Regulates Transcription R-HSA-9013508
+     - P-value: 1.50e-05 | Overlap: 2/25
+     - Geni nel pathway: NOTCH3;EP300
+
+  🔸 [Reactome_2022] Signaling By NOTCH3 R-HSA-9012852
+     - P-value: 5.85e-05 | Overlap: 2/49
+     - Geni nel pathway: NOTCH3;EP300
+
+  🔸 [Reactome_2022] Pre-NOTCH Transcription And Translation R-HSA-1912408
+     - P-value: 9.40e-05 | Overlap: 2/62
+     - Geni nel pathway: NOTCH3;EP300
+
+  🔸 [Reactome_2022] Pre-NOTCH Expression And Processing R-HSA-1912422
+     - P-value: 1.49e-04 | Overlap: 2/78
+     - Geni nel pathway: NOTCH3;EP300
+

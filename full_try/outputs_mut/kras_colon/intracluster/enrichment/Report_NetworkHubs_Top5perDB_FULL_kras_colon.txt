@@ -1,0 +1,85 @@
+--- 🏆 TOP 5 PATHWAY PER DATABASE — HUB GLOBALI DELLA RETE (KRAS_COLON - FULL) ---
+Geni Hub analizzati (15): TGFBR2, ARID2, FLCN, IKBKE, SPEN, APC, KMT2D, PTPRT, PTPRS, EP300, FAT1, KMT2C, SESN1, NOTCH4, NOTCH3
+================================================================================
+
+
+  [GO]
+  🔸 [GO_Biological_Process_2021] positive regulation of transcription of Notch receptor target (GO:0007221)
+     - P-value: 2.31e-07 | Adjusted: 9.64e-05
+     - Overlap: 3/17
+     - Hubs coinvolti: NOTCH3;NOTCH4;EP300
+
+  🔸 [GO_Biological_Process_2021] regulation of megakaryocyte differentiation (GO:0045652)
+     - P-value: 8.27e-06 | Adjusted: 1.39e-03
+     - Overlap: 3/54
+     - Hubs coinvolti: KMT2D;KMT2C;EP300
+
+  🔸 [GO_Biological_Process_2021] Notch signaling pathway (GO:0007219)
+     - P-value: 1.14e-05 | Adjusted: 1.39e-03
+     - Overlap: 3/60
+     - Hubs coinvolti: NOTCH3;NOTCH4;EP300
+
+  🔸 [GO_Biological_Process_2021] histone H3-K4 monomethylation (GO:0097692)
+     - P-value: 1.47e-05 | Adjusted: 1.39e-03
+     - Overlap: 2/8
+     - Hubs coinvolti: KMT2D;KMT2C
+
+  🔸 [GO_Biological_Process_2021] regulation of myeloid cell differentiation (GO:0045637)
+     - P-value: 1.66e-05 | Adjusted: 1.39e-03
+     - Overlap: 3/68
+     - Hubs coinvolti: KMT2D;KMT2C;EP300
+
+
+  [KEGG]
+  🔸 [KEGG_2021_Human] Human papillomavirus infection
+     - P-value: 3.16e-06 | Adjusted: 2.21e-04
+     - Overlap: 5/331
+     - Hubs coinvolti: NOTCH3;APC;NOTCH4;EP300;IKBKE
+
+  🔸 [KEGG_2021_Human] Notch signaling pathway
+     - P-value: 1.08e-05 | Adjusted: 3.79e-04
+     - Overlap: 3/59
+     - Hubs coinvolti: NOTCH3;NOTCH4;EP300
+
+  🔸 [KEGG_2021_Human] Pathways in cancer
+     - P-value: 3.12e-05 | Adjusted: 7.28e-04
+     - Overlap: 5/531
+     - Hubs coinvolti: NOTCH3;APC;NOTCH4;EP300;TGFBR2
+
+  🔸 [KEGG_2021_Human] MicroRNAs in cancer
+     - P-value: 6.75e-05 | Adjusted: 1.18e-03
+     - Overlap: 4/310
+     - Hubs coinvolti: NOTCH3;APC;NOTCH4;EP300
+
+  🔸 [KEGG_2021_Human] Thyroid hormone signaling pathway
+     - P-value: 9.32e-05 | Adjusted: 1.30e-03
+     - Overlap: 3/121
+     - Hubs coinvolti: NOTCH3;NOTCH4;EP300
+
+
+  [Reactome]
+  🔸 [Reactome_2022] Defective LFNG Causes SCDO3 R-HSA-5083630
+     - P-value: 5.24e-06 | Adjusted: 3.95e-04
+     - Overlap: 2/5
+     - Hubs coinvolti: NOTCH3;NOTCH4
+
+  🔸 [Reactome_2022] Pre-NOTCH Processing In Endoplasmic Reticulum R-HSA-1912399
+     - P-value: 7.86e-06 | Adjusted: 3.95e-04
+     - Overlap: 2/6
+     - Hubs coinvolti: NOTCH3;NOTCH4
+
+  🔸 [Reactome_2022] Generic Transcription Pathway R-HSA-212436
+     - P-value: 1.09e-05 | Adjusted: 3.95e-04
+     - Overlap: 7/1190
+     - Hubs coinvolti: KMT2D;NOTCH3;KMT2C;NOTCH4;SESN1;EP300;ARID2
+
+  🔸 [Reactome_2022] Pre-NOTCH Transcription And Translation R-HSA-1912408
+     - P-value: 1.26e-05 | Adjusted: 3.95e-04
+     - Overlap: 3/62
+     - Hubs coinvolti: NOTCH3;NOTCH4;EP300
+
+  🔸 [Reactome_2022] Transcriptional Regulation By RUNX1 R-HSA-8878171
+     - P-value: 1.31e-05 | Adjusted: 3.95e-04
+     - Overlap: 4/204
+     - Hubs coinvolti: KMT2D;KMT2C;EP300;ARID2
+

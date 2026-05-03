@@ -1,0 +1,85 @@
+--- 🏆 TOP 5 PATHWAY PER DATABASE — HUB GLOBALI DELLA RETE (COLON - FULL) ---
+Geni Hub analizzati (12): PIK3CA, TCF7L2, POLE, NF1, APC, KMT2D, ROS1, CTNNB1, ATM, PIK3CG, BRCA2, ATR
+================================================================================
+
+
+  [GO]
+  🔸 [GO_Biological_Process_2021] beta-catenin-TCF complex assembly (GO:1904837)
+     - P-value: 5.98e-07 | Adjusted: 1.48e-04
+     - Overlap: 3/29
+     - Hubs coinvolti: TCF7L2;KMT2D;CTNNB1
+
+  🔸 [GO_Biological_Process_2021] positive regulation of telomere maintenance via telomerase (GO:0032212)
+     - P-value: 8.91e-07 | Adjusted: 1.48e-04
+     - Overlap: 3/33
+     - Hubs coinvolti: CTNNB1;ATM;ATR
+
+  🔸 [GO_Biological_Process_2021] phosphatidylinositol 3-kinase signaling (GO:0014065)
+     - P-value: 9.77e-07 | Adjusted: 1.48e-04
+     - Overlap: 3/34
+     - Hubs coinvolti: PIK3CA;NF1;PIK3CG
+
+  🔸 [GO_Biological_Process_2021] positive regulation of telomere maintenance via telomere lengthening (GO:1904358)
+     - P-value: 1.17e-06 | Adjusted: 1.48e-04
+     - Overlap: 3/36
+     - Hubs coinvolti: CTNNB1;ATM;ATR
+
+  🔸 [GO_Biological_Process_2021] regulation of telomere maintenance via telomerase (GO:0032210)
+     - P-value: 3.59e-06 | Adjusted: 3.65e-04
+     - Overlap: 3/52
+     - Hubs coinvolti: CTNNB1;ATM;ATR
+
+
+  [KEGG]
+  🔸 [KEGG_2021_Human] Breast cancer
+     - P-value: 1.52e-08 | Adjusted: 1.04e-06
+     - Overlap: 5/147
+     - Hubs coinvolti: TCF7L2;PIK3CA;APC;CTNNB1;BRCA2
+
+  🔸 [KEGG_2021_Human] Human papillomavirus infection
+     - P-value: 1.67e-08 | Adjusted: 1.04e-06
+     - Overlap: 6/331
+     - Hubs coinvolti: TCF7L2;PIK3CA;APC;CTNNB1;ATM;ATR
+
+  🔸 [KEGG_2021_Human] Endometrial cancer
+     - P-value: 3.10e-08 | Adjusted: 1.29e-06
+     - Overlap: 4/58
+     - Hubs coinvolti: TCF7L2;PIK3CA;APC;CTNNB1
+
+  🔸 [KEGG_2021_Human] Colorectal cancer
+     - P-value: 1.54e-07 | Adjusted: 4.80e-06
+     - Overlap: 4/86
+     - Hubs coinvolti: TCF7L2;PIK3CA;APC;CTNNB1
+
+  🔸 [KEGG_2021_Human] Gastric cancer
+     - P-value: 1.40e-06 | Adjusted: 3.41e-05
+     - Overlap: 4/149
+     - Hubs coinvolti: TCF7L2;PIK3CA;APC;CTNNB1
+
+
+  [Reactome]
+  🔸 [Reactome_2022] Deactivation Of Beta-Catenin Transactivating Complex R-HSA-3769402
+     - P-value: 1.87e-06 | Adjusted: 4.65e-04
+     - Overlap: 3/42
+     - Hubs coinvolti: TCF7L2;KMT2D;CTNNB1
+
+  🔸 [Reactome_2022] Formation Of beta-catenin:TCF Transactivating Complex R-HSA-201722
+     - P-value: 5.54e-06 | Adjusted: 4.65e-04
+     - Overlap: 3/60
+     - Hubs coinvolti: TCF7L2;KMT2D;CTNNB1
+
+  🔸 [Reactome_2022] HDR Thru Homologous Recombination (HRR) R-HSA-5685942
+     - P-value: 7.74e-06 | Adjusted: 4.65e-04
+     - Overlap: 3/67
+     - Hubs coinvolti: ATM;BRCA2;POLE
+
+  🔸 [Reactome_2022] Binding Of TCF/LEF:CTNNB1 To Target Gene Promoters R-HSA-4411364
+     - P-value: 9.22e-06 | Adjusted: 4.65e-04
+     - Overlap: 2/8
+     - Hubs coinvolti: TCF7L2;CTNNB1
+
+  🔸 [Reactome_2022] RUNX3 Regulates WNT Signaling R-HSA-8951430
+     - P-value: 9.22e-06 | Adjusted: 4.65e-04
+     - Overlap: 2/8
+     - Hubs coinvolti: TCF7L2;CTNNB1
+

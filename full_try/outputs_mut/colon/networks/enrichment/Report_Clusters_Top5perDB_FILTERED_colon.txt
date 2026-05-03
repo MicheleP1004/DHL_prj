@@ -1,0 +1,113 @@
+--- 🏆 TOP 5 PATHWAY/ONTOLOGY PER DATABASE PER OGNI CLUSTER (COLON - FILTERED) ---
+
+================================================================================
+🎯 CLUSTER 2  |  DIMENSIONE: 7 geni
+🧬 TUTTI I GENI: ATRX, KMT2B, KMT2C, KMT2D, MED12, MSH3, MYOD1
+================================================================================
+
+  [GO]
+  🔸 [GO_Biological_Process_2021] histone H3-K4 monomethylation (GO:0097692)
+     P-value: 1.47e-09  |  Overlap: 3/8
+     🎯 Geni nel pathway: KMT2D;KMT2C;KMT2B
+  🔸 [GO_Molecular_Function_2021] histone methyltransferase activity (H3-K4 specific) (GO:0042800)
+     P-value: 1.47e-08  |  Overlap: 3/16
+     🎯 Geni nel pathway: KMT2D;KMT2C;KMT2B
+  🔸 [GO_Biological_Process_2021] histone H3-K4 methylation (GO:0051568)
+     P-value: 1.06e-07  |  Overlap: 3/30
+     🎯 Geni nel pathway: KMT2D;KMT2C;KMT2B
+  🔸 [GO_Biological_Process_2021] positive regulation of transcription, DNA-templated (GO:0045893)
+     P-value: 2.81e-07  |  Overlap: 6/1183
+     🎯 Geni nel pathway: MED12;KMT2D;KMT2C;MYOD1;ATRX;KMT2B
+  🔸 [GO_Molecular_Function_2021] histone-lysine N-methyltransferase activity (GO:0018024)
+     P-value: 3.70e-07  |  Overlap: 3/45
+     🎯 Geni nel pathway: KMT2D;KMT2C;KMT2B
+
+  [KEGG]
+  🔸 [KEGG_2021_Human] Lysine degradation
+     P-value: 1.03e-06  |  Overlap: 3/63
+     🎯 Geni nel pathway: KMT2D;KMT2C;KMT2B
+  🔸 [KEGG_2021_Human] Mismatch repair
+     P-value: 8.02e-03  |  Overlap: 1/23
+     🎯 Geni nel pathway: MSH3
+  🔸 [KEGG_2021_Human] Colorectal cancer
+     P-value: 2.97e-02  |  Overlap: 1/86
+     🎯 Geni nel pathway: MSH3
+  🔸 [KEGG_2021_Human] Thyroid hormone signaling pathway
+     P-value: 4.16e-02  |  Overlap: 1/121
+     🎯 Geni nel pathway: MED12
+  🔸 [KEGG_2021_Human] Spinocerebellar ataxia
+     P-value: 4.90e-02  |  Overlap: 1/143
+     🎯 Geni nel pathway: MYOD1
+
+  [Reactome]
+  🔸 [Reactome_Pathways_2024] Epigenetic Regulation by WDR5-containing Histone Modifying Complexes
+     P-value: 6.84e-08  |  Overlap: 4/135
+     🎯 Geni nel pathway: MED12;KMT2D;KMT2C;KMT2B
+  🔸 [Reactome_Pathways_2024] Formation of WDR5-containing Histone-Modifying Complexes
+     P-value: 3.00e-07  |  Overlap: 3/42
+     🎯 Geni nel pathway: KMT2D;KMT2C;KMT2B
+  🔸 [Reactome_Pathways_2024] PKMTs Methylate Histone Lysines
+     P-value: 3.96e-07  |  Overlap: 3/46
+     🎯 Geni nel pathway: KMT2D;KMT2C;KMT2B
+  🔸 [Reactome_Pathways_2024] RUNX1 Regulates Genes Involved in Megakaryocyte Differentiation and Platelet Function
+     P-value: 1.14e-06  |  Overlap: 3/65
+     🎯 Geni nel pathway: KMT2D;KMT2C;KMT2B
+  🔸 [Reactome_Pathways_2024] Epigenetic Regulation of Gene Expression
+     P-value: 1.48e-06  |  Overlap: 4/291
+     🎯 Geni nel pathway: MED12;KMT2D;KMT2C;KMT2B
+
+================================================================================
+🎯 CLUSTER 3  |  DIMENSIONE: 8 geni
+🧬 TUTTI I GENI: AMER1, CDKN1B, CTNNB1, FLCN, KRAS, MYD88, PIK3CA, STAT3
+================================================================================
+
+  [GO]
+  🔸 [GO_Molecular_Function_2021] phosphatase binding (GO:0019902)
+     P-value: 9.89e-06  |  Overlap: 3/114
+     🎯 Geni nel pathway: CDKN1B;STAT3;CTNNB1
+  🔸 [GO_Molecular_Function_2021] protein phosphatase binding (GO:0019903)
+     P-value: 1.24e-05  |  Overlap: 3/123
+     🎯 Geni nel pathway: CDKN1B;STAT3;CTNNB1
+  🔸 [GO_Biological_Process_2021] response to muscle stretch (GO:0035994)
+     P-value: 1.47e-05  |  Overlap: 2/15
+     🎯 Geni nel pathway: PIK3CA;CTNNB1
+  🔸 [GO_Biological_Process_2021] positive regulation of cytokine production involved in inflammatory response (GO:1900017)
+     P-value: 1.90e-05  |  Overlap: 2/17
+     🎯 Geni nel pathway: STAT3;MYD88
+  🔸 [GO_Biological_Process_2021] beta-catenin destruction complex disassembly (GO:1904886)
+     P-value: 2.93e-05  |  Overlap: 2/21
+     🎯 Geni nel pathway: AMER1;CTNNB1
+
+  [KEGG]
+  🔸 [KEGG_2021_Human] PD-L1 expression and PD-1 checkpoint pathway in cancer
+     P-value: 2.53e-08  |  Overlap: 4/89
+     🎯 Geni nel pathway: PIK3CA;STAT3;KRAS;MYD88
+  🔸 [KEGG_2021_Human] Prostate cancer
+     P-value: 3.58e-08  |  Overlap: 4/97
+     🎯 Geni nel pathway: CDKN1B;PIK3CA;CTNNB1;KRAS
+  🔸 [KEGG_2021_Human] AGE-RAGE signaling pathway in diabetic complications
+     P-value: 4.06e-08  |  Overlap: 4/100
+     🎯 Geni nel pathway: CDKN1B;PIK3CA;STAT3;KRAS
+  🔸 [KEGG_2021_Human] FoxO signaling pathway
+     P-value: 1.21e-07  |  Overlap: 4/131
+     🎯 Geni nel pathway: CDKN1B;PIK3CA;STAT3;KRAS
+  🔸 [KEGG_2021_Human] Measles
+     P-value: 1.53e-07  |  Overlap: 4/139
+     🎯 Geni nel pathway: CDKN1B;PIK3CA;STAT3;MYD88
+
+  [Reactome]
+  🔸 [Reactome_Pathways_2024] Diseases of Signal Transduction by Growth Factor Receptors and Second Messengers
+     P-value: 3.43e-09  |  Overlap: 6/451
+     🎯 Geni nel pathway: AMER1;CDKN1B;PIK3CA;STAT3;CTNNB1;KRAS
+  🔸 [Reactome_Pathways_2024] Signaling by PDGFRA Extracellular Domain Mutants
+     P-value: 9.22e-09  |  Overlap: 3/12
+     🎯 Geni nel pathway: PIK3CA;STAT3;KRAS
+  🔸 [Reactome_Pathways_2024] Signaling by PDGFRA Transmembrane, Juxtamembrane and Kinase Domain Mutants
+     P-value: 9.22e-09  |  Overlap: 3/12
+     🎯 Geni nel pathway: PIK3CA;STAT3;KRAS
+  🔸 [Reactome_Pathways_2024] Signaling by KIT in Disease
+     P-value: 4.77e-08  |  Overlap: 3/20
+     🎯 Geni nel pathway: PIK3CA;STAT3;KRAS
+  🔸 [Reactome_Pathways_2024] Signaling by PDGFR in Disease
+     P-value: 4.77e-08  |  Overlap: 3/20
+     🎯 Geni nel pathway: PIK3CA;STAT3;KRAS
