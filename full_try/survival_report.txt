@@ -1,0 +1,351 @@
+REPORT COMPLETO: ANALISI CLUSTERS E FEATURE CLINICHE
+================================================================================
+
+ANALISI SIGNIFICATIVITÀ CLUSTER:
+--------------------------------------------------
+
+═══════════════════════════════════════════════════════════════════════════
+ 🧬 ANALISI SIGNIFICATIVITÀ CLUSTER: KRAS_PANCREAS
+═══════════════════════════════════════════════════════════════════════════
+ ✅ SIGNIFICATIVO | CLUSTER 0
+    - P-Value: 0.04433
+    - Rischio  : HR = 1.22 (95% CI: 1.00 - 1.48) [Mutati vs WT]
+    - Effetto  : Rischio aumentato (Fattore prognostico negativo 🔴)
+    - Hubs     : ['ARID1A', 'KMT2D', 'BRCA2', 'KMT2C', 'SMARCA4']
+    - Pazienti : Mutati=150, Wild-Type=662
+---------------------------------------------------------------------------
+ ❌ NON SIG. | CLUSTER 1
+    - P-Value: 0.69662
+    - Rischio  : HR = 1.04 (95% CI: 0.87 - 1.24) [Mutati vs WT]
+    - Effetto  : Nessun effetto sul rischio (Il CI include l'1 ⚪)
+    - Hubs     : ['SMAD4', 'PREX2', 'AKT3', 'ANKRD11', 'CASP8']
+    - Pazienti : Mutati=200, Wild-Type=612
+---------------------------------------------------------------------------
+ ❌ NON SIG. | CLUSTER 2
+    - P-Value: 0.65589
+    - Rischio  : HR = 0.95 (95% CI: 0.77 - 1.18) [Mutati vs WT]
+    - Effetto  : Nessun effetto sul rischio (Il CI include l'1 ⚪)
+    - Hubs     : ['RNF43', 'RBM10', 'BCOR', 'GNAS', 'PIK3CA']
+    - Pazienti : Mutati=118, Wild-Type=694
+---------------------------------------------------------------------------
+ ❌ NON SIG. | CLUSTER 3
+    - P-Value: 0.11154
+    - Rischio  : HR = 1.14 (95% CI: 0.97 - 1.35) [Mutati vs WT]
+    - Effetto  : Nessun effetto sul rischio (Il CI include l'1 ⚪)
+    - Hubs     : ['CDKN2A', 'ABL1', 'BAP1', 'KDM6A', 'PTPN11']
+    - Pazienti : Mutati=242, Wild-Type=570
+---------------------------------------------------------------------------
+ ❌ NON SIG. | CLUSTER 5
+    - P-Value: 0.08818
+    - Rischio  : HR = 0.79 (95% CI: 0.60 - 1.04) [Mutati vs WT]
+    - Effetto  : Nessun effetto sul rischio (Il CI include l'1 ⚪)
+    - Hubs     : ['ATM', 'EP300', 'DOT1L', 'NOTCH3', 'PTPRT']
+    - Pazienti : Mutati=75, Wild-Type=737
+---------------------------------------------------------------------------
+
+═══════════════════════════════════════════════════════════════════════════
+ 🧬 ANALISI SIGNIFICATIVITÀ CLUSTER: KRAS_LUNG
+═══════════════════════════════════════════════════════════════════════════
+ ❌ NON SIG. | CLUSTER 0
+    - P-Value: 0.65789
+    - Rischio  : HR = 0.95 (95% CI: 0.78 - 1.17) [Mutati vs WT]
+    - Effetto  : Nessun effetto sul rischio (Il CI include l'1 ⚪)
+    - Hubs     : ['FAT1', 'PTPRT', 'GRIN2A', 'ALK', 'EPHA5']
+    - Pazienti : Mutati=173, Wild-Type=425
+---------------------------------------------------------------------------
+ ✅ SIGNIFICATIVO | CLUSTER 1
+    - P-Value: 0.00520
+    - Rischio  : HR = 0.77 (95% CI: 0.64 - 0.92) [Mutati vs WT]
+    - Effetto  : Rischio ridotto (Fattore protettivo 🟢)
+    - Hubs     : ['TP53', 'PTPRD', 'EPHA3', 'HGF', 'DIS3']
+    - Pazienti : Mutati=310, Wild-Type=288
+---------------------------------------------------------------------------
+ ✅ SIGNIFICATIVO | CLUSTER 2
+    - P-Value: 0.00000
+    - Rischio  : HR = 1.77 (95% CI: 1.47 - 2.13) [Mutati vs WT]
+    - Effetto  : Rischio aumentato (Fattore prognostico negativo 🔴)
+    - Hubs     : ['KEAP1', 'SMARCA4', 'STK11', 'TBX3', 'APC']
+    - Pazienti : Mutati=277, Wild-Type=321
+---------------------------------------------------------------------------
+ ✅ SIGNIFICATIVO | CLUSTER 3
+    - P-Value: 0.00227
+    - Rischio  : HR = 0.71 (95% CI: 0.56 - 0.88) [Mutati vs WT]
+    - Effetto  : Rischio ridotto (Fattore protettivo 🟢)
+    - Hubs     : ['ARID1A', 'MGA', 'SETD2', 'PIK3CG', 'NOTCH3']
+    - Pazienti : Mutati=145, Wild-Type=453
+---------------------------------------------------------------------------
+ ❌ NON SIG. | CLUSTER 4
+    - P-Value: 0.20665
+    - Rischio  : HR = 0.87 (95% CI: 0.70 - 1.08) [Mutati vs WT]
+    - Effetto  : Nessun effetto sul rischio (Il CI include l'1 ⚪)
+    - Hubs     : ['NTRK1', 'RBM10', 'GLI1', 'ZFHX3', 'U2AF1']
+    - Pazienti : Mutati=152, Wild-Type=446
+---------------------------------------------------------------------------
+ ❌ NON SIG. | CLUSTER 5
+    - P-Value: 0.80581
+    - Rischio  : HR = 0.97 (95% CI: 0.74 - 1.26) [Mutati vs WT]
+    - Effetto  : Nessun effetto sul rischio (Il CI include l'1 ⚪)
+    - Hubs     : ['ATRX', 'RET', 'CIC', 'TET1', 'IRS2']
+    - Pazienti : Mutati=85, Wild-Type=513
+---------------------------------------------------------------------------
+
+═══════════════════════════════════════════════════════════════════════════
+ 🧬 ANALISI SIGNIFICATIVITÀ CLUSTER: KRAS_COLON
+═══════════════════════════════════════════════════════════════════════════
+ ❌ NON SIG. | CLUSTER 0
+    - P-Value: 0.11818
+    - Rischio  : HR = 0.80 (95% CI: 0.60 - 1.06) [Mutati vs WT]
+    - Effetto  : Nessun effetto sul rischio (Il CI include l'1 ⚪)
+    - Hubs     : ['FAT1', 'FLCN', 'KMT2C', 'POLE', 'CTNNB1']
+    - Pazienti : Mutati=111, Wild-Type=498
+---------------------------------------------------------------------------
+ ❌ NON SIG. | CLUSTER 1
+    - P-Value: 0.30328
+    - Rischio  : HR = 0.84 (95% CI: 0.60 - 1.18) [Mutati vs WT]
+    - Effetto  : Nessun effetto sul rischio (Il CI include l'1 ⚪)
+    - Hubs     : ['ARID2', 'EP300', 'NOTCH4', 'AR', 'ATRX']
+    - Pazienti : Mutati=68, Wild-Type=541
+---------------------------------------------------------------------------
+ ❌ NON SIG. | CLUSTER 2
+    - P-Value: 0.85029
+    - Rischio  : HR = 1.03 (95% CI: 0.78 - 1.35) [Mutati vs WT]
+    - Effetto  : Nessun effetto sul rischio (Il CI include l'1 ⚪)
+    - Hubs     : ['PTPRS', 'TGFBR2', 'SPEN', 'ARID1A', 'ZFHX3']
+    - Pazienti : Mutati=101, Wild-Type=508
+---------------------------------------------------------------------------
+ ✅ SIGNIFICATIVO | CLUSTER 3
+    - P-Value: 0.00832
+    - Rischio  : HR = 0.72 (95% CI: 0.56 - 0.92) [Mutati vs WT]
+    - Effetto  : Rischio ridotto (Fattore protettivo 🟢)
+    - Hubs     : ['PTPRT', 'APC', 'SESN1']
+    - Pazienti : Mutati=499, Wild-Type=110
+---------------------------------------------------------------------------
+ ❌ NON SIG. | CLUSTER 4
+    - P-Value: 0.32418
+    - Rischio  : HR = 0.85 (95% CI: 0.61 - 1.18) [Mutati vs WT]
+    - Effetto  : Nessun effetto sul rischio (Il CI include l'1 ⚪)
+    - Hubs     : ['KMT2D', 'NOTCH3', 'IKBKE', 'ARID1B', 'B2M']
+    - Pazienti : Mutati=77, Wild-Type=532
+---------------------------------------------------------------------------
+
+═══════════════════════════════════════════════════════════════════════════
+ 🧬 ANALISI SIGNIFICATIVITÀ CLUSTER: COLON
+═══════════════════════════════════════════════════════════════════════════
+ ❌ NON SIG. | CLUSTER 0
+    - P-Value: 0.82865
+    - Rischio  : HR = 0.98 (95% CI: 0.84 - 1.15) [Mutati vs WT]
+    - Effetto  : Nessun effetto sul rischio (Il CI include l'1 ⚪)
+    - Hubs     : ['PIK3CA', 'KMT2D', 'CTNNB1', 'KMT2C', 'SMAD2']
+    - Pazienti : Mutati=371, Wild-Type=956
+---------------------------------------------------------------------------
+ ❌ NON SIG. | CLUSTER 1
+    - P-Value: 0.70978
+    - Rischio  : HR = 1.05 (95% CI: 0.82 - 1.35) [Mutati vs WT]
+    - Effetto  : Nessun effetto sul rischio (Il CI include l'1 ⚪)
+    - Hubs     : ['NF1', 'POLE', 'BRCA2', 'PIK3C2G', 'FAT1']
+    - Pazienti : Mutati=116, Wild-Type=1211
+---------------------------------------------------------------------------
+ ✅ SIGNIFICATIVO | CLUSTER 2
+    - P-Value: 0.00001
+    - Rischio  : HR = 0.71 (95% CI: 0.61 - 0.83) [Mutati vs WT]
+    - Effetto  : Rischio ridotto (Fattore protettivo 🟢)
+    - Hubs     : ['PIK3CG', 'TCF7L2', 'APC', 'PTEN', 'AMER1']
+    - Pazienti : Mutati=977, Wild-Type=350
+---------------------------------------------------------------------------
+ ✅ SIGNIFICATIVO | CLUSTER 3
+    - P-Value: 0.02907
+    - Rischio  : HR = 1.29 (95% CI: 1.03 - 1.62) [Mutati vs WT]
+    - Effetto  : Rischio aumentato (Fattore prognostico negativo 🔴)
+    - Hubs     : ['ATM', 'ATR', 'ROS1', 'SETD2', 'EP300']
+    - Pazienti : Mutati=129, Wild-Type=1198
+---------------------------------------------------------------------------
+
+═══════════════════════════════════════════════════════════════════════════
+ 🧬 ANALISI SIGNIFICATIVITÀ CLUSTER: LUNG
+═══════════════════════════════════════════════════════════════════════════
+ ❌ NON SIG. | CLUSTER 0
+    - P-Value: 0.97345
+    - Rischio  : HR = 1.00 (95% CI: 0.88 - 1.14) [Mutati vs WT]
+    - Effetto  : Nessun effetto sul rischio (Il CI include l'1 ⚪)
+    - Hubs     : ['NF1', 'EPHB1', 'PIK3CG', 'KMT2B', 'HGF']
+    - Pazienti : Mutati=408, Wild-Type=1823
+---------------------------------------------------------------------------
+ ✅ SIGNIFICATIVO | CLUSTER 1
+    - P-Value: 0.00000
+    - Rischio  : HR = 1.40 (95% CI: 1.26 - 1.54) [Mutati vs WT]
+    - Effetto  : Rischio aumentato (Fattore prognostico negativo 🔴)
+    - Hubs     : ['KEAP1', 'SMARCA4', 'GRIN2A', 'ATM', 'KRAS']
+    - Pazienti : Mutati=939, Wild-Type=1292
+---------------------------------------------------------------------------
+ ❌ NON SIG. | CLUSTER 2
+    - P-Value: 0.52791
+    - Rischio  : HR = 0.96 (95% CI: 0.84 - 1.09) [Mutati vs WT]
+    - Effetto  : Nessun effetto sul rischio (Il CI include l'1 ⚪)
+    - Hubs     : ['ZFHX3', 'PTPRT', 'ERBB4', 'ALK', 'EPHA7']
+    - Pazienti : Mutati=409, Wild-Type=1822
+---------------------------------------------------------------------------
+ ✅ SIGNIFICATIVO | CLUSTER 3
+    - P-Value: 0.00015
+    - Rischio  : HR = 1.22 (95% CI: 1.10 - 1.36) [Mutati vs WT]
+    - Effetto  : Rischio aumentato (Fattore prognostico negativo 🔴)
+    - Hubs     : ['TP53', 'PTPRD', 'NTRK3', 'BRCA1', 'PIK3C2G']
+    - Pazienti : Mutati=1379, Wild-Type=852
+---------------------------------------------------------------------------
+ ❌ NON SIG. | CLUSTER 4
+    - P-Value: 0.33207
+    - Rischio  : HR = 1.07 (95% CI: 0.93 - 1.23) [Mutati vs WT]
+    - Effetto  : Nessun effetto sul rischio (Il CI include l'1 ⚪)
+    - Hubs     : ['FAT1', 'PDGFRA', 'ARAF', 'BRCA2', 'KDR']
+    - Pazienti : Mutati=340, Wild-Type=1891
+---------------------------------------------------------------------------
+
+═══════════════════════════════════════════════════════════════════════════
+ 🧬 ANALISI SIGNIFICATIVITÀ CLUSTER: PANCREAS
+═══════════════════════════════════════════════════════════════════════════
+ ❌ NON SIG. | CLUSTER 0
+    - P-Value: 0.15117
+    - Rischio  : HR = 1.17 (95% CI: 0.94 - 1.45) [Mutati vs WT]
+    - Effetto  : Nessun effetto sul rischio (Il CI include l'1 ⚪)
+    - Hubs     : ['RNF43', 'PIK3CA', 'GNAS', 'ARID2', 'FLT4']
+    - Pazienti : Mutati=117, Wild-Type=831
+---------------------------------------------------------------------------
+ ❌ NON SIG. | CLUSTER 1
+    - P-Value: 0.28898
+    - Rischio  : HR = 1.10 (95% CI: 0.92 - 1.32) [Mutati vs WT]
+    - Effetto  : Nessun effetto sul rischio (Il CI include l'1 ⚪)
+    - Hubs     : ['KMT2D', 'ATM', 'BRCA2', 'ZFHX3', 'ARID1A']
+    - Pazienti : Mutati=179, Wild-Type=769
+---------------------------------------------------------------------------
+ ✅ SIGNIFICATIVO | CLUSTER 2
+    - P-Value: 0.00000
+    - Rischio  : HR = 3.01 (95% CI: 2.28 - 3.97) [Mutati vs WT]
+    - Effetto  : Rischio aumentato (Fattore prognostico negativo 🔴)
+    - Hubs     : ['CDKN2A', 'SMAD4', 'KRAS', 'KDM6A', 'TP53']
+    - Pazienti : Mutati=850, Wild-Type=98
+---------------------------------------------------------------------------
+ ✅ SIGNIFICATIVO | CLUSTER 3
+    - P-Value: 0.00001
+    - Rischio  : HR = 0.53 (95% CI: 0.40 - 0.71) [Mutati vs WT]
+    - Effetto  : Rischio ridotto (Fattore protettivo 🟢)
+    - Hubs     : ['TSC2', 'MEN1', 'DAXX', 'SMARCA4', 'ATRX']
+    - Pazienti : Mutati=80, Wild-Type=868
+---------------------------------------------------------------------------
+
+
+ANALISI FEATURE CLINICHE SIGNIFICATIVE:
+--------------------------------------------------
+🚀 AVVIO RICERCA AUTOMATICA MULTI-PARAMETRICA (p-value < 0.05)
+
+══════════════════════════════════════════════════════════════════════
+ 🔍 SCANSIONE COORTE: KRAS_PANCREAS
+══════════════════════════════════════════════════════════════════════
+✅ FEATURE: FGA_Group
+   ► P-value (Log-rank) : 0.00097 ⭐
+   ► Rischio (Cox)      : HR = 0.77 (95% CI: 0.67 - 0.90) [Low FGA vs High FGA]
+   ► Effetto            : Rischio ridotto (Fattore protettivo 🟢)
+   ► Distribuzione      : Low FGA (n=405) vs High FGA (n=405)
+----------------------------------------------------------------------
+
+══════════════════════════════════════════════════════════════════════
+ 🔍 SCANSIONE COORTE: KRAS_LUNG
+══════════════════════════════════════════════════════════════════════
+✅ FEATURE: Sample Type
+   ► P-value (Log-rank) : 0.03688 ⭐
+   ► Rischio (Cox)      : HR = 0.82 (95% CI: 0.68 - 0.99) [Primary vs Metastasis]
+   ► Effetto            : Rischio ridotto (Fattore protettivo 🟢)
+   ► Distribuzione      : Primary (n=260) vs Metastasis (n=338)
+----------------------------------------------------------------------
+✅ FEATURE: Age_Group
+   ► P-value (Log-rank) : 0.00231 ⭐
+   ► Rischio (Cox)      : HR = 1.36 (95% CI: 1.11 - 1.65) [< 65 Years vs >= 65 Years]
+   ► Effetto            : Rischio aumentato (Fattore prognostico negativo 🔴)
+   ► Distribuzione      : < 65 Years (n=183) vs >= 65 Years (n=415)
+----------------------------------------------------------------------
+
+══════════════════════════════════════════════════════════════════════
+ 🔍 SCANSIONE COORTE: KRAS_COLON
+══════════════════════════════════════════════════════════════════════
+✅ FEATURE: Smoking History (NLP)
+   ► P-value (Log-rank) : 0.01112 ⭐
+   ► Rischio (Cox)      : HR = 0.77 (95% CI: 0.63 - 0.94) [Never vs Former/Current Smoker]
+   ► Effetto            : Rischio ridotto (Fattore protettivo 🟢)
+   ► Distribuzione      : Never (n=354) vs Former/Current Smoker (n=255)
+----------------------------------------------------------------------
+✅ FEATURE: MSI Type
+   ► P-value (Log-rank) : 0.02247 ⭐
+   ► Rischio (Cox)      : HR = 2.99 (95% CI: 1.11 - 8.03) [Stable vs Instable]
+   ► Effetto            : Rischio aumentato (Fattore prognostico negativo 🔴)
+   ► Distribuzione      : Stable (n=581) vs Instable (n=14)
+----------------------------------------------------------------------
+
+══════════════════════════════════════════════════════════════════════
+ 🔍 SCANSIONE COORTE: COLON
+══════════════════════════════════════════════════════════════════════
+✅ FEATURE: Sex
+   ► P-value (Log-rank) : 0.02959 ⭐
+   ► Rischio (Cox)      : HR = 1.17 (95% CI: 1.02 - 1.35) [Female vs Male]
+   ► Effetto            : Rischio aumentato (Fattore prognostico negativo 🔴)
+   ► Distribuzione      : Female (n=587) vs Male (n=740)
+----------------------------------------------------------------------
+✅ FEATURE: Sample Type
+   ► P-value (Log-rank) : 0.01708 ⭐
+   ► Rischio (Cox)      : HR = 1.21 (95% CI: 1.03 - 1.42) [Metastasis vs Primary]
+   ► Effetto            : Rischio aumentato (Fattore prognostico negativo 🔴)
+   ► Distribuzione      : Metastasis (n=344) vs Primary (n=983)
+----------------------------------------------------------------------
+✅ FEATURE: TMB_Group
+   ► P-value (Log-rank) : 0.04444 ⭐
+   ► Rischio (Cox)      : HR = 1.16 (95% CI: 1.00 - 1.33) [High TMB vs Low TMB]
+   ► Effetto            : Rischio aumentato (Fattore prognostico negativo 🔴)
+   ► Distribuzione      : High TMB (n=663) vs Low TMB (n=664)
+----------------------------------------------------------------------
+
+══════════════════════════════════════════════════════════════════════
+ 🔍 SCANSIONE COORTE: LUNG
+══════════════════════════════════════════════════════════════════════
+✅ FEATURE: Sex
+   ► P-value (Log-rank) : 0.00000 ⭐
+   ► Rischio (Cox)      : HR = 0.78 (95% CI: 0.71 - 0.87) [Female vs Male]
+   ► Effetto            : Rischio ridotto (Fattore protettivo 🟢)
+   ► Distribuzione      : Female (n=1278) vs Male (n=953)
+----------------------------------------------------------------------
+✅ FEATURE: Smoking History (NLP)
+   ► P-value (Log-rank) : 0.00000 ⭐
+   ► Rischio (Cox)      : HR = 1.44 (95% CI: 1.29 - 1.61) [Former/Current Smoker vs Never]
+   ► Effetto            : Rischio aumentato (Fattore prognostico negativo 🔴)
+   ► Distribuzione      : Former/Current Smoker (n=1546) vs Never (n=685)
+----------------------------------------------------------------------
+✅ FEATURE: Sample Type
+   ► P-value (Log-rank) : 0.00055 ⭐
+   ► Rischio (Cox)      : HR = 1.20 (95% CI: 1.08 - 1.33) [Metastasis vs Primary]
+   ► Effetto            : Rischio aumentato (Fattore prognostico negativo 🔴)
+   ► Distribuzione      : Metastasis (n=1319) vs Primary (n=912)
+----------------------------------------------------------------------
+✅ FEATURE: TMB_Group
+   ► P-value (Log-rank) : 0.00000 ⭐
+   ► Rischio (Cox)      : HR = 1.30 (95% CI: 1.18 - 1.44) [High TMB vs Low TMB]
+   ► Effetto            : Rischio aumentato (Fattore prognostico negativo 🔴)
+   ► Distribuzione      : High TMB (n=1072) vs Low TMB (n=1159)
+----------------------------------------------------------------------
+✅ FEATURE: FGA_Group
+   ► P-value (Log-rank) : 0.01117 ⭐
+   ► Rischio (Cox)      : HR = 1.14 (95% CI: 1.03 - 1.26) [High FGA vs Low FGA]
+   ► Effetto            : Rischio aumentato (Fattore prognostico negativo 🔴)
+   ► Distribuzione      : High FGA (n=1109) vs Low FGA (n=1110)
+----------------------------------------------------------------------
+
+══════════════════════════════════════════════════════════════════════
+ 🔍 SCANSIONE COORTE: PANCREAS
+══════════════════════════════════════════════════════════════════════
+✅ FEATURE: Sample Type
+   ► P-value (Log-rank) : 0.03044 ⭐
+   ► Rischio (Cox)      : HR = 0.85 (95% CI: 0.73 - 0.98) [Primary vs Metastasis]
+   ► Effetto            : Rischio ridotto (Fattore protettivo 🟢)
+   ► Distribuzione      : Primary (n=323) vs Metastasis (n=625)
+----------------------------------------------------------------------
+✅ FEATURE: TMB_Group
+   ► P-value (Log-rank) : 0.00193 ⭐
+   ► Rischio (Cox)      : HR = 1.25 (95% CI: 1.09 - 1.44) [High TMB vs Low TMB]
+   ► Effetto            : Rischio aumentato (Fattore prognostico negativo 🔴)
+   ► Distribuzione      : High TMB (n=443) vs Low TMB (n=505)
+----------------------------------------------------------------------
