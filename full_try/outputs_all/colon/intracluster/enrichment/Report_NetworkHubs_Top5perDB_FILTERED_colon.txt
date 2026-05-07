@@ -1,0 +1,85 @@
+--- 🏆 TOP 5 PATHWAY PER DATABASE — HUB GLOBALI DELLA RETE (COLON - FILTERED) ---
+Geni Hub analizzati (4): KDM5A, PTEN, FLCN, MSH3
+================================================================================
+
+
+  [GO]
+  🔸 [GO_Biological_Process_2021] negative regulation of protein kinase B signaling (GO:0051898)
+     - P-value: 2.33e-05 | Adjusted: 4.27e-03
+     - Overlap: 2/40
+     - Hubs coinvolti: FLCN;PTEN
+
+  🔸 [GO_Biological_Process_2021] negative regulation of ERK1 and ERK2 cascade (GO:0070373)
+     - P-value: 3.66e-05 | Adjusted: 4.27e-03
+     - Overlap: 2/50
+     - Hubs coinvolti: FLCN;PTEN
+
+  🔸 [GO_Biological_Process_2021] negative regulation of MAPK cascade (GO:0043409)
+     - P-value: 1.30e-04 | Adjusted: 8.94e-03
+     - Overlap: 2/94
+     - Hubs coinvolti: FLCN;PTEN
+
+  🔸 [GO_Biological_Process_2021] cell junction assembly (GO:0034329)
+     - P-value: 1.54e-04 | Adjusted: 8.94e-03
+     - Overlap: 2/102
+     - Hubs coinvolti: FLCN;PTEN
+
+  🔸 [GO_Biological_Process_2021] negative regulation of cell motility (GO:2000146)
+     - P-value: 1.92e-04 | Adjusted: 8.94e-03
+     - Overlap: 2/114
+     - Hubs coinvolti: FLCN;PTEN
+
+
+  [KEGG]
+  🔸 [KEGG_2021_Human] mTOR signaling pathway
+     - P-value: 3.50e-04 | Adjusted: 9.80e-03
+     - Overlap: 2/154
+     - Hubs coinvolti: FLCN;PTEN
+
+  🔸 [KEGG_2021_Human] Pathways in cancer
+     - P-value: 4.07e-03 | Adjusted: 3.60e-02
+     - Overlap: 2/531
+     - Hubs coinvolti: MSH3;PTEN
+
+  🔸 [KEGG_2021_Human] Mismatch repair
+     - P-value: 4.59e-03 | Adjusted: 3.60e-02
+     - Overlap: 1/23
+     - Hubs coinvolti: MSH3
+
+  🔸 [KEGG_2021_Human] Endometrial cancer
+     - P-value: 1.16e-02 | Adjusted: 3.60e-02
+     - Overlap: 1/58
+     - Hubs coinvolti: PTEN
+
+  🔸 [KEGG_2021_Human] Renal cell carcinoma
+     - P-value: 1.37e-02 | Adjusted: 3.60e-02
+     - Overlap: 1/69
+     - Hubs coinvolti: FLCN
+
+
+  [Reactome]
+  🔸 [Reactome_2022] Diseases Of Mismatch Repair (MMR) R-HSA-5423599
+     - P-value: 1.00e-03 | Adjusted: 2.70e-02
+     - Overlap: 1/5
+     - Hubs coinvolti: MSH3
+
+  🔸 [Reactome_2022] Regulation Of PTEN Localization R-HSA-8948747
+     - P-value: 1.80e-03 | Adjusted: 2.70e-02
+     - Overlap: 1/9
+     - Hubs coinvolti: PTEN
+
+  🔸 [Reactome_2022] Regulation Of PTEN mRNA Translation R-HSA-8943723
+     - P-value: 2.20e-03 | Adjusted: 2.70e-02
+     - Overlap: 1/11
+     - Hubs coinvolti: PTEN
+
+  🔸 [Reactome_2022] Mismatch Repair (MMR) Directed By MSH2:MSH3 (MutSbeta) R-HSA-5358606
+     - P-value: 2.80e-03 | Adjusted: 2.70e-02
+     - Overlap: 1/14
+     - Hubs coinvolti: MSH3
+
+  🔸 [Reactome_2022] Mismatch Repair R-HSA-5358508
+     - P-value: 3.00e-03 | Adjusted: 2.70e-02
+     - Overlap: 1/15
+     - Hubs coinvolti: MSH3
+

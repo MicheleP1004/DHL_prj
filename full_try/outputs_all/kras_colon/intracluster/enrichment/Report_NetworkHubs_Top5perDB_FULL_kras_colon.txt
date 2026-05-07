@@ -1,0 +1,85 @@
+--- 🏆 TOP 5 PATHWAY PER DATABASE — HUB GLOBALI DELLA RETE (KRAS_COLON - FULL) ---
+Geni Hub analizzati (6): FLT3, BRCA2, FLT1, PTEN, KDM5A, CDKN2A
+================================================================================
+
+
+  [GO]
+  🔸 [GO_Biological_Process_2021] regulation of phosphatidylinositol 3-kinase signaling (GO:0014066)
+     - P-value: 2.86e-06 | Adjusted: 7.07e-04
+     - Overlap: 3/106
+     - Hubs coinvolti: FLT1;FLT3;PTEN
+
+  🔸 [GO_Biological_Process_2021] negative regulation of cyclin-dependent protein serine/threonine kinase activity (GO:0045736)
+     - P-value: 1.42e-05 | Adjusted: 1.10e-03
+     - Overlap: 2/20
+     - Hubs coinvolti: CDKN2A;PTEN
+
+  🔸 [GO_Biological_Process_2021] negative regulation of cyclin-dependent protein kinase activity (GO:1904030)
+     - P-value: 1.73e-05 | Adjusted: 1.10e-03
+     - Overlap: 2/22
+     - Hubs coinvolti: CDKN2A;PTEN
+
+  🔸 [GO_Biological_Process_2021] positive regulation of phosphatidylinositol 3-kinase activity (GO:0043552)
+     - P-value: 2.83e-05 | Adjusted: 1.10e-03
+     - Overlap: 2/28
+     - Hubs coinvolti: FLT1;FLT3
+
+  🔸 [GO_Biological_Process_2021] regulation of cell population proliferation (GO:0042127)
+     - P-value: 2.98e-05 | Adjusted: 1.10e-03
+     - Overlap: 4/764
+     - Hubs coinvolti: FLT1;FLT3;CDKN2A;PTEN
+
+
+  [KEGG]
+  🔸 [KEGG_2021_Human] Pathways in cancer
+     - P-value: 7.06e-06 | Adjusted: 3.11e-04
+     - Overlap: 4/531
+     - Hubs coinvolti: FLT3;CDKN2A;PTEN;BRCA2
+
+  🔸 [KEGG_2021_Human] PI3K-Akt signaling pathway
+     - P-value: 1.06e-04 | Adjusted: 1.33e-03
+     - Overlap: 3/354
+     - Hubs coinvolti: FLT1;FLT3;PTEN
+
+  🔸 [KEGG_2021_Human] Central carbon metabolism in cancer
+     - P-value: 1.79e-04 | Adjusted: 1.33e-03
+     - Overlap: 2/70
+     - Hubs coinvolti: FLT3;PTEN
+
+  🔸 [KEGG_2021_Human] Melanoma
+     - P-value: 1.90e-04 | Adjusted: 1.33e-03
+     - Overlap: 2/72
+     - Hubs coinvolti: CDKN2A;PTEN
+
+  🔸 [KEGG_2021_Human] p53 signaling pathway
+     - P-value: 1.95e-04 | Adjusted: 1.33e-03
+     - Overlap: 2/73
+     - Hubs coinvolti: CDKN2A;PTEN
+
+
+  [Reactome]
+  🔸 [Reactome_2022] PI3K/AKT Signaling In Cancer R-HSA-2219528
+     - P-value: 4.04e-04 | Adjusted: 2.64e-02
+     - Overlap: 2/105
+     - Hubs coinvolti: FLT3;PTEN
+
+  🔸 [Reactome_2022] Negative Regulation Of PI3K/AKT Network R-HSA-199418
+     - P-value: 4.68e-04 | Adjusted: 2.64e-02
+     - Overlap: 2/113
+     - Hubs coinvolti: FLT3;PTEN
+
+  🔸 [Reactome_2022] Disease R-HSA-1643685
+     - P-value: 7.35e-04 | Adjusted: 2.77e-02
+     - Overlap: 4/1736
+     - Hubs coinvolti: FLT3;CDKN2A;PTEN;BRCA2
+
+  🔸 [Reactome_2022] FLT3 Signaling Thru SRC Family Kinases R-HSA-9706374
+     - P-value: 1.80e-03 | Adjusted: 2.90e-02
+     - Overlap: 1/6
+     - Hubs coinvolti: FLT3
+
+  🔸 [Reactome_2022] STAT5 Activation R-HSA-9645135
+     - P-value: 2.10e-03 | Adjusted: 2.90e-02
+     - Overlap: 1/7
+     - Hubs coinvolti: FLT3
+

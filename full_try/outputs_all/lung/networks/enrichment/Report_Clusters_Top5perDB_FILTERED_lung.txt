@@ -1,0 +1,57 @@
+--- 🏆 TOP 5 PATHWAY/ONTOLOGY PER DATABASE PER OGNI CLUSTER (LUNG - FILTERED) ---
+
+================================================================================
+🎯 CLUSTER 0  |  DIMENSIONE: 12 geni
+🧬 TUTTI I GENI: ATM, DNMT3B, EPHA5, FLT1, FOXP1, H3F3C, KRAS, PAK7, RECQL, SOX17, STAG2, U2AF1
+================================================================================
+
+  [GO]
+  🔸 [GO_Biological_Process_2021] regulation of gene expression (GO:0010468)
+     P-value: 2.61e-04  |  Overlap: 5/1079
+     🎯 Geni nel pathway: SOX17;DNMT3B;ATM;KRAS;FOXP1
+  🔸 [GO_Biological_Process_2021] positive regulation of phosphorylation (GO:0042327)
+     P-value: 4.04e-04  |  Overlap: 3/253
+     🎯 Geni nel pathway: EPHA5;FLT1;KRAS
+  🔸 [GO_Biological_Process_2021] blood vessel morphogenesis (GO:0048514)
+     P-value: 4.99e-04  |  Overlap: 2/56
+     🎯 Geni nel pathway: FLT1;SOX17
+  🔸 [GO_Molecular_Function_2021] transmembrane receptor protein kinase activity (GO:0019199)
+     P-value: 5.73e-04  |  Overlap: 2/60
+     🎯 Geni nel pathway: EPHA5;FLT1
+  🔸 [GO_Molecular_Function_2021] transmembrane receptor protein tyrosine kinase activity (GO:0004714)
+     P-value: 5.73e-04  |  Overlap: 2/60
+     🎯 Geni nel pathway: EPHA5;FLT1
+
+  [KEGG]
+  🔸 [KEGG_2021_Human] MicroRNAs in cancer
+     P-value: 2.54e-05  |  Overlap: 4/310
+     🎯 Geni nel pathway: DNMT3B;ATM;KRAS;FOXP1
+  🔸 [KEGG_2021_Human] Cell cycle
+     P-value: 2.42e-03  |  Overlap: 2/124
+     🎯 Geni nel pathway: STAG2;ATM
+  🔸 [KEGG_2021_Human] FoxO signaling pathway
+     P-value: 2.69e-03  |  Overlap: 2/131
+     🎯 Geni nel pathway: ATM;KRAS
+  🔸 [KEGG_2021_Human] Apoptosis
+     P-value: 3.15e-03  |  Overlap: 2/142
+     🎯 Geni nel pathway: ATM;KRAS
+  🔸 [KEGG_2021_Human] Cellular senescence
+     P-value: 3.79e-03  |  Overlap: 2/156
+     🎯 Geni nel pathway: ATM;KRAS
+
+  [Reactome]
+  🔸 [Reactome_Pathways_2024] Reproduction
+     P-value: 5.28e-05  |  Overlap: 3/127
+     🎯 Geni nel pathway: STAG2;SOX17;ATM
+  🔸 [Reactome_Pathways_2024] Meiosis
+     P-value: 1.26e-03  |  Overlap: 2/89
+     🎯 Geni nel pathway: STAG2;ATM
+  🔸 [Reactome_Pathways_2024] Signaling by VEGF
+     P-value: 1.84e-03  |  Overlap: 2/108
+     🎯 Geni nel pathway: FLT1;KRAS
+  🔸 [Reactome_Pathways_2024] Activation of RAS in B Cells
+     P-value: 3.00e-03  |  Overlap: 1/5
+     🎯 Geni nel pathway: KRAS
+  🔸 [Reactome_Pathways_2024] Estrogen-stimulated Signaling Through PRKCZ
+     P-value: 3.59e-03  |  Overlap: 1/6
+     🎯 Geni nel pathway: KRAS

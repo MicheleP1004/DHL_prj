@@ -1,0 +1,141 @@
+--- 🏆 TOP 5 PATHWAY PER DATABASE — HUB LOCALI PER OGNI CLUSTER (COLON - FILTERED) ---
+
+================================================================================
+🎯 CLUSTER 0  |  TOP HUB ANALIZZATI: 2
+🧬 GENI HUB: KDM5A, PTEN
+================================================================================
+
+  [GO]
+  🔸 [GO_Biological_Process_2021] negative regulation of organ growth (GO:0046621)
+     - P-value: 5.00e-04 | Overlap: 1/5
+     - Geni nel pathway: PTEN
+
+  🔸 [GO_Biological_Process_2021] negative regulation of histone deacetylation (GO:0031064)
+     - P-value: 5.00e-04 | Overlap: 1/5
+     - Geni nel pathway: KDM5A
+
+  🔸 [GO_Biological_Process_2021] negative regulation of excitatory postsynaptic potential (GO:0090394)
+     - P-value: 6.00e-04 | Overlap: 1/6
+     - Geni nel pathway: PTEN
+
+  🔸 [GO_Biological_Process_2021] postsynaptic density assembly (GO:0097107)
+     - P-value: 6.00e-04 | Overlap: 1/6
+     - Geni nel pathway: PTEN
+
+  🔸 [GO_Biological_Process_2021] positive regulation of extrinsic apoptotic signaling pathway via death domain receptors (GO:1902043)
+     - P-value: 6.00e-04 | Overlap: 1/6
+     - Geni nel pathway: PTEN
+
+  [KEGG]
+  🔸 [KEGG_2021_Human] Endometrial cancer
+     - P-value: 5.79e-03 | Overlap: 1/58
+     - Geni nel pathway: PTEN
+
+  🔸 [KEGG_2021_Human] Central carbon metabolism in cancer
+     - P-value: 6.99e-03 | Overlap: 1/70
+     - Geni nel pathway: PTEN
+
+  🔸 [KEGG_2021_Human] Melanoma
+     - P-value: 7.19e-03 | Overlap: 1/72
+     - Geni nel pathway: PTEN
+
+  🔸 [KEGG_2021_Human] p53 signaling pathway
+     - P-value: 7.29e-03 | Overlap: 1/73
+     - Geni nel pathway: PTEN
+
+  🔸 [KEGG_2021_Human] Inositol phosphate metabolism
+     - P-value: 7.29e-03 | Overlap: 1/73
+     - Geni nel pathway: PTEN
+
+  [Reactome]
+  🔸 [Reactome_2022] Regulation Of PTEN Localization R-HSA-8948747
+     - P-value: 9.00e-04 | Overlap: 1/9
+     - Geni nel pathway: PTEN
+
+  🔸 [Reactome_2022] Regulation Of PTEN mRNA Translation R-HSA-8943723
+     - P-value: 1.10e-03 | Overlap: 1/11
+     - Geni nel pathway: PTEN
+
+  🔸 [Reactome_2022] Synthesis Of IP3 And IP4 In Cytosol R-HSA-1855204
+     - P-value: 2.60e-03 | Overlap: 1/26
+     - Geni nel pathway: PTEN
+
+  🔸 [Reactome_2022] HDMs Demethylate Histones R-HSA-3214842
+     - P-value: 2.60e-03 | Overlap: 1/26
+     - Geni nel pathway: KDM5A
+
+  🔸 [Reactome_2022] Ovarian Tumor Domain Proteases R-HSA-5689896
+     - P-value: 3.90e-03 | Overlap: 1/39
+     - Geni nel pathway: PTEN
+
+================================================================================
+🎯 CLUSTER 1  |  TOP HUB ANALIZZATI: 0
+🧬 GENI HUB: 
+================================================================================
+
+[-] Troppi pochi hub per un enrichment (dopo filtraggio).
+
+================================================================================
+🎯 CLUSTER 2  |  TOP HUB ANALIZZATI: 2
+🧬 GENI HUB: FLCN, MSH3
+================================================================================
+
+  [GO]
+  🔸 [GO_Biological_Process_2021] meiotic mismatch repair (GO:0000710)
+     - P-value: 5.00e-04 | Overlap: 1/5
+     - Geni nel pathway: MSH3
+
+  🔸 [GO_Biological_Process_2021] negative regulation of organelle organization (GO:0010639)
+     - P-value: 5.00e-04 | Overlap: 1/5
+     - Geni nel pathway: FLCN
+
+  🔸 [GO_Biological_Process_2021] regulation of pro-B cell differentiation (GO:2000973)
+     - P-value: 6.00e-04 | Overlap: 1/6
+     - Geni nel pathway: FLCN
+
+  🔸 [GO_Biological_Process_2021] maintenance of DNA repeat elements (GO:0043570)
+     - P-value: 6.00e-04 | Overlap: 1/6
+     - Geni nel pathway: MSH3
+
+  🔸 [GO_Biological_Process_2021] somatic recombination of immunoglobulin gene segments (GO:0016447)
+     - P-value: 7.00e-04 | Overlap: 1/7
+     - Geni nel pathway: MSH3
+
+  [KEGG]
+  🔸 [KEGG_2021_Human] Mismatch repair
+     - P-value: 2.30e-03 | Overlap: 1/23
+     - Geni nel pathway: MSH3
+
+  🔸 [KEGG_2021_Human] Renal cell carcinoma
+     - P-value: 6.89e-03 | Overlap: 1/69
+     - Geni nel pathway: FLCN
+
+  🔸 [KEGG_2021_Human] Colorectal cancer
+     - P-value: 8.58e-03 | Overlap: 1/86
+     - Geni nel pathway: MSH3
+
+  🔸 [KEGG_2021_Human] mTOR signaling pathway
+     - P-value: 1.53e-02 | Overlap: 1/154
+     - Geni nel pathway: FLCN
+
+  [Reactome]
+  🔸 [Reactome_2022] Diseases Of Mismatch Repair (MMR) R-HSA-5423599
+     - P-value: 5.00e-04 | Overlap: 1/5
+     - Geni nel pathway: MSH3
+
+  🔸 [Reactome_2022] Mismatch Repair (MMR) Directed By MSH2:MSH3 (MutSbeta) R-HSA-5358606
+     - P-value: 1.40e-03 | Overlap: 1/14
+     - Geni nel pathway: MSH3
+
+  🔸 [Reactome_2022] Mismatch Repair R-HSA-5358508
+     - P-value: 1.50e-03 | Overlap: 1/15
+     - Geni nel pathway: MSH3
+
+  🔸 [Reactome_2022] Diseases Of DNA Repair R-HSA-9675135
+     - P-value: 5.09e-03 | Overlap: 1/51
+     - Geni nel pathway: MSH3
+
+  🔸 [Reactome_2022] Amino Acids Regulate mTORC1 R-HSA-9639288
+     - P-value: 5.49e-03 | Overlap: 1/55
+     - Geni nel pathway: FLCN
+

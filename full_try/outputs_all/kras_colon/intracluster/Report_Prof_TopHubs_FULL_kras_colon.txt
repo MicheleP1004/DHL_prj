@@ -1,0 +1,92 @@
+--- 👑 TOP 3 HUB GENES PER OGNI CLUSTER (KRAS_COLON - FULL) ---
+
+------------------------------------------------------------
+🎯 CLUSTER 0 | Totale geni nel network: 85
+------------------------------------------------------------
+🔸 HUB: ZFHX3
+   - Degree Centrality:      0.6548
+   - Betweenness Centrality: 0.0546
+🔸 HUB: SPEN
+   - Degree Centrality:      0.6429
+   - Betweenness Centrality: 0.0618
+🔸 HUB: ARID1A
+   - Degree Centrality:      0.6310
+   - Betweenness Centrality: 0.1188
+
+------------------------------------------------------------
+🎯 CLUSTER 1 | Totale geni nel network: 43
+------------------------------------------------------------
+🔸 HUB: KMT2D
+   - Degree Centrality:      0.8095
+   - Betweenness Centrality: 0.3863
+🔸 HUB: NOTCH4
+   - Degree Centrality:      0.5238
+   - Betweenness Centrality: 0.1220
+🔸 HUB: ARID1B
+   - Degree Centrality:      0.5000
+   - Betweenness Centrality: 0.0413
+
+------------------------------------------------------------
+🎯 CLUSTER 2 | Totale geni nel network: 54
+------------------------------------------------------------
+🔸 HUB: FLT3
+   - Degree Centrality:      0.4906
+   - Betweenness Centrality: 0.0948
+🔸 HUB: BRCA2
+   - Degree Centrality:      0.4717
+   - Betweenness Centrality: 0.1407
+🔸 HUB: FLT1
+   - Degree Centrality:      0.4340
+   - Betweenness Centrality: 0.0483
+
+------------------------------------------------------------
+🎯 CLUSTER 3 | Totale geni nel network: 60
+------------------------------------------------------------
+🔸 HUB: DNMT3A
+   - Degree Centrality:      0.7119
+   - Betweenness Centrality: 0.0359
+🔸 HUB: ARID2
+   - Degree Centrality:      0.6949
+   - Betweenness Centrality: 0.0259
+🔸 HUB: NOTCH3
+   - Degree Centrality:      0.6780
+   - Betweenness Centrality: 0.0566
+
+------------------------------------------------------------
+🎯 CLUSTER 4 | Totale geni nel network: 52
+------------------------------------------------------------
+🔸 HUB: PTEN
+   - Degree Centrality:      0.7255
+   - Betweenness Centrality: 0.1884
+🔸 HUB: EP300
+   - Degree Centrality:      0.6863
+   - Betweenness Centrality: 0.0616
+🔸 HUB: KDM5A
+   - Degree Centrality:      0.6275
+   - Betweenness Centrality: 0.1287
+
+------------------------------------------------------------
+🎯 CLUSTER 5 | Totale geni nel network: 13
+------------------------------------------------------------
+🔸 HUB: AMER1
+   - Degree Centrality:      0.7500
+   - Betweenness Centrality: 0.6793
+🔸 HUB: TP53BP1
+   - Degree Centrality:      0.5000
+   - Betweenness Centrality: 0.0581
+🔸 HUB: GSK3B
+   - Degree Centrality:      0.4167
+   - Betweenness Centrality: 0.0177
+
+------------------------------------------------------------
+🎯 CLUSTER 6 | Totale geni nel network: 4
+------------------------------------------------------------
+🔸 HUB: CDKN2A
+   - Degree Centrality:      1.0000
+   - Betweenness Centrality: 0.0000
+🔸 HUB: CDKN2Ap14ARF
+   - Degree Centrality:      1.0000
+   - Betweenness Centrality: 0.0000
+🔸 HUB: CDKN2Ap16INK4A
+   - Degree Centrality:      1.0000
+   - Betweenness Centrality: 0.0000

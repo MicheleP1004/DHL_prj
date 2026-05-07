@@ -1,0 +1,85 @@
+--- 🏆 TOP 5 PATHWAY PER DATABASE — HUB GLOBALI DELLA RETE (LUNG - FULL) ---
+Geni Hub analizzati (12): KDM5C, ARAF, RET, CDKN2A, FGFR1, TP63, BCL6, KMT2B, TERT, MCL1, NTRK1, RIT1
+================================================================================
+
+
+  [GO]
+  🔸 [GO_Biological_Process_2021] regulation of extrinsic apoptotic signaling pathway in absence of ligand (GO:2001239)
+     - P-value: 1.51e-09 | Adjusted: 4.42e-07
+     - Overlap: 4/28
+     - Hubs coinvolti: RET;TERT;FGFR1;MCL1
+
+  🔸 [GO_Biological_Process_2021] regulation of kinase activity (GO:0043549)
+     - P-value: 2.14e-05 | Adjusted: 2.12e-03
+     - Overlap: 3/94
+     - Hubs coinvolti: RET;NTRK1;FGFR1
+
+  🔸 [GO_Biological_Process_2021] replicative senescence (GO:0090399)
+     - P-value: 2.17e-05 | Adjusted: 2.12e-03
+     - Overlap: 2/12
+     - Hubs coinvolti: TERT;CDKN2A
+
+  🔸 [GO_Biological_Process_2021] positive regulation of kinase activity (GO:0033674)
+     - P-value: 3.82e-05 | Adjusted: 2.59e-03
+     - Overlap: 3/114
+     - Hubs coinvolti: RET;NTRK1;FGFR1
+
+  🔸 [GO_Biological_Process_2021] regulation of apoptotic process (GO:0042981)
+     - P-value: 4.42e-05 | Adjusted: 2.59e-03
+     - Overlap: 5/742
+     - Hubs coinvolti: NTRK1;BCL6;ARAF;TP63;MCL1
+
+
+  [KEGG]
+  🔸 [KEGG_2021_Human] Pathways in cancer
+     - P-value: 2.75e-07 | Adjusted: 1.59e-05
+     - Overlap: 6/531
+     - Hubs coinvolti: RET;NTRK1;TERT;CDKN2A;ARAF;FGFR1
+
+  🔸 [KEGG_2021_Human] Central carbon metabolism in cancer
+     - P-value: 8.83e-06 | Adjusted: 1.39e-04
+     - Overlap: 3/70
+     - Hubs coinvolti: RET;NTRK1;FGFR1
+
+  🔸 [KEGG_2021_Human] Melanoma
+     - P-value: 9.61e-06 | Adjusted: 1.39e-04
+     - Overlap: 3/72
+     - Hubs coinvolti: CDKN2A;ARAF;FGFR1
+
+  🔸 [KEGG_2021_Human] Non-small cell lung cancer
+     - P-value: 9.61e-06 | Adjusted: 1.39e-04
+     - Overlap: 3/72
+     - Hubs coinvolti: RET;CDKN2A;ARAF
+
+  🔸 [KEGG_2021_Human] Hepatocellular carcinoma
+     - P-value: 1.21e-04 | Adjusted: 1.41e-03
+     - Overlap: 3/168
+     - Hubs coinvolti: TERT;CDKN2A;ARAF
+
+
+  [Reactome]
+  🔸 [Reactome_2022] TP53 Regulates Transcription Of Additional Cell Death Genes With Uncertain Roles In P53-Dependent Apoptosis R-HSA-6803205
+     - P-value: 2.99e-05 | Adjusted: 3.98e-03
+     - Overlap: 2/14
+     - Hubs coinvolti: BCL6;TP63
+
+  🔸 [Reactome_2022] TP53 Regulates Transcription Of Cell Death Genes R-HSA-5633008
+     - P-value: 3.08e-04 | Adjusted: 1.40e-02
+     - Overlap: 2/44
+     - Hubs coinvolti: BCL6;TP63
+
+  🔸 [Reactome_2022] Intrinsic Pathway For Apoptosis R-HSA-109606
+     - P-value: 4.81e-04 | Adjusted: 1.40e-02
+     - Overlap: 2/55
+     - Hubs coinvolti: CDKN2A;TP63
+
+  🔸 [Reactome_2022] RAF/MAP Kinase Cascade R-HSA-5673001
+     - P-value: 4.94e-04 | Adjusted: 1.40e-02
+     - Overlap: 3/271
+     - Hubs coinvolti: RET;ARAF;FGFR1
+
+  🔸 [Reactome_2022] MAPK1/MAPK3 Signaling R-HSA-5684996
+     - P-value: 5.27e-04 | Adjusted: 1.40e-02
+     - Overlap: 3/277
+     - Hubs coinvolti: RET;ARAF;FGFR1
+

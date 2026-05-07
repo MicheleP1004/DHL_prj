@@ -1,0 +1,85 @@
+--- 🏆 TOP 5 PATHWAY PER DATABASE — HUB GLOBALI DELLA RETE (KRAS_LUNG - FULL) ---
+Geni Hub analizzati (19): AGO2, RECQL4, ARAF, EIF1AX, GATA1, PRDM1, FYN, CCND2, KDM5A, DNMT1, RAC1, FGF19, FGF3, KMT2B, IL7R, DROSHA, FOXA1, NKX2-1, MCL1
+================================================================================
+
+
+  [GO]
+  🔸 [GO_Biological_Process_2021] positive regulation of protein phosphorylation (GO:0001934)
+     - P-value: 8.66e-07 | Adjusted: 3.81e-04
+     - Overlap: 6/371
+     - Hubs coinvolti: CCND2;FGF19;ARAF;RAC1;GATA1;FGF3
+
+  🔸 [GO_Biological_Process_2021] regulation of protein phosphorylation (GO:0001932)
+     - P-value: 4.00e-06 | Adjusted: 8.80e-04
+     - Overlap: 5/266
+     - Hubs coinvolti: CCND2;FGF19;FYN;RAC1;FGF3
+
+  🔸 [GO_Biological_Process_2021] positive regulation of protein kinase B signaling (GO:0051897)
+     - P-value: 1.43e-05 | Adjusted: 2.09e-03
+     - Overlap: 4/161
+     - Hubs coinvolti: FGF19;FYN;RAC1;FGF3
+
+  🔸 [GO_Biological_Process_2021] positive regulation of macromolecule metabolic process (GO:0010604)
+     - P-value: 2.37e-05 | Adjusted: 2.60e-03
+     - Overlap: 5/384
+     - Hubs coinvolti: DNMT1;FGF19;AGO2;NKX2-1;FGF3
+
+  🔸 [GO_Biological_Process_2021] regulation of protein kinase B signaling (GO:0051896)
+     - P-value: 3.82e-05 | Adjusted: 2.74e-03
+     - Overlap: 4/207
+     - Hubs coinvolti: FGF19;FYN;RAC1;FGF3
+
+
+  [KEGG]
+  🔸 [KEGG_2021_Human] PI3K-Akt signaling pathway
+     - P-value: 6.58e-07 | Adjusted: 6.65e-05
+     - Overlap: 6/354
+     - Hubs coinvolti: CCND2;FGF19;RAC1;IL7R;FGF3;MCL1
+
+  🔸 [KEGG_2021_Human] Pathways in cancer
+     - P-value: 6.88e-06 | Adjusted: 3.48e-04
+     - Overlap: 6/531
+     - Hubs coinvolti: CCND2;FGF19;ARAF;RAC1;IL7R;FGF3
+
+  🔸 [KEGG_2021_Human] Melanoma
+     - P-value: 4.16e-05 | Adjusted: 1.18e-03
+     - Overlap: 3/72
+     - Hubs coinvolti: FGF19;ARAF;FGF3
+
+  🔸 [KEGG_2021_Human] Regulation of actin cytoskeleton
+     - P-value: 4.68e-05 | Adjusted: 1.18e-03
+     - Overlap: 4/218
+     - Hubs coinvolti: FGF19;ARAF;RAC1;FGF3
+
+  🔸 [KEGG_2021_Human] MAPK signaling pathway
+     - P-value: 1.49e-04 | Adjusted: 3.01e-03
+     - Overlap: 4/294
+     - Hubs coinvolti: FGF19;ARAF;RAC1;FGF3
+
+
+  [Reactome]
+  🔸 [Reactome_2022] MAPK Family Signaling Cascades R-HSA-5683057
+     - P-value: 9.53e-06 | Adjusted: 1.93e-03
+     - Overlap: 5/318
+     - Hubs coinvolti: FGF19;AGO2;ARAF;FYN;FGF3
+
+  🔸 [Reactome_2022] Transcriptional Regulation By RUNX1 R-HSA-8878171
+     - P-value: 3.61e-05 | Adjusted: 2.96e-03
+     - Overlap: 4/204
+     - Hubs coinvolti: CCND2;KMT2B;AGO2;GATA1
+
+  🔸 [Reactome_2022] Constitutive Signaling By Aberrant PI3K In Cancer R-HSA-2219530
+     - P-value: 5.29e-05 | Adjusted: 2.96e-03
+     - Overlap: 3/78
+     - Hubs coinvolti: FGF19;FYN;FGF3
+
+  🔸 [Reactome_2022] PIP3 Activates AKT Signaling R-HSA-1257604
+     - P-value: 1.04e-04 | Adjusted: 2.96e-03
+     - Overlap: 4/268
+     - Hubs coinvolti: FGF19;AGO2;FYN;FGF3
+
+  🔸 [Reactome_2022] RAF/MAP Kinase Cascade R-HSA-5673001
+     - P-value: 1.09e-04 | Adjusted: 2.96e-03
+     - Overlap: 4/271
+     - Hubs coinvolti: FGF19;ARAF;FYN;FGF3
+

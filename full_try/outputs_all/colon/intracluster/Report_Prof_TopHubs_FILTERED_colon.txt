@@ -1,0 +1,40 @@
+--- 👑 TOP 3 HUB GENES PER OGNI CLUSTER (COLON - FILTERED) ---
+
+------------------------------------------------------------
+🎯 CLUSTER 0 | Totale geni nel network: 6
+------------------------------------------------------------
+🔸 HUB: EP300
+   - Degree Centrality:      1.0000
+   - Betweenness Centrality: 0.1500
+🔸 HUB: KDM5A
+   - Degree Centrality:      1.0000
+   - Betweenness Centrality: 0.1500
+🔸 HUB: PTEN
+   - Degree Centrality:      0.8000
+   - Betweenness Centrality: 0.0000
+
+------------------------------------------------------------
+🎯 CLUSTER 1 | Totale geni nel network: 7
+------------------------------------------------------------
+🔸 HUB: KRAS
+   - Degree Centrality:      1.0000
+   - Betweenness Centrality: 0.6000
+🔸 HUB: PIK3CA
+   - Degree Centrality:      0.6667
+   - Betweenness Centrality: 0.0667
+🔸 HUB: KMT2D
+   - Degree Centrality:      0.5000
+   - Betweenness Centrality: 0.0000
+
+------------------------------------------------------------
+🎯 CLUSTER 2 | Totale geni nel network: 3
+------------------------------------------------------------
+🔸 HUB: KMT2C
+   - Degree Centrality:      1.0000
+   - Betweenness Centrality: 1.0000
+🔸 HUB: FLCN
+   - Degree Centrality:      0.5000
+   - Betweenness Centrality: 0.0000
+🔸 HUB: MSH3
+   - Degree Centrality:      0.5000
+   - Betweenness Centrality: 0.0000

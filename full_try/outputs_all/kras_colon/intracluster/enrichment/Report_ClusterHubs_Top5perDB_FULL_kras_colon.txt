@@ -1,0 +1,234 @@
+--- 🏆 TOP 5 PATHWAY PER DATABASE — HUB LOCALI PER OGNI CLUSTER (KRAS_COLON - FULL) ---
+
+================================================================================
+🎯 CLUSTER 0  |  TOP HUB ANALIZZATI: 0
+🧬 GENI HUB: 
+================================================================================
+
+[-] Troppi pochi hub per un enrichment (dopo filtraggio).
+
+================================================================================
+🎯 CLUSTER 1  |  TOP HUB ANALIZZATI: 0
+🧬 GENI HUB: 
+================================================================================
+
+[-] Troppi pochi hub per un enrichment (dopo filtraggio).
+
+================================================================================
+🎯 CLUSTER 2  |  TOP HUB ANALIZZATI: 5
+🧬 GENI HUB: FLT3, BRCA2, FLT1, IRS2, DIS3
+================================================================================
+
+  [GO]
+  🔸 [GO_Biological_Process_2021] positive regulation of phosphatidylinositol 3-kinase signaling (GO:0014068)
+     - P-value: 5.46e-07 | Overlap: 3/77
+     - Geni nel pathway: FLT1;FLT3;IRS2
+
+  🔸 [GO_Biological_Process_2021] regulation of kinase activity (GO:0043549)
+     - P-value: 9.99e-07 | Overlap: 3/94
+     - Geni nel pathway: FLT1;FLT3;IRS2
+
+  🔸 [GO_Biological_Process_2021] regulation of phosphatidylinositol 3-kinase signaling (GO:0014066)
+     - P-value: 1.44e-06 | Overlap: 3/106
+     - Geni nel pathway: FLT1;FLT3;IRS2
+
+  🔸 [GO_Biological_Process_2021] positive regulation of phosphatidylinositol 3-kinase activity (GO:0043552)
+     - P-value: 1.89e-05 | Overlap: 2/28
+     - Geni nel pathway: FLT1;FLT3
+
+  🔸 [GO_Biological_Process_2021] positive regulation of lipid kinase activity (GO:0090218)
+     - P-value: 2.17e-05 | Overlap: 2/30
+     - Geni nel pathway: FLT1;FLT3
+
+  [KEGG]
+  🔸 [KEGG_2021_Human] Transcriptional misregulation in cancer
+     - P-value: 9.00e-04 | Overlap: 2/192
+     - Geni nel pathway: FLT1;FLT3
+
+  🔸 [KEGG_2021_Human] Ras signaling pathway
+     - P-value: 1.31e-03 | Overlap: 2/232
+     - Geni nel pathway: FLT1;FLT3
+
+  🔸 [KEGG_2021_Human] MAPK signaling pathway
+     - P-value: 2.09e-03 | Overlap: 2/294
+     - Geni nel pathway: FLT1;FLT3
+
+  🔸 [KEGG_2021_Human] PI3K-Akt signaling pathway
+     - P-value: 3.02e-03 | Overlap: 2/354
+     - Geni nel pathway: FLT1;FLT3
+
+  🔸 [KEGG_2021_Human] Pathways in cancer
+     - P-value: 6.67e-03 | Overlap: 2/531
+     - Geni nel pathway: FLT3;BRCA2
+
+  [Reactome]
+  🔸 [Reactome_2022] PI3K Cascade R-HSA-109704
+     - P-value: 4.71e-05 | Overlap: 2/44
+     - Geni nel pathway: FLT3;IRS2
+
+  🔸 [Reactome_2022] IRS-mediated Signaling R-HSA-112399
+     - P-value: 5.38e-05 | Overlap: 2/47
+     - Geni nel pathway: FLT3;IRS2
+
+  🔸 [Reactome_2022] IRS-related Events Triggered By IGF1R R-HSA-2428928
+     - P-value: 6.34e-05 | Overlap: 2/51
+     - Geni nel pathway: FLT3;IRS2
+
+  🔸 [Reactome_2022] IGF1R Signaling Cascade R-HSA-2428924
+     - P-value: 6.60e-05 | Overlap: 2/52
+     - Geni nel pathway: FLT3;IRS2
+
+  🔸 [Reactome_2022] Signaling By Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R) R-HSA-2404192
+     - P-value: 6.85e-05 | Overlap: 2/53
+     - Geni nel pathway: FLT3;IRS2
+
+================================================================================
+🎯 CLUSTER 3  |  TOP HUB ANALIZZATI: 0
+🧬 GENI HUB: 
+================================================================================
+
+[-] Troppi pochi hub per un enrichment (dopo filtraggio).
+
+================================================================================
+🎯 CLUSTER 4  |  TOP HUB ANALIZZATI: 3
+🧬 GENI HUB: PTEN, KDM5A, PIK3C2G
+================================================================================
+
+  [GO]
+  🔸 [GO_Biological_Process_2021] phosphatidylinositol 3-kinase signaling (GO:0014065)
+     - P-value: 8.41e-06 | Overlap: 2/34
+     - Geni nel pathway: PTEN;PIK3C2G
+
+  🔸 [GO_Biological_Process_2021] phosphatidylinositol-mediated signaling (GO:0048015)
+     - P-value: 3.72e-05 | Overlap: 2/71
+     - Geni nel pathway: PTEN;PIK3C2G
+
+  🔸 [GO_Biological_Process_2021] phosphatidylinositol metabolic process (GO:0046488)
+     - P-value: 9.29e-05 | Overlap: 2/112
+     - Geni nel pathway: PTEN;PIK3C2G
+
+  🔸 [GO_Biological_Process_2021] phosphatidylinositol biosynthetic process (GO:0006661)
+     - P-value: 1.18e-04 | Overlap: 2/126
+     - Geni nel pathway: PTEN;PIK3C2G
+
+  🔸 [GO_Biological_Process_2021] glycerophospholipid biosynthetic process (GO:0046474)
+     - P-value: 2.32e-04 | Overlap: 2/177
+     - Geni nel pathway: PTEN;PIK3C2G
+
+  [KEGG]
+  🔸 [KEGG_2021_Human] Inositol phosphate metabolism
+     - P-value: 3.93e-05 | Overlap: 2/73
+     - Geni nel pathway: PTEN;PIK3C2G
+
+  🔸 [KEGG_2021_Human] Phosphatidylinositol signaling system
+     - P-value: 6.96e-05 | Overlap: 2/97
+     - Geni nel pathway: PTEN;PIK3C2G
+
+  🔸 [KEGG_2021_Human] Endometrial cancer
+     - P-value: 8.68e-03 | Overlap: 1/58
+     - Geni nel pathway: PTEN
+
+  🔸 [KEGG_2021_Human] Central carbon metabolism in cancer
+     - P-value: 1.05e-02 | Overlap: 1/70
+     - Geni nel pathway: PTEN
+
+  🔸 [KEGG_2021_Human] Melanoma
+     - P-value: 1.08e-02 | Overlap: 1/72
+     - Geni nel pathway: PTEN
+
+  [Reactome]
+  🔸 [Reactome_2022] Synthesis Of PIPs At Plasma Membrane R-HSA-1660499
+     - P-value: 1.91e-05 | Overlap: 2/51
+     - Geni nel pathway: PTEN;PIK3C2G
+
+  🔸 [Reactome_2022] PI Metabolism R-HSA-1483255
+     - P-value: 4.97e-05 | Overlap: 2/82
+     - Geni nel pathway: PTEN;PIK3C2G
+
+  🔸 [Reactome_2022] Phospholipid Metabolism R-HSA-1483257
+     - P-value: 3.21e-04 | Overlap: 2/208
+     - Geni nel pathway: PTEN;PIK3C2G
+
+  🔸 [Reactome_2022] Regulation Of PTEN Localization R-HSA-8948747
+     - P-value: 1.35e-03 | Overlap: 1/9
+     - Geni nel pathway: PTEN
+
+  🔸 [Reactome_2022] Regulation Of PTEN mRNA Translation R-HSA-8943723
+     - P-value: 1.65e-03 | Overlap: 1/11
+     - Geni nel pathway: PTEN
+
+================================================================================
+🎯 CLUSTER 5  |  TOP HUB ANALIZZATI: 0
+🧬 GENI HUB: 
+================================================================================
+
+[-] Troppi pochi hub per un enrichment (dopo filtraggio).
+
+================================================================================
+🎯 CLUSTER 6  |  TOP HUB ANALIZZATI: 2
+🧬 GENI HUB: CDKN2A, CDKN2B
+================================================================================
+
+  [GO]
+  🔸 [GO_Biological_Process_2021] negative regulation of phosphate metabolic process (GO:0045936)
+     - P-value: 1.15e-06 | Overlap: 2/22
+     - Geni nel pathway: CDKN2B;CDKN2A
+
+  🔸 [GO_Biological_Process_2021] cellular senescence (GO:0090398)
+     - P-value: 1.75e-06 | Overlap: 2/27
+     - Geni nel pathway: CDKN2B;CDKN2A
+
+  🔸 [GO_Biological_Process_2021] negative regulation of cell cycle G1/S phase transition (GO:1902807)
+     - P-value: 2.97e-06 | Overlap: 2/35
+     - Geni nel pathway: CDKN2B;CDKN2A
+
+  🔸 [GO_Biological_Process_2021] negative regulation of G1/S transition of mitotic cell cycle (GO:2000134)
+     - P-value: 3.33e-06 | Overlap: 2/37
+     - Geni nel pathway: CDKN2B;CDKN2A
+
+  🔸 [GO_Biological_Process_2021] regulation of G1/S transition of mitotic cell cycle (GO:2000045)
+     - P-value: 1.24e-05 | Overlap: 2/71
+     - Geni nel pathway: CDKN2B;CDKN2A
+
+  [KEGG]
+  🔸 [KEGG_2021_Human] Cell cycle
+     - P-value: 3.81e-05 | Overlap: 2/124
+     - Geni nel pathway: CDKN2B;CDKN2A
+
+  🔸 [KEGG_2021_Human] Cushing syndrome
+     - P-value: 5.97e-05 | Overlap: 2/155
+     - Geni nel pathway: CDKN2B;CDKN2A
+
+  🔸 [KEGG_2021_Human] Cellular senescence
+     - P-value: 6.05e-05 | Overlap: 2/156
+     - Geni nel pathway: CDKN2B;CDKN2A
+
+  🔸 [KEGG_2021_Human] Viral carcinogenesis
+     - P-value: 1.03e-04 | Overlap: 2/203
+     - Geni nel pathway: CDKN2B;CDKN2A
+
+  🔸 [KEGG_2021_Human] Human T-cell leukemia virus 1 infection
+     - P-value: 1.19e-04 | Overlap: 2/219
+     - Geni nel pathway: CDKN2B;CDKN2A
+
+  [Reactome]
+  🔸 [Reactome_2022] Oncogene Induced Senescence R-HSA-2559585
+     - P-value: 2.64e-06 | Overlap: 2/33
+     - Geni nel pathway: CDKN2B;CDKN2A
+
+  🔸 [Reactome_2022] Cyclin D Associated Events In G1 R-HSA-69231
+     - P-value: 5.40e-06 | Overlap: 2/47
+     - Geni nel pathway: CDKN2B;CDKN2A
+
+  🔸 [Reactome_2022] Senescence-Associated Secretory Phenotype (SASP) R-HSA-2559582
+     - P-value: 1.62e-05 | Overlap: 2/81
+     - Geni nel pathway: CDKN2B;CDKN2A
+
+  🔸 [Reactome_2022] Oxidative Stress Induced Senescence R-HSA-2559580
+     - P-value: 2.14e-05 | Overlap: 2/93
+     - Geni nel pathway: CDKN2B;CDKN2A
+
+  🔸 [Reactome_2022] Mitotic G1 Phase And G1/S Transition R-HSA-453279
+     - P-value: 5.37e-05 | Overlap: 2/147
+     - Geni nel pathway: CDKN2B;CDKN2A
+

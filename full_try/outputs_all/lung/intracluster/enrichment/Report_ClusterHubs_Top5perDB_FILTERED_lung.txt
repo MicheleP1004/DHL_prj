@@ -1,0 +1,35 @@
+--- 🏆 TOP 5 PATHWAY PER DATABASE — HUB LOCALI PER OGNI CLUSTER (LUNG - FILTERED) ---
+
+================================================================================
+🎯 CLUSTER 0  |  TOP HUB ANALIZZATI: 2
+🧬 GENI HUB: PAK7, RECQL
+================================================================================
+
+  [GO]
+  🔸 [GO_Biological_Process_2021] DNA unwinding involved in DNA replication (GO:0006268)
+     - P-value: 1.60e-03 | Overlap: 1/16
+     - Geni nel pathway: RECQL
+
+  🔸 [GO_Biological_Process_2021] DNA geometric change (GO:0032392)
+     - P-value: 2.60e-03 | Overlap: 1/26
+     - Geni nel pathway: RECQL
+
+  🔸 [GO_Biological_Process_2021] DNA recombination (GO:0006310)
+     - P-value: 3.90e-03 | Overlap: 1/39
+     - Geni nel pathway: RECQL
+
+  🔸 [GO_Biological_Process_2021] DNA duplex unwinding (GO:0032508)
+     - P-value: 5.09e-03 | Overlap: 1/51
+     - Geni nel pathway: RECQL
+
+  🔸 [GO_Biological_Process_2021] recombinational repair (GO:0000725)
+     - P-value: 7.88e-03 | Overlap: 1/79
+     - Geni nel pathway: RECQL
+
+================================================================================
+🎯 CLUSTER 1  |  TOP HUB ANALIZZATI: 0
+🧬 GENI HUB: 
+================================================================================
+
+[-] Troppi pochi hub per un enrichment (dopo filtraggio).
+

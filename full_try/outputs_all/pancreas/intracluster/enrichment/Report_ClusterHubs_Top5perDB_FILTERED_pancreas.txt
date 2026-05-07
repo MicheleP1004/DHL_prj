@@ -1,0 +1,70 @@
+--- 🏆 TOP 5 PATHWAY PER DATABASE — HUB LOCALI PER OGNI CLUSTER (PANCREAS - FILTERED) ---
+
+================================================================================
+🎯 CLUSTER 0  |  TOP HUB ANALIZZATI: 2
+🧬 GENI HUB: CDKN2A, SMAD4
+================================================================================
+
+  [GO]
+  🔸 [GO_Biological_Process_2021] negative regulation of growth (GO:0045926)
+     - P-value: 3.94e-05 | Overlap: 2/126
+     - Geni nel pathway: SMAD4;CDKN2A
+
+  🔸 [GO_Biological_Process_2021] negative regulation of cell growth (GO:0030308)
+     - P-value: 3.94e-05 | Overlap: 2/126
+     - Geni nel pathway: SMAD4;CDKN2A
+
+  🔸 [GO_Biological_Process_2021] regulation of cell growth (GO:0001558)
+     - P-value: 1.17e-04 | Overlap: 2/217
+     - Geni nel pathway: SMAD4;CDKN2A
+
+  🔸 [GO_Biological_Process_2021] positive regulation of histone H3-K9 acetylation (GO:2000617)
+     - P-value: 5.00e-04 | Overlap: 1/5
+     - Geni nel pathway: SMAD4
+
+  🔸 [GO_Biological_Process_2021] positive regulation of cell proliferation involved in heart morphogenesis (GO:2000138)
+     - P-value: 5.00e-04 | Overlap: 1/5
+     - Geni nel pathway: SMAD4
+
+  [KEGG]
+  🔸 [KEGG_2021_Human] Pancreatic cancer
+     - P-value: 1.42e-05 | Overlap: 2/76
+     - Geni nel pathway: SMAD4;CDKN2A
+
+  🔸 [KEGG_2021_Human] Chronic myeloid leukemia
+     - P-value: 1.42e-05 | Overlap: 2/76
+     - Geni nel pathway: SMAD4;CDKN2A
+
+  🔸 [KEGG_2021_Human] Cell cycle
+     - P-value: 3.81e-05 | Overlap: 2/124
+     - Geni nel pathway: SMAD4;CDKN2A
+
+  🔸 [KEGG_2021_Human] Hepatocellular carcinoma
+     - P-value: 7.01e-05 | Overlap: 2/168
+     - Geni nel pathway: SMAD4;CDKN2A
+
+  🔸 [KEGG_2021_Human] Human T-cell leukemia virus 1 infection
+     - P-value: 1.19e-04 | Overlap: 2/219
+     - Geni nel pathway: SMAD4;CDKN2A
+
+  [Reactome]
+  🔸 [Reactome_2022] Transcriptional Regulation By RUNX3 R-HSA-8878159
+     - P-value: 2.23e-05 | Overlap: 2/95
+     - Geni nel pathway: SMAD4;CDKN2A
+
+  🔸 [Reactome_2022] RUNX3 Regulates BCL2L11 (BIM) Transcription R-HSA-8952158
+     - P-value: 5.00e-04 | Overlap: 1/5
+     - Geni nel pathway: SMAD4
+
+  🔸 [Reactome_2022] Loss Of Function Of SMAD2/3 In Cancer R-HSA-3304349
+     - P-value: 7.00e-04 | Overlap: 1/7
+     - Geni nel pathway: SMAD4
+
+  🔸 [Reactome_2022] RUNX3 Regulates CDKN1A Transcription R-HSA-8941855
+     - P-value: 7.00e-04 | Overlap: 1/7
+     - Geni nel pathway: SMAD4
+
+  🔸 [Reactome_2022] Signaling By TGF-beta Receptor Complex In Cancer R-HSA-3304351
+     - P-value: 8.00e-04 | Overlap: 1/8
+     - Geni nel pathway: SMAD4
+

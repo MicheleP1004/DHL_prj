@@ -1,0 +1,113 @@
+--- 🏆 TOP 5 PATHWAY/ONTOLOGY PER DATABASE PER OGNI CLUSTER (COLON - FILTERED) ---
+
+================================================================================
+🎯 CLUSTER 0  |  DIMENSIONE: 6 geni
+🧬 TUTTI I GENI: CDKN1B, EP300, KDM5A, PTEN, PTPRD, RAD52
+================================================================================
+
+  [GO]
+  🔸 [GO_Biological_Process_2021] presynaptic membrane assembly (GO:0097105)
+     P-value: 3.37e-06  |  Overlap: 2/10
+     🎯 Geni nel pathway: PTPRD;PTEN
+  🔸 [GO_Biological_Process_2021] presynaptic membrane organization (GO:0097090)
+     P-value: 4.12e-06  |  Overlap: 2/11
+     🎯 Geni nel pathway: PTPRD;PTEN
+  🔸 [GO_Biological_Process_2021] negative regulation of vascular associated smooth muscle cell proliferation (GO:1904706)
+     P-value: 1.02e-05  |  Overlap: 2/17
+     🎯 Geni nel pathway: CDKN1B;PTEN
+  🔸 [GO_Biological_Process_2021] presynapse assembly (GO:0099054)
+     P-value: 1.15e-05  |  Overlap: 2/18
+     🎯 Geni nel pathway: PTPRD;PTEN
+  🔸 [GO_Biological_Process_2021] negative regulation of cyclin-dependent protein serine/threonine kinase activity (GO:0045736)
+     P-value: 1.42e-05  |  Overlap: 2/20
+     🎯 Geni nel pathway: CDKN1B;PTEN
+
+  [KEGG]
+  🔸 [KEGG_2021_Human] Prostate cancer
+     P-value: 2.19e-06  |  Overlap: 3/97
+     🎯 Geni nel pathway: CDKN1B;PTEN;EP300
+  🔸 [KEGG_2021_Human] FoxO signaling pathway
+     P-value: 5.41e-06  |  Overlap: 3/131
+     🎯 Geni nel pathway: CDKN1B;PTEN;EP300
+  🔸 [KEGG_2021_Human] MicroRNAs in cancer
+     P-value: 7.12e-05  |  Overlap: 3/310
+     🎯 Geni nel pathway: CDKN1B;PTEN;EP300
+  🔸 [KEGG_2021_Human] Human papillomavirus infection
+     P-value: 8.66e-05  |  Overlap: 3/331
+     🎯 Geni nel pathway: CDKN1B;PTEN;EP300
+  🔸 [KEGG_2021_Human] Small cell lung cancer
+     P-value: 3.10e-04  |  Overlap: 2/92
+     🎯 Geni nel pathway: CDKN1B;PTEN
+
+  [Reactome]
+  🔸 [Reactome_Pathways_2024] TP53 Regulates Transcription of Cell Cycle Genes
+     P-value: 8.76e-05  |  Overlap: 2/49
+     🎯 Geni nel pathway: CDKN1B;EP300
+  🔸 [Reactome_Pathways_2024] Transcriptional Regulation by TP53
+     P-value: 1.13e-04  |  Overlap: 3/362
+     🎯 Geni nel pathway: CDKN1B;PTEN;EP300
+  🔸 [Reactome_Pathways_2024] FOXO-mediated Transcription
+     P-value: 1.64e-04  |  Overlap: 2/67
+     🎯 Geni nel pathway: CDKN1B;EP300
+  🔸 [Reactome_Pathways_2024] Diseases of Signal Transduction by Growth Factor Receptors and Second Messengers
+     P-value: 2.17e-04  |  Overlap: 3/451
+     🎯 Geni nel pathway: CDKN1B;PTEN;EP300
+  🔸 [Reactome_Pathways_2024] Maternal to Zygotic Transition (MZT)
+     P-value: 4.35e-04  |  Overlap: 2/109
+     🎯 Geni nel pathway: KDM5A;EP300
+
+================================================================================
+🎯 CLUSTER 1  |  DIMENSIONE: 7 geni
+🧬 TUTTI I GENI: AMER1, CTNNB1, KMT2D, KRAS, MED12, PIK3CA, SMAD2
+================================================================================
+
+  [GO]
+  🔸 [GO_Molecular_Function_2021] I-SMAD binding (GO:0070411)
+     P-value: 8.17e-06  |  Overlap: 2/13
+     🎯 Geni nel pathway: SMAD2;CTNNB1
+  🔸 [GO_Biological_Process_2021] response to muscle stretch (GO:0035994)
+     P-value: 1.10e-05  |  Overlap: 2/15
+     🎯 Geni nel pathway: PIK3CA;CTNNB1
+  🔸 [GO_Biological_Process_2021] beta-catenin destruction complex disassembly (GO:1904886)
+     P-value: 2.20e-05  |  Overlap: 2/21
+     🎯 Geni nel pathway: AMER1;CTNNB1
+  🔸 [GO_Biological_Process_2021] beta-catenin-TCF complex assembly (GO:1904837)
+     P-value: 4.24e-05  |  Overlap: 2/29
+     🎯 Geni nel pathway: KMT2D;CTNNB1
+  🔸 [GO_Biological_Process_2021] protein-containing complex assembly (GO:0065003)
+     P-value: 7.91e-05  |  Overlap: 3/267
+     🎯 Geni nel pathway: AMER1;KMT2D;CTNNB1
+
+  [KEGG]
+  🔸 [KEGG_2021_Human] Colorectal cancer
+     P-value: 1.10e-08  |  Overlap: 4/86
+     🎯 Geni nel pathway: SMAD2;PIK3CA;CTNNB1;KRAS
+  🔸 [KEGG_2021_Human] Thyroid hormone signaling pathway
+     P-value: 4.40e-08  |  Overlap: 4/121
+     🎯 Geni nel pathway: MED12;PIK3CA;CTNNB1;KRAS
+  🔸 [KEGG_2021_Human] Signaling pathways regulating pluripotency of stem cells
+     P-value: 8.62e-08  |  Overlap: 4/143
+     🎯 Geni nel pathway: SMAD2;PIK3CA;CTNNB1;KRAS
+  🔸 [KEGG_2021_Human] Gastric cancer
+     P-value: 1.02e-07  |  Overlap: 4/149
+     🎯 Geni nel pathway: SMAD2;PIK3CA;CTNNB1;KRAS
+  🔸 [KEGG_2021_Human] Hepatocellular carcinoma
+     P-value: 1.65e-07  |  Overlap: 4/168
+     🎯 Geni nel pathway: SMAD2;PIK3CA;CTNNB1;KRAS
+
+  [Reactome]
+  🔸 [Reactome_Pathways_2024] Diseases of Signal Transduction by Growth Factor Receptors and Second Messengers
+     P-value: 1.15e-07  |  Overlap: 5/451
+     🎯 Geni nel pathway: AMER1;SMAD2;PIK3CA;CTNNB1;KRAS
+  🔸 [Reactome_Pathways_2024] Developmental Biology
+     P-value: 7.19e-07  |  Overlap: 6/1385
+     🎯 Geni nel pathway: MED12;SMAD2;KMT2D;PIK3CA;CTNNB1;KRAS
+  🔸 [Reactome_Pathways_2024] Signaling by WNT
+     P-value: 1.40e-06  |  Overlap: 4/287
+     🎯 Geni nel pathway: AMER1;KMT2D;CTNNB1;KRAS
+  🔸 [Reactome_Pathways_2024] VEGFA-VEGFR2 Pathway
+     P-value: 4.06e-06  |  Overlap: 3/99
+     🎯 Geni nel pathway: PIK3CA;CTNNB1;KRAS
+  🔸 [Reactome_Pathways_2024] Signaling by VEGF
+     P-value: 5.28e-06  |  Overlap: 3/108
+     🎯 Geni nel pathway: PIK3CA;CTNNB1;KRAS

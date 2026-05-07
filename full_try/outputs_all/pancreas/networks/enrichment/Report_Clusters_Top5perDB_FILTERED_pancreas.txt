@@ -1,0 +1,57 @@
+--- 🏆 TOP 5 PATHWAY/ONTOLOGY PER DATABASE PER OGNI CLUSTER (PANCREAS - FILTERED) ---
+
+================================================================================
+🎯 CLUSTER 0  |  DIMENSIONE: 10 geni
+🧬 TUTTI I GENI: CDKN2A, CDKN2Ap16INK4A, CDKN2B, KDM6A, KRAS, MYC, RNF43, SMAD4, TGFBR2, TP53
+================================================================================
+
+  [GO]
+  🔸 [GO_Biological_Process_2021] negative regulation of phosphate metabolic process (GO:0045936)
+     P-value: 1.38e-07  |  Overlap: 3/22
+     🎯 Geni nel pathway: CDKN2B;CDKN2A;TP53
+  🔸 [GO_Biological_Process_2021] regulation of cell population proliferation (GO:0042127)
+     P-value: 5.61e-07  |  Overlap: 6/764
+     🎯 Geni nel pathway: CDKN2B;CDKN2A;MYC;KRAS;TP53;TGFBR2
+  🔸 [GO_Biological_Process_2021] negative regulation of cellular process (GO:0048523)
+     P-value: 4.00e-06  |  Overlap: 5/566
+     🎯 Geni nel pathway: CDKN2B;SMAD4;CDKN2A;MYC;TP53
+  🔸 [GO_Biological_Process_2021] regulation of cell cycle (GO:0051726)
+     P-value: 9.20e-06  |  Overlap: 4/296
+     🎯 Geni nel pathway: CDKN2B;CDKN2A;MYC;TP53
+  🔸 [GO_Biological_Process_2021] positive regulation of mesenchymal cell proliferation (GO:0002053)
+     P-value: 1.01e-05  |  Overlap: 2/10
+     🎯 Geni nel pathway: MYC;TGFBR2
+
+  [KEGG]
+  🔸 [KEGG_2021_Human] Chronic myeloid leukemia
+     P-value: 5.11e-13  |  Overlap: 6/76
+     🎯 Geni nel pathway: SMAD4;CDKN2A;MYC;KRAS;TP53;TGFBR2
+  🔸 [KEGG_2021_Human] Human T-cell leukemia virus 1 infection
+     P-value: 2.00e-12  |  Overlap: 7/219
+     🎯 Geni nel pathway: CDKN2B;SMAD4;CDKN2A;MYC;KRAS;TP53;TGFBR2
+  🔸 [KEGG_2021_Human] Gastric cancer
+     P-value: 3.17e-11  |  Overlap: 6/149
+     🎯 Geni nel pathway: CDKN2B;SMAD4;MYC;KRAS;TP53;TGFBR2
+  🔸 [KEGG_2021_Human] Cellular senescence
+     P-value: 4.18e-11  |  Overlap: 6/156
+     🎯 Geni nel pathway: CDKN2B;CDKN2A;MYC;KRAS;TP53;TGFBR2
+  🔸 [KEGG_2021_Human] Hepatocellular carcinoma
+     P-value: 6.56e-11  |  Overlap: 6/168
+     🎯 Geni nel pathway: SMAD4;CDKN2A;MYC;KRAS;TP53;TGFBR2
+
+  [Reactome]
+  🔸 [Reactome_Pathways_2024] Transcriptional Regulation by RUNX3
+     P-value: 3.24e-10  |  Overlap: 5/86
+     🎯 Geni nel pathway: SMAD4;CDKN2A;MYC;KRAS;TP53
+  🔸 [Reactome_Pathways_2024] Diseases of Signal Transduction by Growth Factor Receptors and Second Messengers
+     P-value: 2.47e-08  |  Overlap: 6/451
+     🎯 Geni nel pathway: RNF43;SMAD4;MYC;KRAS;TP53;TGFBR2
+  🔸 [Reactome_Pathways_2024] Signaling by TGF-beta Receptor Complex
+     P-value: 9.40e-08  |  Overlap: 4/94
+     🎯 Geni nel pathway: CDKN2B;SMAD4;MYC;TGFBR2
+  🔸 [Reactome_Pathways_2024] Oncogene Induced Senescence
+     P-value: 5.84e-07  |  Overlap: 3/35
+     🎯 Geni nel pathway: CDKN2B;CDKN2A;TP53
+  🔸 [Reactome_Pathways_2024] SMAD2 SMAD3 SMAD4 Heterotrimer Regulates Transcription
+     P-value: 6.37e-07  |  Overlap: 3/36
+     🎯 Geni nel pathway: CDKN2B;SMAD4;MYC

@@ -1,0 +1,85 @@
+--- 🏆 TOP 5 PATHWAY PER DATABASE — HUB GLOBALI DELLA RETE (COLON - FULL) ---
+Geni Hub analizzati (13): FLT1, BRCA2, LATS2, AGO2, PREX2, PTPRT, TOP1, KDM5A, FGF19, FGF3, MET, SMAD2, CDKN2A
+================================================================================
+
+
+  [GO]
+  🔸 [GO_Biological_Process_2021] transmembrane receptor protein tyrosine kinase signaling pathway (GO:0007169)
+     - P-value: 3.69e-06 | Adjusted: 1.12e-03
+     - Overlap: 5/404
+     - Hubs coinvolti: PTPRT;FLT1;FGF19;MET;FGF3
+
+  🔸 [GO_Biological_Process_2021] positive regulation of phosphorylation (GO:0042327)
+     - P-value: 1.63e-05 | Adjusted: 2.48e-03
+     - Overlap: 4/253
+     - Hubs coinvolti: FLT1;FGF19;MET;FGF3
+
+  🔸 [GO_Biological_Process_2021] negative regulation of cyclin-dependent protein serine/threonine kinase activity (GO:0045736)
+     - P-value: 7.36e-05 | Adjusted: 4.64e-03
+     - Overlap: 2/20
+     - Hubs coinvolti: LATS2;CDKN2A
+
+  🔸 [GO_Biological_Process_2021] negative regulation of cyclin-dependent protein kinase activity (GO:1904030)
+     - P-value: 8.94e-05 | Adjusted: 4.64e-03
+     - Overlap: 2/22
+     - Hubs coinvolti: LATS2;CDKN2A
+
+  🔸 [GO_Biological_Process_2021] enzyme linked receptor protein signaling pathway (GO:0007167)
+     - P-value: 9.12e-05 | Adjusted: 4.64e-03
+     - Overlap: 3/140
+     - Hubs coinvolti: PTPRT;FLT1;MET
+
+
+  [KEGG]
+  🔸 [KEGG_2021_Human] Melanoma
+     - P-value: 1.08e-07 | Adjusted: 5.49e-06
+     - Overlap: 4/72
+     - Hubs coinvolti: CDKN2A;FGF19;MET;FGF3
+
+  🔸 [KEGG_2021_Human] Pathways in cancer
+     - P-value: 4.99e-07 | Adjusted: 1.27e-05
+     - Overlap: 6/531
+     - Hubs coinvolti: SMAD2;CDKN2A;FGF19;BRCA2;MET;FGF3
+
+  🔸 [KEGG_2021_Human] Gastric cancer
+     - P-value: 2.01e-06 | Adjusted: 3.41e-05
+     - Overlap: 4/149
+     - Hubs coinvolti: SMAD2;FGF19;MET;FGF3
+
+  🔸 [KEGG_2021_Human] Rap1 signaling pathway
+     - P-value: 7.84e-06 | Adjusted: 1.00e-04
+     - Overlap: 4/210
+     - Hubs coinvolti: FLT1;FGF19;MET;FGF3
+
+  🔸 [KEGG_2021_Human] Ras signaling pathway
+     - P-value: 1.16e-05 | Adjusted: 1.07e-04
+     - Overlap: 4/232
+     - Hubs coinvolti: FLT1;FGF19;MET;FGF3
+
+
+  [Reactome]
+  🔸 [Reactome_2022] PIP3 Activates AKT Signaling R-HSA-1257604
+     - P-value: 2.05e-05 | Adjusted: 2.93e-03
+     - Overlap: 4/268
+     - Hubs coinvolti: PREX2;FGF19;AGO2;FGF3
+
+  🔸 [Reactome_2022] Intracellular Signaling By Second Messengers R-HSA-9006925
+     - P-value: 3.45e-05 | Adjusted: 2.93e-03
+     - Overlap: 4/306
+     - Hubs coinvolti: PREX2;FGF19;AGO2;FGF3
+
+  🔸 [Reactome_2022] PI3K Cascade R-HSA-109704
+     - P-value: 3.63e-04 | Adjusted: 9.96e-03
+     - Overlap: 2/44
+     - Hubs coinvolti: FGF19;FGF3
+
+  🔸 [Reactome_2022] Signal Transduction R-HSA-162582
+     - P-value: 3.73e-04 | Adjusted: 9.96e-03
+     - Overlap: 7/2465
+     - Hubs coinvolti: SMAD2;PREX2;FLT1;LATS2;FGF19;AGO2;FGF3
+
+  🔸 [Reactome_2022] IRS-mediated Signaling R-HSA-112399
+     - P-value: 4.15e-04 | Adjusted: 9.96e-03
+     - Overlap: 2/47
+     - Hubs coinvolti: FGF19;FGF3
+
