@@ -1,15 +1,15 @@
 {
-    "Total_Nodes": 10,
+    "Total_Nodes": 9,
     "Total_Multiplex_Edges": 33,
     "Multiplexity_Summary": {
-        "2": 10,
-        "1": 10,
+        "1": 12,
+        "2": 9,
         "3": 1
     },
-    "Assortativity_MUT": -0.5349,
-    "Assortativity_CNA": -0.1707,
+    "Assortativity_MUT": -0.7433,
+    "Assortativity_CNA": -0.5026,
     "Assortativity_SV": 0.0,
-    "Jaccard_Overlap_MUT_CNA": 0.5238,
-    "Jaccard_Overlap_MUT_SV": 0.0588,
-    "Jaccard_Overlap_CNA_SV": 0.0667
+    "Jaccard_Overlap_MUT_CNA": 0.4091,
+    "Jaccard_Overlap_MUT_SV": 0.0714,
+    "Jaccard_Overlap_CNA_SV": 0.1111
 }
