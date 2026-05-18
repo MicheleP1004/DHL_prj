@@ -1,46 +1,20 @@
 --- 👑 TOP 3 HUB GENES PER OGNI CLUSTER (COLON - FILTERED) ---
 
 ------------------------------------------------------------
-🎯 CLUSTER 0 | Totale geni nel network: 3
-------------------------------------------------------------
-🔸 HUB: SMAD2
-   - Degree Centrality:      1.0000
-   - Betweenness Centrality: 1.0000
-🔸 HUB: BAP1
-   - Degree Centrality:      0.5000
-   - Betweenness Centrality: 0.0000
-🔸 HUB: SMAD3
-   - Degree Centrality:      0.5000
-   - Betweenness Centrality: 0.0000
-
-------------------------------------------------------------
-🎯 CLUSTER 1 | Totale geni nel network: 3
-------------------------------------------------------------
-🔸 HUB: EP300
-   - Degree Centrality:      1.0000
-   - Betweenness Centrality: 0.0000
-🔸 HUB: PTPRD
-   - Degree Centrality:      1.0000
-   - Betweenness Centrality: 0.0000
-🔸 HUB: RAD54L
-   - Degree Centrality:      1.0000
-   - Betweenness Centrality: 0.0000
-
-------------------------------------------------------------
-🎯 CLUSTER 2 | Totale geni nel network: 7
+🎯 CLUSTER 0 | Totale geni nel network: 10
 ------------------------------------------------------------
 🔸 HUB: KMT2C
    - Degree Centrality:      1.0000
-   - Betweenness Centrality: 0.2667
-🔸 HUB: ATRX
-   - Degree Centrality:      0.8333
-   - Betweenness Centrality: 0.1000
+   - Betweenness Centrality: 0.2694
 🔸 HUB: KMT2D
-   - Degree Centrality:      0.8333
-   - Betweenness Centrality: 0.1000
+   - Degree Centrality:      0.7778
+   - Betweenness Centrality: 0.1343
+🔸 HUB: ATRX
+   - Degree Centrality:      0.6667
+   - Betweenness Centrality: 0.0519
 
 ------------------------------------------------------------
-🎯 CLUSTER 3 | Totale geni nel network: 8
+🎯 CLUSTER 1 | Totale geni nel network: 8
 ------------------------------------------------------------
 🔸 HUB: KRAS
    - Degree Centrality:      1.0000
@@ -51,3 +25,16 @@
 🔸 HUB: FLCN
    - Degree Centrality:      0.4286
    - Betweenness Centrality: 0.0238
+
+------------------------------------------------------------
+🎯 CLUSTER 2 | Totale geni nel network: 3
+------------------------------------------------------------
+🔸 HUB: SMAD2
+   - Degree Centrality:      1.0000
+   - Betweenness Centrality: 1.0000
+🔸 HUB: BAP1
+   - Degree Centrality:      0.5000
+   - Betweenness Centrality: 0.0000
+🔸 HUB: SMAD3
+   - Degree Centrality:      0.5000
+   - Betweenness Centrality: 0.0000

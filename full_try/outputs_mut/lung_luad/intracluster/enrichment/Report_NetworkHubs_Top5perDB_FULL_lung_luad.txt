@@ -1,0 +1,85 @@
+--- 🏆 TOP 5 PATHWAY PER DATABASE — HUB GLOBALI DELLA RETE (LUNG_LUAD - FULL) ---
+Geni Hub analizzati (18): TP53, CDKN2A, PTPRT, HGF, ARID1A, EPHA3, RBM10, PDGFRA, NF1, ALK, POLE, EPHA7, SMARCA4, NTRK3, ATM, KEAP1, PTPRD, FAT1
+================================================================================
+
+
+  [GO]
+  🔸 [GO_Biological_Process_2021] enzyme linked receptor protein signaling pathway (GO:0007167)
+     - P-value: 2.11e-11 | Adjusted: 1.13e-08
+     - Overlap: 7/140
+     - Hubs coinvolti: PTPRT;ALK;PTPRD;PDGFRA;EPHA7;NTRK3;EPHA3
+
+  🔸 [GO_Biological_Process_2021] regulation of kinase activity (GO:0043549)
+     - P-value: 1.68e-08 | Adjusted: 4.51e-06
+     - Overlap: 5/94
+     - Hubs coinvolti: ALK;PDGFRA;EPHA7;NTRK3;EPHA3
+
+  🔸 [GO_Biological_Process_2021] transmembrane receptor protein tyrosine kinase signaling pathway (GO:0007169)
+     - P-value: 3.42e-08 | Adjusted: 5.96e-06
+     - Overlap: 7/404
+     - Hubs coinvolti: PTPRT;ALK;PDGFRA;EPHA7;HGF;NTRK3;EPHA3
+
+  🔸 [GO_Biological_Process_2021] positive regulation of kinase activity (GO:0033674)
+     - P-value: 4.45e-08 | Adjusted: 5.96e-06
+     - Overlap: 5/114
+     - Hubs coinvolti: ALK;PDGFRA;EPHA7;NTRK3;EPHA3
+
+  🔸 [GO_Biological_Process_2021] positive regulation of phosphorylation (GO:0042327)
+     - P-value: 6.31e-08 | Adjusted: 6.77e-06
+     - Overlap: 6/253
+     - Hubs coinvolti: ALK;PDGFRA;EPHA7;HGF;NTRK3;EPHA3
+
+
+  [KEGG]
+  🔸 [KEGG_2021_Human] Hepatocellular carcinoma
+     - P-value: 5.48e-09 | Adjusted: 4.00e-07
+     - Overlap: 6/168
+     - Hubs coinvolti: CDKN2A;HGF;KEAP1;ARID1A;TP53;SMARCA4
+
+  🔸 [KEGG_2021_Human] Non-small cell lung cancer
+     - P-value: 4.55e-07 | Adjusted: 1.11e-05
+     - Overlap: 4/72
+     - Hubs coinvolti: ALK;CDKN2A;HGF;TP53
+
+  🔸 [KEGG_2021_Human] Melanoma
+     - P-value: 4.55e-07 | Adjusted: 1.11e-05
+     - Overlap: 4/72
+     - Hubs coinvolti: PDGFRA;CDKN2A;HGF;TP53
+
+  🔸 [KEGG_2021_Human] Pathways in cancer
+     - P-value: 4.82e-06 | Adjusted: 8.79e-05
+     - Overlap: 6/531
+     - Hubs coinvolti: ALK;PDGFRA;CDKN2A;HGF;KEAP1;TP53
+
+  🔸 [KEGG_2021_Human] Central carbon metabolism in cancer
+     - P-value: 3.23e-05 | Adjusted: 4.14e-04
+     - Overlap: 3/70
+     - Hubs coinvolti: PDGFRA;NTRK3;TP53
+
+
+  [Reactome]
+  🔸 [Reactome_2022] Regulation Of TP53 Degradation R-HSA-6804757
+     - P-value: 4.29e-06 | Adjusted: 4.83e-04
+     - Overlap: 3/36
+     - Hubs coinvolti: CDKN2A;ATM;TP53
+
+  🔸 [Reactome_2022] Regulation Of TP53 Expression And Degradation R-HSA-6806003
+     - P-value: 4.67e-06 | Adjusted: 4.83e-04
+     - Overlap: 3/37
+     - Hubs coinvolti: CDKN2A;ATM;TP53
+
+  🔸 [Reactome_2022] Stabilization Of P53 R-HSA-69541
+     - P-value: 1.65e-05 | Adjusted: 1.14e-03
+     - Overlap: 3/56
+     - Hubs coinvolti: CDKN2A;ATM;TP53
+
+  🔸 [Reactome_2022] p53-Dependent G1 DNA Damage Response R-HSA-69563
+     - P-value: 2.58e-05 | Adjusted: 1.17e-03
+     - Overlap: 3/65
+     - Hubs coinvolti: CDKN2A;ATM;TP53
+
+  🔸 [Reactome_2022] G1/S DNA Damage Checkpoints R-HSA-69615
+     - P-value: 2.83e-05 | Adjusted: 1.17e-03
+     - Overlap: 3/67
+     - Hubs coinvolti: CDKN2A;ATM;TP53
+

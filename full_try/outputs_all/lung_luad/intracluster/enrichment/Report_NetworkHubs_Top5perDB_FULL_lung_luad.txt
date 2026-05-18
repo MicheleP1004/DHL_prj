@@ -1,0 +1,85 @@
+--- 🏆 TOP 5 PATHWAY PER DATABASE — HUB GLOBALI DELLA RETE (LUNG_LUAD - FULL) ---
+Geni Hub analizzati (19): ARAF, TERT, FGFR1, AGO2, KMT2B, CEBPA, AKT2, NTRK1, MCL1, DDR2, IKZF1, CARD11, ETV1, FGF3, PAK1, BCL2, MALT1, RET, ROS1
+================================================================================
+
+
+  [GO]
+  🔸 [GO_Biological_Process_2021] positive regulation of phosphorylation (GO:0042327)
+     - P-value: 3.93e-11 | Adjusted: 1.07e-08
+     - Overlap: 8/253
+     - Hubs coinvolti: NTRK1;RET;PAK1;AKT2;ROS1;FGF3;FGFR1;DDR2
+
+  🔸 [GO_Biological_Process_2021] regulation of extrinsic apoptotic signaling pathway in absence of ligand (GO:2001239)
+     - P-value: 4.23e-11 | Adjusted: 1.07e-08
+     - Overlap: 5/28
+     - Hubs coinvolti: RET;TERT;BCL2;FGFR1;MCL1
+
+  🔸 [GO_Biological_Process_2021] transmembrane receptor protein tyrosine kinase signaling pathway (GO:0007169)
+     - P-value: 1.61e-09 | Adjusted: 2.71e-07
+     - Overlap: 8/404
+     - Hubs coinvolti: NTRK1;RET;PAK1;AKT2;ROS1;FGF3;FGFR1;DDR2
+
+  🔸 [GO_Biological_Process_2021] positive regulation of intracellular signal transduction (GO:1902533)
+     - P-value: 1.70e-08 | Adjusted: 2.15e-06
+     - Overlap: 8/546
+     - Hubs coinvolti: NTRK1;RET;AKT2;BCL2;FGF3;MALT1;CARD11;FGFR1
+
+  🔸 [GO_Biological_Process_2021] regulation of kinase activity (GO:0043549)
+     - P-value: 2.27e-08 | Adjusted: 2.30e-06
+     - Overlap: 5/94
+     - Hubs coinvolti: NTRK1;RET;ROS1;FGFR1;DDR2
+
+
+  [KEGG]
+  🔸 [KEGG_2021_Human] Pathways in cancer
+     - P-value: 4.47e-10 | Adjusted: 5.49e-08
+     - Overlap: 9/531
+     - Hubs coinvolti: NTRK1;RET;CEBPA;TERT;AKT2;ARAF;BCL2;FGF3;FGFR1
+
+  🔸 [KEGG_2021_Human] MAPK signaling pathway
+     - P-value: 2.21e-07 | Adjusted: 9.40e-06
+     - Overlap: 6/294
+     - Hubs coinvolti: NTRK1;PAK1;AKT2;ARAF;FGF3;FGFR1
+
+  🔸 [KEGG_2021_Human] Gastric cancer
+     - P-value: 2.29e-07 | Adjusted: 9.40e-06
+     - Overlap: 5/149
+     - Hubs coinvolti: TERT;AKT2;ARAF;BCL2;FGF3
+
+  🔸 [KEGG_2021_Human] Central carbon metabolism in cancer
+     - P-value: 5.12e-07 | Adjusted: 1.35e-05
+     - Overlap: 4/70
+     - Hubs coinvolti: NTRK1;RET;AKT2;FGFR1
+
+  🔸 [KEGG_2021_Human] Melanoma
+     - P-value: 5.74e-07 | Adjusted: 1.35e-05
+     - Overlap: 4/72
+     - Hubs coinvolti: AKT2;ARAF;FGF3;FGFR1
+
+
+  [Reactome]
+  🔸 [Reactome_2022] PI3K Cascade R-HSA-109704
+     - P-value: 9.39e-06 | Adjusted: 4.11e-04
+     - Overlap: 3/44
+     - Hubs coinvolti: AKT2;FGF3;FGFR1
+
+  🔸 [Reactome_2022] MAPK Family Signaling Cascades R-HSA-5683057
+     - P-value: 9.53e-06 | Adjusted: 4.11e-04
+     - Overlap: 5/318
+     - Hubs coinvolti: RET;AGO2;ARAF;FGF3;FGFR1
+
+  🔸 [Reactome_2022] IRS-mediated Signaling R-HSA-112399
+     - P-value: 1.15e-05 | Adjusted: 4.11e-04
+     - Overlap: 3/47
+     - Hubs coinvolti: AKT2;FGF3;FGFR1
+
+  🔸 [Reactome_2022] FGFR1b Ligand Binding And Activation R-HSA-190370
+     - P-value: 1.28e-05 | Adjusted: 4.11e-04
+     - Overlap: 2/6
+     - Hubs coinvolti: FGF3;FGFR1
+
+  🔸 [Reactome_2022] IRS-related Events Triggered By IGF1R R-HSA-2428928
+     - P-value: 1.47e-05 | Adjusted: 4.11e-04
+     - Overlap: 3/51
+     - Hubs coinvolti: AKT2;FGF3;FGFR1
+

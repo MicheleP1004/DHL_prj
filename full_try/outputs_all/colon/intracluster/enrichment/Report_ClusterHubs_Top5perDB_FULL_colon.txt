@@ -1,76 +1,150 @@
 --- 🏆 TOP 5 PATHWAY PER DATABASE — HUB LOCALI PER OGNI CLUSTER (COLON - FULL) ---
 
 ================================================================================
-🎯 CLUSTER 0  |  TOP HUB ANALIZZATI: 5
-🧬 GENI HUB: FLT1, BRCA2, LATS2, CDK8, DIS3
+🎯 CLUSTER 0  |  TOP HUB ANALIZZATI: 1
+🧬 GENI HUB: MET
+================================================================================
+
+[-] Troppi pochi hub per un enrichment (dopo filtraggio).
+
+================================================================================
+🎯 CLUSTER 1  |  TOP HUB ANALIZZATI: 0
+🧬 GENI HUB: 
+================================================================================
+
+[-] Troppi pochi hub per un enrichment (dopo filtraggio).
+
+================================================================================
+🎯 CLUSTER 2  |  TOP HUB ANALIZZATI: 3
+🧬 GENI HUB: KDM5A, SMAD2, PTEN
 ================================================================================
 
   [GO]
-  🔸 [GO_Biological_Process_2021] protein phosphorylation (GO:0006468)
-     - P-value: 1.46e-04 | Overlap: 3/496
-     - Geni nel pathway: CDK8;FLT1;LATS2
+  🔸 [GO_Biological_Process_2021] regulation of epithelial to mesenchymal transition (GO:0010717)
+     - P-value: 4.26e-05 | Overlap: 2/76
+     - Geni nel pathway: SMAD2;PTEN
 
-  🔸 [GO_Biological_Process_2021] establishment of protein localization to telomere (GO:0070200)
-     - P-value: 1.25e-03 | Overlap: 1/5
-     - Geni nel pathway: BRCA2
+  🔸 [GO_Biological_Process_2021] protein deubiquitination (GO:0016579)
+     - P-value: 5.28e-04 | Overlap: 2/267
+     - Geni nel pathway: SMAD2;PTEN
 
-  🔸 [GO_Biological_Process_2021] negative regulation of vascular endothelial cell proliferation (GO:1905563)
-     - P-value: 1.25e-03 | Overlap: 1/5
-     - Geni nel pathway: FLT1
+  🔸 [GO_Biological_Process_2021] protein modification by small protein removal (GO:0070646)
+     - P-value: 5.64e-04 | Overlap: 2/276
+     - Geni nel pathway: SMAD2;PTEN
 
-  🔸 [GO_Biological_Process_2021] regulation of mammary gland epithelial cell proliferation (GO:0033599)
-     - P-value: 2.25e-03 | Overlap: 1/9
-     - Geni nel pathway: BRCA2
+  🔸 [GO_Biological_Process_2021] regulation of nodal signaling pathway involved in determination of lateral mesoderm left/right asymmetry (GO:1900175)
+     - P-value: 7.50e-04 | Overlap: 1/5
+     - Geni nel pathway: SMAD2
 
-  🔸 [GO_Biological_Process_2021] regulation of organ growth (GO:0046620)
-     - P-value: 2.50e-03 | Overlap: 1/10
-     - Geni nel pathway: LATS2
+  🔸 [GO_Biological_Process_2021] negative regulation of organ growth (GO:0046621)
+     - P-value: 7.50e-04 | Overlap: 1/5
+     - Geni nel pathway: PTEN
 
   [KEGG]
-  🔸 [KEGG_2021_Human] Homologous recombination
-     - P-value: 1.02e-02 | Overlap: 1/41
-     - Geni nel pathway: BRCA2
+  🔸 [KEGG_2021_Human] Cellular senescence
+     - P-value: 1.80e-04 | Overlap: 2/156
+     - Geni nel pathway: SMAD2;PTEN
 
-  🔸 [KEGG_2021_Human] Fanconi anemia pathway
-     - P-value: 1.34e-02 | Overlap: 1/54
-     - Geni nel pathway: BRCA2
+  🔸 [KEGG_2021_Human] Hepatocellular carcinoma
+     - P-value: 2.09e-04 | Overlap: 2/168
+     - Geni nel pathway: SMAD2;PTEN
 
-  🔸 [KEGG_2021_Human] Pancreatic cancer
-     - P-value: 1.89e-02 | Overlap: 1/76
-     - Geni nel pathway: BRCA2
+  🔸 [KEGG_2021_Human] Diabetic cardiomyopathy
+     - P-value: 3.05e-04 | Overlap: 2/203
+     - Geni nel pathway: SMAD2;PTEN
 
-  🔸 [KEGG_2021_Human] RNA degradation
-     - P-value: 1.96e-02 | Overlap: 1/79
-     - Geni nel pathway: DIS3
+  🔸 [KEGG_2021_Human] Human T-cell leukemia virus 1 infection
+     - P-value: 3.55e-04 | Overlap: 2/219
+     - Geni nel pathway: SMAD2;PTEN
 
-  🔸 [KEGG_2021_Human] Rheumatoid arthritis
-     - P-value: 2.30e-02 | Overlap: 1/93
-     - Geni nel pathway: FLT1
+  🔸 [KEGG_2021_Human] Pathways in cancer
+     - P-value: 2.07e-03 | Overlap: 2/531
+     - Geni nel pathway: SMAD2;PTEN
 
   [Reactome]
-  🔸 [Reactome_2022] VEGF Binds To VEGFR Leading To Receptor Dimerization R-HSA-195399
-     - P-value: 2.00e-03 | Overlap: 1/8
-     - Geni nel pathway: FLT1
+  🔸 [Reactome_2022] Ub-specific Processing Proteases R-HSA-5689880
+     - P-value: 3.00e-04 | Overlap: 2/201
+     - Geni nel pathway: SMAD2;PTEN
 
-  🔸 [Reactome_2022] HDR Thru MMEJ (alt-NHEJ) R-HSA-5685939
-     - P-value: 3.00e-03 | Overlap: 1/12
-     - Geni nel pathway: BRCA2
+  🔸 [Reactome_2022] Deubiquitination R-HSA-5688426
+     - P-value: 5.76e-04 | Overlap: 2/279
+     - Geni nel pathway: SMAD2;PTEN
 
-  🔸 [Reactome_2022] mRNA Decay By 3 To 5 Exoribonuclease R-HSA-429958
-     - P-value: 3.99e-03 | Overlap: 1/16
-     - Geni nel pathway: DIS3
+  🔸 [Reactome_2022] SMAD2/3 Phosphorylation Motif Mutants In Cancer R-HSA-3304356
+     - P-value: 9.00e-04 | Overlap: 1/6
+     - Geni nel pathway: SMAD2
 
-  🔸 [Reactome_2022] KSRP (KHSRP) Binds And Destabilizes mRNA R-HSA-450604
-     - P-value: 4.24e-03 | Overlap: 1/17
-     - Geni nel pathway: DIS3
+  🔸 [Reactome_2022] Loss Of Function Of SMAD2/3 In Cancer R-HSA-3304349
+     - P-value: 1.05e-03 | Overlap: 1/7
+     - Geni nel pathway: SMAD2
 
-  🔸 [Reactome_2022] Tristetraprolin (TTP, ZFP36) Binds And Destabilizes mRNA R-HSA-450513
-     - P-value: 4.24e-03 | Overlap: 1/17
-     - Geni nel pathway: DIS3
+  🔸 [Reactome_2022] Loss Of Function Of TGFBR1 In Cancer R-HSA-3656534
+     - P-value: 1.05e-03 | Overlap: 1/7
+     - Geni nel pathway: SMAD2
 
 ================================================================================
-🎯 CLUSTER 1  |  TOP HUB ANALIZZATI: 4
-🧬 GENI HUB: AGO2, PREX2, RAD21, SOX17
+🎯 CLUSTER 3  |  TOP HUB ANALIZZATI: 4
+🧬 GENI HUB: PTPRT, NCOA3, TOP1, ASXL1
+================================================================================
+
+  [GO]
+  🔸 [GO_Biological_Process_2021] receptor transactivation (GO:0035624)
+     - P-value: 1.00e-03 | Overlap: 1/5
+     - Geni nel pathway: NCOA3
+
+  🔸 [GO_Biological_Process_2021] negative regulation of signal transduction (GO:0009968)
+     - P-value: 1.05e-03 | Overlap: 2/267
+     - Geni nel pathway: PTPRT;ASXL1
+
+  🔸 [GO_Biological_Process_2021] peptidyl-tyrosine dephosphorylation involved in inactivation of protein kinase activity (GO:1990264)
+     - P-value: 1.60e-03 | Overlap: 1/8
+     - Geni nel pathway: PTPRT
+
+  🔸 [GO_Biological_Process_2021] regulation of stem cell division (GO:2000035)
+     - P-value: 1.60e-03 | Overlap: 1/8
+     - Geni nel pathway: NCOA3
+
+  🔸 [GO_Biological_Process_2021] DNA topological change (GO:0006265)
+     - P-value: 1.80e-03 | Overlap: 1/9
+     - Geni nel pathway: TOP1
+
+  [KEGG]
+  🔸 [KEGG_2021_Human] Thyroid hormone signaling pathway
+     - P-value: 2.40e-02 | Overlap: 1/121
+     - Geni nel pathway: NCOA3
+
+  🔸 [KEGG_2021_Human] Estrogen signaling pathway
+     - P-value: 2.71e-02 | Overlap: 1/137
+     - Geni nel pathway: NCOA3
+
+  🔸 [KEGG_2021_Human] Breast cancer
+     - P-value: 2.91e-02 | Overlap: 1/147
+     - Geni nel pathway: NCOA3
+
+  [Reactome]
+  🔸 [Reactome_2022] SUMOylation Of DNA Replication Proteins R-HSA-4615885
+     - P-value: 8.97e-03 | Overlap: 1/45
+     - Geni nel pathway: TOP1
+
+  🔸 [Reactome_2022] Transcriptional Regulation Of White Adipocyte Differentiation R-HSA-381340
+     - P-value: 1.67e-02 | Overlap: 1/84
+     - Geni nel pathway: NCOA3
+
+  🔸 [Reactome_2022] PCP/CE Pathway R-HSA-4086400
+     - P-value: 1.75e-02 | Overlap: 1/88
+     - Geni nel pathway: NCOA3
+
+  🔸 [Reactome_2022] MAPK6/MAPK4 Signaling R-HSA-5687128
+     - P-value: 1.79e-02 | Overlap: 1/90
+     - Geni nel pathway: NCOA3
+
+  🔸 [Reactome_2022] Activation Of HOX Genes During Differentiation R-HSA-5619507
+     - P-value: 1.81e-02 | Overlap: 1/91
+     - Geni nel pathway: NCOA3
+
+================================================================================
+🎯 CLUSTER 4  |  TOP HUB ANALIZZATI: 4
+🧬 GENI HUB: AGO2, PREX2, SOX17, RAD21
 ================================================================================
 
   [GO]
@@ -125,224 +199,143 @@
      - Geni nel pathway: RAD21;AGO2
 
 ================================================================================
-🎯 CLUSTER 2  |  TOP HUB ANALIZZATI: 3
-🧬 GENI HUB: PTPRT, TOP1, NCOA3
+🎯 CLUSTER 5  |  TOP HUB ANALIZZATI: 5
+🧬 GENI HUB: FLT1, BRCA2, CDK8, FLT3, LATS2
 ================================================================================
 
   [GO]
-  🔸 [GO_Biological_Process_2021] receptor transactivation (GO:0035624)
+  🔸 [GO_Biological_Process_2021] protein phosphorylation (GO:0006468)
+     - P-value: 1.83e-06 | Overlap: 4/496
+     - Geni nel pathway: CDK8;FLT1;LATS2;FLT3
+
+  🔸 [GO_Biological_Process_2021] positive regulation of phosphatidylinositol 3-kinase activity (GO:0043552)
+     - P-value: 1.89e-05 | Overlap: 2/28
+     - Geni nel pathway: FLT1;FLT3
+
+  🔸 [GO_Biological_Process_2021] positive regulation of lipid kinase activity (GO:0090218)
+     - P-value: 2.17e-05 | Overlap: 2/30
+     - Geni nel pathway: FLT1;FLT3
+
+  🔸 [GO_Biological_Process_2021] hematopoietic progenitor cell differentiation (GO:0002244)
+     - P-value: 2.47e-05 | Overlap: 2/32
+     - Geni nel pathway: FLT1;FLT3
+
+  🔸 [GO_Biological_Process_2021] regulation of phosphatidylinositol 3-kinase activity (GO:0043551)
+     - P-value: 2.97e-05 | Overlap: 2/35
+     - Geni nel pathway: FLT1;FLT3
+
+  [KEGG]
+  🔸 [KEGG_2021_Human] Transcriptional misregulation in cancer
+     - P-value: 9.00e-04 | Overlap: 2/192
+     - Geni nel pathway: FLT1;FLT3
+
+  🔸 [KEGG_2021_Human] Ras signaling pathway
+     - P-value: 1.31e-03 | Overlap: 2/232
+     - Geni nel pathway: FLT1;FLT3
+
+  🔸 [KEGG_2021_Human] MAPK signaling pathway
+     - P-value: 2.09e-03 | Overlap: 2/294
+     - Geni nel pathway: FLT1;FLT3
+
+  🔸 [KEGG_2021_Human] PI3K-Akt signaling pathway
+     - P-value: 3.02e-03 | Overlap: 2/354
+     - Geni nel pathway: FLT1;FLT3
+
+  🔸 [KEGG_2021_Human] Pathways in cancer
+     - P-value: 6.67e-03 | Overlap: 2/531
+     - Geni nel pathway: FLT3;BRCA2
+
+  [Reactome]
+  🔸 [Reactome_2022] Signal Transduction R-HSA-162582
+     - P-value: 1.04e-03 | Overlap: 4/2465
+     - Geni nel pathway: CDK8;FLT1;LATS2;FLT3
+
+  🔸 [Reactome_2022] FLT3 Signaling Thru SRC Family Kinases R-HSA-9706374
+     - P-value: 1.50e-03 | Overlap: 1/6
+     - Geni nel pathway: FLT3
+
+  🔸 [Reactome_2022] FLT3 Signaling By CBL Mutants R-HSA-9706377
+     - P-value: 1.75e-03 | Overlap: 1/7
+     - Geni nel pathway: FLT3
+
+  🔸 [Reactome_2022] STAT5 Activation R-HSA-9645135
+     - P-value: 1.75e-03 | Overlap: 1/7
+     - Geni nel pathway: FLT3
+
+  🔸 [Reactome_2022] VEGF Binds To VEGFR Leading To Receptor Dimerization R-HSA-195399
+     - P-value: 2.00e-03 | Overlap: 1/8
+     - Geni nel pathway: FLT1
+
+================================================================================
+🎯 CLUSTER 6  |  TOP HUB ANALIZZATI: 3
+🧬 GENI HUB: CDK12, ERBB2, RARA
+================================================================================
+
+  [GO]
+  🔸 [GO_Biological_Process_2021] phosphorylation (GO:0016310)
+     - P-value: 7.94e-06 | Overlap: 3/400
+     - Geni nel pathway: ERBB2;RARA;CDK12
+
+  🔸 [GO_Biological_Process_2021] protein phosphorylation (GO:0006468)
+     - P-value: 1.52e-05 | Overlap: 3/496
+     - Geni nel pathway: ERBB2;RARA;CDK12
+
+  🔸 [GO_Biological_Process_2021] regulation of MAP kinase activity (GO:0043405)
+     - P-value: 6.96e-05 | Overlap: 2/97
+     - Geni nel pathway: ERBB2;CDK12
+
+  🔸 [GO_Biological_Process_2021] cellular protein modification process (GO:0006464)
+     - P-value: 1.34e-04 | Overlap: 3/1025
+     - Geni nel pathway: ERBB2;RARA;CDK12
+
+  🔸 [GO_Biological_Process_2021] protein autophosphorylation (GO:0046777)
+     - P-value: 1.87e-04 | Overlap: 2/159
+     - Geni nel pathway: ERBB2;CDK12
+
+  [KEGG]
+  🔸 [KEGG_2021_Human] Pathways in cancer
+     - P-value: 2.07e-03 | Overlap: 2/531
+     - Geni nel pathway: ERBB2;RARA
+
+  🔸 [KEGG_2021_Human] Bladder cancer
+     - P-value: 6.14e-03 | Overlap: 1/41
+     - Geni nel pathway: ERBB2
+
+  🔸 [KEGG_2021_Human] Endometrial cancer
+     - P-value: 8.68e-03 | Overlap: 1/58
+     - Geni nel pathway: ERBB2
+
+  🔸 [KEGG_2021_Human] Acute myeloid leukemia
+     - P-value: 1.00e-02 | Overlap: 1/67
+     - Geni nel pathway: RARA
+
+  🔸 [KEGG_2021_Human] Central carbon metabolism in cancer
+     - P-value: 1.05e-02 | Overlap: 1/70
+     - Geni nel pathway: ERBB2
+
+  [Reactome]
+  🔸 [Reactome_2022] Generic Transcription Pathway R-HSA-212436
+     - P-value: 2.10e-04 | Overlap: 3/1190
+     - Geni nel pathway: ERBB2;RARA;CDK12
+
+  🔸 [Reactome_2022] RNA Polymerase II Transcription R-HSA-73857
+     - P-value: 2.82e-04 | Overlap: 3/1312
+     - Geni nel pathway: ERBB2;RARA;CDK12
+
+  🔸 [Reactome_2022] Gene Expression (Transcription) R-HSA-74160
+     - P-value: 3.80e-04 | Overlap: 3/1449
+     - Geni nel pathway: ERBB2;RARA;CDK12
+
+  🔸 [Reactome_2022] GRB7 Events In ERBB2 Signaling R-HSA-1306955
      - P-value: 7.50e-04 | Overlap: 1/5
-     - Geni nel pathway: NCOA3
+     - Geni nel pathway: ERBB2
 
-  🔸 [GO_Biological_Process_2021] peptidyl-tyrosine dephosphorylation involved in inactivation of protein kinase activity (GO:1990264)
-     - P-value: 1.20e-03 | Overlap: 1/8
-     - Geni nel pathway: PTPRT
-
-  🔸 [GO_Biological_Process_2021] regulation of stem cell division (GO:2000035)
-     - P-value: 1.20e-03 | Overlap: 1/8
-     - Geni nel pathway: NCOA3
-
-  🔸 [GO_Biological_Process_2021] DNA topological change (GO:0006265)
-     - P-value: 1.35e-03 | Overlap: 1/9
-     - Geni nel pathway: TOP1
-
-  🔸 [GO_Biological_Process_2021] negative regulation of receptor signaling pathway via STAT (GO:1904893)
-     - P-value: 1.65e-03 | Overlap: 1/11
-     - Geni nel pathway: PTPRT
-
-  [KEGG]
-  🔸 [KEGG_2021_Human] Thyroid hormone signaling pathway
-     - P-value: 1.80e-02 | Overlap: 1/121
-     - Geni nel pathway: NCOA3
-
-  🔸 [KEGG_2021_Human] Estrogen signaling pathway
-     - P-value: 2.04e-02 | Overlap: 1/137
-     - Geni nel pathway: NCOA3
-
-  🔸 [KEGG_2021_Human] Breast cancer
-     - P-value: 2.19e-02 | Overlap: 1/147
-     - Geni nel pathway: NCOA3
-
-  [Reactome]
-  🔸 [Reactome_2022] SUMOylation Of DNA Replication Proteins R-HSA-4615885
-     - P-value: 6.74e-03 | Overlap: 1/45
-     - Geni nel pathway: TOP1
-
-  🔸 [Reactome_2022] Transcriptional Regulation Of White Adipocyte Differentiation R-HSA-381340
-     - P-value: 1.25e-02 | Overlap: 1/84
-     - Geni nel pathway: NCOA3
-
-  🔸 [Reactome_2022] PCP/CE Pathway R-HSA-4086400
-     - P-value: 1.31e-02 | Overlap: 1/88
-     - Geni nel pathway: NCOA3
-
-  🔸 [Reactome_2022] MAPK6/MAPK4 Signaling R-HSA-5687128
-     - P-value: 1.34e-02 | Overlap: 1/90
-     - Geni nel pathway: NCOA3
-
-  🔸 [Reactome_2022] Activation Of HOX Genes During Differentiation R-HSA-5619507
-     - P-value: 1.36e-02 | Overlap: 1/91
-     - Geni nel pathway: NCOA3
-
-================================================================================
-🎯 CLUSTER 3  |  TOP HUB ANALIZZATI: 1
-🧬 GENI HUB: NCOR1
-================================================================================
-
-[-] Troppi pochi hub per un enrichment (dopo filtraggio).
-
-================================================================================
-🎯 CLUSTER 4  |  TOP HUB ANALIZZATI: 1
-🧬 GENI HUB: KDM5A
-================================================================================
-
-[-] Troppi pochi hub per un enrichment (dopo filtraggio).
-
-================================================================================
-🎯 CLUSTER 5  |  TOP HUB ANALIZZATI: 3
-🧬 GENI HUB: FGF19, FGF3, FGF4
-================================================================================
-
-  [GO]
-  🔸 [GO_Biological_Process_2021] fibroblast growth factor receptor signaling pathway (GO:0008543)
-     - P-value: 5.06e-08 | Overlap: 3/75
-     - Geni nel pathway: FGF19;FGF3;FGF4
-
-  🔸 [GO_Biological_Process_2021] cellular response to fibroblast growth factor stimulus (GO:0044344)
-     - P-value: 9.42e-08 | Overlap: 3/92
-     - Geni nel pathway: FGF19;FGF3;FGF4
-
-  🔸 [GO_Biological_Process_2021] regulation of cell motility (GO:2000145)
-     - P-value: 2.87e-07 | Overlap: 3/133
-     - Geni nel pathway: FGF19;FGF3;FGF4
-
-  🔸 [GO_Biological_Process_2021] positive regulation of protein kinase B signaling (GO:0051897)
-     - P-value: 5.12e-07 | Overlap: 3/161
-     - Geni nel pathway: FGF19;FGF3;FGF4
-
-  🔸 [GO_Biological_Process_2021] regulation of protein kinase B signaling (GO:0051896)
-     - P-value: 1.09e-06 | Overlap: 3/207
-     - Geni nel pathway: FGF19;FGF3;FGF4
-
-  [KEGG]
-  🔸 [KEGG_2021_Human] Melanoma
-     - P-value: 4.47e-08 | Overlap: 3/72
-     - Geni nel pathway: FGF19;FGF3;FGF4
-
-  🔸 [KEGG_2021_Human] Breast cancer
-     - P-value: 3.89e-07 | Overlap: 3/147
-     - Geni nel pathway: FGF19;FGF3;FGF4
-
-  🔸 [KEGG_2021_Human] Gastric cancer
-     - P-value: 4.05e-07 | Overlap: 3/149
-     - Geni nel pathway: FGF19;FGF3;FGF4
-
-  🔸 [KEGG_2021_Human] Rap1 signaling pathway
-     - P-value: 1.14e-06 | Overlap: 3/210
-     - Geni nel pathway: FGF19;FGF3;FGF4
-
-  🔸 [KEGG_2021_Human] Regulation of actin cytoskeleton
-     - P-value: 1.28e-06 | Overlap: 3/218
-     - Geni nel pathway: FGF19;FGF3;FGF4
-
-  [Reactome]
-  🔸 [Reactome_2022] PI3K Cascade R-HSA-109704
-     - P-value: 9.93e-09 | Overlap: 3/44
-     - Geni nel pathway: FGF19;FGF3;FGF4
-
-  🔸 [Reactome_2022] IRS-mediated Signaling R-HSA-112399
-     - P-value: 1.22e-08 | Overlap: 3/47
-     - Geni nel pathway: FGF19;FGF3;FGF4
-
-  🔸 [Reactome_2022] IRS-related Events Triggered By IGF1R R-HSA-2428928
-     - P-value: 1.56e-08 | Overlap: 3/51
-     - Geni nel pathway: FGF19;FGF3;FGF4
-
-  🔸 [Reactome_2022] IGF1R Signaling Cascade R-HSA-2428924
-     - P-value: 1.66e-08 | Overlap: 3/52
-     - Geni nel pathway: FGF19;FGF3;FGF4
-
-  🔸 [Reactome_2022] Insulin Receptor Signaling Cascade R-HSA-74751
-     - P-value: 1.76e-08 | Overlap: 3/53
-     - Geni nel pathway: FGF19;FGF3;FGF4
-
-================================================================================
-🎯 CLUSTER 6  |  TOP HUB ANALIZZATI: 1
-🧬 GENI HUB: MET
-================================================================================
-
-[-] Troppi pochi hub per un enrichment (dopo filtraggio).
+  🔸 [Reactome_2022] Constitutive Signaling By Overexpressed ERBB2 R-HSA-9634285
+     - P-value: 1.50e-03 | Overlap: 1/10
+     - Geni nel pathway: ERBB2
 
 ================================================================================
 🎯 CLUSTER 7  |  TOP HUB ANALIZZATI: 2
-🧬 GENI HUB: SMAD2, FLCN
-================================================================================
-
-  [GO]
-  🔸 [GO_Biological_Process_2021] positive regulation of transmembrane receptor protein serine/threonine kinase signaling pathway (GO:0090100)
-     - P-value: 2.09e-05 | Overlap: 2/92
-     - Geni nel pathway: SMAD2;FLCN
-
-  🔸 [GO_Biological_Process_2021] regulation of transforming growth factor beta receptor signaling pathway (GO:0017015)
-     - P-value: 2.47e-05 | Overlap: 2/100
-     - Geni nel pathway: SMAD2;FLCN
-
-  🔸 [GO_Biological_Process_2021] dorsal/ventral axis specification (GO:0009950)
-     - P-value: 5.00e-04 | Overlap: 1/5
-     - Geni nel pathway: SMAD2
-
-  🔸 [GO_Biological_Process_2021] regulation of nodal signaling pathway involved in determination of lateral mesoderm left/right asymmetry (GO:1900175)
-     - P-value: 5.00e-04 | Overlap: 1/5
-     - Geni nel pathway: SMAD2
-
-  🔸 [GO_Biological_Process_2021] negative regulation of organelle organization (GO:0010639)
-     - P-value: 5.00e-04 | Overlap: 1/5
-     - Geni nel pathway: FLCN
-
-  [KEGG]
-  🔸 [KEGG_2021_Human] Inflammatory bowel disease
-     - P-value: 6.49e-03 | Overlap: 1/65
-     - Geni nel pathway: SMAD2
-
-  🔸 [KEGG_2021_Human] Renal cell carcinoma
-     - P-value: 6.89e-03 | Overlap: 1/69
-     - Geni nel pathway: FLCN
-
-  🔸 [KEGG_2021_Human] Pancreatic cancer
-     - P-value: 7.59e-03 | Overlap: 1/76
-     - Geni nel pathway: SMAD2
-
-  🔸 [KEGG_2021_Human] Colorectal cancer
-     - P-value: 8.58e-03 | Overlap: 1/86
-     - Geni nel pathway: SMAD2
-
-  🔸 [KEGG_2021_Human] TGF-beta signaling pathway
-     - P-value: 9.38e-03 | Overlap: 1/94
-     - Geni nel pathway: SMAD2
-
-  [Reactome]
-  🔸 [Reactome_2022] SMAD2/3 Phosphorylation Motif Mutants In Cancer R-HSA-3304356
-     - P-value: 6.00e-04 | Overlap: 1/6
-     - Geni nel pathway: SMAD2
-
-  🔸 [Reactome_2022] Loss Of Function Of TGFBR1 In Cancer R-HSA-3656534
-     - P-value: 7.00e-04 | Overlap: 1/7
-     - Geni nel pathway: SMAD2
-
-  🔸 [Reactome_2022] Loss Of Function Of SMAD2/3 In Cancer R-HSA-3304349
-     - P-value: 7.00e-04 | Overlap: 1/7
-     - Geni nel pathway: SMAD2
-
-  🔸 [Reactome_2022] Signaling By TGF-beta Receptor Complex In Cancer R-HSA-3304351
-     - P-value: 8.00e-04 | Overlap: 1/8
-     - Geni nel pathway: SMAD2
-
-  🔸 [Reactome_2022] Signaling By Activin R-HSA-1502540
-     - P-value: 1.50e-03 | Overlap: 1/15
-     - Geni nel pathway: SMAD2
-
-================================================================================
-🎯 CLUSTER 9  |  TOP HUB ANALIZZATI: 2
 🧬 GENI HUB: CDKN2A, MTAP
 ================================================================================
 
@@ -408,4 +401,72 @@
   🔸 [Reactome_2022] Defective Intrinsic Pathway For Apoptosis R-HSA-9734009
      - P-value: 2.40e-03 | Overlap: 1/24
      - Geni nel pathway: CDKN2A
+
+================================================================================
+🎯 CLUSTER 8  |  TOP HUB ANALIZZATI: 3
+🧬 GENI HUB: FGF19, FGF3, FGF4
+================================================================================
+
+  [GO]
+  🔸 [GO_Biological_Process_2021] fibroblast growth factor receptor signaling pathway (GO:0008543)
+     - P-value: 5.06e-08 | Overlap: 3/75
+     - Geni nel pathway: FGF19;FGF3;FGF4
+
+  🔸 [GO_Biological_Process_2021] cellular response to fibroblast growth factor stimulus (GO:0044344)
+     - P-value: 9.42e-08 | Overlap: 3/92
+     - Geni nel pathway: FGF19;FGF3;FGF4
+
+  🔸 [GO_Biological_Process_2021] regulation of cell motility (GO:2000145)
+     - P-value: 2.87e-07 | Overlap: 3/133
+     - Geni nel pathway: FGF19;FGF3;FGF4
+
+  🔸 [GO_Biological_Process_2021] positive regulation of protein kinase B signaling (GO:0051897)
+     - P-value: 5.12e-07 | Overlap: 3/161
+     - Geni nel pathway: FGF19;FGF3;FGF4
+
+  🔸 [GO_Biological_Process_2021] regulation of protein kinase B signaling (GO:0051896)
+     - P-value: 1.09e-06 | Overlap: 3/207
+     - Geni nel pathway: FGF19;FGF3;FGF4
+
+  [KEGG]
+  🔸 [KEGG_2021_Human] Melanoma
+     - P-value: 4.47e-08 | Overlap: 3/72
+     - Geni nel pathway: FGF19;FGF3;FGF4
+
+  🔸 [KEGG_2021_Human] Breast cancer
+     - P-value: 3.89e-07 | Overlap: 3/147
+     - Geni nel pathway: FGF19;FGF3;FGF4
+
+  🔸 [KEGG_2021_Human] Gastric cancer
+     - P-value: 4.05e-07 | Overlap: 3/149
+     - Geni nel pathway: FGF19;FGF3;FGF4
+
+  🔸 [KEGG_2021_Human] Rap1 signaling pathway
+     - P-value: 1.14e-06 | Overlap: 3/210
+     - Geni nel pathway: FGF19;FGF3;FGF4
+
+  🔸 [KEGG_2021_Human] Regulation of actin cytoskeleton
+     - P-value: 1.28e-06 | Overlap: 3/218
+     - Geni nel pathway: FGF19;FGF3;FGF4
+
+  [Reactome]
+  🔸 [Reactome_2022] PI3K Cascade R-HSA-109704
+     - P-value: 9.93e-09 | Overlap: 3/44
+     - Geni nel pathway: FGF19;FGF3;FGF4
+
+  🔸 [Reactome_2022] IRS-mediated Signaling R-HSA-112399
+     - P-value: 1.22e-08 | Overlap: 3/47
+     - Geni nel pathway: FGF19;FGF3;FGF4
+
+  🔸 [Reactome_2022] IRS-related Events Triggered By IGF1R R-HSA-2428928
+     - P-value: 1.56e-08 | Overlap: 3/51
+     - Geni nel pathway: FGF19;FGF3;FGF4
+
+  🔸 [Reactome_2022] IGF1R Signaling Cascade R-HSA-2428924
+     - P-value: 1.66e-08 | Overlap: 3/52
+     - Geni nel pathway: FGF19;FGF3;FGF4
+
+  🔸 [Reactome_2022] Insulin Receptor Signaling Cascade R-HSA-74751
+     - P-value: 1.76e-08 | Overlap: 3/53
+     - Geni nel pathway: FGF19;FGF3;FGF4
 

@@ -2,75 +2,7 @@
 
 ================================================================================
 🎯 CLUSTER 0  |  TOP HUB ANALIZZATI: 5
-🧬 GENI HUB: PIK3CA, KMT2D, CTNNB1, KMT2C, SMAD2
-================================================================================
-
-  [GO]
-  🔸 [GO_Biological_Process_2021] histone H3-K4 monomethylation (GO:0097692)
-     - P-value: 1.40e-06 | Overlap: 2/8
-     - Geni nel pathway: KMT2D;KMT2C
-
-  🔸 [GO_Biological_Process_2021] response to muscle stretch (GO:0035994)
-     - P-value: 5.24e-06 | Overlap: 2/15
-     - Geni nel pathway: PIK3CA;CTNNB1
-
-  🔸 [GO_Biological_Process_2021] beta-catenin-TCF complex assembly (GO:1904837)
-     - P-value: 2.02e-05 | Overlap: 2/29
-     - Geni nel pathway: KMT2D;CTNNB1
-
-  🔸 [GO_Biological_Process_2021] positive regulation of transcription by RNA polymerase II (GO:0045944)
-     - P-value: 2.03e-05 | Overlap: 4/908
-     - Geni nel pathway: SMAD2;KMT2D;KMT2C;CTNNB1
-
-  🔸 [GO_Biological_Process_2021] histone H3-K4 methylation (GO:0051568)
-     - P-value: 2.17e-05 | Overlap: 2/30
-     - Geni nel pathway: KMT2D;KMT2C
-
-  [KEGG]
-  🔸 [KEGG_2021_Human] Colorectal cancer
-     - P-value: 7.63e-07 | Overlap: 3/86
-     - Geni nel pathway: SMAD2;PIK3CA;CTNNB1
-
-  🔸 [KEGG_2021_Human] Signaling pathways regulating pluripotency of stem cells
-     - P-value: 3.54e-06 | Overlap: 3/143
-     - Geni nel pathway: SMAD2;PIK3CA;CTNNB1
-
-  🔸 [KEGG_2021_Human] Gastric cancer
-     - P-value: 4.01e-06 | Overlap: 3/149
-     - Geni nel pathway: SMAD2;PIK3CA;CTNNB1
-
-  🔸 [KEGG_2021_Human] Hepatocellular carcinoma
-     - P-value: 5.75e-06 | Overlap: 3/168
-     - Geni nel pathway: SMAD2;PIK3CA;CTNNB1
-
-  🔸 [KEGG_2021_Human] Proteoglycans in cancer
-     - P-value: 1.05e-05 | Overlap: 3/205
-     - Geni nel pathway: SMAD2;PIK3CA;CTNNB1
-
-  [Reactome]
-  🔸 [Reactome_2022] Developmental Biology R-HSA-1266738
-     - P-value: 4.41e-07 | Overlap: 5/1073
-     - Geni nel pathway: SMAD2;KMT2D;PIK3CA;KMT2C;CTNNB1
-
-  🔸 [Reactome_2022] Gastrulation R-HSA-9758941
-     - P-value: 6.79e-06 | Overlap: 2/17
-     - Geni nel pathway: SMAD2;CTNNB1
-
-  🔸 [Reactome_2022] Deactivation Of Beta-Catenin Transactivating Complex R-HSA-3769402
-     - P-value: 4.29e-05 | Overlap: 2/42
-     - Geni nel pathway: KMT2D;CTNNB1
-
-  🔸 [Reactome_2022] PKMTs Methylate Histone Lysines R-HSA-3214841
-     - P-value: 5.38e-05 | Overlap: 2/47
-     - Geni nel pathway: KMT2D;KMT2C
-
-  🔸 [Reactome_2022] Generic Transcription Pathway R-HSA-212436
-     - P-value: 5.94e-05 | Overlap: 4/1190
-     - Geni nel pathway: SMAD2;KMT2D;KMT2C;CTNNB1
-
-================================================================================
-🎯 CLUSTER 1  |  TOP HUB ANALIZZATI: 5
-🧬 GENI HUB: NF1, POLE, BRCA2, PIK3C2G, FAT1
+🧬 GENI HUB: NF1, POLE, FAT1, PLCG2, PIK3C2G
 ================================================================================
 
   [GO]
@@ -82,19 +14,31 @@
      - P-value: 1.23e-04 | Overlap: 2/71
      - Geni nel pathway: NF1;PIK3C2G
 
-  🔸 [GO_Biological_Process_2021] negative regulation of epithelial cell proliferation (GO:0050680)
-     - P-value: 1.27e-04 | Overlap: 2/72
-     - Geni nel pathway: NF1;BRCA2
+  🔸 [GO_Biological_Process_2021] phosphatidylinositol metabolic process (GO:0046488)
+     - P-value: 3.07e-04 | Overlap: 2/112
+     - Geni nel pathway: PLCG2;PIK3C2G
 
-  🔸 [GO_Biological_Process_2021] nucleotide-excision repair (GO:0006289)
-     - P-value: 2.70e-04 | Overlap: 2/105
-     - Geni nel pathway: BRCA2;POLE
+  🔸 [GO_Biological_Process_2021] phosphatidylinositol biosynthetic process (GO:0006661)
+     - P-value: 3.89e-04 | Overlap: 2/126
+     - Geni nel pathway: PLCG2;PIK3C2G
 
-  🔸 [GO_Biological_Process_2021] establishment of protein localization to telomere (GO:0070200)
-     - P-value: 1.25e-03 | Overlap: 1/5
-     - Geni nel pathway: BRCA2
+  🔸 [GO_Biological_Process_2021] regulation of MAPK cascade (GO:0043408)
+     - P-value: 6.74e-04 | Overlap: 2/166
+     - Geni nel pathway: NF1;PLCG2
 
   [KEGG]
+  🔸 [KEGG_2021_Human] Inositol phosphate metabolism
+     - P-value: 1.30e-04 | Overlap: 2/73
+     - Geni nel pathway: PLCG2;PIK3C2G
+
+  🔸 [KEGG_2021_Human] Phosphatidylinositol signaling system
+     - P-value: 2.31e-04 | Overlap: 2/97
+     - Geni nel pathway: PLCG2;PIK3C2G
+
+  🔸 [KEGG_2021_Human] Ras signaling pathway
+     - P-value: 1.31e-03 | Overlap: 2/232
+     - Geni nel pathway: NF1;PLCG2
+
   🔸 [KEGG_2021_Human] Base excision repair
      - P-value: 8.22e-03 | Overlap: 1/33
      - Geni nel pathway: POLE
@@ -103,172 +47,296 @@
      - P-value: 8.97e-03 | Overlap: 1/36
      - Geni nel pathway: POLE
 
-  🔸 [KEGG_2021_Human] Homologous recombination
-     - P-value: 1.02e-02 | Overlap: 1/41
-     - Geni nel pathway: BRCA2
-
-  🔸 [KEGG_2021_Human] Nucleotide excision repair
-     - P-value: 1.17e-02 | Overlap: 1/47
-     - Geni nel pathway: POLE
-
-  🔸 [KEGG_2021_Human] Fanconi anemia pathway
-     - P-value: 1.34e-02 | Overlap: 1/54
-     - Geni nel pathway: BRCA2
-
   [Reactome]
-  🔸 [Reactome_2022] HDR Thru Homologous Recombination (HRR) R-HSA-5685942
-     - P-value: 1.10e-04 | Overlap: 2/67
-     - Geni nel pathway: BRCA2;POLE
-
-  🔸 [Reactome_2022] HDR Thru Homologous Recombination (HRR) Or Single Strand Annealing (SSA) R-HSA-5693567
-     - P-value: 3.18e-04 | Overlap: 2/114
-     - Geni nel pathway: BRCA2;POLE
-
-  🔸 [Reactome_2022] Homology Directed Repair R-HSA-5693538
-     - P-value: 3.47e-04 | Overlap: 2/119
-     - Geni nel pathway: BRCA2;POLE
-
-  🔸 [Reactome_2022] DNA Double-Strand Break Repair R-HSA-5693532
-     - P-value: 5.43e-04 | Overlap: 2/149
-     - Geni nel pathway: BRCA2;POLE
-
   🔸 [Reactome_2022] RAS Signaling Downstream Of NF1 Loss-Of-Function Variants R-HSA-6802953
      - P-value: 1.50e-03 | Overlap: 1/6
      - Geni nel pathway: NF1
 
+  🔸 [Reactome_2022] Erythropoietin Activates Phospholipase C Gamma (PLCG) R-HSA-9027277
+     - P-value: 1.75e-03 | Overlap: 1/7
+     - Geni nel pathway: PLCG2
+
+  🔸 [Reactome_2022] DNA Replication Initiation R-HSA-68952
+     - P-value: 2.00e-03 | Overlap: 1/8
+     - Geni nel pathway: POLE
+
+  🔸 [Reactome_2022] Synthesis Of PIPs At Golgi Membrane R-HSA-1660514
+     - P-value: 4.24e-03 | Overlap: 1/17
+     - Geni nel pathway: PIK3C2G
+
+  🔸 [Reactome_2022] PCNA-Dependent Long Patch Base Excision Repair R-HSA-5651801
+     - P-value: 5.24e-03 | Overlap: 1/21
+     - Geni nel pathway: POLE
+
+================================================================================
+🎯 CLUSTER 1  |  TOP HUB ANALIZZATI: 5
+🧬 GENI HUB: ATM, ATR, DIS3, ERBB4, GRIN2A
+================================================================================
+
+  [GO]
+  🔸 [GO_Biological_Process_2021] replicative senescence (GO:0090399)
+     - P-value: 3.30e-06 | Overlap: 2/12
+     - Geni nel pathway: ATM;ATR
+
+  🔸 [GO_Biological_Process_2021] protein autophosphorylation (GO:0046777)
+     - P-value: 4.87e-06 | Overlap: 3/159
+     - Geni nel pathway: ERBB4;ATM;ATR
+
+  🔸 [GO_Biological_Process_2021] positive regulation of DNA damage response, signal transduction by p53 class mediator (GO:0043517)
+     - P-value: 5.24e-06 | Overlap: 2/15
+     - Geni nel pathway: ATM;ATR
+
+  🔸 [GO_Biological_Process_2021] cellular response to gamma radiation (GO:0071480)
+     - P-value: 6.79e-06 | Overlap: 2/17
+     - Geni nel pathway: ATM;ATR
+
+  🔸 [GO_Biological_Process_2021] positive regulation of signal transduction by p53 class mediator (GO:1901798)
+     - P-value: 1.15e-05 | Overlap: 2/22
+     - Geni nel pathway: ATM;ATR
+
+  [KEGG]
+  🔸 [KEGG_2021_Human] p53 signaling pathway
+     - P-value: 1.30e-04 | Overlap: 2/73
+     - Geni nel pathway: ATM;ATR
+
+  🔸 [KEGG_2021_Human] Cell cycle
+     - P-value: 3.77e-04 | Overlap: 2/124
+     - Geni nel pathway: ATM;ATR
+
+  🔸 [KEGG_2021_Human] Cellular senescence
+     - P-value: 5.95e-04 | Overlap: 2/156
+     - Geni nel pathway: ATM;ATR
+
+  🔸 [KEGG_2021_Human] Human immunodeficiency virus 1 infection
+     - P-value: 1.10e-03 | Overlap: 2/212
+     - Geni nel pathway: ATM;ATR
+
+  🔸 [KEGG_2021_Human] Human T-cell leukemia virus 1 infection
+     - P-value: 1.17e-03 | Overlap: 2/219
+     - Geni nel pathway: ATM;ATR
+
+  [Reactome]
+  🔸 [Reactome_2022] Long-term Potentiation R-HSA-9620244
+     - P-value: 1.26e-05 | Overlap: 2/23
+     - Geni nel pathway: GRIN2A;ERBB4
+
+  🔸 [Reactome_2022] Post NMDA Receptor Activation Events R-HSA-438064
+     - P-value: 9.10e-05 | Overlap: 2/61
+     - Geni nel pathway: GRIN2A;ERBB4
+
+  🔸 [Reactome_2022] Activation Of NMDA Receptors And Postsynaptic Events R-HSA-442755
+     - P-value: 1.34e-04 | Overlap: 2/74
+     - Geni nel pathway: GRIN2A;ERBB4
+
+  🔸 [Reactome_2022] Neurotransmitter Receptors And Postsynaptic Signal Transmission R-HSA-112314
+     - P-value: 8.09e-04 | Overlap: 2/182
+     - Geni nel pathway: GRIN2A;ERBB4
+
+  🔸 [Reactome_2022] Transmission Across Chemical Synapses R-HSA-112315
+     - P-value: 1.47e-03 | Overlap: 2/246
+     - Geni nel pathway: GRIN2A;ERBB4
+
 ================================================================================
 🎯 CLUSTER 2  |  TOP HUB ANALIZZATI: 5
-🧬 GENI HUB: PIK3CG, TCF7L2, APC, PTEN, AMER1
+🧬 GENI HUB: PIK3CA, CTNNB1, KMT2D, KRAS, SMAD2
+================================================================================
+
+  [GO]
+  🔸 [GO_Biological_Process_2021] response to muscle stretch (GO:0035994)
+     - P-value: 5.24e-06 | Overlap: 2/15
+     - Geni nel pathway: PIK3CA;CTNNB1
+
+  🔸 [GO_Biological_Process_2021] beta-catenin-TCF complex assembly (GO:1904837)
+     - P-value: 2.02e-05 | Overlap: 2/29
+     - Geni nel pathway: KMT2D;CTNNB1
+
+  🔸 [GO_Biological_Process_2021] positive regulation of epithelial to mesenchymal transition (GO:0010718)
+     - P-value: 4.29e-05 | Overlap: 2/42
+     - Geni nel pathway: SMAD2;CTNNB1
+
+  🔸 [GO_Biological_Process_2021] regulation of epithelial to mesenchymal transition (GO:0010717)
+     - P-value: 1.41e-04 | Overlap: 2/76
+     - Geni nel pathway: SMAD2;CTNNB1
+
+  🔸 [GO_Biological_Process_2021] regulation of cell population proliferation (GO:0042127)
+     - P-value: 5.24e-04 | Overlap: 3/764
+     - Geni nel pathway: KMT2D;CTNNB1;KRAS
+
+  [KEGG]
+  🔸 [KEGG_2021_Human] Colorectal cancer
+     - P-value: 1.59e-09 | Overlap: 4/86
+     - Geni nel pathway: SMAD2;PIK3CA;CTNNB1;KRAS
+
+  🔸 [KEGG_2021_Human] Signaling pathways regulating pluripotency of stem cells
+     - P-value: 1.25e-08 | Overlap: 4/143
+     - Geni nel pathway: SMAD2;PIK3CA;CTNNB1;KRAS
+
+  🔸 [KEGG_2021_Human] Gastric cancer
+     - P-value: 1.47e-08 | Overlap: 4/149
+     - Geni nel pathway: SMAD2;PIK3CA;CTNNB1;KRAS
+
+  🔸 [KEGG_2021_Human] Hepatocellular carcinoma
+     - P-value: 2.39e-08 | Overlap: 4/168
+     - Geni nel pathway: SMAD2;PIK3CA;CTNNB1;KRAS
+
+  🔸 [KEGG_2021_Human] Proteoglycans in cancer
+     - P-value: 5.32e-08 | Overlap: 4/205
+     - Geni nel pathway: SMAD2;PIK3CA;CTNNB1;KRAS
+
+  [Reactome]
+  🔸 [Reactome_2022] Gastrulation R-HSA-9758941
+     - P-value: 6.79e-06 | Overlap: 2/17
+     - Geni nel pathway: SMAD2;CTNNB1
+
+  🔸 [Reactome_2022] Developmental Biology R-HSA-1266738
+     - P-value: 3.94e-05 | Overlap: 4/1073
+     - Geni nel pathway: SMAD2;KMT2D;PIK3CA;CTNNB1
+
+  🔸 [Reactome_2022] Deactivation Of Beta-Catenin Transactivating Complex R-HSA-3769402
+     - P-value: 4.29e-05 | Overlap: 2/42
+     - Geni nel pathway: KMT2D;CTNNB1
+
+  🔸 [Reactome_2022] Formation Of beta-catenin:TCF Transactivating Complex R-HSA-201722
+     - P-value: 8.80e-05 | Overlap: 2/60
+     - Geni nel pathway: KMT2D;CTNNB1
+
+  🔸 [Reactome_2022] Diseases Of Signal Transduction By Growth Factor Receptors And Second Messengers R-HSA-5663202
+     - P-value: 9.17e-05 | Overlap: 3/424
+     - Geni nel pathway: SMAD2;PIK3CA;CTNNB1
+
+================================================================================
+🎯 CLUSTER 3  |  TOP HUB ANALIZZATI: 5
+🧬 GENI HUB: PTEN, PREX2, DNMT3B, ESR1, CREBBP
+================================================================================
+
+  [GO]
+  🔸 [GO_Biological_Process_2021] negative regulation of transcription by RNA polymerase II (GO:0000122)
+     - P-value: 3.78e-04 | Overlap: 3/684
+     - Geni nel pathway: CREBBP;DNMT3B;ESR1
+
+  🔸 [GO_Biological_Process_2021] transcription initiation from RNA polymerase II promoter (GO:0006367)
+     - P-value: 4.80e-04 | Overlap: 2/140
+     - Geni nel pathway: CREBBP;ESR1
+
+  🔸 [GO_Biological_Process_2021] regulation of transcription by RNA polymerase II (GO:0006357)
+     - P-value: 6.73e-04 | Overlap: 4/2206
+     - Geni nel pathway: CREBBP;PTEN;DNMT3B;ESR1
+
+  🔸 [GO_Biological_Process_2021] DNA-templated transcription, initiation (GO:0006352)
+     - P-value: 6.90e-04 | Overlap: 2/168
+     - Geni nel pathway: CREBBP;ESR1
+
+  🔸 [GO_Biological_Process_2021] negative regulation of intracellular signal transduction (GO:1902532)
+     - P-value: 9.56e-04 | Overlap: 2/198
+     - Geni nel pathway: PTEN;ESR1
+
+  [KEGG]
+  🔸 [KEGG_2021_Human] MicroRNAs in cancer
+     - P-value: 3.60e-05 | Overlap: 3/310
+     - Geni nel pathway: CREBBP;PTEN;DNMT3B
+
+  🔸 [KEGG_2021_Human] Pathways in cancer
+     - P-value: 1.79e-04 | Overlap: 3/531
+     - Geni nel pathway: CREBBP;PTEN;ESR1
+
+  🔸 [KEGG_2021_Human] Prostate cancer
+     - P-value: 2.31e-04 | Overlap: 2/97
+     - Geni nel pathway: CREBBP;PTEN
+
+  🔸 [KEGG_2021_Human] Thyroid hormone signaling pathway
+     - P-value: 3.59e-04 | Overlap: 2/121
+     - Geni nel pathway: CREBBP;ESR1
+
+  🔸 [KEGG_2021_Human] FoxO signaling pathway
+     - P-value: 4.20e-04 | Overlap: 2/131
+     - Geni nel pathway: CREBBP;PTEN
+
+  [Reactome]
+  🔸 [Reactome_2022] SUMO E3 Ligases SUMOylate Target Proteins R-HSA-3108232
+     - P-value: 5.75e-06 | Overlap: 3/168
+     - Geni nel pathway: CREBBP;DNMT3B;ESR1
+
+  🔸 [Reactome_2022] SUMOylation R-HSA-2990846
+     - P-value: 6.39e-06 | Overlap: 3/174
+     - Geni nel pathway: CREBBP;DNMT3B;ESR1
+
+  🔸 [Reactome_2022] PIP3 Activates AKT Signaling R-HSA-1257604
+     - P-value: 2.33e-05 | Overlap: 3/268
+     - Geni nel pathway: PREX2;PTEN;ESR1
+
+  🔸 [Reactome_2022] Transcriptional Regulation By AP-2 (TFAP2) Family Of Transcription Factors R-HSA-8864260
+     - P-value: 3.14e-05 | Overlap: 2/36
+     - Geni nel pathway: CREBBP;ESR1
+
+  🔸 [Reactome_2022] Intracellular Signaling By Second Messengers R-HSA-9006925
+     - P-value: 3.47e-05 | Overlap: 3/306
+     - Geni nel pathway: PREX2;PTEN;ESR1
+
+================================================================================
+🎯 CLUSTER 4  |  TOP HUB ANALIZZATI: 5
+🧬 GENI HUB: PIK3CG, TCF7L2, PRKD1, AMER1, PTPRS
 ================================================================================
 
   [GO]
   🔸 [GO_Biological_Process_2021] canonical Wnt signaling pathway (GO:0060070)
-     - P-value: 6.09e-10 | Overlap: 4/68
-     - Geni nel pathway: AMER1;TCF7L2;APC;PTEN
+     - P-value: 1.13e-04 | Overlap: 2/68
+     - Geni nel pathway: AMER1;TCF7L2
+
+  🔸 [GO_Biological_Process_2021] positive regulation of endothelial cell migration (GO:0010595)
+     - P-value: 1.81e-04 | Overlap: 2/86
+     - Geni nel pathway: PRKD1;PIK3CG
+
+  🔸 [GO_Biological_Process_2021] regulation of endothelial cell migration (GO:0010594)
+     - P-value: 1.94e-04 | Overlap: 2/89
+     - Geni nel pathway: PRKD1;PIK3CG
+
+  🔸 [GO_Biological_Process_2021] positive regulation of intracellular signal transduction (GO:1902533)
+     - P-value: 1.94e-04 | Overlap: 3/546
+     - Geni nel pathway: TCF7L2;PRKD1;PIK3CG
 
   🔸 [GO_Biological_Process_2021] Wnt signaling pathway (GO:0016055)
-     - P-value: 2.09e-09 | Overlap: 4/92
-     - Geni nel pathway: AMER1;TCF7L2;APC;PTEN
-
-  🔸 [GO_Biological_Process_2021] beta-catenin destruction complex assembly (GO:1904885)
-     - P-value: 5.00e-07 | Overlap: 2/5
-     - Geni nel pathway: AMER1;APC
-
-  🔸 [GO_Biological_Process_2021] negative regulation of canonical Wnt signaling pathway (GO:0090090)
-     - P-value: 5.45e-06 | Overlap: 3/165
-     - Geni nel pathway: AMER1;TCF7L2;APC
-
-  🔸 [GO_Biological_Process_2021] negative regulation of Wnt signaling pathway (GO:0030178)
-     - P-value: 8.45e-06 | Overlap: 3/191
-     - Geni nel pathway: AMER1;TCF7L2;APC
+     - P-value: 2.07e-04 | Overlap: 2/92
+     - Geni nel pathway: AMER1;TCF7L2
 
   [KEGG]
+  🔸 [KEGG_2021_Human] Kaposi sarcoma-associated herpesvirus infection
+     - P-value: 9.09e-04 | Overlap: 2/193
+     - Geni nel pathway: TCF7L2;PIK3CG
+
+  🔸 [KEGG_2021_Human] Salmonella infection
+     - P-value: 1.51e-03 | Overlap: 2/249
+     - Geni nel pathway: TCF7L2;PIK3CG
+
+  🔸 [KEGG_2021_Human] Thyroid cancer
+     - P-value: 9.22e-03 | Overlap: 1/37
+     - Geni nel pathway: TCF7L2
+
   🔸 [KEGG_2021_Human] Endometrial cancer
-     - P-value: 2.30e-07 | Overlap: 3/58
-     - Geni nel pathway: TCF7L2;APC;PTEN
-
-  🔸 [KEGG_2021_Human] Breast cancer
-     - P-value: 3.85e-06 | Overlap: 3/147
-     - Geni nel pathway: TCF7L2;APC;PTEN
-
-  🔸 [KEGG_2021_Human] Hepatocellular carcinoma
-     - P-value: 5.75e-06 | Overlap: 3/168
-     - Geni nel pathway: TCF7L2;APC;PTEN
-
-  🔸 [KEGG_2021_Human] Human papillomavirus infection
-     - P-value: 4.38e-05 | Overlap: 3/331
-     - Geni nel pathway: TCF7L2;APC;PTEN
+     - P-value: 1.44e-02 | Overlap: 1/58
+     - Geni nel pathway: TCF7L2
 
   🔸 [KEGG_2021_Human] Basal cell carcinoma
-     - P-value: 9.71e-05 | Overlap: 2/63
-     - Geni nel pathway: TCF7L2;APC
+     - P-value: 1.57e-02 | Overlap: 1/63
+     - Geni nel pathway: TCF7L2
 
   [Reactome]
   🔸 [Reactome_2022] Signaling By WNT In Cancer R-HSA-4791275
      - P-value: 2.63e-05 | Overlap: 2/33
      - Geni nel pathway: AMER1;TCF7L2
 
-  🔸 [Reactome_2022] Synthesis Of PIPs At Plasma Membrane R-HSA-1660499
-     - P-value: 6.34e-05 | Overlap: 2/51
-     - Geni nel pathway: PTEN;PIK3CG
-
-  🔸 [Reactome_2022] Diseases Of Signal Transduction By Growth Factor Receptors And Second Messengers R-HSA-5663202
-     - P-value: 9.17e-05 | Overlap: 3/424
-     - Geni nel pathway: AMER1;TCF7L2;PTEN
-
-  🔸 [Reactome_2022] PI Metabolism R-HSA-1483255
-     - P-value: 1.65e-04 | Overlap: 2/82
-     - Geni nel pathway: PTEN;PIK3CG
-
   🔸 [Reactome_2022] Degradation Of Beta-Catenin By Destruction Complex R-HSA-195253
      - P-value: 1.73e-04 | Overlap: 2/84
      - Geni nel pathway: AMER1;TCF7L2
 
-================================================================================
-🎯 CLUSTER 3  |  TOP HUB ANALIZZATI: 5
-🧬 GENI HUB: ATM, ATR, ROS1, SETD2, EP300
-================================================================================
+  🔸 [Reactome_2022] TCF Dependent Signaling In Response To WNT R-HSA-201681
+     - P-value: 9.56e-04 | Overlap: 2/198
+     - Geni nel pathway: AMER1;TCF7L2
 
-  [GO]
-  🔸 [GO_Biological_Process_2021] regulation of cellular response to heat (GO:1900034)
-     - P-value: 5.90e-07 | Overlap: 3/79
-     - Geni nel pathway: EP300;ATM;ATR
+  🔸 [Reactome_2022] Signal Transduction R-HSA-162582
+     - P-value: 1.04e-03 | Overlap: 4/2465
+     - Geni nel pathway: AMER1;TCF7L2;PTPRS;PIK3CG
 
-  🔸 [GO_Biological_Process_2021] regulation of intracellular signal transduction (GO:1902531)
-     - P-value: 1.10e-06 | Overlap: 4/437
-     - Geni nel pathway: EP300;ATM;ROS1;ATR
-
-  🔸 [GO_Biological_Process_2021] regulation of cellular response to stress (GO:0080135)
-     - P-value: 1.98e-06 | Overlap: 3/118
-     - Geni nel pathway: EP300;ATM;ATR
-
-  🔸 [GO_Biological_Process_2021] replicative senescence (GO:0090399)
-     - P-value: 3.30e-06 | Overlap: 2/12
-     - Geni nel pathway: ATM;ATR
-
-  🔸 [GO_Biological_Process_2021] regulation of signal transduction by p53 class mediator (GO:1901796)
-     - P-value: 4.60e-06 | Overlap: 3/156
-     - Geni nel pathway: EP300;ATM;ATR
-
-  [KEGG]
-  🔸 [KEGG_2021_Human] Cell cycle
-     - P-value: 2.31e-06 | Overlap: 3/124
-     - Geni nel pathway: EP300;ATM;ATR
-
-  🔸 [KEGG_2021_Human] Human T-cell leukemia virus 1 infection
-     - P-value: 1.27e-05 | Overlap: 3/219
-     - Geni nel pathway: EP300;ATM;ATR
-
-  🔸 [KEGG_2021_Human] Human papillomavirus infection
-     - P-value: 4.38e-05 | Overlap: 3/331
-     - Geni nel pathway: EP300;ATM;ATR
-
-  🔸 [KEGG_2021_Human] p53 signaling pathway
-     - P-value: 1.30e-04 | Overlap: 2/73
-     - Geni nel pathway: ATM;ATR
-
-  🔸 [KEGG_2021_Human] FoxO signaling pathway
-     - P-value: 4.20e-04 | Overlap: 2/131
-     - Geni nel pathway: EP300;ATM
-
-  [Reactome]
-  🔸 [Reactome_2022] Regulation Of TP53 Activity Thru Methylation R-HSA-6804760
-     - P-value: 8.54e-06 | Overlap: 2/19
-     - Geni nel pathway: EP300;ATM
-
-  🔸 [Reactome_2022] Cellular Response To Heat Stress R-HSA-3371556
-     - P-value: 2.40e-04 | Overlap: 2/99
-     - Geni nel pathway: EP300;ATM
-
-  🔸 [Reactome_2022] Regulation Of TP53 Activity R-HSA-5633007
-     - P-value: 6.03e-04 | Overlap: 2/157
-     - Geni nel pathway: EP300;ATM
-
-  🔸 [Reactome_2022] LRR FLII-interacting Protein 1 (LRRFIP1) Activates Type I IFN Production R-HSA-3134973
-     - P-value: 1.25e-03 | Overlap: 1/5
-     - Geni nel pathway: EP300
-
-  🔸 [Reactome_2022] Chromatin Modifying Enzymes R-HSA-3247509
-     - P-value: 1.38e-03 | Overlap: 2/238
-     - Geni nel pathway: SETD2;EP300
+  🔸 [Reactome_2022] RUNX3 Regulates WNT Signaling R-HSA-8951430
+     - P-value: 2.00e-03 | Overlap: 1/8
+     - Geni nel pathway: TCF7L2
 

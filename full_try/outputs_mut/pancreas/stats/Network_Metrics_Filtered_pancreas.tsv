@@ -1,5 +1,5 @@
 Gene	Degree	Degree_Centrality	Betweenness_Centrality	Closeness_Centrality	Clustering_Coefficient
 KRAS	3	1.0	1.0	1.0	0
-KDM6A	1	0.3333	0.0	0.6	0
-TP53	1	0.3333	0.0	0.6	0
 RNF43	1	0.3333	0.0	0.6	0
+TP53	1	0.3333	0.0	0.6	0
+KDM6A	1	0.3333	0.0	0.6	0

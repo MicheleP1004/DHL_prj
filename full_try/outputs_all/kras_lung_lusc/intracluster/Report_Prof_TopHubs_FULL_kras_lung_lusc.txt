@@ -1,0 +1,27 @@
+--- 👑 TOP 3 HUB GENES PER OGNI CLUSTER (KRAS_LUNG_LUSC - FULL) ---
+
+------------------------------------------------------------
+🎯 CLUSTER 0 | Totale geni nel network: 6
+------------------------------------------------------------
+🔸 HUB: CDKN2A
+   - Degree Centrality:      1.0000
+   - Betweenness Centrality: 0.0250
+🔸 HUB: CDKN2Ap14ARF
+   - Degree Centrality:      1.0000
+   - Betweenness Centrality: 0.0250
+🔸 HUB: CDKN2Ap16INK4A
+   - Degree Centrality:      1.0000
+   - Betweenness Centrality: 0.0250
+
+------------------------------------------------------------
+🎯 CLUSTER 1 | Totale geni nel network: 3
+------------------------------------------------------------
+🔸 HUB: TSHR
+   - Degree Centrality:      1.0000
+   - Betweenness Centrality: 1.0000
+🔸 HUB: PIK3C3
+   - Degree Centrality:      0.5000
+   - Betweenness Centrality: 0.0000
+🔸 HUB: ZFHX3
+   - Degree Centrality:      0.5000
+   - Betweenness Centrality: 0.0000

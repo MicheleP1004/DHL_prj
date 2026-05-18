@@ -1,85 +1,85 @@
 --- 🏆 TOP 5 PATHWAY PER DATABASE — HUB GLOBALI DELLA RETE (PANCREAS - FULL) ---
-Geni Hub analizzati (13): BRCA2, PPM1D, BRIP1, CD79B, PIK3C3, DDR2, ERBB3, GLI1, HIST1H2BD, HIST1H3D, HIST1H3E, RECQL4, CCND2
+Geni Hub analizzati (13): BRCA2, EP300, RECQL4, CCND2, FGF3, PIK3C3, HIST1H2BD, HIST1H3D, ERBB3, GLI1, WHSC1L1, RECQL, PIK3C2G
 ================================================================================
 
 
   [GO]
-  🔸 [GO_Biological_Process_2021] double-strand break repair (GO:0006302)
-     - P-value: 1.46e-04 | Adjusted: 1.53e-02
-     - Overlap: 3/164
-     - Hubs coinvolti: RECQL4;BRIP1;BRCA2
+  🔸 [GO_Biological_Process_2021] phosphatidylinositol-3-phosphate biosynthetic process (GO:0036092)
+     - P-value: 1.09e-05 | Adjusted: 1.36e-03
+     - Overlap: 2/8
+     - Hubs coinvolti: PIK3C2G;PIK3C3
 
-  🔸 [GO_Biological_Process_2021] positive regulation of cell population proliferation (GO:0008284)
-     - P-value: 1.88e-04 | Adjusted: 1.53e-02
-     - Overlap: 4/474
-     - Hubs coinvolti: CCND2;ERBB3;GLI1;DDR2
+  🔸 [GO_Biological_Process_2021] phosphatidylinositol-mediated signaling (GO:0048015)
+     - P-value: 1.20e-05 | Adjusted: 1.36e-03
+     - Overlap: 3/71
+     - Hubs coinvolti: ERBB3;PIK3C2G;PIK3C3
 
-  🔸 [GO_Biological_Process_2021] positive regulation of cell cycle G1/S phase transition (GO:1902808)
-     - P-value: 2.29e-04 | Adjusted: 1.53e-02
-     - Overlap: 2/35
-     - Hubs coinvolti: CCND2;GLI1
+  🔸 [GO_Biological_Process_2021] recombinational repair (GO:0000725)
+     - P-value: 1.65e-05 | Adjusted: 1.36e-03
+     - Overlap: 3/79
+     - Hubs coinvolti: RECQL4;RECQL;BRCA2
 
-  🔸 [GO_Biological_Process_2021] positive regulation of phosphorylation (GO:0042327)
-     - P-value: 5.21e-04 | Adjusted: 2.60e-02
-     - Overlap: 3/253
-     - Hubs coinvolti: CCND2;ERBB3;DDR2
+  🔸 [GO_Biological_Process_2021] double-strand break repair via homologous recombination (GO:0000724)
+     - P-value: 3.05e-05 | Adjusted: 1.89e-03
+     - Overlap: 3/97
+     - Hubs coinvolti: RECQL4;RECQL;BRCA2
 
-  🔸 [GO_Biological_Process_2021] DNA repair (GO:0006281)
-     - P-value: 8.38e-04 | Adjusted: 2.92e-02
-     - Overlap: 3/298
-     - Hubs coinvolti: RECQL4;BRIP1;BRCA2
+  🔸 [GO_Biological_Process_2021] DNA unwinding involved in DNA replication (GO:0006268)
+     - P-value: 4.66e-05 | Adjusted: 2.30e-03
+     - Overlap: 2/16
+     - Hubs coinvolti: RECQL4;RECQL
 
 
   [KEGG]
-  🔸 [KEGG_2021_Human] Homologous recombination
-     - P-value: 3.15e-04 | Adjusted: 8.64e-03
-     - Overlap: 2/41
-     - Hubs coinvolti: BRIP1;BRCA2
-
-  🔸 [KEGG_2021_Human] Fanconi anemia pathway
-     - P-value: 5.48e-04 | Adjusted: 8.64e-03
-     - Overlap: 2/54
-     - Hubs coinvolti: BRIP1;BRCA2
+  🔸 [KEGG_2021_Human] Pathways in cancer
+     - P-value: 1.40e-05 | Adjusted: 8.66e-04
+     - Overlap: 5/531
+     - Hubs coinvolti: CCND2;EP300;BRCA2;GLI1;FGF3
 
   🔸 [KEGG_2021_Human] Hedgehog signaling pathway
-     - P-value: 5.89e-04 | Adjusted: 8.64e-03
+     - P-value: 5.89e-04 | Adjusted: 1.55e-02
      - Overlap: 2/56
      - Hubs coinvolti: CCND2;GLI1
 
-  🔸 [KEGG_2021_Human] p53 signaling pathway
-     - P-value: 9.99e-04 | Adjusted: 1.10e-02
-     - Overlap: 2/73
-     - Hubs coinvolti: CCND2;PPM1D
+  🔸 [KEGG_2021_Human] MicroRNAs in cancer
+     - P-value: 9.40e-04 | Adjusted: 1.55e-02
+     - Overlap: 3/310
+     - Hubs coinvolti: CCND2;ERBB3;EP300
 
-  🔸 [KEGG_2021_Human] Pathways in cancer
-     - P-value: 4.36e-03 | Adjusted: 3.84e-02
-     - Overlap: 3/531
-     - Hubs coinvolti: CCND2;BRCA2;GLI1
+  🔸 [KEGG_2021_Human] Inositol phosphate metabolism
+     - P-value: 9.99e-04 | Adjusted: 1.55e-02
+     - Overlap: 2/73
+     - Hubs coinvolti: PIK3C2G;PIK3C3
+
+  🔸 [KEGG_2021_Human] PI3K-Akt signaling pathway
+     - P-value: 1.38e-03 | Adjusted: 1.71e-02
+     - Overlap: 3/354
+     - Hubs coinvolti: CCND2;ERBB3;FGF3
 
 
   [Reactome]
-  🔸 [Reactome_2022] Impaired BRCA2 Binding To PALB2 R-HSA-9709603
-     - P-value: 1.07e-04 | Adjusted: 4.70e-03
-     - Overlap: 2/24
-     - Hubs coinvolti: BRIP1;BRCA2
+  🔸 [Reactome_2022] Synthesis Of PIPs At Golgi Membrane R-HSA-1660514
+     - P-value: 5.27e-05 | Adjusted: 1.16e-02
+     - Overlap: 2/17
+     - Hubs coinvolti: PIK3C2G;PIK3C3
 
-  🔸 [Reactome_2022] Defective HDR Thru Homologous Recombination (HRR) Due To BRCA1 Loss-Of-Function R-HSA-9701192
-     - P-value: 1.16e-04 | Adjusted: 4.70e-03
-     - Overlap: 2/25
-     - Hubs coinvolti: BRIP1;BRCA2
+  🔸 [Reactome_2022] Signaling By Receptor Tyrosine Kinases R-HSA-9006934
+     - P-value: 2.24e-04 | Adjusted: 1.28e-02
+     - Overlap: 4/496
+     - Hubs coinvolti: ERBB3;EP300;PIK3C3;FGF3
 
-  🔸 [Reactome_2022] Resolution Of D-loop Structures Thru Synthesis-Dependent Strand Annealing (SDSA) R-HSA-5693554
-     - P-value: 1.36e-04 | Adjusted: 4.70e-03
-     - Overlap: 2/27
-     - Hubs coinvolti: BRIP1;BRCA2
+  🔸 [Reactome_2022] PI3K Cascade R-HSA-109704
+     - P-value: 3.63e-04 | Adjusted: 1.28e-02
+     - Overlap: 2/44
+     - Hubs coinvolti: PIK3C3;FGF3
 
-  🔸 [Reactome_2022] Resolution Of D-loop Structures Thru Holliday Junction Intermediates R-HSA-5693568
-     - P-value: 2.04e-04 | Adjusted: 4.70e-03
-     - Overlap: 2/33
-     - Hubs coinvolti: BRIP1;BRCA2
+  🔸 [Reactome_2022] IRS-mediated Signaling R-HSA-112399
+     - P-value: 4.15e-04 | Adjusted: 1.28e-02
+     - Overlap: 2/47
+     - Hubs coinvolti: PIK3C3;FGF3
 
-  🔸 [Reactome_2022] Resolution Of D-Loop Structures R-HSA-5693537
-     - P-value: 2.16e-04 | Adjusted: 4.70e-03
-     - Overlap: 2/34
-     - Hubs coinvolti: BRIP1;BRCA2
+  🔸 [Reactome_2022] Disease R-HSA-1643685
+     - P-value: 4.26e-04 | Adjusted: 1.28e-02
+     - Overlap: 6/1736
+     - Hubs coinvolti: CCND2;ERBB3;EP300;PIK3C3;BRCA2;FGF3
 

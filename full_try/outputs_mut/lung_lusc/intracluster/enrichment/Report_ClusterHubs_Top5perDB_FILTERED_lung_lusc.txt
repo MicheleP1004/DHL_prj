@@ -1,0 +1,70 @@
+--- 🏆 TOP 5 PATHWAY PER DATABASE — HUB LOCALI PER OGNI CLUSTER (LUNG_LUSC - FILTERED) ---
+
+================================================================================
+🎯 CLUSTER 0  |  TOP HUB ANALIZZATI: 5
+🧬 GENI HUB: KRAS, ARHGAP35, NF2, POT1, PRDM1
+================================================================================
+
+  [GO]
+  🔸 [GO_Biological_Process_2021] regulation of intracellular signal transduction (GO:1902531)
+     - P-value: 1.00e-04 | Overlap: 3/437
+     - Geni nel pathway: NF2;PRDM1;ARHGAP35
+
+  🔸 [GO_Biological_Process_2021] establishment of protein localization to telomere (GO:0070200)
+     - P-value: 1.25e-03 | Overlap: 1/5
+     - Geni nel pathway: POT1
+
+  🔸 [GO_Biological_Process_2021] regulation of natural killer cell differentiation (GO:0032823)
+     - P-value: 1.25e-03 | Overlap: 1/5
+     - Geni nel pathway: PRDM1
+
+  🔸 [GO_Biological_Process_2021] positive regulation of helicase activity (GO:0051096)
+     - P-value: 1.75e-03 | Overlap: 1/7
+     - Geni nel pathway: POT1
+
+  🔸 [GO_Biological_Process_2021] regulation of actin filament length (GO:0030832)
+     - P-value: 2.00e-03 | Overlap: 1/8
+     - Geni nel pathway: ARHGAP35
+
+  [KEGG]
+  🔸 [KEGG_2021_Human] Regulation of actin cytoskeleton
+     - P-value: 1.16e-03 | Overlap: 2/218
+     - Geni nel pathway: KRAS;ARHGAP35
+
+  🔸 [KEGG_2021_Human] Thyroid cancer
+     - P-value: 9.22e-03 | Overlap: 1/37
+     - Geni nel pathway: KRAS
+
+  🔸 [KEGG_2021_Human] Aldosterone-regulated sodium reabsorption
+     - P-value: 9.22e-03 | Overlap: 1/37
+     - Geni nel pathway: KRAS
+
+  🔸 [KEGG_2021_Human] Bladder cancer
+     - P-value: 1.02e-02 | Overlap: 1/41
+     - Geni nel pathway: KRAS
+
+  🔸 [KEGG_2021_Human] Endometrial cancer
+     - P-value: 1.44e-02 | Overlap: 1/58
+     - Geni nel pathway: KRAS
+
+  [Reactome]
+  🔸 [Reactome_2022] Sema4D Mediated Inhibition Of Cell Attachment And Migration R-HSA-416550
+     - P-value: 2.00e-03 | Overlap: 1/8
+     - Geni nel pathway: ARHGAP35
+
+  🔸 [Reactome_2022] STAT3 Nuclear Events Downstream Of ALK Signaling R-HSA-9701898
+     - P-value: 2.50e-03 | Overlap: 1/10
+     - Geni nel pathway: PRDM1
+
+  🔸 [Reactome_2022] Telomere C-strand Synthesis Initiation R-HSA-174430
+     - P-value: 3.00e-03 | Overlap: 1/12
+     - Geni nel pathway: POT1
+
+  🔸 [Reactome_2022] PTK6 Regulates RHO GTPases, RAS GTPase And MAP Kinases R-HSA-8849471
+     - P-value: 3.25e-03 | Overlap: 1/13
+     - Geni nel pathway: ARHGAP35
+
+  🔸 [Reactome_2022] Removal Of Flap Intermediate From C-strand R-HSA-174437
+     - P-value: 4.24e-03 | Overlap: 1/17
+     - Geni nel pathway: POT1
+

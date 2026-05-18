@@ -1,85 +1,85 @@
 --- 🏆 TOP 5 PATHWAY PER DATABASE — HUB GLOBALI DELLA RETE (PANCREAS - FILTERED) ---
-Geni Hub analizzati (3): KDM6A, CDKN2A, KRAS
+Geni Hub analizzati (3): RNF43, KRAS, KDM6A
 ================================================================================
 
 
   [GO]
-  🔸 [GO_Biological_Process_2021] small GTPase mediated signal transduction (GO:0007264)
-     - P-value: 8.32e-05 | Adjusted: 5.23e-03
-     - Overlap: 2/106
-     - Hubs coinvolti: CDKN2A;KRAS
-
-  🔸 [GO_Biological_Process_2021] Ras protein signal transduction (GO:0007265)
-     - P-value: 1.49e-04 | Adjusted: 5.23e-03
-     - Overlap: 2/142
-     - Hubs coinvolti: CDKN2A;KRAS
-
   🔸 [GO_Biological_Process_2021] histone H3-K27 demethylation (GO:0071557)
-     - P-value: 7.50e-04 | Adjusted: 1.24e-02
+     - P-value: 7.50e-04 | Adjusted: 2.47e-02
      - Overlap: 1/5
      - Hubs coinvolti: KDM6A
 
-  🔸 [GO_Biological_Process_2021] regulation of macrophage apoptotic process (GO:2000109)
-     - P-value: 9.00e-04 | Adjusted: 1.24e-02
-     - Overlap: 1/6
-     - Hubs coinvolti: CDKN2A
+  🔸 [GO_Biological_Process_2021] receptor catabolic process (GO:0032801)
+     - P-value: 3.75e-03 | Adjusted: 3.36e-02
+     - Overlap: 1/25
+     - Hubs coinvolti: RNF43
 
-  🔸 [GO_Biological_Process_2021] positive regulation of myeloid cell apoptotic process (GO:0033034)
-     - P-value: 1.20e-03 | Adjusted: 1.24e-02
-     - Overlap: 1/8
-     - Hubs coinvolti: CDKN2A
+  🔸 [GO_Biological_Process_2021] histone lysine demethylation (GO:0070076)
+     - P-value: 3.90e-03 | Adjusted: 3.36e-02
+     - Overlap: 1/26
+     - Hubs coinvolti: KDM6A
+
+  🔸 [GO_Biological_Process_2021] histone H3-K4 methylation (GO:0051568)
+     - P-value: 4.49e-03 | Adjusted: 3.36e-02
+     - Overlap: 1/30
+     - Hubs coinvolti: KDM6A
+
+  🔸 [GO_Biological_Process_2021] histone lysine methylation (GO:0034968)
+     - P-value: 5.09e-03 | Adjusted: 3.36e-02
+     - Overlap: 1/34
+     - Hubs coinvolti: KDM6A
 
 
   [KEGG]
+  🔸 [KEGG_2021_Human] Aldosterone-regulated sodium reabsorption
+     - P-value: 5.54e-03 | Adjusted: 3.44e-02
+     - Overlap: 1/37
+     - Hubs coinvolti: KRAS
+
+  🔸 [KEGG_2021_Human] Thyroid cancer
+     - P-value: 5.54e-03 | Adjusted: 3.44e-02
+     - Overlap: 1/37
+     - Hubs coinvolti: KRAS
+
   🔸 [KEGG_2021_Human] Bladder cancer
-     - P-value: 1.23e-05 | Adjusted: 5.90e-04
-     - Overlap: 2/41
-     - Hubs coinvolti: CDKN2A;KRAS
+     - P-value: 6.14e-03 | Adjusted: 3.44e-02
+     - Overlap: 1/41
+     - Hubs coinvolti: KRAS
 
-  🔸 [KEGG_2021_Human] Melanoma
-     - P-value: 3.83e-05 | Adjusted: 5.90e-04
-     - Overlap: 2/72
-     - Hubs coinvolti: CDKN2A;KRAS
+  🔸 [KEGG_2021_Human] Endometrial cancer
+     - P-value: 8.68e-03 | Adjusted: 3.44e-02
+     - Overlap: 1/58
+     - Hubs coinvolti: KRAS
 
-  🔸 [KEGG_2021_Human] Non-small cell lung cancer
-     - P-value: 3.83e-05 | Adjusted: 5.90e-04
-     - Overlap: 2/72
-     - Hubs coinvolti: CDKN2A;KRAS
-
-  🔸 [KEGG_2021_Human] Glioma
-     - P-value: 4.15e-05 | Adjusted: 5.90e-04
-     - Overlap: 2/75
-     - Hubs coinvolti: CDKN2A;KRAS
-
-  🔸 [KEGG_2021_Human] Chronic myeloid leukemia
-     - P-value: 4.26e-05 | Adjusted: 5.90e-04
-     - Overlap: 2/76
-     - Hubs coinvolti: CDKN2A;KRAS
+  🔸 [KEGG_2021_Human] VEGF signaling pathway
+     - P-value: 8.82e-03 | Adjusted: 3.44e-02
+     - Overlap: 1/59
+     - Hubs coinvolti: KRAS
 
 
   [Reactome]
-  🔸 [Reactome_2022] RUNX3 Regulates p14-ARF R-HSA-8951936
-     - P-value: 1.50e-03 | Adjusted: 2.87e-02
-     - Overlap: 1/10
-     - Hubs coinvolti: CDKN2A
+  🔸 [Reactome_2022] Signaling By RNF43 Mutants R-HSA-5340588
+     - P-value: 1.05e-03 | Adjusted: 1.26e-02
+     - Overlap: 1/7
+     - Hubs coinvolti: RNF43
 
-  🔸 [Reactome_2022] SUMOylation Of Transcription Factors R-HSA-3232118
-     - P-value: 2.85e-03 | Adjusted: 2.87e-02
-     - Overlap: 1/19
-     - Hubs coinvolti: CDKN2A
-
-  🔸 [Reactome_2022] Apoptotic Factor-Mediated Response R-HSA-111471
-     - P-value: 3.00e-03 | Adjusted: 2.87e-02
+  🔸 [Reactome_2022] Regulation Of FZD By Ubiquitination R-HSA-4641263
+     - P-value: 3.00e-03 | Adjusted: 1.48e-02
      - Overlap: 1/20
-     - Hubs coinvolti: CDKN2A
-
-  🔸 [Reactome_2022] Defective Intrinsic Pathway For Apoptosis R-HSA-9734009
-     - P-value: 3.60e-03 | Adjusted: 2.87e-02
-     - Overlap: 1/24
-     - Hubs coinvolti: CDKN2A
+     - Hubs coinvolti: RNF43
 
   🔸 [Reactome_2022] HDMs Demethylate Histones R-HSA-3214842
-     - P-value: 3.90e-03 | Adjusted: 2.87e-02
+     - P-value: 3.90e-03 | Adjusted: 1.48e-02
      - Overlap: 1/26
+     - Hubs coinvolti: KDM6A
+
+  🔸 [Reactome_2022] Signaling By WNT In Cancer R-HSA-4791275
+     - P-value: 4.94e-03 | Adjusted: 1.48e-02
+     - Overlap: 1/33
+     - Hubs coinvolti: RNF43
+
+  🔸 [Reactome_2022] Activation Of HOX Genes During Differentiation R-HSA-5619507
+     - P-value: 1.36e-02 | Adjusted: 3.26e-02
+     - Overlap: 1/91
      - Hubs coinvolti: KDM6A
 

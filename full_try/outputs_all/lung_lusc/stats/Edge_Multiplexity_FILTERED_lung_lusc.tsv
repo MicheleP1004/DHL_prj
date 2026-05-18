@@ -1,0 +1,4 @@
+Gene_A	Gene_B	Edge_Multiplexity	Active_Omics
+STK11	KEAP1	2	CNA,MUT
+STK11	KRAS	1	MUT
+KRAS	KEAP1	1	MUT

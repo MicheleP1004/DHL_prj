@@ -1,0 +1,85 @@
+--- 🏆 TOP 5 PATHWAY PER DATABASE — HUB GLOBALI DELLA RETE (KRAS_LUNG_LUSC - FULL) ---
+Geni Hub analizzati (2): CDKN2A, PIK3C3
+================================================================================
+
+
+  [GO]
+  🔸 [GO_Biological_Process_2021] regulation of macrophage apoptotic process (GO:2000109)
+     - P-value: 6.00e-04 | Adjusted: 7.80e-03
+     - Overlap: 1/6
+     - Hubs coinvolti: CDKN2A
+
+  🔸 [GO_Biological_Process_2021] phosphatidylinositol-3-phosphate biosynthetic process (GO:0036092)
+     - P-value: 8.00e-04 | Adjusted: 7.80e-03
+     - Overlap: 1/8
+     - Hubs coinvolti: PIK3C3
+
+  🔸 [GO_Biological_Process_2021] positive regulation of myeloid cell apoptotic process (GO:0033034)
+     - P-value: 8.00e-04 | Adjusted: 7.80e-03
+     - Overlap: 1/8
+     - Hubs coinvolti: CDKN2A
+
+  🔸 [GO_Biological_Process_2021] positive regulation of smooth muscle cell apoptotic process (GO:0034393)
+     - P-value: 9.00e-04 | Adjusted: 7.80e-03
+     - Overlap: 1/9
+     - Hubs coinvolti: CDKN2A
+
+  🔸 [GO_Biological_Process_2021] regulation of smooth muscle cell apoptotic process (GO:0034391)
+     - P-value: 9.00e-04 | Adjusted: 7.80e-03
+     - Overlap: 1/9
+     - Hubs coinvolti: CDKN2A
+
+
+  [KEGG]
+  🔸 [KEGG_2021_Human] Bladder cancer
+     - P-value: 4.10e-03 | Adjusted: 2.84e-02
+     - Overlap: 1/41
+     - Hubs coinvolti: CDKN2A
+
+  🔸 [KEGG_2021_Human] Non-small cell lung cancer
+     - P-value: 7.19e-03 | Adjusted: 2.84e-02
+     - Overlap: 1/72
+     - Hubs coinvolti: CDKN2A
+
+  🔸 [KEGG_2021_Human] Melanoma
+     - P-value: 7.19e-03 | Adjusted: 2.84e-02
+     - Overlap: 1/72
+     - Hubs coinvolti: CDKN2A
+
+  🔸 [KEGG_2021_Human] Inositol phosphate metabolism
+     - P-value: 7.29e-03 | Adjusted: 2.84e-02
+     - Overlap: 1/73
+     - Hubs coinvolti: PIK3C3
+
+  🔸 [KEGG_2021_Human] p53 signaling pathway
+     - P-value: 7.29e-03 | Adjusted: 2.84e-02
+     - Overlap: 1/73
+     - Hubs coinvolti: CDKN2A
+
+
+  [Reactome]
+  🔸 [Reactome_2022] RUNX3 Regulates p14-ARF R-HSA-8951936
+     - P-value: 1.00e-03 | Adjusted: 1.68e-02
+     - Overlap: 1/10
+     - Hubs coinvolti: CDKN2A
+
+  🔸 [Reactome_2022] Synthesis Of PIPs At Late Endosome Membrane R-HSA-1660517
+     - P-value: 1.10e-03 | Adjusted: 1.68e-02
+     - Overlap: 1/11
+     - Hubs coinvolti: PIK3C3
+
+  🔸 [Reactome_2022] Translation Of Replicase And Assembly Of Replication Transcription Complex R-HSA-9679504
+     - P-value: 1.20e-03 | Adjusted: 1.68e-02
+     - Overlap: 1/12
+     - Hubs coinvolti: PIK3C3
+
+  🔸 [Reactome_2022] Synthesis Of PIPs At Early Endosome Membrane R-HSA-1660516
+     - P-value: 1.60e-03 | Adjusted: 1.68e-02
+     - Overlap: 1/16
+     - Hubs coinvolti: PIK3C3
+
+  🔸 [Reactome_2022] Synthesis Of PIPs At Golgi Membrane R-HSA-1660514
+     - P-value: 1.70e-03 | Adjusted: 1.68e-02
+     - Overlap: 1/17
+     - Hubs coinvolti: PIK3C3
+

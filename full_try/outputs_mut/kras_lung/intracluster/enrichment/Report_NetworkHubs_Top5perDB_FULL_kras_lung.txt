@@ -1,85 +1,85 @@
 --- 🏆 TOP 5 PATHWAY PER DATABASE — HUB GLOBALI DELLA RETE (KRAS_LUNG - FULL) ---
-Geni Hub analizzati (18): EPHA3, TP53, STK11, CIC, NTRK1, ARID1A, RBM10, ATRX, SMARCA4, PTPRD, RET, PTPRT, FAT1, GLI1, SETD2, KEAP1, MGA, GRIN2A
+Geni Hub analizzati (24): HGF, RBM10, NTRK1, PDGFRA, SMARCA4, KEAP1, MGA, RET, FAT1, TP53, PTPRT, ATRX, ARID1A, ERRFI1, SETD2, WT1, PTPRD, ZFHX3, ALK, NOTCH3, EPHA5, GRIN2A, STK11, ATM
 ================================================================================
 
 
   [GO]
   🔸 [GO_Biological_Process_2021] enzyme linked receptor protein signaling pathway (GO:0007167)
-     - P-value: 1.25e-07 | Adjusted: 5.64e-05
-     - Overlap: 5/140
-     - Hubs coinvolti: NTRK1;RET;PTPRT;PTPRD;EPHA3
+     - P-value: 2.22e-10 | Adjusted: 1.37e-07
+     - Overlap: 7/140
+     - Hubs coinvolti: NTRK1;RET;PTPRT;ALK;EPHA5;PTPRD;PDGFRA
 
-  🔸 [GO_Biological_Process_2021] nucleosome organization (GO:0034728)
-     - P-value: 1.33e-06 | Adjusted: 3.01e-04
-     - Overlap: 4/94
-     - Hubs coinvolti: SETD2;ATRX;ARID1A;SMARCA4
+  🔸 [GO_Biological_Process_2021] regulation of kinase activity (GO:0043549)
+     - P-value: 8.16e-08 | Adjusted: 2.52e-05
+     - Overlap: 5/94
+     - Hubs coinvolti: NTRK1;RET;ALK;EPHA5;PDGFRA
 
-  🔸 [GO_Biological_Process_2021] positive regulation of cell projection organization (GO:0031346)
-     - P-value: 3.19e-06 | Adjusted: 3.72e-04
-     - Overlap: 4/117
-     - Hubs coinvolti: NTRK1;RET;PTPRD;EPHA3
+  🔸 [GO_Biological_Process_2021] positive regulation of kinase activity (GO:0033674)
+     - P-value: 2.15e-07 | Adjusted: 4.42e-05
+     - Overlap: 5/114
+     - Hubs coinvolti: NTRK1;RET;ALK;EPHA5;PDGFRA
 
-  🔸 [GO_Biological_Process_2021] signal transduction by p53 class mediator (GO:0072331)
-     - P-value: 3.28e-06 | Adjusted: 3.72e-04
-     - Overlap: 3/33
-     - Hubs coinvolti: STK11;ATRX;TP53
+  🔸 [GO_Biological_Process_2021] transmembrane receptor protein tyrosine kinase signaling pathway (GO:0007169)
+     - P-value: 3.35e-07 | Adjusted: 5.17e-05
+     - Overlap: 7/404
+     - Hubs coinvolti: NTRK1;RET;PTPRT;ALK;EPHA5;PDGFRA;HGF
 
-  🔸 [GO_Biological_Process_2021] chromatin organization (GO:0006325)
-     - P-value: 6.90e-06 | Adjusted: 6.25e-04
-     - Overlap: 4/142
-     - Hubs coinvolti: SETD2;ATRX;ARID1A;SMARCA4
+  🔸 [GO_Biological_Process_2021] positive regulation of phosphorylation (GO:0042327)
+     - P-value: 4.29e-07 | Adjusted: 5.30e-05
+     - Overlap: 6/253
+     - Hubs coinvolti: NTRK1;RET;ALK;EPHA5;PDGFRA;HGF
 
 
   [KEGG]
-  🔸 [KEGG_2021_Human] Thyroid cancer
-     - P-value: 4.67e-06 | Adjusted: 3.69e-04
-     - Overlap: 3/37
-     - Hubs coinvolti: NTRK1;RET;TP53
-
-  🔸 [KEGG_2021_Human] Hepatocellular carcinoma
-     - P-value: 1.34e-05 | Adjusted: 5.30e-04
-     - Overlap: 4/168
-     - Hubs coinvolti: KEAP1;ARID1A;TP53;SMARCA4
+  🔸 [KEGG_2021_Human] Pathways in cancer
+     - P-value: 1.18e-07 | Adjusted: 1.13e-05
+     - Overlap: 8/531
+     - Hubs coinvolti: NTRK1;RET;ALK;PDGFRA;NOTCH3;HGF;KEAP1;TP53
 
   🔸 [KEGG_2021_Human] Central carbon metabolism in cancer
-     - P-value: 3.23e-05 | Adjusted: 8.50e-04
-     - Overlap: 3/70
-     - Hubs coinvolti: NTRK1;RET;TP53
+     - P-value: 1.39e-06 | Adjusted: 3.69e-05
+     - Overlap: 4/70
+     - Hubs coinvolti: NTRK1;RET;PDGFRA;TP53
 
-  🔸 [KEGG_2021_Human] Pathways in cancer
-     - P-value: 8.33e-05 | Adjusted: 1.64e-03
-     - Overlap: 5/531
-     - Hubs coinvolti: NTRK1;RET;KEAP1;GLI1;TP53
+  🔸 [KEGG_2021_Human] Hepatocellular carcinoma
+     - P-value: 1.47e-06 | Adjusted: 3.69e-05
+     - Overlap: 5/168
+     - Hubs coinvolti: HGF;KEAP1;ARID1A;TP53;SMARCA4
+
+  🔸 [KEGG_2021_Human] Non-small cell lung cancer
+     - P-value: 1.55e-06 | Adjusted: 3.69e-05
+     - Overlap: 4/72
+     - Hubs coinvolti: RET;ALK;HGF;TP53
 
   🔸 [KEGG_2021_Human] Calcium signaling pathway
-     - P-value: 1.22e-03 | Adjusted: 1.90e-02
-     - Overlap: 3/240
-     - Hubs coinvolti: NTRK1;RET;GRIN2A
+     - P-value: 8.42e-06 | Adjusted: 1.60e-04
+     - Overlap: 5/240
+     - Hubs coinvolti: NTRK1;RET;PDGFRA;GRIN2A;HGF
 
 
   [Reactome]
-  🔸 [Reactome_2022] Synaptic Adhesion-Like Molecules R-HSA-8849932
-     - P-value: 1.59e-04 | Adjusted: 2.58e-02
-     - Overlap: 2/21
-     - Hubs coinvolti: PTPRD;GRIN2A
-
   🔸 [Reactome_2022] Generic Transcription Pathway R-HSA-212436
-     - P-value: 4.37e-04 | Adjusted: 2.58e-02
-     - Overlap: 6/1190
-     - Hubs coinvolti: STK11;GRIN2A;MGA;ARID1A;TP53;SMARCA4
-
-  🔸 [Reactome_2022] RUNX1 Interacts With Co-Factors Whose Precise Effect On RUNX1 Targets Is Not Known R-HSA-8939243
-     - P-value: 4.47e-04 | Adjusted: 2.58e-02
-     - Overlap: 2/35
-     - Hubs coinvolti: ARID1A;SMARCA4
+     - P-value: 5.25e-06 | Adjusted: 1.15e-03
+     - Overlap: 9/1190
+     - Hubs coinvolti: NOTCH3;ZFHX3;GRIN2A;STK11;MGA;ATM;ARID1A;TP53;SMARCA4
 
   🔸 [Reactome_2022] RNA Polymerase II Transcription R-HSA-73857
-     - P-value: 7.37e-04 | Adjusted: 3.04e-02
-     - Overlap: 6/1312
-     - Hubs coinvolti: STK11;GRIN2A;MGA;ARID1A;TP53;SMARCA4
+     - P-value: 1.16e-05 | Adjusted: 1.27e-03
+     - Overlap: 9/1312
+     - Hubs coinvolti: NOTCH3;ZFHX3;GRIN2A;STK11;MGA;ATM;ARID1A;TP53;SMARCA4
 
-  🔸 [Reactome_2022] RMTs Methylate Histone Arginines R-HSA-3214858
-     - P-value: 8.77e-04 | Adjusted: 3.04e-02
-     - Overlap: 2/49
-     - Hubs coinvolti: ARID1A;SMARCA4
+  🔸 [Reactome_2022] Gene Expression (Transcription) R-HSA-74160
+     - P-value: 2.58e-05 | Adjusted: 1.58e-03
+     - Overlap: 9/1449
+     - Hubs coinvolti: NOTCH3;ZFHX3;GRIN2A;STK11;MGA;ATM;ARID1A;TP53;SMARCA4
+
+  🔸 [Reactome_2022] RUNX3 Regulates CDKN1A Transcription R-HSA-8941855
+     - P-value: 2.89e-05 | Adjusted: 1.58e-03
+     - Overlap: 2/7
+     - Hubs coinvolti: ZFHX3;TP53
+
+  🔸 [Reactome_2022] TP53 Regulates Transcription Of Caspase Activators And Caspases R-HSA-6803207
+     - P-value: 9.04e-05 | Adjusted: 3.96e-03
+     - Overlap: 2/12
+     - Hubs coinvolti: ATM;TP53
 

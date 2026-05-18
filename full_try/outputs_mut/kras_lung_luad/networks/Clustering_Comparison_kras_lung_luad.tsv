@@ -1,0 +1,5 @@
+Metodo	K	Modularity	Silhouette	NMI vs Louvain	Tempo (s)
+Louvain	7	0.3538	0.0424	1.0	0.01
+Leiden	7	0.3609	0.0422	0.5128	0.0
+Girvan-Newman	3	0.0113	0.028	0.0539	4.73
+Infomap	13	0.3519	0.0635	0.5064	0.01

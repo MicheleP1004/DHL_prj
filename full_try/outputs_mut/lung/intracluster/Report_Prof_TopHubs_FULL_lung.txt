@@ -1,66 +1,66 @@
 --- 👑 TOP 3 HUB GENES PER OGNI CLUSTER (LUNG - FULL) ---
 
 ------------------------------------------------------------
-🎯 CLUSTER 0 | Totale geni nel network: 99
-------------------------------------------------------------
-🔸 HUB: NF1
-   - Degree Centrality:      0.4286
-   - Betweenness Centrality: 0.1586
-🔸 HUB: EPHB1
-   - Degree Centrality:      0.3980
-   - Betweenness Centrality: 0.0905
-🔸 HUB: PIK3CG
-   - Degree Centrality:      0.3571
-   - Betweenness Centrality: 0.0879
-
-------------------------------------------------------------
-🎯 CLUSTER 1 | Totale geni nel network: 86
-------------------------------------------------------------
-🔸 HUB: KEAP1
-   - Degree Centrality:      0.5294
-   - Betweenness Centrality: 0.2996
-🔸 HUB: SMARCA4
-   - Degree Centrality:      0.4706
-   - Betweenness Centrality: 0.1931
-🔸 HUB: GRIN2A
-   - Degree Centrality:      0.3412
-   - Betweenness Centrality: 0.0725
-
-------------------------------------------------------------
-🎯 CLUSTER 2 | Totale geni nel network: 116
-------------------------------------------------------------
-🔸 HUB: ZFHX3
-   - Degree Centrality:      0.5304
-   - Betweenness Centrality: 0.1123
-🔸 HUB: PTPRT
-   - Degree Centrality:      0.4957
-   - Betweenness Centrality: 0.0815
-🔸 HUB: ERBB4
-   - Degree Centrality:      0.4870
-   - Betweenness Centrality: 0.0551
-
-------------------------------------------------------------
-🎯 CLUSTER 3 | Totale geni nel network: 103
+🎯 CLUSTER 0 | Totale geni nel network: 119
 ------------------------------------------------------------
 🔸 HUB: TP53
-   - Degree Centrality:      0.7059
-   - Betweenness Centrality: 0.3081
+   - Degree Centrality:      0.6780
+   - Betweenness Centrality: 0.2529
 🔸 HUB: PTPRD
-   - Degree Centrality:      0.5882
-   - Betweenness Centrality: 0.1523
-🔸 HUB: NTRK3
-   - Degree Centrality:      0.4608
-   - Betweenness Centrality: 0.0788
+   - Degree Centrality:      0.5339
+   - Betweenness Centrality: 0.1086
+🔸 HUB: HGF
+   - Degree Centrality:      0.4492
+   - Betweenness Centrality: 0.0538
 
 ------------------------------------------------------------
-🎯 CLUSTER 4 | Totale geni nel network: 33
+🎯 CLUSTER 1 | Totale geni nel network: 112
 ------------------------------------------------------------
+🔸 HUB: KEAP1
+   - Degree Centrality:      0.4775
+   - Betweenness Centrality: 0.2056
+🔸 HUB: SMARCA4
+   - Degree Centrality:      0.4234
+   - Betweenness Centrality: 0.1314
+🔸 HUB: PTPRT
+   - Degree Centrality:      0.4144
+   - Betweenness Centrality: 0.0936
+
+------------------------------------------------------------
+🎯 CLUSTER 2 | Totale geni nel network: 105
+------------------------------------------------------------
+🔸 HUB: NF1
+   - Degree Centrality:      0.5192
+   - Betweenness Centrality: 0.2259
+🔸 HUB: EPHA3
+   - Degree Centrality:      0.4423
+   - Betweenness Centrality: 0.1295
 🔸 HUB: FAT1
-   - Degree Centrality:      0.8125
-   - Betweenness Centrality: 0.5715
-🔸 HUB: PDGFRA
-   - Degree Centrality:      0.5312
-   - Betweenness Centrality: 0.1349
-🔸 HUB: ARAF
-   - Degree Centrality:      0.3125
-   - Betweenness Centrality: 0.0303
+   - Degree Centrality:      0.4135
+   - Betweenness Centrality: 0.1537
+
+------------------------------------------------------------
+🎯 CLUSTER 3 | Totale geni nel network: 81
+------------------------------------------------------------
+🔸 HUB: ERBB4
+   - Degree Centrality:      0.6125
+   - Betweenness Centrality: 0.1522
+🔸 HUB: ZFHX3
+   - Degree Centrality:      0.5750
+   - Betweenness Centrality: 0.1227
+🔸 HUB: ALK
+   - Degree Centrality:      0.4875
+   - Betweenness Centrality: 0.1154
+
+------------------------------------------------------------
+🎯 CLUSTER 4 | Totale geni nel network: 18
+------------------------------------------------------------
+🔸 HUB: KMT2B
+   - Degree Centrality:      0.7647
+   - Betweenness Centrality: 0.4392
+🔸 HUB: FLT4
+   - Degree Centrality:      0.5882
+   - Betweenness Centrality: 0.2368
+🔸 HUB: AMER1
+   - Degree Centrality:      0.4706
+   - Betweenness Centrality: 0.1154

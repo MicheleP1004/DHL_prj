@@ -1,7 +1,14 @@
 --- 🏆 TOP 5 PATHWAY PER DATABASE — HUB LOCALI PER OGNI CLUSTER (COLON - FILTERED) ---
 
 ================================================================================
-🎯 CLUSTER 0  |  TOP HUB ANALIZZATI: 2
+🎯 CLUSTER 0  |  TOP HUB ANALIZZATI: 0
+🧬 GENI HUB: 
+================================================================================
+
+[-] Troppi pochi hub per un enrichment (dopo filtraggio).
+
+================================================================================
+🎯 CLUSTER 1  |  TOP HUB ANALIZZATI: 2
 🧬 GENI HUB: KDM5A, PTEN
 ================================================================================
 
@@ -67,13 +74,6 @@
   🔸 [Reactome_2022] Ovarian Tumor Domain Proteases R-HSA-5689896
      - P-value: 3.90e-03 | Overlap: 1/39
      - Geni nel pathway: PTEN
-
-================================================================================
-🎯 CLUSTER 1  |  TOP HUB ANALIZZATI: 0
-🧬 GENI HUB: 
-================================================================================
-
-[-] Troppi pochi hub per un enrichment (dopo filtraggio).
 
 ================================================================================
 🎯 CLUSTER 2  |  TOP HUB ANALIZZATI: 2

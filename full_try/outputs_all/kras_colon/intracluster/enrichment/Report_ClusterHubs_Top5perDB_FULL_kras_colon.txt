@@ -8,14 +8,82 @@
 [-] Troppi pochi hub per un enrichment (dopo filtraggio).
 
 ================================================================================
-🎯 CLUSTER 1  |  TOP HUB ANALIZZATI: 0
+🎯 CLUSTER 1  |  TOP HUB ANALIZZATI: 2
+🧬 GENI HUB: KDM5A, PTEN
+================================================================================
+
+  [GO]
+  🔸 [GO_Biological_Process_2021] negative regulation of organ growth (GO:0046621)
+     - P-value: 5.00e-04 | Overlap: 1/5
+     - Geni nel pathway: PTEN
+
+  🔸 [GO_Biological_Process_2021] negative regulation of histone deacetylation (GO:0031064)
+     - P-value: 5.00e-04 | Overlap: 1/5
+     - Geni nel pathway: KDM5A
+
+  🔸 [GO_Biological_Process_2021] negative regulation of excitatory postsynaptic potential (GO:0090394)
+     - P-value: 6.00e-04 | Overlap: 1/6
+     - Geni nel pathway: PTEN
+
+  🔸 [GO_Biological_Process_2021] postsynaptic density assembly (GO:0097107)
+     - P-value: 6.00e-04 | Overlap: 1/6
+     - Geni nel pathway: PTEN
+
+  🔸 [GO_Biological_Process_2021] positive regulation of extrinsic apoptotic signaling pathway via death domain receptors (GO:1902043)
+     - P-value: 6.00e-04 | Overlap: 1/6
+     - Geni nel pathway: PTEN
+
+  [KEGG]
+  🔸 [KEGG_2021_Human] Endometrial cancer
+     - P-value: 5.79e-03 | Overlap: 1/58
+     - Geni nel pathway: PTEN
+
+  🔸 [KEGG_2021_Human] Central carbon metabolism in cancer
+     - P-value: 6.99e-03 | Overlap: 1/70
+     - Geni nel pathway: PTEN
+
+  🔸 [KEGG_2021_Human] Melanoma
+     - P-value: 7.19e-03 | Overlap: 1/72
+     - Geni nel pathway: PTEN
+
+  🔸 [KEGG_2021_Human] p53 signaling pathway
+     - P-value: 7.29e-03 | Overlap: 1/73
+     - Geni nel pathway: PTEN
+
+  🔸 [KEGG_2021_Human] Inositol phosphate metabolism
+     - P-value: 7.29e-03 | Overlap: 1/73
+     - Geni nel pathway: PTEN
+
+  [Reactome]
+  🔸 [Reactome_2022] Regulation Of PTEN Localization R-HSA-8948747
+     - P-value: 9.00e-04 | Overlap: 1/9
+     - Geni nel pathway: PTEN
+
+  🔸 [Reactome_2022] Regulation Of PTEN mRNA Translation R-HSA-8943723
+     - P-value: 1.10e-03 | Overlap: 1/11
+     - Geni nel pathway: PTEN
+
+  🔸 [Reactome_2022] Synthesis Of IP3 And IP4 In Cytosol R-HSA-1855204
+     - P-value: 2.60e-03 | Overlap: 1/26
+     - Geni nel pathway: PTEN
+
+  🔸 [Reactome_2022] HDMs Demethylate Histones R-HSA-3214842
+     - P-value: 2.60e-03 | Overlap: 1/26
+     - Geni nel pathway: KDM5A
+
+  🔸 [Reactome_2022] Ovarian Tumor Domain Proteases R-HSA-5689896
+     - P-value: 3.90e-03 | Overlap: 1/39
+     - Geni nel pathway: PTEN
+
+================================================================================
+🎯 CLUSTER 2  |  TOP HUB ANALIZZATI: 0
 🧬 GENI HUB: 
 ================================================================================
 
 [-] Troppi pochi hub per un enrichment (dopo filtraggio).
 
 ================================================================================
-🎯 CLUSTER 2  |  TOP HUB ANALIZZATI: 5
+🎯 CLUSTER 3  |  TOP HUB ANALIZZATI: 5
 🧬 GENI HUB: FLT3, BRCA2, FLT1, IRS2, DIS3
 ================================================================================
 
@@ -83,89 +151,75 @@
      - Geni nel pathway: FLT3;IRS2
 
 ================================================================================
-🎯 CLUSTER 3  |  TOP HUB ANALIZZATI: 0
-🧬 GENI HUB: 
-================================================================================
-
-[-] Troppi pochi hub per un enrichment (dopo filtraggio).
-
-================================================================================
-🎯 CLUSTER 4  |  TOP HUB ANALIZZATI: 3
-🧬 GENI HUB: PTEN, KDM5A, PIK3C2G
+🎯 CLUSTER 4  |  TOP HUB ANALIZZATI: 2
+🧬 GENI HUB: SMAD2, AKT2
 ================================================================================
 
   [GO]
-  🔸 [GO_Biological_Process_2021] phosphatidylinositol 3-kinase signaling (GO:0014065)
-     - P-value: 8.41e-06 | Overlap: 2/34
-     - Geni nel pathway: PTEN;PIK3C2G
+  🔸 [GO_Biological_Process_2021] dorsal/ventral axis specification (GO:0009950)
+     - P-value: 5.00e-04 | Overlap: 1/5
+     - Geni nel pathway: SMAD2
 
-  🔸 [GO_Biological_Process_2021] phosphatidylinositol-mediated signaling (GO:0048015)
-     - P-value: 3.72e-05 | Overlap: 2/71
-     - Geni nel pathway: PTEN;PIK3C2G
+  🔸 [GO_Biological_Process_2021] regulation of nodal signaling pathway involved in determination of lateral mesoderm left/right asymmetry (GO:1900175)
+     - P-value: 5.00e-04 | Overlap: 1/5
+     - Geni nel pathway: SMAD2
 
-  🔸 [GO_Biological_Process_2021] phosphatidylinositol metabolic process (GO:0046488)
-     - P-value: 9.29e-05 | Overlap: 2/112
-     - Geni nel pathway: PTEN;PIK3C2G
+  🔸 [GO_Biological_Process_2021] regulation of long-chain fatty acid import across plasma membrane (GO:0010746)
+     - P-value: 6.00e-04 | Overlap: 1/6
+     - Geni nel pathway: AKT2
 
-  🔸 [GO_Biological_Process_2021] phosphatidylinositol biosynthetic process (GO:0006661)
-     - P-value: 1.18e-04 | Overlap: 2/126
-     - Geni nel pathway: PTEN;PIK3C2G
+  🔸 [GO_Biological_Process_2021] positive regulation of activin receptor signaling pathway (GO:0032927)
+     - P-value: 6.00e-04 | Overlap: 1/6
+     - Geni nel pathway: SMAD2
 
-  🔸 [GO_Biological_Process_2021] glycerophospholipid biosynthetic process (GO:0046474)
-     - P-value: 2.32e-04 | Overlap: 2/177
-     - Geni nel pathway: PTEN;PIK3C2G
+  🔸 [GO_Biological_Process_2021] protein phosphorylation (GO:0006468)
+     - P-value: 6.14e-04 | Overlap: 2/496
+     - Geni nel pathway: SMAD2;AKT2
 
   [KEGG]
-  🔸 [KEGG_2021_Human] Inositol phosphate metabolism
-     - P-value: 3.93e-05 | Overlap: 2/73
-     - Geni nel pathway: PTEN;PIK3C2G
+  🔸 [KEGG_2021_Human] Pancreatic cancer
+     - P-value: 1.42e-05 | Overlap: 2/76
+     - Geni nel pathway: SMAD2;AKT2
 
-  🔸 [KEGG_2021_Human] Phosphatidylinositol signaling system
-     - P-value: 6.96e-05 | Overlap: 2/97
-     - Geni nel pathway: PTEN;PIK3C2G
+  🔸 [KEGG_2021_Human] Colorectal cancer
+     - P-value: 1.83e-05 | Overlap: 2/86
+     - Geni nel pathway: SMAD2;AKT2
 
-  🔸 [KEGG_2021_Human] Endometrial cancer
-     - P-value: 8.68e-03 | Overlap: 1/58
-     - Geni nel pathway: PTEN
+  🔸 [KEGG_2021_Human] AGE-RAGE signaling pathway in diabetic complications
+     - P-value: 2.47e-05 | Overlap: 2/100
+     - Geni nel pathway: SMAD2;AKT2
 
-  🔸 [KEGG_2021_Human] Central carbon metabolism in cancer
-     - P-value: 1.05e-02 | Overlap: 1/70
-     - Geni nel pathway: PTEN
+  🔸 [KEGG_2021_Human] Chagas disease
+     - P-value: 2.58e-05 | Overlap: 2/102
+     - Geni nel pathway: SMAD2;AKT2
 
-  🔸 [KEGG_2021_Human] Melanoma
-     - P-value: 1.08e-02 | Overlap: 1/72
-     - Geni nel pathway: PTEN
+  🔸 [KEGG_2021_Human] Relaxin signaling pathway
+     - P-value: 4.13e-05 | Overlap: 2/129
+     - Geni nel pathway: SMAD2;AKT2
 
   [Reactome]
-  🔸 [Reactome_2022] Synthesis Of PIPs At Plasma Membrane R-HSA-1660499
-     - P-value: 1.91e-05 | Overlap: 2/51
-     - Geni nel pathway: PTEN;PIK3C2G
+  🔸 [Reactome_2022] FOXO-mediated Transcription R-HSA-9614085
+     - P-value: 1.04e-05 | Overlap: 2/65
+     - Geni nel pathway: SMAD2;AKT2
 
-  🔸 [Reactome_2022] PI Metabolism R-HSA-1483255
-     - P-value: 4.97e-05 | Overlap: 2/82
-     - Geni nel pathway: PTEN;PIK3C2G
+  🔸 [Reactome_2022] Diseases Of Signal Transduction By Growth Factor Receptors And Second Messengers R-HSA-5663202
+     - P-value: 4.48e-04 | Overlap: 2/424
+     - Geni nel pathway: SMAD2;AKT2
 
-  🔸 [Reactome_2022] Phospholipid Metabolism R-HSA-1483257
-     - P-value: 3.21e-04 | Overlap: 2/208
-     - Geni nel pathway: PTEN;PIK3C2G
+  🔸 [Reactome_2022] SMAD2/3 Phosphorylation Motif Mutants In Cancer R-HSA-3304356
+     - P-value: 6.00e-04 | Overlap: 1/6
+     - Geni nel pathway: SMAD2
 
-  🔸 [Reactome_2022] Regulation Of PTEN Localization R-HSA-8948747
-     - P-value: 1.35e-03 | Overlap: 1/9
-     - Geni nel pathway: PTEN
+  🔸 [Reactome_2022] Loss Of Function Of TGFBR1 In Cancer R-HSA-3656534
+     - P-value: 7.00e-04 | Overlap: 1/7
+     - Geni nel pathway: SMAD2
 
-  🔸 [Reactome_2022] Regulation Of PTEN mRNA Translation R-HSA-8943723
-     - P-value: 1.65e-03 | Overlap: 1/11
-     - Geni nel pathway: PTEN
-
-================================================================================
-🎯 CLUSTER 5  |  TOP HUB ANALIZZATI: 0
-🧬 GENI HUB: 
-================================================================================
-
-[-] Troppi pochi hub per un enrichment (dopo filtraggio).
+  🔸 [Reactome_2022] Loss Of Function Of SMAD2/3 In Cancer R-HSA-3304349
+     - P-value: 7.00e-04 | Overlap: 1/7
+     - Geni nel pathway: SMAD2
 
 ================================================================================
-🎯 CLUSTER 6  |  TOP HUB ANALIZZATI: 2
+🎯 CLUSTER 5  |  TOP HUB ANALIZZATI: 2
 🧬 GENI HUB: CDKN2A, CDKN2B
 ================================================================================
 
@@ -231,4 +285,140 @@
   🔸 [Reactome_2022] Mitotic G1 Phase And G1/S Transition R-HSA-453279
      - P-value: 5.37e-05 | Overlap: 2/147
      - Geni nel pathway: CDKN2B;CDKN2A
+
+================================================================================
+🎯 CLUSTER 6  |  TOP HUB ANALIZZATI: 2
+🧬 GENI HUB: CSF1R, PDGFRB
+================================================================================
+
+  [GO]
+  🔸 [GO_Biological_Process_2021] positive regulation of locomotion (GO:0040017)
+     - P-value: 2.32e-06 | Overlap: 2/31
+     - Geni nel pathway: PDGFRB;CSF1R
+
+  🔸 [GO_Biological_Process_2021] inositol lipid-mediated signaling (GO:0048017)
+     - P-value: 6.37e-06 | Overlap: 2/51
+     - Geni nel pathway: PDGFRB;CSF1R
+
+  🔸 [GO_Biological_Process_2021] peptidyl-tyrosine modification (GO:0018212)
+     - P-value: 7.70e-06 | Overlap: 2/56
+     - Geni nel pathway: PDGFRB;CSF1R
+
+  🔸 [GO_Biological_Process_2021] peptidyl-tyrosine phosphorylation (GO:0018108)
+     - P-value: 1.17e-05 | Overlap: 2/69
+     - Geni nel pathway: PDGFRB;CSF1R
+
+  🔸 [GO_Biological_Process_2021] phosphatidylinositol-mediated signaling (GO:0048015)
+     - P-value: 1.24e-05 | Overlap: 2/71
+     - Geni nel pathway: PDGFRB;CSF1R
+
+  [KEGG]
+  🔸 [KEGG_2021_Human] Rap1 signaling pathway
+     - P-value: 1.10e-04 | Overlap: 2/210
+     - Geni nel pathway: PDGFRB;CSF1R
+
+  🔸 [KEGG_2021_Human] Ras signaling pathway
+     - P-value: 1.34e-04 | Overlap: 2/232
+     - Geni nel pathway: PDGFRB;CSF1R
+
+  🔸 [KEGG_2021_Human] MAPK signaling pathway
+     - P-value: 2.15e-04 | Overlap: 2/294
+     - Geni nel pathway: PDGFRB;CSF1R
+
+  🔸 [KEGG_2021_Human] PI3K-Akt signaling pathway
+     - P-value: 3.12e-04 | Overlap: 2/354
+     - Geni nel pathway: PDGFRB;CSF1R
+
+  🔸 [KEGG_2021_Human] Pathways in cancer
+     - P-value: 7.04e-04 | Overlap: 2/531
+     - Geni nel pathway: PDGFRB;CSF1R
+
+  [Reactome]
+  🔸 [Reactome_2022] Other Interleukin Signaling R-HSA-449836
+     - P-value: 2.40e-03 | Overlap: 1/24
+     - Geni nel pathway: CSF1R
+
+  🔸 [Reactome_2022] Downstream Signal Transduction R-HSA-186763
+     - P-value: 2.80e-03 | Overlap: 1/28
+     - Geni nel pathway: PDGFRB
+
+  🔸 [Reactome_2022] Transcriptional Regulation By VENTX R-HSA-8853884
+     - P-value: 3.90e-03 | Overlap: 1/39
+     - Geni nel pathway: CSF1R
+
+  🔸 [Reactome_2022] Signaling By PDGF R-HSA-186797
+     - P-value: 5.19e-03 | Overlap: 1/52
+     - Geni nel pathway: PDGFRB
+
+  🔸 [Reactome_2022] Constitutive Signaling By Aberrant PI3K In Cancer R-HSA-2219530
+     - P-value: 7.78e-03 | Overlap: 1/78
+     - Geni nel pathway: PDGFRB
+
+================================================================================
+🎯 CLUSTER 7  |  TOP HUB ANALIZZATI: 3
+🧬 GENI HUB: CCND1, FGF19, FGF4
+================================================================================
+
+  [GO]
+  🔸 [GO_Biological_Process_2021] positive regulation of protein modification process (GO:0031401)
+     - P-value: 1.21e-06 | Overlap: 3/214
+     - Geni nel pathway: CCND1;FGF19;FGF4
+
+  🔸 [GO_Biological_Process_2021] positive regulation of phosphorylation (GO:0042327)
+     - P-value: 2.00e-06 | Overlap: 3/253
+     - Geni nel pathway: CCND1;FGF19;FGF4
+
+  🔸 [GO_Biological_Process_2021] regulation of protein phosphorylation (GO:0001932)
+     - P-value: 2.33e-06 | Overlap: 3/266
+     - Geni nel pathway: CCND1;FGF19;FGF4
+
+  🔸 [GO_Biological_Process_2021] positive regulation of protein phosphorylation (GO:0001934)
+     - P-value: 6.33e-06 | Overlap: 3/371
+     - Geni nel pathway: CCND1;FGF19;FGF4
+
+  🔸 [GO_Biological_Process_2021] positive regulation of cellular process (GO:0048522)
+     - P-value: 3.04e-05 | Overlap: 3/625
+     - Geni nel pathway: CCND1;FGF19;FGF4
+
+  [KEGG]
+  🔸 [KEGG_2021_Human] Melanoma
+     - P-value: 4.47e-08 | Overlap: 3/72
+     - Geni nel pathway: CCND1;FGF19;FGF4
+
+  🔸 [KEGG_2021_Human] Breast cancer
+     - P-value: 3.89e-07 | Overlap: 3/147
+     - Geni nel pathway: CCND1;FGF19;FGF4
+
+  🔸 [KEGG_2021_Human] Gastric cancer
+     - P-value: 4.05e-07 | Overlap: 3/149
+     - Geni nel pathway: CCND1;FGF19;FGF4
+
+  🔸 [KEGG_2021_Human] PI3K-Akt signaling pathway
+     - P-value: 5.50e-06 | Overlap: 3/354
+     - Geni nel pathway: CCND1;FGF19;FGF4
+
+  🔸 [KEGG_2021_Human] Pathways in cancer
+     - P-value: 1.86e-05 | Overlap: 3/531
+     - Geni nel pathway: CCND1;FGF19;FGF4
+
+  [Reactome]
+  🔸 [Reactome_2022] FGFR4 Ligand Binding And Activation R-HSA-190322
+     - P-value: 1.36e-06 | Overlap: 2/14
+     - Geni nel pathway: FGF19;FGF4
+
+  🔸 [Reactome_2022] Phospholipase C-mediated Cascade; FGFR4 R-HSA-5654228
+     - P-value: 1.57e-06 | Overlap: 2/15
+     - Geni nel pathway: FGF19;FGF4
+
+  🔸 [Reactome_2022] SHC-mediated cascade:FGFR4 R-HSA-5654719
+     - P-value: 2.56e-06 | Overlap: 2/19
+     - Geni nel pathway: FGF19;FGF4
+
+  🔸 [Reactome_2022] PI-3K cascade:FGFR4 R-HSA-5654720
+     - P-value: 2.85e-06 | Overlap: 2/20
+     - Geni nel pathway: FGF19;FGF4
+
+  🔸 [Reactome_2022] FRS-mediated FGFR4 Signaling R-HSA-5654712
+     - P-value: 3.15e-06 | Overlap: 2/21
+     - Geni nel pathway: FGF19;FGF4
 

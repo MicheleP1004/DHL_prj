@@ -1,0 +1,410 @@
+--- 🏆 TOP 5 PATHWAY PER DATABASE — HUB LOCALI PER OGNI CLUSTER (KRAS_LUNG_LUSC - FULL) ---
+
+================================================================================
+🎯 CLUSTER 0  |  TOP HUB ANALIZZATI: 5
+🧬 GENI HUB: SMARCA4, KEAP1, STK11, APC, FGFR2
+================================================================================
+
+  [GO]
+  🔸 [GO_Biological_Process_2021] regulation of canonical Wnt signaling pathway (GO:0060828)
+     - P-value: 1.96e-05 | Overlap: 3/253
+     - Geni nel pathway: STK11;APC;FGFR2
+
+  🔸 [GO_Biological_Process_2021] regulation of cell cycle (GO:0051726)
+     - P-value: 3.14e-05 | Overlap: 3/296
+     - Geni nel pathway: STK11;APC;FGFR2
+
+  🔸 [GO_Biological_Process_2021] negative regulation of cellular process (GO:0048523)
+     - P-value: 2.16e-04 | Overlap: 3/566
+     - Geni nel pathway: STK11;APC;SMARCA4
+
+  🔸 [GO_Biological_Process_2021] regulation of Wnt signaling pathway (GO:0030111)
+     - P-value: 3.02e-04 | Overlap: 2/111
+     - Geni nel pathway: FGFR2;SMARCA4
+
+  🔸 [GO_Biological_Process_2021] negative regulation of growth (GO:0045926)
+     - P-value: 3.89e-04 | Overlap: 2/126
+     - Geni nel pathway: STK11;SMARCA4
+
+  [KEGG]
+  🔸 [KEGG_2021_Human] Hepatocellular carcinoma
+     - P-value: 5.75e-06 | Overlap: 3/168
+     - Geni nel pathway: APC;KEAP1;SMARCA4
+
+  🔸 [KEGG_2021_Human] Pathways in cancer
+     - P-value: 1.79e-04 | Overlap: 3/531
+     - Geni nel pathway: APC;KEAP1;FGFR2
+
+  🔸 [KEGG_2021_Human] Signaling pathways regulating pluripotency of stem cells
+     - P-value: 5.01e-04 | Overlap: 2/143
+     - Geni nel pathway: APC;FGFR2
+
+  🔸 [KEGG_2021_Human] Gastric cancer
+     - P-value: 5.43e-04 | Overlap: 2/149
+     - Geni nel pathway: APC;FGFR2
+
+  🔸 [KEGG_2021_Human] Regulation of actin cytoskeleton
+     - P-value: 1.16e-03 | Overlap: 2/218
+     - Geni nel pathway: APC;FGFR2
+
+  [Reactome]
+  🔸 [Reactome_2022] AMPK Inhibits chREBP Transcriptional Activity R-HSA-163680
+     - P-value: 2.00e-03 | Overlap: 1/8
+     - Geni nel pathway: STK11
+
+  🔸 [Reactome_2022] FGFR2b Ligand Binding And Activation R-HSA-190377
+     - P-value: 2.50e-03 | Overlap: 1/10
+     - Geni nel pathway: FGFR2
+
+  🔸 [Reactome_2022] FGFR2c Ligand Binding And Activation R-HSA-190375
+     - P-value: 3.25e-03 | Overlap: 1/13
+     - Geni nel pathway: FGFR2
+
+  🔸 [Reactome_2022] FOXO-mediated Transcription Of Cell Death Genes R-HSA-9614657
+     - P-value: 3.99e-03 | Overlap: 1/16
+     - Geni nel pathway: STK11
+
+  🔸 [Reactome_2022] Activated Point Mutants Of FGFR2 R-HSA-2033519
+     - P-value: 4.24e-03 | Overlap: 1/17
+     - Geni nel pathway: FGFR2
+
+================================================================================
+🎯 CLUSTER 1  |  TOP HUB ANALIZZATI: 5
+🧬 GENI HUB: PIK3CG, ARID1A, NTRK3, PTPRT, INPP4B
+================================================================================
+
+  [GO]
+  🔸 [GO_Biological_Process_2021] positive regulation of phosphatidylinositol 3-kinase signaling (GO:0014068)
+     - P-value: 1.45e-04 | Overlap: 2/77
+     - Geni nel pathway: NTRK3;PIK3CG
+
+  🔸 [GO_Biological_Process_2021] regulation of phosphatidylinositol 3-kinase signaling (GO:0014066)
+     - P-value: 2.75e-04 | Overlap: 2/106
+     - Geni nel pathway: NTRK3;PIK3CG
+
+  🔸 [GO_Biological_Process_2021] phosphatidylinositol metabolic process (GO:0046488)
+     - P-value: 3.07e-04 | Overlap: 2/112
+     - Geni nel pathway: INPP4B;PIK3CG
+
+  🔸 [GO_Biological_Process_2021] phosphatidylinositol biosynthetic process (GO:0006661)
+     - P-value: 3.89e-04 | Overlap: 2/126
+     - Geni nel pathway: INPP4B;PIK3CG
+
+  🔸 [GO_Biological_Process_2021] enzyme linked receptor protein signaling pathway (GO:0007167)
+     - P-value: 4.80e-04 | Overlap: 2/140
+     - Geni nel pathway: PTPRT;NTRK3
+
+  [KEGG]
+  🔸 [KEGG_2021_Human] Inositol phosphate metabolism
+     - P-value: 1.30e-04 | Overlap: 2/73
+     - Geni nel pathway: INPP4B;PIK3CG
+
+  🔸 [KEGG_2021_Human] Central carbon metabolism in cancer
+     - P-value: 1.74e-02 | Overlap: 1/70
+     - Geni nel pathway: NTRK3
+
+  🔸 [KEGG_2021_Human] Phosphatidylinositol signaling system
+     - P-value: 2.40e-02 | Overlap: 1/97
+     - Geni nel pathway: INPP4B
+
+  🔸 [KEGG_2021_Human] Toxoplasmosis
+     - P-value: 2.77e-02 | Overlap: 1/112
+     - Geni nel pathway: PIK3CG
+
+  🔸 [KEGG_2021_Human] Cholinergic synapse
+     - P-value: 2.79e-02 | Overlap: 1/113
+     - Geni nel pathway: PIK3CG
+
+  [Reactome]
+  🔸 [Reactome_2022] Synthesis Of PIPs At Plasma Membrane R-HSA-1660499
+     - P-value: 6.34e-05 | Overlap: 2/51
+     - Geni nel pathway: INPP4B;PIK3CG
+
+  🔸 [Reactome_2022] PI Metabolism R-HSA-1483255
+     - P-value: 1.65e-04 | Overlap: 2/82
+     - Geni nel pathway: INPP4B;PIK3CG
+
+  🔸 [Reactome_2022] Phospholipid Metabolism R-HSA-1483257
+     - P-value: 1.05e-03 | Overlap: 2/208
+     - Geni nel pathway: INPP4B;PIK3CG
+
+  🔸 [Reactome_2022] Activated NTRK3 Signals Thru PI3K R-HSA-9603381
+     - P-value: 1.50e-03 | Overlap: 1/6
+     - Geni nel pathway: NTRK3
+
+  🔸 [Reactome_2022] Activated NTRK3 Signals Thru RAS R-HSA-9034864
+     - P-value: 1.75e-03 | Overlap: 1/7
+     - Geni nel pathway: NTRK3
+
+================================================================================
+🎯 CLUSTER 2  |  TOP HUB ANALIZZATI: 5
+🧬 GENI HUB: ERBB4, KMT2D, RET, TERT, IRS1
+================================================================================
+
+  [GO]
+  🔸 [GO_Biological_Process_2021] positive regulation of cell population proliferation (GO:0008284)
+     - P-value: 1.53e-06 | Overlap: 4/474
+     - Geni nel pathway: KMT2D;TERT;ERBB4;IRS1
+
+  🔸 [GO_Biological_Process_2021] positive regulation of protein kinase B signaling (GO:0051897)
+     - P-value: 5.06e-06 | Overlap: 3/161
+     - Geni nel pathway: RET;ERBB4;IRS1
+
+  🔸 [GO_Biological_Process_2021] regulation of protein kinase B signaling (GO:0051896)
+     - P-value: 1.08e-05 | Overlap: 3/207
+     - Geni nel pathway: RET;ERBB4;IRS1
+
+  🔸 [GO_Biological_Process_2021] regulation of extrinsic apoptotic signaling pathway in absence of ligand (GO:2001239)
+     - P-value: 1.89e-05 | Overlap: 2/28
+     - Geni nel pathway: RET;TERT
+
+  🔸 [GO_Biological_Process_2021] beta-catenin-TCF complex assembly (GO:1904837)
+     - P-value: 2.02e-05 | Overlap: 2/29
+     - Geni nel pathway: KMT2D;TERT
+
+  [KEGG]
+  🔸 [KEGG_2021_Human] Calcium signaling pathway
+     - P-value: 1.40e-03 | Overlap: 2/240
+     - Geni nel pathway: RET;ERBB4
+
+  🔸 [KEGG_2021_Human] PI3K-Akt signaling pathway
+     - P-value: 3.02e-03 | Overlap: 2/354
+     - Geni nel pathway: ERBB4;IRS1
+
+  🔸 [KEGG_2021_Human] Pathways in cancer
+     - P-value: 6.67e-03 | Overlap: 2/531
+     - Geni nel pathway: RET;TERT
+
+  🔸 [KEGG_2021_Human] Aldosterone-regulated sodium reabsorption
+     - P-value: 9.22e-03 | Overlap: 1/37
+     - Geni nel pathway: IRS1
+
+  🔸 [KEGG_2021_Human] Thyroid cancer
+     - P-value: 9.22e-03 | Overlap: 1/37
+     - Geni nel pathway: RET
+
+  [Reactome]
+  🔸 [Reactome_2022] RAF/MAP Kinase Cascade R-HSA-5673001
+     - P-value: 2.41e-05 | Overlap: 3/271
+     - Geni nel pathway: RET;ERBB4;IRS1
+
+  🔸 [Reactome_2022] MAPK1/MAPK3 Signaling R-HSA-5684996
+     - P-value: 2.57e-05 | Overlap: 3/277
+     - Geni nel pathway: RET;ERBB4;IRS1
+
+  🔸 [Reactome_2022] Signal Transduction R-HSA-162582
+     - P-value: 2.83e-05 | Overlap: 5/2465
+     - Geni nel pathway: RET;KMT2D;TERT;ERBB4;IRS1
+
+  🔸 [Reactome_2022] MAPK Family Signaling Cascades R-HSA-5683057
+     - P-value: 3.89e-05 | Overlap: 3/318
+     - Geni nel pathway: RET;ERBB4;IRS1
+
+  🔸 [Reactome_2022] Formation Of beta-catenin:TCF Transactivating Complex R-HSA-201722
+     - P-value: 8.80e-05 | Overlap: 2/60
+     - Geni nel pathway: KMT2D;TERT
+
+================================================================================
+🎯 CLUSTER 3  |  TOP HUB ANALIZZATI: 3
+🧬 GENI HUB: FAT1, IL7R, RPTOR
+================================================================================
+
+  [GO]
+  🔸 [GO_Biological_Process_2021] TORC1 signaling (GO:0038202)
+     - P-value: 1.20e-03 | Overlap: 1/8
+     - Geni nel pathway: RPTOR
+
+  🔸 [GO_Biological_Process_2021] positive regulation of transcription by RNA polymerase III (GO:0045945)
+     - P-value: 1.50e-03 | Overlap: 1/10
+     - Geni nel pathway: RPTOR
+
+  🔸 [GO_Biological_Process_2021] cellular response to leucine (GO:0071233)
+     - P-value: 1.50e-03 | Overlap: 1/10
+     - Geni nel pathway: RPTOR
+
+  🔸 [GO_Biological_Process_2021] response to leucine (GO:0043201)
+     - P-value: 1.50e-03 | Overlap: 1/10
+     - Geni nel pathway: RPTOR
+
+  🔸 [GO_Biological_Process_2021] regulation of receptor signaling pathway via STAT (GO:1904892)
+     - P-value: 1.95e-03 | Overlap: 1/13
+     - Geni nel pathway: IL7R
+
+  [KEGG]
+  🔸 [KEGG_2021_Human] PI3K-Akt signaling pathway
+     - P-value: 9.26e-04 | Overlap: 2/354
+     - Geni nel pathway: RPTOR;IL7R
+
+  🔸 [KEGG_2021_Human] Primary immunodeficiency
+     - P-value: 5.69e-03 | Overlap: 1/38
+     - Geni nel pathway: IL7R
+
+  🔸 [KEGG_2021_Human] Hematopoietic cell lineage
+     - P-value: 1.48e-02 | Overlap: 1/99
+     - Geni nel pathway: IL7R
+
+  🔸 [KEGG_2021_Human] Longevity regulating pathway
+     - P-value: 1.52e-02 | Overlap: 1/102
+     - Geni nel pathway: RPTOR
+
+  🔸 [KEGG_2021_Human] AMPK signaling pathway
+     - P-value: 1.79e-02 | Overlap: 1/120
+     - Geni nel pathway: RPTOR
+
+  [Reactome]
+  🔸 [Reactome_2022] mTORC1-mediated Signaling R-HSA-166208
+     - P-value: 3.60e-03 | Overlap: 1/24
+     - Geni nel pathway: RPTOR
+
+  🔸 [Reactome_2022] Interleukin-7 Signaling R-HSA-1266695
+     - P-value: 3.75e-03 | Overlap: 1/25
+     - Geni nel pathway: IL7R
+
+  🔸 [Reactome_2022] Energy Dependent Regulation Of mTOR By LKB1-AMPK R-HSA-380972
+     - P-value: 4.34e-03 | Overlap: 1/29
+     - Geni nel pathway: RPTOR
+
+  🔸 [Reactome_2022] HSF1-dependent Transactivation R-HSA-3371571
+     - P-value: 5.39e-03 | Overlap: 1/36
+     - Geni nel pathway: RPTOR
+
+  🔸 [Reactome_2022] MTOR Signaling R-HSA-165159
+     - P-value: 6.14e-03 | Overlap: 1/41
+     - Geni nel pathway: RPTOR
+
+================================================================================
+🎯 CLUSTER 4  |  TOP HUB ANALIZZATI: 3
+🧬 GENI HUB: ZFHX3, SETD2, TSHR
+================================================================================
+
+  [GO]
+  🔸 [GO_Biological_Process_2021] regulation of mRNA export from nucleus (GO:0010793)
+     - P-value: 9.00e-04 | Overlap: 1/6
+     - Geni nel pathway: SETD2
+
+  🔸 [GO_Biological_Process_2021] regulation of ribonucleoprotein complex localization (GO:2000197)
+     - P-value: 9.00e-04 | Overlap: 1/6
+     - Geni nel pathway: SETD2
+
+  🔸 [GO_Biological_Process_2021] histone H3-K36 methylation (GO:0010452)
+     - P-value: 9.00e-04 | Overlap: 1/6
+     - Geni nel pathway: SETD2
+
+  🔸 [GO_Biological_Process_2021] protein-DNA complex subunit organization (GO:0071824)
+     - P-value: 9.00e-04 | Overlap: 1/6
+     - Geni nel pathway: SETD2
+
+  🔸 [GO_Biological_Process_2021] regulation of protein localization to chromatin (GO:1905634)
+     - P-value: 1.20e-03 | Overlap: 1/8
+     - Geni nel pathway: SETD2
+
+  [KEGG]
+  🔸 [KEGG_2021_Human] Autoimmune thyroid disease
+     - P-value: 7.93e-03 | Overlap: 1/53
+     - Geni nel pathway: TSHR
+
+  🔸 [KEGG_2021_Human] Regulation of lipolysis in adipocytes
+     - P-value: 8.23e-03 | Overlap: 1/55
+     - Geni nel pathway: TSHR
+
+  🔸 [KEGG_2021_Human] Lysine degradation
+     - P-value: 9.42e-03 | Overlap: 1/63
+     - Geni nel pathway: SETD2
+
+  🔸 [KEGG_2021_Human] Thyroid hormone synthesis
+     - P-value: 1.12e-02 | Overlap: 1/75
+     - Geni nel pathway: TSHR
+
+  🔸 [KEGG_2021_Human] Signaling pathways regulating pluripotency of stem cells
+     - P-value: 2.13e-02 | Overlap: 1/143
+     - Geni nel pathway: ZFHX3
+
+  [Reactome]
+  🔸 [Reactome_2022] RUNX3 Regulates CDKN1A Transcription R-HSA-8941855
+     - P-value: 1.05e-03 | Overlap: 1/7
+     - Geni nel pathway: ZFHX3
+
+  🔸 [Reactome_2022] Hormone Ligand-Binding Receptors R-HSA-375281
+     - P-value: 1.80e-03 | Overlap: 1/12
+     - Geni nel pathway: TSHR
+
+  🔸 [Reactome_2022] PKMTs Methylate Histone Lysines R-HSA-3214841
+     - P-value: 7.03e-03 | Overlap: 1/47
+     - Geni nel pathway: SETD2
+
+  🔸 [Reactome_2022] Transcriptional Regulation By RUNX3 R-HSA-8878159
+     - P-value: 1.42e-02 | Overlap: 1/95
+     - Geni nel pathway: ZFHX3
+
+  🔸 [Reactome_2022] ADORA2B Mediated Anti-Inflammatory Cytokine Production R-HSA-9660821
+     - P-value: 1.95e-02 | Overlap: 1/131
+     - Geni nel pathway: TSHR
+
+================================================================================
+🎯 CLUSTER 5  |  TOP HUB ANALIZZATI: 3
+🧬 GENI HUB: TP53, MTOR, NF2
+================================================================================
+
+  [GO]
+  🔸 [GO_Biological_Process_2021] regulation of intracellular signal transduction (GO:1902531)
+     - P-value: 1.04e-05 | Overlap: 3/437
+     - Geni nel pathway: NF2;TP53;MTOR
+
+  🔸 [GO_Biological_Process_2021] cellular response to decreased oxygen levels (GO:0036294)
+     - P-value: 3.51e-05 | Overlap: 2/69
+     - Geni nel pathway: TP53;MTOR
+
+  🔸 [GO_Biological_Process_2021] cellular response to hypoxia (GO:0071456)
+     - P-value: 1.27e-04 | Overlap: 2/131
+     - Geni nel pathway: TP53;MTOR
+
+  🔸 [GO_Biological_Process_2021] regulation of signal transduction by p53 class mediator (GO:1901796)
+     - P-value: 1.80e-04 | Overlap: 2/156
+     - Geni nel pathway: TP53;MTOR
+
+  🔸 [GO_Biological_Process_2021] cellular response to starvation (GO:0009267)
+     - P-value: 1.85e-04 | Overlap: 2/158
+     - Geni nel pathway: TP53;MTOR
+
+  [KEGG]
+  🔸 [KEGG_2021_Human] Central carbon metabolism in cancer
+     - P-value: 3.61e-05 | Overlap: 2/70
+     - Geni nel pathway: TP53;MTOR
+
+  🔸 [KEGG_2021_Human] Glioma
+     - P-value: 4.15e-05 | Overlap: 2/75
+     - Geni nel pathway: TP53;MTOR
+
+  🔸 [KEGG_2021_Human] Pancreatic cancer
+     - P-value: 4.26e-05 | Overlap: 2/76
+     - Geni nel pathway: TP53;MTOR
+
+  🔸 [KEGG_2021_Human] Colorectal cancer
+     - P-value: 5.47e-05 | Overlap: 2/86
+     - Geni nel pathway: TP53;MTOR
+
+  🔸 [KEGG_2021_Human] Prostate cancer
+     - P-value: 6.96e-05 | Overlap: 2/97
+     - Geni nel pathway: TP53;MTOR
+
+  [Reactome]
+  🔸 [Reactome_2022] Regulation Of TP53 Degradation R-HSA-6804757
+     - P-value: 9.44e-06 | Overlap: 2/36
+     - Geni nel pathway: TP53;MTOR
+
+  🔸 [Reactome_2022] Regulation Of TP53 Expression And Degradation R-HSA-6806003
+     - P-value: 9.98e-06 | Overlap: 2/37
+     - Geni nel pathway: TP53;MTOR
+
+  🔸 [Reactome_2022] Regulation Of PTEN Gene Transcription R-HSA-8943724
+     - P-value: 2.74e-05 | Overlap: 2/61
+     - Geni nel pathway: TP53;MTOR
+
+  🔸 [Reactome_2022] TP53 Regulates Metabolic Genes R-HSA-5628897
+     - P-value: 4.85e-05 | Overlap: 2/81
+     - Geni nel pathway: TP53;MTOR
+
+  🔸 [Reactome_2022] PTEN Regulation R-HSA-6807070
+     - P-value: 1.43e-04 | Overlap: 2/139
+     - Geni nel pathway: TP53;MTOR
+

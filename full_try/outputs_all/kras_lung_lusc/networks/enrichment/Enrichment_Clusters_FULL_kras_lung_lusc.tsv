@@ -1,0 +1,187 @@
+Cluster_ID	Gene_set	Term	Overlap	P-value	Adjusted P-value	Genes
+0	GO_Molecular_Function_2021	cyclin-dependent protein serine/threonine kinase inhibitor activity (GO:0004861)	2/10	3.3713141681840526e-06	6.068365502731295e-05	CDKN2B;CDKN2A
+0	GO_Biological_Process_2021	negative regulation of phosphate metabolic process (GO:0045936)	2/22	1.7278715595310902e-05	0.001155931189535	CDKN2B;CDKN2A
+0	GO_Biological_Process_2021	cellular senescence (GO:0090398)	2/27	2.623727537628245e-05	0.001155931189535	CDKN2B;CDKN2A
+0	GO_Molecular_Function_2021	protein serine/threonine kinase inhibitor activity (GO:0030291)	2/30	3.250333722969562e-05	0.0002925300350672606	CDKN2B;CDKN2A
+0	GO_Biological_Process_2021	negative regulation of cell cycle G1/S phase transition (GO:1902807)	2/35	4.44290689748568e-05	0.001155931189535	CDKN2B;CDKN2A
+0	Reactome_Pathways_2024	Oncogene Induced Senescence	2/35	4.44290689748568e-05	0.0024982993204934	CDKN2B;CDKN2A
+0	GO_Biological_Process_2021	negative regulation of G1/S transition of mitotic cell cycle (GO:2000134)	2/37	4.9717470517636224e-05	0.001155931189535	CDKN2B;CDKN2A
+0	GO_Molecular_Function_2021	cyclin-dependent protein serine/threonine kinase regulator activity (GO:0016538)	2/44	7.055399376325239e-05	0.00042332396257951433	CDKN2B;CDKN2A
+0	Reactome_Pathways_2024	G1 Phase	2/47	8.059030066108036e-05	0.0024982993204934	CDKN2B;CDKN2A
+0	Reactome_Pathways_2024	Cyclin D Associated Events in G1	2/47	8.059030066108036e-05	0.0024982993204934	CDKN2B;CDKN2A
+0	GO_Biological_Process_2021	regulation of G1/S transition of mitotic cell cycle (GO:2000045)	2/71	0.00018466939611485445	0.0034348507677362	CDKN2B;CDKN2A
+0	Reactome_Pathways_2024	Senescence-Associated Secretory Phenotype (SASP)	2/81	0.0002404553354155533	0.0055905865484116	CDKN2B;CDKN2A
+0	GO_Biological_Process_2021	regulation of cyclin-dependent protein serine/threonine kinase activity (GO:0000079)	2/82	0.0002464338466373958	0.0036014056089693	CDKN2B;CDKN2A
+0	GO_Biological_Process_2021	negative regulation of phosphorylation (GO:0042326)	2/86	0.00027107354046006227	0.0036014056089693	CDKN2B;CDKN2A
+0	GO_Biological_Process_2021	negative regulation of mitotic cell cycle phase transition (GO:1901991)	2/92	0.00031020679033826466	0.0036061539376823	CDKN2B;CDKN2A
+0	Reactome_Pathways_2024	Oxidative Stress Induced Senescence	2/94	0.0003238299215620844	0.0060232365410547	CDKN2B;CDKN2A
+0	KEGG_2021_Human	Cell cycle	2/124	0.0005627213564920427	0.0112519549627965	CDKN2B;CDKN2A
+0	GO_Biological_Process_2021	regulation of phosphorylation (GO:0042325)	2/125	0.0005717949105969484	0.0059085474095018	CDKN2B;CDKN2A
+0	Reactome_Pathways_2024	Mitotic G1 Phase and G1 S Transition	2/139	0.0007063014590670453	0.0109476726155392	CDKN2B;CDKN2A
+0	KEGG_2021_Human	Cushing syndrome	2/155	0.0008770408644773522	0.0112519549627965	CDKN2B;CDKN2A
+0	KEGG_2021_Human	Cellular senescence	2/156	0.0008883122339049933	0.0112519549627965	CDKN2B;CDKN2A
+0	Reactome_Pathways_2024	Cellular Senescence	2/167	0.0010169394827926	0.0116610839462201	CDKN2B;CDKN2A
+0	Reactome_Pathways_2024	SUMO E3 Ligases SUMOylate Target Proteins	2/170	0.0010534936635288	0.0116610839462201	CDKN2A;IKBKE
+0	Reactome_Pathways_2024	SUMOylation	2/176	0.0011284919947954	0.0116610839462201	CDKN2A;IKBKE
+0	KEGG_2021_Human	Viral carcinogenesis	2/203	0.0014970149329791	0.0132179057191153	CDKN2B;CDKN2A
+0	GO_Biological_Process_2021	L-methionine salvage from methylthioadenosine (GO:0019509)	1/5	0.0014992198216206	0.0122896987081587	MTAP
+0	GO_Biological_Process_2021	cellular response to nutrient (GO:0031670)	1/5	0.0014992198216206	0.0122896987081587	CDKN2B
+0	GO_Molecular_Function_2021	1,4-alpha-oligoglucan phosphorylase activity (GO:0004645)	1/5	0.0014992198216206	0.0064758272045322	MTAP
+0	Reactome_Pathways_2024	Cellular Responses to Stimuli	3/887	0.001572055503801	0.0146201161853501	CDKN2B;CDKN2A;IKBKE
+0	GO_Biological_Process_2021	mitotic cell cycle phase transition (GO:0044772)	2/209	0.0015857675752462	0.0122896987081587	CDKN2B;CDKN2A
+0	KEGG_2021_Human	Human T-cell leukemia virus 1 infection	2/219	0.0017391981209362	0.0132179057191153	CDKN2B;CDKN2A
+0	GO_Biological_Process_2021	regulation of macrophage apoptotic process (GO:2000109)	1/6	0.0017988408901478	0.0128686309833653	CDKN2A
+0	GO_Molecular_Function_2021	K48-linked polyubiquitin modification-dependent protein binding (GO:0036435)	1/6	0.0017988408901478	0.0064758272045322	IKBKE
+0	Reactome_Pathways_2024	Methionine Salvage Pathway	1/6	0.0017988408901478	0.0152083820712499	MTAP
+0	GO_Biological_Process_2021	L-methionine salvage (GO:0071267)	1/7	0.0020983872819732	0.0139392869445365	MTAP
+0	GO_Biological_Process_2021	positive regulation of myeloid cell apoptotic process (GO:0033034)	1/8	0.0023978589692277	0.0145362980662002	CDKN2A
+0	GO_Biological_Process_2021	positive regulation of smooth muscle cell apoptotic process (GO:0034393)	1/9	0.0026972559359141	0.0145362980662002	CDKN2A
+0	GO_Biological_Process_2021	regulation of smooth muscle cell apoptotic process (GO:0034391)	1/9	0.0026972559359141	0.0145362980662002	CDKN2A
+0	Reactome_Pathways_2024	RUNX3 Regulates p14-ARF	1/10	0.0029965781728721	0.0232234808397591	CDKN2A
+0	GO_Biological_Process_2021	regulation of cell cycle (GO:0051726)	2/296	0.0031483318209935	0.0145362980662002	CDKN2B;CDKN2A
+0	GO_Biological_Process_2021	positive regulation of leukocyte apoptotic process (GO:2000108)	1/11	0.0032958256764104	0.0145362980662002	CDKN2A
+0	GO_Biological_Process_2021	positive regulation of lipid localization (GO:1905954)	1/11	0.0032958256764104	0.0145362980662002	IKBKE
+0	Reactome_Pathways_2024	Regulation of TBK1, IKK?-mediated Activation of IRF3, IRF7 Upon TLR3 Ligation	1/11	0.0032958256764104	0.0235778298389363	IKBKE
+0	GO_Biological_Process_2021	positive regulation of cellular senescence (GO:2000774)	1/12	0.0035949984464796	0.0145362980662002	CDKN2A
+0	GO_Biological_Process_2021	replicative senescence (GO:0090399)	1/12	0.0035949984464796	0.0145362980662002	CDKN2A
+0	GO_Biological_Process_2021	megakaryocyte differentiation (GO:0030219)	1/12	0.0035949984464796	0.0145362980662002	CDKN2B
+0	Reactome_Pathways_2024	SUMOylation of Immune Response Proteins	1/12	0.0035949984464796	0.0238810611087575	IKBKE
+0	GO_Biological_Process_2021	positive regulation of cell aging (GO:0090343)	1/13	0.0038940964853966	0.0150896238809121	CDKN2A
+0	Reactome_Pathways_2024	TICAM1-dependent Activation of IRF3 IRF7	1/13	0.0038940964853966	0.0241433982094594	IKBKE
+0	Reactome_Pathways_2024	Regulation of TBK1, IKK? (IKBKE)-mediated Activation of IRF3, IRF7	1/14	0.0041931197986946	0.0243725088299128	IKBKE
+0	Reactome_Pathways_2024	Regulation of MITF-M-dependent Genes Involved in Cell Cycle and Proliferation	1/17	0.0050897414535705	0.026375122753995	CDKN2A
+0	GO_Biological_Process_2021	negative regulation of cell population proliferation (GO:0008285)	2/379	0.0051080887767998	0.0190020902496954	CDKN2B;CDKN2A
+0	Reactome_Pathways_2024	Activation of IRF3, IRF7 Mediated by TBK1, IKK? (IKBKE)	1/18	0.0053884659389882	0.026375122753995	IKBKE
+0	Reactome_Pathways_2024	TRAF3-dependent IRF Activation Pathway	1/18	0.0053884659389882	0.026375122753995	IKBKE
+0	GO_Biological_Process_2021	negative regulation of cyclin-dependent protein serine/threonine kinase activity (GO:0045736)	1/20	0.0059856908667451	0.0208646804155603	CDKN2A
+0	Reactome_Pathways_2024	SUMOylation of Transcription Factors	1/20	0.0059856908667451	0.0265080595527286	CDKN2A
+0	Reactome_Pathways_2024	Apoptotic Factor-Mediated Response	1/20	0.0059856908667451	0.0265080595527286	CDKN2A
+0	GO_Biological_Process_2021	positive regulation of lipid storage (GO:0010884)	1/21	0.0062841913325394	0.0208646804155603	IKBKE
+0	GO_Biological_Process_2021	negative regulation of cyclin-dependent protein kinase activity (GO:1904030)	1/22	0.0065826171479286	0.0208646804155603	CDKN2A
+0	GO_Biological_Process_2021	regulation of lipid storage (GO:0010883)	1/22	0.0065826171479286	0.0208646804155603	IKBKE
+0	GO_Molecular_Function_2021	K63-linked polyubiquitin modification-dependent protein binding (GO:0070530)	1/22	0.0065826171479286	0.0168259382045113	IKBKE
+0	GO_Biological_Process_2021	positive regulation of cellular response to transforming growth factor beta stimulus (GO:1903846)	1/24	0.0071792448741713	0.0208646804155603	CDKN2B
+0	GO_Biological_Process_2021	positive regulation of transforming growth factor beta receptor signaling pathway (GO:0030511)	1/24	0.0071792448741713	0.0208646804155603	CDKN2B
+0	GO_Biological_Process_2021	heterochromatin assembly (GO:0031507)	1/24	0.0071792448741713	0.0208646804155603	CDKN2A
+0	GO_Molecular_Function_2021	NF-kappaB binding (GO:0051059)	1/25	0.007477446810139	0.0168259382045113	CDKN2A
+0	Reactome_Pathways_2024	Defective Intrinsic Pathway for Apoptosis	1/25	0.007477446810139	0.0314403650196112	CDKN2A
+0	GO_Molecular_Function_2021	kinase binding (GO:0019900)	2/461	0.0074781947575605	0.0168259382045113	CDKN2B;CDKN2A
+0	Reactome_Pathways_2024	TNFR1-induced Proapoptotic Signaling	1/26	0.007775574144635	0.0314403650196112	IKBKE
+0	GO_Biological_Process_2021	response to interferon-beta (GO:0035456)	1/28	0.0083716050611861	0.0235927051724336	IKBKE
+0	Reactome_Pathways_2024	Sulfur Amino Acid Metabolism	1/28	0.0083716050611861	0.0320403402804427	MTAP
+0	Reactome_Pathways_2024	TRAF6 Mediated IRF7 Activation	1/29	0.0086695086687213	0.0320403402804427	IKBKE
+0	GO_Molecular_Function_2021	protein kinase binding (GO:0019901)	2/506	0.0089567011480177	0.0179134022960354	CDKN2B;CDKN2A
+0	GO_Biological_Process_2021	TRIF-dependent toll-like receptor signaling pathway (GO:0035666)	1/30	0.008967337727522	0.0239348216450957	IKBKE
+0	GO_Biological_Process_2021	MyD88-independent toll-like receptor signaling pathway (GO:0002756)	1/31	0.0092650922497144	0.0239348216450957	IKBKE
+0	GO_Biological_Process_2021	regulation of cellular senescence (GO:2000772)	1/31	0.0092650922497144	0.0239348216450957	CDKN2A
+0	Reactome_Pathways_2024	Turbulent Flow Shear Stress Activates Signaling by PIEZO1 and Integrins in Endothelial Cells	1/31	0.0092650922497144	0.0320403402804427	IKBKE
+0	Reactome_Pathways_2024	Cell Cycle, Mitotic	2/516	0.0093020342749672	0.0320403402804427	CDKN2B;CDKN2A
+0	GO_Biological_Process_2021	negative regulation of cell-matrix adhesion (GO:0001953)	1/32	0.0095627722512654	0.0240361572802078	CDKN2A
+0	KEGG_2021_Human	Pathways in cancer	2/531	0.0098313553225379	0.0536444331459377	CDKN2B;CDKN2A
+0	Reactome_Pathways_2024	Negative Regulators of DDX58 IFIH1 Signaling	1/35	0.0104553652553503	0.032114222052796	IKBKE
+0	Reactome_Pathways_2024	SMAD2 SMAD3 SMAD4 Heterotrimer Regulates Transcription	1/36	0.010752747305294	0.032114222052796	CDKN2B
+0	Reactome_Pathways_2024	Regulation of TP53 Degradation	1/36	0.010752747305294	0.032114222052796	CDKN2A
+0	Reactome_Pathways_2024	Gene and Protein Expression by JAK-STAT Signaling After Interleukin-12 Stimulation	1/37	0.0110500548998867	0.032114222052796	MTAP
+0	Reactome_Pathways_2024	Regulation of TP53 Expression and Degradation	1/37	0.0110500548998867	0.032114222052796	CDKN2A
+0	GO_Biological_Process_2021	negative regulation of cellular process (GO:0048523)	2/566	0.011118805933491	0.0272118145214385	CDKN2B;CDKN2A
+0	GO_Biological_Process_2021	negative regulation of cell-substrate adhesion (GO:0010812)	1/40	0.0119415311049953	0.0284546078883227	CDKN2A
+0	KEGG_2021_Human	Bladder cancer	1/41	0.0122385410272356	0.0536444331459377	CDKN2A
+0	GO_Biological_Process_2021	regulation of G0 to G1 transition (GO:0070316)	1/41	0.0122385410272356	0.0284546078883227	CDKN2B
+0	Reactome_Pathways_2024	Transcriptional Regulation by VENTX	1/41	0.0122385410272356	0.0344818619240968	CDKN2A
+0	GO_Biological_Process_2021	negative regulation of type I interferon production (GO:0032480)	1/43	0.0128323377374525	0.0291074977947094	IKBKE
+0	Reactome_Pathways_2024	Stabilization of P53	1/44	0.0131291245516557	0.0344818619240968	CDKN2A
+0	Reactome_Pathways_2024	Regulation of RUNX3 Expression and Activity	1/45	0.0134258370265617	0.0344818619240968	CDKN2A
+0	GO_Biological_Process_2021	positive regulation of response to stimulus (GO:0048584)	1/46	0.0137224751767354	0.0296788416613116	CDKN2A
+0	GO_Biological_Process_2021	interleukin-12-mediated signaling pathway (GO:0035722)	1/46	0.0137224751767354	0.0296788416613116	MTAP
+0	Reactome_Pathways_2024	Interleukin-12 Signaling	1/46	0.0137224751767354	0.0344818619240968	MTAP
+0	GO_Biological_Process_2021	cellular response to interleukin-12 (GO:0071349)	1/48	0.0143155285543427	0.0302578217171334	MTAP
+0	Reactome_Pathways_2024	Cell Cycle	2/649	0.0144592673831013	0.0344818619240968	CDKN2B;CDKN2A
+0	KEGG_2021_Human	Cysteine and methionine metabolism	1/50	0.0149082847993736	0.0536444331459377	MTAP
+0	Reactome_Pathways_2024	Regulation of TNFR1 Signaling	1/50	0.0149082847993736	0.0344818619240968	IKBKE
+0	GO_Biological_Process_2021	intrinsic apoptotic signaling pathway in response to DNA damage (GO:0008630)	1/51	0.0152045515346865	0.0313384607508469	IKBKE
+0	GO_Molecular_Function_2021	polyubiquitin modification-dependent protein binding (GO:0031593)	1/51	0.0152045515346865	0.0273681927624357	IKBKE
+0	Reactome_Pathways_2024	Transcriptional Activity of SMAD2 SMAD3 SMAD4 Heterotrimer	1/51	0.0152045515346865	0.0344818619240968	CDKN2B
+0	GO_Biological_Process_2021	myeloid cell differentiation (GO:0030099)	1/52	0.0155007440273006	0.0313384607508469	CDKN2B
+0	Reactome_Pathways_2024	p53-Dependent G1 DNA Damage Response	1/53	0.0157968622983064	0.0344818619240968	CDKN2A
+0	Reactome_Pathways_2024	p53-Dependent G1 S DNA Damage Checkpoint	1/53	0.0157968622983064	0.0344818619240968	CDKN2A
+0	GO_Biological_Process_2021	regulation of cyclin-dependent protein kinase activity (GO:1904029)	1/54	0.0160929063554706	0.0318434104480589	CDKN2B
+0	Reactome_Pathways_2024	SARS-CoV-1 Activates Modulates Innate Immune Responses	1/54	0.0160929063554706	0.0344818619240968	IKBKE
+0	Reactome_Pathways_2024	G1 S DNA Damage Checkpoints	1/55	0.0163888762191803	0.0344818619240968	CDKN2A
+0	Reactome_Pathways_2024	Intrinsic Pathway for Apoptosis	1/55	0.0163888762191803	0.0344818619240968	CDKN2A
+0	Reactome_Pathways_2024	Interleukin-12 Family Signaling	1/56	0.0166847718987565	0.0344818619240968	MTAP
+0	Reactome_Pathways_2024	TNF Signaling	1/59	0.0175720139945569	0.0355260282933433	IKBKE
+0	GO_Biological_Process_2021	regulation of DNA-templated transcription, initiation (GO:2000142)	1/61	0.0181631380812362	0.0346254108586078	CDKN2A
+0	KEGG_2021_Human	Cytosolic DNA-sensing pathway	1/63	0.0187539657915919	0.0536444331459377	IKBKE
+0	GO_Biological_Process_2021	cell cycle G1/S phase transition (GO:0044843)	1/63	0.0187539657915919	0.0346254108586078	CDKN2A
+0	GO_Biological_Process_2021	regulation of transcription initiation from RNA polymerase II promoter (GO:0060260)	1/64	0.0190492685407353	0.0346254108586078	CDKN2A
+0	GO_Biological_Process_2021	regulation of cell-matrix adhesion (GO:0001952)	1/65	0.0193444972400453	0.0346254108586078	CDKN2A
+0	GO_Biological_Process_2021	cellular response to nutrient levels (GO:0031669)	1/66	0.0196396519018298	0.0346254108586078	CDKN2B
+0	GO_Biological_Process_2021	regulation of cell population proliferation (GO:0042127)	2/764	0.0197327610269485	0.0346254108586078	CDKN2B;CDKN2A
+0	KEGG_2021_Human	RIG-I-like receptor signaling pathway	1/70	0.0208195304784689	0.0536444331459377	IKBKE
+0	Reactome_Pathways_2024	Cellular Responses to Stress	2/787	0.0208744009823024	0.0413046657734921	CDKN2B;CDKN2A
+0	KEGG_2021_Human	Melanoma	1/72	0.0214090259328941	0.0536444331459377	CDKN2A
+0	KEGG_2021_Human	Non-small cell lung cancer	1/72	0.0214090259328941	0.0536444331459377	CDKN2A
+0	GO_Biological_Process_2021	negative regulation of epithelial cell proliferation (GO:0050680)	1/72	0.0214090259328941	0.0368711002177621	CDKN2B
+0	KEGG_2021_Human	p53 signaling pathway	1/73	0.0217036627474641	0.0536444331459377	CDKN2A
+0	KEGG_2021_Human	Glioma	1/75	0.0222927146382014	0.0536444331459377	CDKN2A
+0	KEGG_2021_Human	Pancreatic cancer	1/76	0.0225871297456579	0.0536444331459377	CDKN2A
+0	KEGG_2021_Human	Chronic myeloid leukemia	1/76	0.0225871297456579	0.0536444331459377	CDKN2A
+0	Reactome_Pathways_2024	SUMOylation of DNA Damage Response and Repair Proteins	1/77	0.0228814709747458	0.0439866054168079	CDKN2A
+0	GO_Biological_Process_2021	negative regulation of protein serine/threonine kinase activity (GO:0071901)	1/78	0.023175738337888	0.0387729262200755	CDKN2A
+0	Reactome_Pathways_2024	Diseases of Programmed Cell Death	1/78	0.023175738337888	0.0439866054168079	CDKN2A
+0	GO_Biological_Process_2021	negative regulation of NF-kappaB transcription factor activity (GO:0032088)	1/79	0.023469931862476	0.0387729262200755	CDKN2A
+0	GO_Biological_Process_2021	negative regulation of cell cycle (GO:0045786)	1/80	0.0237640515542398	0.0387729262200755	CDKN2A
+0	GO_Biological_Process_2021	G1/S transition of mitotic cell cycle (GO:0000082)	1/85	0.02523354305099	0.0404606810990012	CDKN2A
+0	Reactome_Pathways_2024	Transcriptional Regulation by RUNX3	1/86	0.025527220063161	0.0461795494456888	CDKN2A
+0	Reactome_Pathways_2024	DDX58 IFIH1-mediated Induction of Interferon-Alpha Beta	1/86	0.025527220063161	0.0461795494456888	IKBKE
+0	Reactome_Pathways_2024	Nuclear Events Mediated by NFE2L2	1/87	0.0258208233459765	0.0461795494456888	CDKN2A
+0	GO_Biological_Process_2021	regulation of type I interferon production (GO:0032479)	1/89	0.0264078087841633	0.0416258680835117	IKBKE
+0	KEGG_2021_Human	Small cell lung cancer	1/92	0.0272877343434333	0.0557348042941945	CDKN2B
+0	GO_Biological_Process_2021	positive regulation of transmembrane receptor protein serine/threonine kinase signaling pathway (GO:0090100)	1/92	0.0272877343434333	0.042049562085504	CDKN2B
+0	GO_Biological_Process_2021	regulation of epithelial cell proliferation (GO:0050678)	1/93	0.0275808955614596	0.042049562085504	CDKN2B
+0	Reactome_Pathways_2024	Cellular Responses to Mechanical Stimuli	1/93	0.0275808955614596	0.0462907220277037	IKBKE
+0	Reactome_Pathways_2024	Response of Endothelial Cells to Shear Stress	1/93	0.0275808955614596	0.0462907220277037	IKBKE
+0	KEGG_2021_Human	IL-17 signaling pathway	1/94	0.0278739831564667	0.0557348042941945	IKBKE
+0	KEGG_2021_Human	TGF-beta signaling pathway	1/94	0.0278739831564667	0.0557348042941945	CDKN2B
+0	Reactome_Pathways_2024	MITF-M-dependent Gene Expression	1/94	0.0278739831564667	0.0462907220277037	CDKN2A
+0	Reactome_Pathways_2024	Signaling by TGF-beta Receptor Complex	1/94	0.0278739831564667	0.0462907220277037	CDKN2B
+0	GO_Biological_Process_2021	regulation of transforming growth factor beta receptor signaling pathway (GO:0017015)	1/100	0.0296309633944118	0.0444464450916177	CDKN2B
+0	GO_Biological_Process_2021	intrinsic apoptotic signaling pathway (GO:0097193)	1/102	0.030216035137483	0.0446046232981892	IKBKE
+0	KEGG_2021_Human	Toll-like receptor signaling pathway	1/104	0.0308008128994232	0.0557348042941945	IKBKE
+0	KEGG_2021_Human	C-type lectin receptor signaling pathway	1/104	0.0308008128994232	0.0557348042941945	IKBKE
+0	GO_Biological_Process_2021	small GTPase mediated signal transduction (GO:0007264)	1/106	0.031385296805751	0.0449051169682283	CDKN2A
+0	GO_Biological_Process_2021	regulation of cell cycle process (GO:0010564)	1/106	0.031385296805751	0.0449051169682283	CDKN2B
+0	Reactome_Pathways_2024	Toll Like Receptor 3 (TLR3) Cascade	1/106	0.031385296805751	0.0512075895251727	IKBKE
+0	Reactome_Pathways_2024	MyD88-independent TLR4 Cascade	1/110	0.0325533835200698	0.0513129604638388	IKBKE
+0	Reactome_Pathways_2024	TRIF (TICAM1)-mediated TLR4 Signaling	1/110	0.0325533835200698	0.0513129604638388	IKBKE
+0	GO_Biological_Process_2021	regulation of protein serine/threonine kinase activity (GO:0071900)	1/111	0.0328452217191507	0.0462819033315306	CDKN2B
+0	Reactome_Pathways_2024	SARS-CoV-1-host Interactions	1/112	0.0331369865600355	0.0513623291680551	IKBKE
+0	GO_Molecular_Function_2021	phosphatase binding (GO:0019902)	1/114	0.0337202962167316	0.0503190860406008	IKBKE
+0	GO_Molecular_Function_2021	hexosyltransferase activity (GO:0016758)	1/119	0.0351772875496916	0.0503190860406008	MTAP
+0	Reactome_Pathways_2024	KEAP1-NFE2L2 Pathway	1/119	0.0351772875496916	0.0536309465921528	CDKN2A
+0	GO_Molecular_Function_2021	protein phosphatase binding (GO:0019903)	1/123	0.0363415621404339	0.0503190860406008	IKBKE
+0	GO_Biological_Process_2021	negative regulation of cell growth (GO:0030308)	1/126	0.0372139995836529	0.050895617077643	CDKN2A
+0	GO_Biological_Process_2021	negative regulation of growth (GO:0045926)	1/126	0.0372139995836529	0.050895617077643	CDKN2A
+0	GO_Cellular_Component_2021	mitochondrial envelope (GO:0005740)	1/127	0.0375046657620057	0.1500186630480231	IKBKE
+0	GO_Biological_Process_2021	G2/M transition of mitotic cell cycle (GO:0000086)	1/130	0.0383762255998969	0.0513713391474064	CDKN2B
+0	KEGG_2021_Human	FoxO signaling pathway	1/131	0.0386665993582628	0.0667877625279086	CDKN2B
+0	GO_Biological_Process_2021	cell cycle G2/M phase transition (GO:0044839)	1/131	0.0386665993582628	0.0513713391474064	CDKN2B
+0	Reactome_Pathways_2024	MITF-M-regulated Melanocyte Development	1/136	0.0401173724348215	0.0600767756494554	CDKN2A
+0	Reactome_Pathways_2024	SARS-CoV-2 Activates Modulates Innate and Adaptive Immune Responses	1/138	0.040697170601244	0.0600767756494554	IKBKE
+0	KEGG_2021_Human	Measles	1/139	0.0409869602255531	0.0677175864596095	IKBKE
+0	GO_Biological_Process_2021	Ras protein signal transduction (GO:0007265)	1/142	0.0418558914624202	0.0544377946069036	CDKN2A
+0	GO_Biological_Process_2021	negative regulation of DNA-binding transcription factor activity (GO:0043433)	1/143	0.0421453893730866	0.0544377946069036	CDKN2A
+0	Reactome_Pathways_2024	Toll Like Receptor 4 (TLR4) Cascade	1/148	0.0435917858398318	0.0633443137985056	IKBKE
+0	KEGG_2021_Human	Gastric cancer	1/149	0.0438808466173447	0.0685481730346442	CDKN2B
+0	GO_Biological_Process_2021	response to cytokine (GO:0034097)	1/150	0.0441698345932514	0.0562711591393477	IKBKE
+0	GO_Biological_Process_2021	peptidyl-serine phosphorylation (GO:0018105)	1/156	0.0459022343700219	0.0576879431947572	IKBKE
+0	KEGG_2021_Human	Hepatitis C	1/157	0.0461907131207666	0.0685481730346442	IKBKE
+0	Reactome_Pathways_2024	SARS-CoV-1 Infection	1/157	0.0461907131207666	0.0647323922187557	IKBKE
+0	Reactome_Pathways_2024	Death Receptor Signaling	1/157	0.0461907131207666	0.0647323922187557	IKBKE
+0	Reactome_Pathways_2024	Regulation of TP53 Activity	1/160	0.0470557133175104	0.0647323922187557	CDKN2A
+0	Reactome_Pathways_2024	Signaling by TGFB Family Members	1/161	0.0473439014083444	0.0647323922187557	CDKN2B
+0	KEGG_2021_Human	Hepatitis B	1/162	0.0476320168708628	0.0685481730346442	IKBKE
+0	Reactome_Pathways_2024	Generic Transcription Pathway	2/1230	0.0480272587429478	0.0647323922187557	CDKN2B;CDKN2A
+0	KEGG_2021_Human	Hepatocellular carcinoma	1/168	0.0493591852655947	0.0685481730346442	CDKN2A
+0	Reactome_Pathways_2024	Apoptosis	1/168	0.0493591852655947	0.065577203281433	CDKN2A
+0	GO_Biological_Process_2021	peptidyl-serine modification (GO:0018209)	1/169	0.049646792738525	0.061455611641137	IKBKE

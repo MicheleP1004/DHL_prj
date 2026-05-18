@@ -1,0 +1,85 @@
+--- 🏆 TOP 5 PATHWAY PER DATABASE — HUB GLOBALI DELLA RETE (KRAS_LUNG_LUAD - FULL) ---
+Geni Hub analizzati (21): RBM10, PDGFRA, CIC, SMARCA4, MGA, KEAP1, RET, FAT1, TP53, PTPRT, ARID1A, ATRX, PTPRD, ZFHX3, ALK, GLI1, EPHA5, EPHA3, U2AF1, GRIN2A, DIS3
+================================================================================
+
+
+  [GO]
+  🔸 [GO_Biological_Process_2021] enzyme linked receptor protein signaling pathway (GO:0007167)
+     - P-value: 7.58e-11 | Adjusted: 3.42e-08
+     - Overlap: 7/140
+     - Hubs coinvolti: RET;PTPRT;ALK;EPHA5;PTPRD;PDGFRA;EPHA3
+
+  🔸 [GO_Biological_Process_2021] regulation of kinase activity (GO:0043549)
+     - P-value: 3.95e-08 | Adjusted: 8.90e-06
+     - Overlap: 5/94
+     - Hubs coinvolti: RET;ALK;EPHA5;PDGFRA;EPHA3
+
+  🔸 [GO_Biological_Process_2021] positive regulation of kinase activity (GO:0033674)
+     - P-value: 1.04e-07 | Adjusted: 1.57e-05
+     - Overlap: 5/114
+     - Hubs coinvolti: RET;ALK;EPHA5;PDGFRA;EPHA3
+
+  🔸 [GO_Biological_Process_2021] positive regulation of transferase activity (GO:0051347)
+     - P-value: 3.83e-07 | Adjusted: 4.32e-05
+     - Overlap: 5/148
+     - Hubs coinvolti: RET;ALK;EPHA5;PDGFRA;EPHA3
+
+  🔸 [GO_Biological_Process_2021] transmembrane receptor protein tyrosine kinase signaling pathway (GO:0007169)
+     - P-value: 2.75e-06 | Adjusted: 2.48e-04
+     - Overlap: 6/404
+     - Hubs coinvolti: RET;PTPRT;ALK;EPHA5;PDGFRA;EPHA3
+
+
+  [KEGG]
+  🔸 [KEGG_2021_Human] Pathways in cancer
+     - P-value: 1.32e-05 | Adjusted: 1.05e-03
+     - Overlap: 6/531
+     - Hubs coinvolti: RET;ALK;PDGFRA;KEAP1;GLI1;TP53
+
+  🔸 [KEGG_2021_Human] Hepatocellular carcinoma
+     - P-value: 2.57e-05 | Adjusted: 1.05e-03
+     - Overlap: 4/168
+     - Hubs coinvolti: KEAP1;ARID1A;TP53;SMARCA4
+
+  🔸 [KEGG_2021_Human] Central carbon metabolism in cancer
+     - P-value: 5.22e-05 | Adjusted: 1.16e-03
+     - Overlap: 3/70
+     - Hubs coinvolti: RET;PDGFRA;TP53
+
+  🔸 [KEGG_2021_Human] Non-small cell lung cancer
+     - P-value: 5.68e-05 | Adjusted: 1.16e-03
+     - Overlap: 3/72
+     - Hubs coinvolti: RET;ALK;TP53
+
+  🔸 [KEGG_2021_Human] Thyroid cancer
+     - P-value: 6.84e-04 | Adjusted: 1.12e-02
+     - Overlap: 2/37
+     - Hubs coinvolti: RET;TP53
+
+
+  [Reactome]
+  🔸 [Reactome_2022] RUNX3 Regulates CDKN1A Transcription R-HSA-8941855
+     - P-value: 2.20e-05 | Adjusted: 4.09e-03
+     - Overlap: 2/7
+     - Hubs coinvolti: ZFHX3;TP53
+
+  🔸 [Reactome_2022] Synaptic Adhesion-Like Molecules R-HSA-8849932
+     - P-value: 2.18e-04 | Adjusted: 1.64e-02
+     - Overlap: 2/21
+     - Hubs coinvolti: PTPRD;GRIN2A
+
+  🔸 [Reactome_2022] RNA Polymerase II Transcription R-HSA-73857
+     - P-value: 2.64e-04 | Adjusted: 1.64e-02
+     - Overlap: 7/1312
+     - Hubs coinvolti: ZFHX3;GRIN2A;MGA;U2AF1;ARID1A;TP53;SMARCA4
+
+  🔸 [Reactome_2022] Gene Expression (Transcription) R-HSA-74160
+     - P-value: 4.86e-04 | Adjusted: 2.26e-02
+     - Overlap: 7/1449
+     - Hubs coinvolti: ZFHX3;GRIN2A;MGA;U2AF1;ARID1A;TP53;SMARCA4
+
+  🔸 [Reactome_2022] RUNX1 Interacts With Co-Factors Whose Precise Effect On RUNX1 Targets Is Not Known R-HSA-8939243
+     - P-value: 6.12e-04 | Adjusted: 2.28e-02
+     - Overlap: 2/35
+     - Hubs coinvolti: ARID1A;SMARCA4
+

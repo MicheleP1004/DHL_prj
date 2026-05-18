@@ -1,0 +1,44 @@
+--- 🏆 TOP 5 PATHWAY PER DATABASE — HUB LOCALI PER OGNI CLUSTER (LUNG_LUAD - FILTERED) ---
+
+================================================================================
+🎯 CLUSTER 0  |  TOP HUB ANALIZZATI: 3
+🧬 GENI HUB: KDM5A, PAK7, RECQL
+================================================================================
+
+  [GO]
+  🔸 [GO_Biological_Process_2021] negative regulation of histone deacetylation (GO:0031064)
+     - P-value: 7.50e-04 | Overlap: 1/5
+     - Geni nel pathway: KDM5A
+
+  🔸 [GO_Biological_Process_2021] regulation of histone deacetylase activity (GO:1901725)
+     - P-value: 1.05e-03 | Overlap: 1/7
+     - Geni nel pathway: KDM5A
+
+  🔸 [GO_Biological_Process_2021] histone H3-K4 demethylation (GO:0034720)
+     - P-value: 1.20e-03 | Overlap: 1/8
+     - Geni nel pathway: KDM5A
+
+  🔸 [GO_Biological_Process_2021] DNA unwinding involved in DNA replication (GO:0006268)
+     - P-value: 2.40e-03 | Overlap: 1/16
+     - Geni nel pathway: RECQL
+
+  🔸 [GO_Biological_Process_2021] histone lysine demethylation (GO:0070076)
+     - P-value: 3.90e-03 | Overlap: 1/26
+     - Geni nel pathway: KDM5A
+
+  [Reactome]
+  🔸 [Reactome_2022] HDMs Demethylate Histones R-HSA-3214842
+     - P-value: 3.90e-03 | Overlap: 1/26
+     - Geni nel pathway: KDM5A
+
+  🔸 [Reactome_2022] Chromatin Modifying Enzymes R-HSA-3247509
+     - P-value: 3.53e-02 | Overlap: 1/238
+     - Geni nel pathway: KDM5A
+
+================================================================================
+🎯 CLUSTER 1  |  TOP HUB ANALIZZATI: 1
+🧬 GENI HUB: SOX17
+================================================================================
+
+[-] Troppi pochi hub per un enrichment (dopo filtraggio).
+

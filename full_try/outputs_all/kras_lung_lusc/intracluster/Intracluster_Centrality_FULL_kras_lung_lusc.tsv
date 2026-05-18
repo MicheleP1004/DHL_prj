@@ -1,0 +1,10 @@
+Cluster_ID	Gene	Degree_Centrality	Betweenness_Centrality	Closeness_Centrality
+0	CDKN2A	1.0	0.025	1.0
+0	CDKN2Ap14ARF	1.0	0.025	1.0
+0	CDKN2Ap16INK4A	1.0	0.025	1.0
+0	CDKN2B	1.0	0.025	1.0
+0	IKBKE	0.8	0.0	0.8333
+0	MTAP	0.8	0.0	0.8333
+1	TSHR	1.0	1.0	1.0
+1	PIK3C3	0.5	0.0	0.6667
+1	ZFHX3	0.5	0.0	0.6667

@@ -1,14 +1,14 @@
 --- 👑 TOP 3 HUB GENES PER OGNI CLUSTER (PANCREAS - FILTERED) ---
 
 ------------------------------------------------------------
-🎯 CLUSTER 0 | Totale geni nel network: 7
+🎯 CLUSTER 0 | Totale geni nel network: 4
 ------------------------------------------------------------
 🔸 HUB: KRAS
    - Degree Centrality:      1.0000
-   - Betweenness Centrality: 0.6667
-🔸 HUB: CDKN2A
-   - Degree Centrality:      0.5000
-   - Betweenness Centrality: 0.0333
+   - Betweenness Centrality: 1.0000
 🔸 HUB: KDM6A
-   - Degree Centrality:      0.5000
-   - Betweenness Centrality: 0.0333
+   - Degree Centrality:      0.3333
+   - Betweenness Centrality: 0.0000
+🔸 HUB: RNF43
+   - Degree Centrality:      0.3333
+   - Betweenness Centrality: 0.0000

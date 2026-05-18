@@ -1,0 +1,85 @@
+--- 🏆 TOP 5 PATHWAY PER DATABASE — HUB GLOBALI DELLA RETE (LUNG_LUSC - FULL) ---
+Geni Hub analizzati (24): EPHA3, KDM5C, MED12, AGO2, MCL1, KDM5A, IL7R, AXL, KDR, KIT, CCND1, DNMT3B, FGF4, MAP3K13, CDKN2A, NKX2-1, FOXA1, NFKBIA, RTEL1, AURKA, GNAS, CDK12, ERBB2, PAK1
+================================================================================
+
+
+  [GO]
+  🔸 [GO_Biological_Process_2021] positive regulation of phosphorylation (GO:0042327)
+     - P-value: 3.62e-10 | Adjusted: 1.69e-07
+     - Overlap: 8/253
+     - Hubs coinvolti: PAK1;CCND1;AXL;KIT;ERBB2;KDR;EPHA3;FGF4
+
+  🔸 [GO_Biological_Process_2021] protein autophosphorylation (GO:0046777)
+     - P-value: 5.43e-10 | Adjusted: 1.69e-07
+     - Overlap: 7/159
+     - Hubs coinvolti: PAK1;KIT;ERBB2;KDR;CDK12;MAP3K13;AURKA
+
+  🔸 [GO_Biological_Process_2021] protein phosphorylation (GO:0006468)
+     - P-value: 7.01e-08 | Adjusted: 1.27e-05
+     - Overlap: 8/496
+     - Hubs coinvolti: PAK1;KIT;ERBB2;KDR;CDK12;MAP3K13;EPHA3;AURKA
+
+  🔸 [GO_Biological_Process_2021] regulation of kinase activity (GO:0043549)
+     - P-value: 8.16e-08 | Adjusted: 1.27e-05
+     - Overlap: 5/94
+     - Hubs coinvolti: AXL;KIT;ERBB2;KDR;EPHA3
+
+  🔸 [GO_Biological_Process_2021] positive regulation of kinase activity (GO:0033674)
+     - P-value: 2.15e-07 | Adjusted: 2.67e-05
+     - Overlap: 5/114
+     - Hubs coinvolti: AXL;KIT;ERBB2;KDR;EPHA3
+
+
+  [KEGG]
+  🔸 [KEGG_2021_Human] Pathways in cancer
+     - P-value: 1.18e-07 | Adjusted: 9.73e-06
+     - Overlap: 8/531
+     - Hubs coinvolti: NFKBIA;CCND1;CDKN2A;KIT;ERBB2;GNAS;IL7R;FGF4
+
+  🔸 [KEGG_2021_Human] PI3K-Akt signaling pathway
+     - P-value: 1.37e-07 | Adjusted: 9.73e-06
+     - Overlap: 7/354
+     - Hubs coinvolti: CCND1;KIT;ERBB2;KDR;IL7R;FGF4;MCL1
+
+  🔸 [KEGG_2021_Human] MAPK signaling pathway
+     - P-value: 1.03e-06 | Adjusted: 4.89e-05
+     - Overlap: 6/294
+     - Hubs coinvolti: PAK1;KIT;ERBB2;KDR;MAP3K13;FGF4
+
+  🔸 [KEGG_2021_Human] Bladder cancer
+     - P-value: 1.57e-05 | Adjusted: 5.58e-04
+     - Overlap: 3/41
+     - Hubs coinvolti: CCND1;CDKN2A;ERBB2
+
+  🔸 [KEGG_2021_Human] Breast cancer
+     - P-value: 2.65e-05 | Adjusted: 6.84e-04
+     - Overlap: 4/147
+     - Hubs coinvolti: CCND1;KIT;ERBB2;FGF4
+
+
+  [Reactome]
+  🔸 [Reactome_2022] Gene Expression (Transcription) R-HSA-74160
+     - P-value: 2.58e-05 | Adjusted: 3.56e-03
+     - Overlap: 9/1449
+     - Hubs coinvolti: MED12;CCND1;CDKN2A;AGO2;KIT;ERBB2;DNMT3B;CDK12;AURKA
+
+  🔸 [Reactome_2022] SUMO E3 Ligases SUMOylate Target Proteins R-HSA-3108232
+     - P-value: 4.48e-05 | Adjusted: 3.56e-03
+     - Overlap: 4/168
+     - Hubs coinvolti: NFKBIA;CDKN2A;DNMT3B;AURKA
+
+  🔸 [Reactome_2022] Generic Transcription Pathway R-HSA-212436
+     - P-value: 4.78e-05 | Adjusted: 3.56e-03
+     - Overlap: 8/1190
+     - Hubs coinvolti: MED12;CCND1;CDKN2A;AGO2;KIT;ERBB2;CDK12;AURKA
+
+  🔸 [Reactome_2022] SUMOylation R-HSA-2990846
+     - P-value: 5.13e-05 | Adjusted: 3.56e-03
+     - Overlap: 4/174
+     - Hubs coinvolti: NFKBIA;CDKN2A;DNMT3B;AURKA
+
+  🔸 [Reactome_2022] RUNX3 Regulates p14-ARF R-HSA-8951936
+     - P-value: 6.17e-05 | Adjusted: 3.56e-03
+     - Overlap: 2/10
+     - Hubs coinvolti: CCND1;CDKN2A
+

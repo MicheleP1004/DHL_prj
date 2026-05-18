@@ -1,0 +1,4 @@
+Cluster_ID	N_Nodes	N_Edges	N_Components	Density	Avg_Degree	Avg_Clustering	Transitivity	Diameter_LCC	Avg_Edge_Weight
+0	22	34	1	0.147	3.09	0.092	0.154	2	12.71
+1	8	12	1	0.429	3.0	0.353	0.387	3	4.08
+2	8	12	1	0.429	3.0	0.082	0.405	3	20.67

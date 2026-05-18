@@ -1,0 +1,92 @@
+--- 👑 TOP 3 HUB GENES PER OGNI CLUSTER (LUNG_LUSC - FULL) ---
+
+------------------------------------------------------------
+🎯 CLUSTER 0 | Totale geni nel network: 44
+------------------------------------------------------------
+🔸 HUB: ZFHX3
+   - Degree Centrality:      0.4186
+   - Betweenness Centrality: 0.3897
+🔸 HUB: PDGFRA
+   - Degree Centrality:      0.2791
+   - Betweenness Centrality: 0.2180
+🔸 HUB: FAT1
+   - Degree Centrality:      0.2326
+   - Betweenness Centrality: 0.2054
+
+------------------------------------------------------------
+🎯 CLUSTER 1 | Totale geni nel network: 43
+------------------------------------------------------------
+🔸 HUB: KEAP1
+   - Degree Centrality:      0.3810
+   - Betweenness Centrality: 0.3561
+🔸 HUB: PTPRT
+   - Degree Centrality:      0.3333
+   - Betweenness Centrality: 0.3086
+🔸 HUB: SMARCA4
+   - Degree Centrality:      0.2857
+   - Betweenness Centrality: 0.2101
+
+------------------------------------------------------------
+🎯 CLUSTER 2 | Totale geni nel network: 43
+------------------------------------------------------------
+🔸 HUB: TP53
+   - Degree Centrality:      0.4762
+   - Betweenness Centrality: 0.4575
+🔸 HUB: KMT2D
+   - Degree Centrality:      0.4524
+   - Betweenness Centrality: 0.4113
+🔸 HUB: ERBB4
+   - Degree Centrality:      0.2381
+   - Betweenness Centrality: 0.0635
+
+------------------------------------------------------------
+🎯 CLUSTER 3 | Totale geni nel network: 42
+------------------------------------------------------------
+🔸 HUB: NF1
+   - Degree Centrality:      0.4390
+   - Betweenness Centrality: 0.2484
+🔸 HUB: EPHB1
+   - Degree Centrality:      0.3902
+   - Betweenness Centrality: 0.2112
+🔸 HUB: HGF
+   - Degree Centrality:      0.3902
+   - Betweenness Centrality: 0.1908
+
+------------------------------------------------------------
+🎯 CLUSTER 4 | Totale geni nel network: 37
+------------------------------------------------------------
+🔸 HUB: PTPRD
+   - Degree Centrality:      0.5278
+   - Betweenness Centrality: 0.3670
+🔸 HUB: PIK3CG
+   - Degree Centrality:      0.4722
+   - Betweenness Centrality: 0.3245
+🔸 HUB: ATM
+   - Degree Centrality:      0.3889
+   - Betweenness Centrality: 0.1962
+
+------------------------------------------------------------
+🎯 CLUSTER 5 | Totale geni nel network: 31
+------------------------------------------------------------
+🔸 HUB: EPHA3
+   - Degree Centrality:      0.4667
+   - Betweenness Centrality: 0.3972
+🔸 HUB: EPHA7
+   - Degree Centrality:      0.4333
+   - Betweenness Centrality: 0.2879
+🔸 HUB: MGA
+   - Degree Centrality:      0.4000
+   - Betweenness Centrality: 0.2086
+
+------------------------------------------------------------
+🎯 CLUSTER 6 | Totale geni nel network: 7
+------------------------------------------------------------
+🔸 HUB: CREBBP
+   - Degree Centrality:      1.0000
+   - Betweenness Centrality: 1.0000
+🔸 HUB: CYLD
+   - Degree Centrality:      0.1667
+   - Betweenness Centrality: 0.0000
+🔸 HUB: FAM46C
+   - Degree Centrality:      0.1667
+   - Betweenness Centrality: 0.0000

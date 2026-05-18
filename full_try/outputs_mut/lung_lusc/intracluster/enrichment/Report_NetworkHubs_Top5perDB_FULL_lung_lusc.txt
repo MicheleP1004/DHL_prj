@@ -1,0 +1,85 @@
+--- 🏆 TOP 5 PATHWAY PER DATABASE — HUB GLOBALI DELLA RETE (LUNG_LUSC - FULL) ---
+Geni Hub analizzati (21): HGF, PDGFRA, ERBB4, NF1, CREBBP, SMARCA4, PIK3CG, EPHA7, KEAP1, MGA, FAT1, TP53, FAM46C, PTPRT, EPHB1, PTPRD, CYLD, KMT2D, ZFHX3, EPHA3, ATM
+================================================================================
+
+
+  [GO]
+  🔸 [GO_Biological_Process_2021] enzyme linked receptor protein signaling pathway (GO:0007167)
+     - P-value: 7.58e-11 | Adjusted: 4.76e-08
+     - Overlap: 7/140
+     - Hubs coinvolti: PTPRT;PTPRD;PDGFRA;EPHA7;ERBB4;EPHB1;EPHA3
+
+  🔸 [GO_Biological_Process_2021] regulation of kinase activity (GO:0043549)
+     - P-value: 3.95e-08 | Adjusted: 1.24e-05
+     - Overlap: 5/94
+     - Hubs coinvolti: PDGFRA;EPHA7;ERBB4;EPHB1;EPHA3
+
+  🔸 [GO_Biological_Process_2021] positive regulation of kinase activity (GO:0033674)
+     - P-value: 1.04e-07 | Adjusted: 1.86e-05
+     - Overlap: 5/114
+     - Hubs coinvolti: PDGFRA;EPHA7;ERBB4;EPHB1;EPHA3
+
+  🔸 [GO_Biological_Process_2021] transmembrane receptor protein tyrosine kinase signaling pathway (GO:0007169)
+     - P-value: 1.19e-07 | Adjusted: 1.86e-05
+     - Overlap: 7/404
+     - Hubs coinvolti: PTPRT;PDGFRA;EPHA7;ERBB4;HGF;EPHB1;EPHA3
+
+  🔸 [GO_Biological_Process_2021] positive regulation of phosphorylation (GO:0042327)
+     - P-value: 1.79e-07 | Adjusted: 2.24e-05
+     - Overlap: 6/253
+     - Hubs coinvolti: PDGFRA;EPHA7;ERBB4;HGF;EPHB1;EPHA3
+
+
+  [KEGG]
+  🔸 [KEGG_2021_Human] MAPK signaling pathway
+     - P-value: 1.11e-05 | Adjusted: 8.80e-04
+     - Overlap: 5/294
+     - Hubs coinvolti: PDGFRA;ERBB4;HGF;NF1;TP53
+
+  🔸 [KEGG_2021_Human] Hepatocellular carcinoma
+     - P-value: 2.57e-05 | Adjusted: 8.80e-04
+     - Overlap: 4/168
+     - Hubs coinvolti: HGF;KEAP1;TP53;SMARCA4
+
+  🔸 [KEGG_2021_Human] PI3K-Akt signaling pathway
+     - P-value: 2.72e-05 | Adjusted: 8.80e-04
+     - Overlap: 5/354
+     - Hubs coinvolti: PDGFRA;ERBB4;HGF;TP53;PIK3CG
+
+  🔸 [KEGG_2021_Human] Melanoma
+     - P-value: 5.68e-05 | Adjusted: 1.38e-03
+     - Overlap: 3/72
+     - Hubs coinvolti: PDGFRA;HGF;TP53
+
+  🔸 [KEGG_2021_Human] Prostate cancer
+     - P-value: 1.38e-04 | Adjusted: 2.68e-03
+     - Overlap: 3/97
+     - Hubs coinvolti: PDGFRA;CREBBP;TP53
+
+
+  [Reactome]
+  🔸 [Reactome_2022] TP53 Regulates Transcription Of Genes Involved In Cytochrome C Release R-HSA-6803204
+     - P-value: 1.12e-06 | Adjusted: 3.01e-04
+     - Overlap: 3/20
+     - Hubs coinvolti: CREBBP;ATM;TP53
+
+  🔸 [Reactome_2022] TP53 Regulates Transcription Of Cell Death Genes R-HSA-5633008
+     - P-value: 1.29e-05 | Adjusted: 1.47e-03
+     - Overlap: 3/44
+     - Hubs coinvolti: CREBBP;ATM;TP53
+
+  🔸 [Reactome_2022] EPH-ephrin Mediated Repulsion Of Cells R-HSA-3928665
+     - P-value: 1.78e-05 | Adjusted: 1.47e-03
+     - Overlap: 3/49
+     - Hubs coinvolti: EPHA7;EPHB1;EPHA3
+
+  🔸 [Reactome_2022] RUNX3 Regulates CDKN1A Transcription R-HSA-8941855
+     - P-value: 2.20e-05 | Adjusted: 1.47e-03
+     - Overlap: 2/7
+     - Hubs coinvolti: ZFHX3;TP53
+
+  🔸 [Reactome_2022] Formation Of beta-catenin:TCF Transactivating Complex R-HSA-201722
+     - P-value: 3.28e-05 | Adjusted: 1.76e-03
+     - Overlap: 3/60
+     - Hubs coinvolti: KMT2D;CREBBP;SMARCA4
+

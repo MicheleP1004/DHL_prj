@@ -1,5 +1,5 @@
 --- 🏆 TOP 5 PATHWAY PER DATABASE — HUB GLOBALI DELLA RETE (LUNG - FILTERED) ---
-Geni Hub analizzati (6): STK11, KRAS, CHEK2, POLE, KEAP1, GLI1
+Geni Hub analizzati (6): CHEK2, POLE, STK11, GLI1, KEAP1, KRAS
 ================================================================================
 
 

@@ -1,0 +1,57 @@
+--- 🏆 TOP 5 PATHWAY/ONTOLOGY PER DATABASE PER OGNI CLUSTER (KRAS_LUNG_LUSC - FULL) ---
+
+================================================================================
+🎯 CLUSTER 0  |  DIMENSIONE: 6 geni
+🧬 TUTTI I GENI: CDKN2A, CDKN2Ap14ARF, CDKN2Ap16INK4A, CDKN2B, IKBKE, MTAP
+================================================================================
+
+  [GO]
+  🔸 [GO_Molecular_Function_2021] cyclin-dependent protein serine/threonine kinase inhibitor activity (GO:0004861)
+     P-value: 3.37e-06  |  Overlap: 2/10
+     🎯 Geni nel pathway: CDKN2B;CDKN2A
+  🔸 [GO_Biological_Process_2021] negative regulation of phosphate metabolic process (GO:0045936)
+     P-value: 1.73e-05  |  Overlap: 2/22
+     🎯 Geni nel pathway: CDKN2B;CDKN2A
+  🔸 [GO_Biological_Process_2021] cellular senescence (GO:0090398)
+     P-value: 2.62e-05  |  Overlap: 2/27
+     🎯 Geni nel pathway: CDKN2B;CDKN2A
+  🔸 [GO_Molecular_Function_2021] protein serine/threonine kinase inhibitor activity (GO:0030291)
+     P-value: 3.25e-05  |  Overlap: 2/30
+     🎯 Geni nel pathway: CDKN2B;CDKN2A
+  🔸 [GO_Biological_Process_2021] negative regulation of cell cycle G1/S phase transition (GO:1902807)
+     P-value: 4.44e-05  |  Overlap: 2/35
+     🎯 Geni nel pathway: CDKN2B;CDKN2A
+
+  [KEGG]
+  🔸 [KEGG_2021_Human] Cell cycle
+     P-value: 5.63e-04  |  Overlap: 2/124
+     🎯 Geni nel pathway: CDKN2B;CDKN2A
+  🔸 [KEGG_2021_Human] Cushing syndrome
+     P-value: 8.77e-04  |  Overlap: 2/155
+     🎯 Geni nel pathway: CDKN2B;CDKN2A
+  🔸 [KEGG_2021_Human] Cellular senescence
+     P-value: 8.88e-04  |  Overlap: 2/156
+     🎯 Geni nel pathway: CDKN2B;CDKN2A
+  🔸 [KEGG_2021_Human] Viral carcinogenesis
+     P-value: 1.50e-03  |  Overlap: 2/203
+     🎯 Geni nel pathway: CDKN2B;CDKN2A
+  🔸 [KEGG_2021_Human] Human T-cell leukemia virus 1 infection
+     P-value: 1.74e-03  |  Overlap: 2/219
+     🎯 Geni nel pathway: CDKN2B;CDKN2A
+
+  [Reactome]
+  🔸 [Reactome_Pathways_2024] Oncogene Induced Senescence
+     P-value: 4.44e-05  |  Overlap: 2/35
+     🎯 Geni nel pathway: CDKN2B;CDKN2A
+  🔸 [Reactome_Pathways_2024] G1 Phase
+     P-value: 8.06e-05  |  Overlap: 2/47
+     🎯 Geni nel pathway: CDKN2B;CDKN2A
+  🔸 [Reactome_Pathways_2024] Cyclin D Associated Events in G1
+     P-value: 8.06e-05  |  Overlap: 2/47
+     🎯 Geni nel pathway: CDKN2B;CDKN2A
+  🔸 [Reactome_Pathways_2024] Senescence-Associated Secretory Phenotype (SASP)
+     P-value: 2.40e-04  |  Overlap: 2/81
+     🎯 Geni nel pathway: CDKN2B;CDKN2A
+  🔸 [Reactome_Pathways_2024] Oxidative Stress Induced Senescence
+     P-value: 3.24e-04  |  Overlap: 2/94
+     🎯 Geni nel pathway: CDKN2B;CDKN2A

@@ -1,0 +1,85 @@
+--- 🏆 TOP 5 PATHWAY PER DATABASE — HUB GLOBALI DELLA RETE (LUNG_LUSC - FILTERED) ---
+Geni Hub analizzati (3): NF2, KRAS, ARHGAP35
+================================================================================
+
+
+  [GO]
+  🔸 [GO_Biological_Process_2021] regulation of actin filament length (GO:0030832)
+     - P-value: 1.20e-03 | Adjusted: 1.52e-02
+     - Overlap: 1/8
+     - Hubs coinvolti: ARHGAP35
+
+  🔸 [GO_Biological_Process_2021] regulation of actin filament organization (GO:0110053)
+     - P-value: 1.35e-03 | Adjusted: 1.52e-02
+     - Overlap: 1/9
+     - Hubs coinvolti: ARHGAP35
+
+  🔸 [GO_Biological_Process_2021] regulation of intracellular signal transduction (GO:1902531)
+     - P-value: 1.41e-03 | Adjusted: 1.52e-02
+     - Overlap: 2/437
+     - Hubs coinvolti: NF2;ARHGAP35
+
+  🔸 [GO_Biological_Process_2021] neuron projection fasciculation (GO:0106030)
+     - P-value: 1.50e-03 | Adjusted: 1.52e-02
+     - Overlap: 1/10
+     - Hubs coinvolti: ARHGAP35
+
+  🔸 [GO_Biological_Process_2021] negative regulation of tyrosine phosphorylation of STAT protein (GO:0042532)
+     - P-value: 1.50e-03 | Adjusted: 1.52e-02
+     - Overlap: 1/10
+     - Hubs coinvolti: NF2
+
+
+  [KEGG]
+  🔸 [KEGG_2021_Human] Regulation of actin cytoskeleton
+     - P-value: 3.52e-04 | Adjusted: 2.96e-02
+     - Overlap: 2/218
+     - Hubs coinvolti: KRAS;ARHGAP35
+
+  🔸 [KEGG_2021_Human] Thyroid cancer
+     - P-value: 5.54e-03 | Adjusted: 3.38e-02
+     - Overlap: 1/37
+     - Hubs coinvolti: KRAS
+
+  🔸 [KEGG_2021_Human] Aldosterone-regulated sodium reabsorption
+     - P-value: 5.54e-03 | Adjusted: 3.38e-02
+     - Overlap: 1/37
+     - Hubs coinvolti: KRAS
+
+  🔸 [KEGG_2021_Human] Bladder cancer
+     - P-value: 6.14e-03 | Adjusted: 3.38e-02
+     - Overlap: 1/41
+     - Hubs coinvolti: KRAS
+
+  🔸 [KEGG_2021_Human] Endometrial cancer
+     - P-value: 8.68e-03 | Adjusted: 3.38e-02
+     - Overlap: 1/58
+     - Hubs coinvolti: KRAS
+
+
+  [Reactome]
+  🔸 [Reactome_2022] Sema4D Mediated Inhibition Of Cell Attachment And Migration R-HSA-416550
+     - P-value: 1.20e-03 | Adjusted: 1.92e-02
+     - Overlap: 1/8
+     - Hubs coinvolti: ARHGAP35
+
+  🔸 [Reactome_2022] PTK6 Regulates RHO GTPases, RAS GTPase And MAP Kinases R-HSA-8849471
+     - P-value: 1.95e-03 | Adjusted: 1.92e-02
+     - Overlap: 1/13
+     - Hubs coinvolti: ARHGAP35
+
+  🔸 [Reactome_2022] Signaling By Rho GTPases R-HSA-194315
+     - P-value: 3.04e-03 | Adjusted: 1.92e-02
+     - Overlap: 2/644
+     - Hubs coinvolti: NF2;ARHGAP35
+
+  🔸 [Reactome_2022] RHO GTPases Activate PAKs R-HSA-5627123
+     - P-value: 3.15e-03 | Adjusted: 1.92e-02
+     - Overlap: 1/21
+     - Hubs coinvolti: NF2
+
+  🔸 [Reactome_2022] Signaling By Rho GTPases, Miro GTPases And RHOBTB3 R-HSA-9716542
+     - P-value: 3.19e-03 | Adjusted: 1.92e-02
+     - Overlap: 2/660
+     - Hubs coinvolti: NF2;ARHGAP35
+

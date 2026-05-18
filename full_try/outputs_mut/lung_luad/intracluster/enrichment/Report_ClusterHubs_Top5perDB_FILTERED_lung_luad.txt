@@ -1,0 +1,206 @@
+--- 🏆 TOP 5 PATHWAY PER DATABASE — HUB LOCALI PER OGNI CLUSTER (LUNG_LUAD - FILTERED) ---
+
+================================================================================
+🎯 CLUSTER 0  |  TOP HUB ANALIZZATI: 5
+🧬 GENI HUB: KRAS, POLE, FBXW7, AMER1, ATM
+================================================================================
+
+  [GO]
+  🔸 [GO_Biological_Process_2021] positive regulation of protein modification by small protein conjugation or removal (GO:1903322)
+     - P-value: 1.45e-04 | Overlap: 2/77
+     - Geni nel pathway: AMER1;FBXW7
+
+  🔸 [GO_Biological_Process_2021] positive regulation of protein ubiquitination (GO:0031398)
+     - P-value: 1.65e-04 | Overlap: 2/82
+     - Geni nel pathway: AMER1;FBXW7
+
+  🔸 [GO_Biological_Process_2021] DNA replication (GO:0006260)
+     - P-value: 2.86e-04 | Overlap: 2/108
+     - Geni nel pathway: ATM;POLE
+
+  🔸 [GO_Biological_Process_2021] regulation of protein ubiquitination (GO:0031396)
+     - P-value: 2.91e-04 | Overlap: 2/109
+     - Geni nel pathway: AMER1;FBXW7
+
+  🔸 [GO_Biological_Process_2021] positive regulation of oxidative stress-induced neuron death (GO:1903223)
+     - P-value: 1.25e-03 | Overlap: 1/5
+     - Geni nel pathway: FBXW7
+
+  [KEGG]
+  🔸 [KEGG_2021_Human] FoxO signaling pathway
+     - P-value: 4.20e-04 | Overlap: 2/131
+     - Geni nel pathway: KRAS;ATM
+
+  🔸 [KEGG_2021_Human] Apoptosis
+     - P-value: 4.94e-04 | Overlap: 2/142
+     - Geni nel pathway: KRAS;ATM
+
+  🔸 [KEGG_2021_Human] Cellular senescence
+     - P-value: 5.95e-04 | Overlap: 2/156
+     - Geni nel pathway: KRAS;ATM
+
+  🔸 [KEGG_2021_Human] Human immunodeficiency virus 1 infection
+     - P-value: 1.10e-03 | Overlap: 2/212
+     - Geni nel pathway: KRAS;ATM
+
+  🔸 [KEGG_2021_Human] Human T-cell leukemia virus 1 infection
+     - P-value: 1.17e-03 | Overlap: 2/219
+     - Geni nel pathway: KRAS;ATM
+
+  [Reactome]
+  🔸 [Reactome_2022] HDR Thru Homologous Recombination (HRR) R-HSA-5685942
+     - P-value: 1.10e-04 | Overlap: 2/67
+     - Geni nel pathway: ATM;POLE
+
+  🔸 [Reactome_2022] HDR Thru Homologous Recombination (HRR) Or Single Strand Annealing (SSA) R-HSA-5693567
+     - P-value: 3.18e-04 | Overlap: 2/114
+     - Geni nel pathway: ATM;POLE
+
+  🔸 [Reactome_2022] Homology Directed Repair R-HSA-5693538
+     - P-value: 3.47e-04 | Overlap: 2/119
+     - Geni nel pathway: ATM;POLE
+
+  🔸 [Reactome_2022] DNA Double-Strand Break Repair R-HSA-5693532
+     - P-value: 5.43e-04 | Overlap: 2/149
+     - Geni nel pathway: ATM;POLE
+
+  🔸 [Reactome_2022] FBXW7 Mutants And NOTCH1 In Cancer R-HSA-2644605
+     - P-value: 1.25e-03 | Overlap: 1/5
+     - Geni nel pathway: FBXW7
+
+================================================================================
+🎯 CLUSTER 1  |  TOP HUB ANALIZZATI: 5
+🧬 GENI HUB: PREX2, GLI1, FLT1, SOX17, FOXP1
+================================================================================
+
+  [GO]
+  🔸 [GO_Biological_Process_2021] digestive tract morphogenesis (GO:0048546)
+     - P-value: 5.99e-06 | Overlap: 2/16
+     - Geni nel pathway: SOX17;GLI1
+
+  🔸 [GO_Biological_Process_2021] blood vessel morphogenesis (GO:0048514)
+     - P-value: 7.66e-05 | Overlap: 2/56
+     - Geni nel pathway: FLT1;SOX17
+
+  🔸 [GO_Biological_Process_2021] positive regulation of cell population proliferation (GO:0008284)
+     - P-value: 1.28e-04 | Overlap: 3/474
+     - Geni nel pathway: FLT1;GLI1;FOXP1
+
+  🔸 [GO_Biological_Process_2021] negative regulation of canonical Wnt signaling pathway (GO:0090090)
+     - P-value: 6.66e-04 | Overlap: 2/165
+     - Geni nel pathway: SOX17;GLI1
+
+  🔸 [GO_Biological_Process_2021] negative regulation of Wnt signaling pathway (GO:0030178)
+     - P-value: 8.90e-04 | Overlap: 2/191
+     - Geni nel pathway: SOX17;GLI1
+
+  [KEGG]
+  🔸 [KEGG_2021_Human] Hedgehog signaling pathway
+     - P-value: 1.39e-02 | Overlap: 1/56
+     - Geni nel pathway: GLI1
+
+  🔸 [KEGG_2021_Human] Basal cell carcinoma
+     - P-value: 1.57e-02 | Overlap: 1/63
+     - Geni nel pathway: GLI1
+
+  🔸 [KEGG_2021_Human] Rheumatoid arthritis
+     - P-value: 2.30e-02 | Overlap: 1/93
+     - Geni nel pathway: FLT1
+
+  🔸 [KEGG_2021_Human] HIF-1 signaling pathway
+     - P-value: 2.70e-02 | Overlap: 1/109
+     - Geni nel pathway: FLT1
+
+  🔸 [KEGG_2021_Human] Wnt signaling pathway
+     - P-value: 4.08e-02 | Overlap: 1/166
+     - Geni nel pathway: SOX17
+
+  [Reactome]
+  🔸 [Reactome_2022] Signal Transduction R-HSA-162582
+     - P-value: 1.04e-03 | Overlap: 4/2465
+     - Geni nel pathway: PREX2;FLT1;SOX17;GLI1
+
+  🔸 [Reactome_2022] GLI Proteins Bind Promoters Of Hh Responsive Genes To Promote Transcription R-HSA-5635851
+     - P-value: 1.75e-03 | Overlap: 1/7
+     - Geni nel pathway: GLI1
+
+  🔸 [Reactome_2022] VEGF Binds To VEGFR Leading To Receptor Dimerization R-HSA-195399
+     - P-value: 2.00e-03 | Overlap: 1/8
+     - Geni nel pathway: FLT1
+
+  🔸 [Reactome_2022] Transcriptional Regulation Of Pluripotent Stem Cells R-HSA-452723
+     - P-value: 7.48e-03 | Overlap: 1/30
+     - Geni nel pathway: FOXP1
+
+  🔸 [Reactome_2022] Deactivation Of Beta-Catenin Transactivating Complex R-HSA-3769402
+     - P-value: 1.05e-02 | Overlap: 1/42
+     - Geni nel pathway: SOX17
+
+================================================================================
+🎯 CLUSTER 2  |  TOP HUB ANALIZZATI: 5
+🧬 GENI HUB: KEAP1, STK11, INHBA, CHEK2, ERCC5
+================================================================================
+
+  [GO]
+  🔸 [GO_Biological_Process_2021] positive regulation of transmembrane receptor protein serine/threonine kinase signaling pathway (GO:0090100)
+     - P-value: 2.07e-04 | Overlap: 2/92
+     - Geni nel pathway: STK11;INHBA
+
+  🔸 [GO_Biological_Process_2021] intrinsic apoptotic signaling pathway (GO:0097193)
+     - P-value: 2.55e-04 | Overlap: 2/102
+     - Geni nel pathway: STK11;CHEK2
+
+  🔸 [GO_Biological_Process_2021] negative regulation of growth (GO:0045926)
+     - P-value: 3.89e-04 | Overlap: 2/126
+     - Geni nel pathway: STK11;INHBA
+
+  🔸 [GO_Biological_Process_2021] negative regulation of cell growth (GO:0030308)
+     - P-value: 3.89e-04 | Overlap: 2/126
+     - Geni nel pathway: STK11;INHBA
+
+  🔸 [GO_Biological_Process_2021] regulation of signal transduction by p53 class mediator (GO:1901796)
+     - P-value: 5.95e-04 | Overlap: 2/156
+     - Geni nel pathway: STK11;CHEK2
+
+  [KEGG]
+  🔸 [KEGG_2021_Human] Nucleotide excision repair
+     - P-value: 1.17e-02 | Overlap: 1/47
+     - Geni nel pathway: ERCC5
+
+  🔸 [KEGG_2021_Human] Adipocytokine signaling pathway
+     - P-value: 1.71e-02 | Overlap: 1/69
+     - Geni nel pathway: STK11
+
+  🔸 [KEGG_2021_Human] p53 signaling pathway
+     - P-value: 1.81e-02 | Overlap: 1/73
+     - Geni nel pathway: CHEK2
+
+  🔸 [KEGG_2021_Human] TGF-beta signaling pathway
+     - P-value: 2.33e-02 | Overlap: 1/94
+     - Geni nel pathway: INHBA
+
+  🔸 [KEGG_2021_Human] Longevity regulating pathway
+     - P-value: 2.52e-02 | Overlap: 1/102
+     - Geni nel pathway: STK11
+
+  [Reactome]
+  🔸 [Reactome_2022] Regulation Of TP53 Activity Thru Phosphorylation R-HSA-6804756
+     - P-value: 1.98e-04 | Overlap: 2/90
+     - Geni nel pathway: STK11;CHEK2
+
+  🔸 [Reactome_2022] Regulation Of TP53 Activity R-HSA-5633007
+     - P-value: 6.03e-04 | Overlap: 2/157
+     - Geni nel pathway: STK11;CHEK2
+
+  🔸 [Reactome_2022] Synthesis Of PI R-HSA-1483226
+     - P-value: 1.25e-03 | Overlap: 1/5
+     - Geni nel pathway: CHEK2
+
+  🔸 [Reactome_2022] AMPK Inhibits chREBP Transcriptional Activity R-HSA-163680
+     - P-value: 2.00e-03 | Overlap: 1/8
+     - Geni nel pathway: STK11
+
+  🔸 [Reactome_2022] DNA Repair R-HSA-73894
+     - P-value: 2.32e-03 | Overlap: 2/310
+     - Geni nel pathway: CHEK2;ERCC5
+

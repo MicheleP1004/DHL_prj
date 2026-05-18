@@ -1,0 +1,169 @@
+--- 🏆 TOP 5 PATHWAY/ONTOLOGY PER DATABASE PER OGNI CLUSTER (LUNG_LUAD - FILTERED) ---
+
+================================================================================
+🎯 CLUSTER 0  |  DIMENSIONE: 22 geni
+🧬 TUTTI I GENI: AMER1, ATM, AXIN2, CCNE1, DNMT3B, ERG, ETV1, FBXW7, HIST1H3E, JAK2, JAK3, KRAS, MAX, MRE11A, NEGR1, NFE2L2, NKX2-1, PALB2, POLE, PRDM14, SLX4, TGFBR2
+================================================================================
+
+  [GO]
+  🔸 [GO_Biological_Process_2021] phosphorylation (GO:0016310)
+     P-value: 3.51e-06  |  Overlap: 6/400
+     🎯 Geni nel pathway: CCNE1;ATM;ERG;JAK2;JAK3;TGFBR2
+  🔸 [GO_Biological_Process_2021] protein phosphorylation (GO:0006468)
+     P-value: 1.20e-05  |  Overlap: 6/496
+     🎯 Geni nel pathway: CCNE1;ATM;ERG;JAK2;JAK3;TGFBR2
+  🔸 [GO_Biological_Process_2021] tyrosine phosphorylation of STAT protein (GO:0007260)
+     P-value: 3.22e-05  |  Overlap: 2/8
+     🎯 Geni nel pathway: JAK2;JAK3
+  🔸 [GO_Biological_Process_2021] cell cycle G1/S phase transition (GO:0044843)
+     P-value: 4.40e-05  |  Overlap: 3/63
+     🎯 Geni nel pathway: MAX;CCNE1;POLE
+  🔸 [GO_Biological_Process_2021] positive regulation of macromolecule metabolic process (GO:0010604)
+     P-value: 5.11e-05  |  Overlap: 5/384
+     🎯 Geni nel pathway: DNMT3B;NKX2-1;ATM;KRAS;NFE2L2
+
+  [KEGG]
+  🔸 [KEGG_2021_Human] Pathways in cancer
+     P-value: 5.40e-08  |  Overlap: 8/531
+     🎯 Geni nel pathway: MAX;CCNE1;KRAS;AXIN2;JAK2;JAK3;TGFBR2;NFE2L2
+  🔸 [KEGG_2021_Human] Hepatitis B
+     P-value: 7.72e-07  |  Overlap: 5/162
+     🎯 Geni nel pathway: CCNE1;KRAS;JAK2;JAK3;TGFBR2
+  🔸 [KEGG_2021_Human] Transcriptional misregulation in cancer
+     P-value: 1.78e-06  |  Overlap: 5/192
+     🎯 Geni nel pathway: MAX;ETV1;ATM;ERG;TGFBR2
+  🔸 [KEGG_2021_Human] Human T-cell leukemia virus 1 infection
+     P-value: 3.40e-06  |  Overlap: 5/219
+     🎯 Geni nel pathway: CCNE1;ATM;KRAS;JAK3;TGFBR2
+  🔸 [KEGG_2021_Human] Signaling pathways regulating pluripotency of stem cells
+     P-value: 1.66e-05  |  Overlap: 4/143
+     🎯 Geni nel pathway: KRAS;AXIN2;JAK2;JAK3
+
+  [Reactome]
+  🔸 [Reactome_Pathways_2024] HDR Through Homologous Recombination (HRR)
+     P-value: 9.05e-07  |  Overlap: 4/69
+     🎯 Geni nel pathway: SLX4;ATM;PALB2;POLE
+  🔸 [Reactome_Pathways_2024] Disease
+     P-value: 4.52e-06  |  Overlap: 11/2131
+     🎯 Geni nel pathway: AMER1;FBXW7;CCNE1;DNMT3B;ATM;KRAS;JAK2;PALB2;JAK3;TGFBR2;NFE2L2
+  🔸 [Reactome_Pathways_2024] HDR Through Homologous Recombination (HRR) or Single Strand Annealing (SSA)
+     P-value: 7.25e-06  |  Overlap: 4/116
+     🎯 Geni nel pathway: SLX4;ATM;PALB2;POLE
+  🔸 [Reactome_Pathways_2024] Resolution of D-loop Structures Through Holliday Junction Intermediates
+     P-value: 7.39e-06  |  Overlap: 3/35
+     🎯 Geni nel pathway: SLX4;ATM;PALB2
+  🔸 [Reactome_Pathways_2024] Resolution of D-Loop Structures
+     P-value: 8.06e-06  |  Overlap: 3/36
+     🎯 Geni nel pathway: SLX4;ATM;PALB2
+
+================================================================================
+🎯 CLUSTER 1  |  DIMENSIONE: 8 geni
+🧬 TUTTI I GENI: FLT1, FOXP1, GATA3, GLI1, IDH1, NUF2, PREX2, SOX17
+================================================================================
+
+  [GO]
+  🔸 [GO_Biological_Process_2021] digestive tract morphogenesis (GO:0048546)
+     P-value: 1.68e-05  |  Overlap: 2/16
+     🎯 Geni nel pathway: SOX17;GLI1
+  🔸 [GO_Molecular_Function_2021] transcription cis-regulatory region binding (GO:0000976)
+     P-value: 3.60e-05  |  Overlap: 4/549
+     🎯 Geni nel pathway: SOX17;GATA3;GLI1;FOXP1
+  🔸 [GO_Biological_Process_2021] regulation of multicellular organismal development (GO:2000026)
+     P-value: 5.26e-05  |  Overlap: 2/28
+     🎯 Geni nel pathway: SOX17;GATA3
+  🔸 [GO_Molecular_Function_2021] transcription regulatory region nucleic acid binding (GO:0001067)
+     P-value: 6.32e-05  |  Overlap: 3/212
+     🎯 Geni nel pathway: SOX17;GATA3;GLI1
+  🔸 [GO_Biological_Process_2021] epithelial tube morphogenesis (GO:0060562)
+     P-value: 7.80e-05  |  Overlap: 2/34
+     🎯 Geni nel pathway: SOX17;GATA3
+
+  [KEGG]
+  🔸 [KEGG_2021_Human] Citrate cycle (TCA cycle)
+     P-value: 1.19e-02  |  Overlap: 1/30
+     🎯 Geni nel pathway: IDH1
+  🔸 [KEGG_2021_Human] Hedgehog signaling pathway
+     P-value: 2.22e-02  |  Overlap: 1/56
+     🎯 Geni nel pathway: GLI1
+  🔸 [KEGG_2021_Human] Glutathione metabolism
+     P-value: 2.26e-02  |  Overlap: 1/57
+     🎯 Geni nel pathway: IDH1
+  🔸 [KEGG_2021_Human] Basal cell carcinoma
+     P-value: 2.49e-02  |  Overlap: 1/63
+     🎯 Geni nel pathway: GLI1
+  🔸 [KEGG_2021_Human] Inflammatory bowel disease
+     P-value: 2.57e-02  |  Overlap: 1/65
+     🎯 Geni nel pathway: GATA3
+
+  [Reactome]
+  🔸 [Reactome_Pathways_2024] Signal Transduction
+     P-value: 1.09e-04  |  Overlap: 6/2613
+     🎯 Geni nel pathway: PREX2;FLT1;SOX17;NUF2;GATA3;GLI1
+  🔸 [Reactome_Pathways_2024] GLI Proteins Bind Promoters of Hh Responsive Genes to Promote Transcription
+     P-value: 2.80e-03  |  Overlap: 1/7
+     🎯 Geni nel pathway: GLI1
+  🔸 [Reactome_Pathways_2024] VEGF Binds to VEGFR Leading to Receptor Dimerization
+     P-value: 3.20e-03  |  Overlap: 1/8
+     🎯 Geni nel pathway: FLT1
+  🔸 [Reactome_Pathways_2024] VEGF Ligand-Receptor Interactions
+     P-value: 3.20e-03  |  Overlap: 1/8
+     🎯 Geni nel pathway: FLT1
+  🔸 [Reactome_Pathways_2024] Specification of Primordial Germ Cells
+     P-value: 4.79e-03  |  Overlap: 1/12
+     🎯 Geni nel pathway: SOX17
+
+================================================================================
+🎯 CLUSTER 2  |  DIMENSIONE: 8 geni
+🧬 TUTTI I GENI: CHEK2, ERCC5, INHBA, KEAP1, PDCD1, REL, STAG2, STK11
+================================================================================
+
+  [GO]
+  🔸 [GO_Biological_Process_2021] mitotic spindle assembly (GO:0090307)
+     P-value: 1.31e-04  |  Overlap: 2/44
+     🎯 Geni nel pathway: STAG2;CHEK2
+  🔸 [GO_Biological_Process_2021] mitotic nuclear division (GO:0140014)
+     P-value: 3.73e-04  |  Overlap: 2/74
+     🎯 Geni nel pathway: STAG2;CHEK2
+  🔸 [GO_Biological_Process_2021] spindle assembly (GO:0051225)
+     P-value: 4.80e-04  |  Overlap: 2/84
+     🎯 Geni nel pathway: STAG2;CHEK2
+  🔸 [GO_Biological_Process_2021] positive regulation of transmembrane receptor protein serine/threonine kinase signaling pathway (GO:0090100)
+     P-value: 5.76e-04  |  Overlap: 2/92
+     🎯 Geni nel pathway: STK11;INHBA
+  🔸 [GO_Biological_Process_2021] intrinsic apoptotic signaling pathway (GO:0097193)
+     P-value: 7.07e-04  |  Overlap: 2/102
+     🎯 Geni nel pathway: STK11;CHEK2
+
+  [KEGG]
+  🔸 [KEGG_2021_Human] Cell cycle
+     P-value: 1.04e-03  |  Overlap: 2/124
+     🎯 Geni nel pathway: STAG2;CHEK2
+  🔸 [KEGG_2021_Human] Nucleotide excision repair
+     P-value: 1.86e-02  |  Overlap: 1/47
+     🎯 Geni nel pathway: ERCC5
+  🔸 [KEGG_2021_Human] Adipocytokine signaling pathway
+     P-value: 2.73e-02  |  Overlap: 1/69
+     🎯 Geni nel pathway: STK11
+  🔸 [KEGG_2021_Human] p53 signaling pathway
+     P-value: 2.88e-02  |  Overlap: 1/73
+     🎯 Geni nel pathway: CHEK2
+  🔸 [KEGG_2021_Human] PD-L1 expression and PD-1 checkpoint pathway in cancer
+     P-value: 3.51e-02  |  Overlap: 1/89
+     🎯 Geni nel pathway: PDCD1
+
+  [Reactome]
+  🔸 [Reactome_Pathways_2024] Regulation of TP53 Activity Through Phosphorylation
+     P-value: 5.76e-04  |  Overlap: 2/92
+     🎯 Geni nel pathway: STK11;CHEK2
+  🔸 [Reactome_Pathways_2024] Regulation of TP53 Activity
+     P-value: 1.73e-03  |  Overlap: 2/160
+     🎯 Geni nel pathway: STK11;CHEK2
+  🔸 [Reactome_Pathways_2024] Potential Therapeutics for SARS
+     P-value: 1.81e-03  |  Overlap: 2/164
+     🎯 Geni nel pathway: KEAP1;PDCD1
+  🔸 [Reactome_Pathways_2024] AMPK Inhibits chREBP Transcriptional Activation Activity
+     P-value: 3.20e-03  |  Overlap: 1/8
+     🎯 Geni nel pathway: STK11
+  🔸 [Reactome_Pathways_2024] Adaptive Immune System
+     P-value: 3.70e-03  |  Overlap: 3/854
+     🎯 Geni nel pathway: REL;KEAP1;PDCD1

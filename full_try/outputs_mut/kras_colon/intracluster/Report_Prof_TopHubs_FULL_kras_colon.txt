@@ -1,46 +1,59 @@
 --- 👑 TOP 3 HUB GENES PER OGNI CLUSTER (KRAS_COLON - FULL) ---
 
 ------------------------------------------------------------
-🎯 CLUSTER 0 | Totale geni nel network: 76
+🎯 CLUSTER 0 | Totale geni nel network: 86
 ------------------------------------------------------------
-🔸 HUB: FAT1
-   - Degree Centrality:      0.6933
-   - Betweenness Centrality: 0.1705
-🔸 HUB: FLCN
-   - Degree Centrality:      0.5467
-   - Betweenness Centrality: 0.0424
-🔸 HUB: KMT2C
-   - Degree Centrality:      0.5467
-   - Betweenness Centrality: 0.0588
+🔸 HUB: SPEN
+   - Degree Centrality:      0.6353
+   - Betweenness Centrality: 0.0689
+🔸 HUB: TGFBR2
+   - Degree Centrality:      0.6235
+   - Betweenness Centrality: 0.0739
+🔸 HUB: ARID1A
+   - Degree Centrality:      0.6118
+   - Betweenness Centrality: 0.0806
 
 ------------------------------------------------------------
-🎯 CLUSTER 1 | Totale geni nel network: 62
+🎯 CLUSTER 1 | Totale geni nel network: 67
+------------------------------------------------------------
+🔸 HUB: POLE
+   - Degree Centrality:      0.5909
+   - Betweenness Centrality: 0.0541
+🔸 HUB: FLCN
+   - Degree Centrality:      0.5606
+   - Betweenness Centrality: 0.0495
+🔸 HUB: KMT2C
+   - Degree Centrality:      0.5606
+   - Betweenness Centrality: 0.0621
+
+------------------------------------------------------------
+🎯 CLUSTER 2 | Totale geni nel network: 64
 ------------------------------------------------------------
 🔸 HUB: ARID2
-   - Degree Centrality:      0.7213
-   - Betweenness Centrality: 0.0682
+   - Degree Centrality:      0.7143
+   - Betweenness Centrality: 0.0607
 🔸 HUB: EP300
-   - Degree Centrality:      0.6885
-   - Betweenness Centrality: 0.0448
+   - Degree Centrality:      0.6825
+   - Betweenness Centrality: 0.0478
 🔸 HUB: NOTCH4
-   - Degree Centrality:      0.6721
-   - Betweenness Centrality: 0.0854
+   - Degree Centrality:      0.6508
+   - Betweenness Centrality: 0.0805
 
 ------------------------------------------------------------
-🎯 CLUSTER 2 | Totale geni nel network: 92
+🎯 CLUSTER 3 | Totale geni nel network: 60
 ------------------------------------------------------------
-🔸 HUB: PTPRS
-   - Degree Centrality:      0.6484
-   - Betweenness Centrality: 0.0975
-🔸 HUB: TGFBR2
-   - Degree Centrality:      0.6044
-   - Betweenness Centrality: 0.0705
-🔸 HUB: SPEN
-   - Degree Centrality:      0.5934
-   - Betweenness Centrality: 0.0574
+🔸 HUB: KMT2D
+   - Degree Centrality:      0.7458
+   - Betweenness Centrality: 0.1923
+🔸 HUB: FAT1
+   - Degree Centrality:      0.7119
+   - Betweenness Centrality: 0.1870
+🔸 HUB: EPHA5
+   - Degree Centrality:      0.6102
+   - Betweenness Centrality: 0.0853
 
 ------------------------------------------------------------
-🎯 CLUSTER 3 | Totale geni nel network: 3
+🎯 CLUSTER 4 | Totale geni nel network: 3
 ------------------------------------------------------------
 🔸 HUB: PTPRT
    - Degree Centrality:      1.0000
@@ -51,16 +64,3 @@
 🔸 HUB: SESN1
    - Degree Centrality:      0.5000
    - Betweenness Centrality: 0.0000
-
-------------------------------------------------------------
-🎯 CLUSTER 4 | Totale geni nel network: 47
-------------------------------------------------------------
-🔸 HUB: KMT2D
-   - Degree Centrality:      0.7391
-   - Betweenness Centrality: 0.1952
-🔸 HUB: NOTCH3
-   - Degree Centrality:      0.6522
-   - Betweenness Centrality: 0.0984
-🔸 HUB: IKBKE
-   - Degree Centrality:      0.6087
-   - Betweenness Centrality: 0.0400

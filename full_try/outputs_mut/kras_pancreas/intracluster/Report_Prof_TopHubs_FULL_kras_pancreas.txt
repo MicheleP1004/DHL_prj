@@ -1,20 +1,33 @@
 --- 👑 TOP 3 HUB GENES PER OGNI CLUSTER (KRAS_PANCREAS - FULL) ---
 
 ------------------------------------------------------------
-🎯 CLUSTER 0 | Totale geni nel network: 16
+🎯 CLUSTER 0 | Totale geni nel network: 22
 ------------------------------------------------------------
 🔸 HUB: ARID1A
-   - Degree Centrality:      0.4667
-   - Betweenness Centrality: 0.4905
-🔸 HUB: KMT2D
-   - Degree Centrality:      0.4000
-   - Betweenness Centrality: 0.4095
+   - Degree Centrality:      0.4286
+   - Betweenness Centrality: 0.3942
+🔸 HUB: ATM
+   - Degree Centrality:      0.4286
+   - Betweenness Centrality: 0.3801
 🔸 HUB: BRCA2
    - Degree Centrality:      0.3333
-   - Betweenness Centrality: 0.2190
+   - Betweenness Centrality: 0.2142
 
 ------------------------------------------------------------
-🎯 CLUSTER 1 | Totale geni nel network: 13
+🎯 CLUSTER 1 | Totale geni nel network: 16
+------------------------------------------------------------
+🔸 HUB: RNF43
+   - Degree Centrality:      0.6000
+   - Betweenness Centrality: 0.8095
+🔸 HUB: RBM10
+   - Degree Centrality:      0.2667
+   - Betweenness Centrality: 0.2667
+🔸 HUB: BCOR
+   - Degree Centrality:      0.2000
+   - Betweenness Centrality: 0.2619
+
+------------------------------------------------------------
+🎯 CLUSTER 2 | Totale geni nel network: 13
 ------------------------------------------------------------
 🔸 HUB: SMAD4
    - Degree Centrality:      0.8333
@@ -27,20 +40,20 @@
    - Betweenness Centrality: 0.0000
 
 ------------------------------------------------------------
-🎯 CLUSTER 2 | Totale geni nel network: 14
+🎯 CLUSTER 3 | Totale geni nel network: 8
 ------------------------------------------------------------
-🔸 HUB: RNF43
-   - Degree Centrality:      0.6154
-   - Betweenness Centrality: 0.7564
-🔸 HUB: RBM10
-   - Degree Centrality:      0.3077
-   - Betweenness Centrality: 0.3077
-🔸 HUB: BCOR
-   - Degree Centrality:      0.2308
-   - Betweenness Centrality: 0.2885
+🔸 HUB: KMT2C
+   - Degree Centrality:      0.5714
+   - Betweenness Centrality: 0.8095
+🔸 HUB: SMARCA4
+   - Degree Centrality:      0.4286
+   - Betweenness Centrality: 0.5238
+🔸 HUB: RB1
+   - Degree Centrality:      0.2857
+   - Betweenness Centrality: 0.2857
 
 ------------------------------------------------------------
-🎯 CLUSTER 3 | Totale geni nel network: 8
+🎯 CLUSTER 4 | Totale geni nel network: 8
 ------------------------------------------------------------
 🔸 HUB: CDKN2A
    - Degree Centrality:      1.0000
@@ -51,16 +64,3 @@
 🔸 HUB: BAP1
    - Degree Centrality:      0.1429
    - Betweenness Centrality: 0.0000
-
-------------------------------------------------------------
-🎯 CLUSTER 5 | Totale geni nel network: 16
-------------------------------------------------------------
-🔸 HUB: ATM
-   - Degree Centrality:      0.4667
-   - Betweenness Centrality: 0.5429
-🔸 HUB: EP300
-   - Degree Centrality:      0.4000
-   - Betweenness Centrality: 0.5667
-🔸 HUB: DOT1L
-   - Degree Centrality:      0.2000
-   - Betweenness Centrality: 0.0857

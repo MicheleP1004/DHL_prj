@@ -1,678 +1,491 @@
 Cluster_ID	Gene_set	Term	Overlap	P-value	Adjusted P-value	Genes
-0	KEGG_2021_Human	Chronic myeloid leukemia	5/76	1.4465895528311948e-11	7.522265674722213e-10	SMAD4;CDKN2A;KRAS;TP53;TGFBR2
-0	KEGG_2021_Human	Pancreatic cancer	5/76	1.4465895528311948e-11	7.522265674722213e-10	SMAD4;CDKN2A;KRAS;TP53;TGFBR2
-0	KEGG_2021_Human	Hepatocellular carcinoma	5/168	8.160878652455482e-10	2.8291045995179006e-08	SMAD4;CDKN2A;KRAS;TP53;TGFBR2
-0	KEGG_2021_Human	Human T-cell leukemia virus 1 infection	5/219	3.10226263871832e-09	8.065882860667634e-08	SMAD4;CDKN2A;KRAS;TP53;TGFBR2
-0	KEGG_2021_Human	Colorectal cancer	4/86	1.1040850217854566e-08	2.29649684531375e-07	SMAD4;KRAS;TP53;TGFBR2
-0	Reactome_Pathways_2024	Transcriptional Regulation by RUNX3	4/86	1.1040850217854566e-08	3.5330720697134613e-06	SMAD4;CDKN2A;KRAS;TP53
-0	KEGG_2021_Human	Gastric cancer	4/149	1.0175691274675515e-07	1.7637864876104223e-06	SMAD4;KRAS;TP53;TGFBR2
-0	Reactome_Pathways_2024	Diseases of Signal Transduction by Growth Factor Receptors and Second Messengers	5/451	1.1538811451959378e-07	1.8462098323135004e-05	RNF43;SMAD4;KRAS;TP53;TGFBR2
-0	KEGG_2021_Human	Cellular senescence	4/156	1.2239072897502396e-07	1.8183765447717843e-06	CDKN2A;KRAS;TP53;TGFBR2
-0	KEGG_2021_Human	Hepatitis B	4/162	1.4243755370332866e-07	1.851688198143272e-06	SMAD4;KRAS;TP53;TGFBR2
-0	KEGG_2021_Human	Pathways in cancer	5/531	2.601727323616031e-07	2.8937452856194045e-06	SMAD4;CDKN2A;KRAS;TP53;TGFBR2
-0	KEGG_2021_Human	Bladder cancer	3/41	2.782447390018658e-07	2.8937452856194045e-06	CDKN2A;KRAS;TP53
-0	KEGG_2021_Human	Melanoma	3/72	1.5495098042290014e-06	1.3429084969984678e-05	CDKN2A;KRAS;TP53
-0	KEGG_2021_Human	Non-small cell lung cancer	3/72	1.5495098042290014e-06	1.3429084969984678e-05	CDKN2A;KRAS;TP53
-0	KEGG_2021_Human	Glioma	3/75	1.7535819931924972e-06	1.4028655945539976e-05	CDKN2A;KRAS;TP53
-0	Reactome_Pathways_2024	RUNX3 Regulates CDKN1A Transcription	2/7	2.203094659385032e-06	0.00017624757275080255	SMAD4;TP53
-0	Reactome_Pathways_2024	Loss of Function of SMAD2 3 in Cancer	2/7	2.203094659385032e-06	0.00017624757275080255	SMAD4;TGFBR2
-0	Reactome_Pathways_2024	Signaling by TGF-beta Receptor Complex in Cancer	2/8	2.936980228316173e-06	0.0001879667346122351	SMAD4;TGFBR2
-0	KEGG_2021_Human	AGE-RAGE signaling pathway in diabetic complications	3/100	4.183531145546383e-06	3.1077659938344566e-05	SMAD4;KRAS;TGFBR2
-0	Reactome_Pathways_2024	RUNX3 Regulates p14-ARF	2/10	4.71859981396871e-06	0.0002516586567449979	CDKN2A;KRAS
-0	GO_Biological_Process_2021	small GTPase mediated signal transduction (GO:0007264)	3/106	4.986766178294189e-06	0.0005006280259499361	CDKN2A;KRAS;TP53
-0	GO_Biological_Process_2021	replicative senescence (GO:0090399)	2/12	6.918336203504576e-06	0.0005006280259499361	CDKN2A;TP53
-0	KEGG_2021_Human	Cell cycle	3/124	7.994708981565176e-06	5.542998227218522e-05	SMAD4;CDKN2A;TP53
-0	GO_Biological_Process_2021	negative regulation of cell growth (GO:0030308)	3/126	8.388565751112247e-06	0.0005006280259499361	SMAD4;CDKN2A;TP53
-0	GO_Biological_Process_2021	negative regulation of growth (GO:0045926)	3/126	8.388565751112247e-06	0.0005006280259499361	SMAD4;CDKN2A;TP53
-0	Reactome_Pathways_2024	Disease	6/2131	9.2506726847623e-06	0.0004228878941605623	RNF43;SMAD4;CDKN2A;KRAS;TP53;TGFBR2
-0	KEGG_2021_Human	FoxO signaling pathway	3/131	9.42895074952986e-06	6.128817987194408e-05	SMAD4;KRAS;TGFBR2
-0	GO_Biological_Process_2021	cardiac left ventricle morphogenesis (GO:0003214)	2/14	9.535771922855928e-06	0.0005006280259499361	SMAD4;TGFBR2
-0	GO_Biological_Process_2021	secondary palate development (GO:0062009)	2/14	9.535771922855928e-06	0.0005006280259499361	SMAD4;TGFBR2
-0	GO_Biological_Process_2021	Ras protein signal transduction (GO:0007265)	3/142	1.2010913100326388e-05	0.0005404910895146875	CDKN2A;KRAS;TP53
-0	GO_Biological_Process_2021	atrioventricular valve morphogenesis (GO:0003181)	2/19	1.7904056143126626e-05	0.000704972210635611	SMAD4;TGFBR2
-0	KEGG_2021_Human	Wnt signaling pathway	3/166	1.917819142127516e-05	0.00011732540634191864	RNF43;SMAD4;TP53
-0	Reactome_Pathways_2024	SUMOylation of Transcription Factors	2/20	1.989010047124072e-05	0.0007956040188496287	CDKN2A;TP53
-0	GO_Biological_Process_2021	negative regulation of phosphate metabolic process (GO:0045936)	2/22	2.417415941179746e-05	0.000846095579412911	CDKN2A;TP53
-0	Reactome_Pathways_2024	Developmental Biology	5/1385	2.950989675091692e-05	0.0010041405358768	SMAD4;CDKN2A;KRAS;TP53;KDM6A
-0	KEGG_2021_Human	Transcriptional misregulation in cancer	3/192	2.96318512498734e-05	0.0001712062516659352	TP53;KDM6A;TGFBR2
-0	GO_Biological_Process_2021	outflow tract septum morphogenesis (GO:0003148)	2/25	3.1379391746150004e-05	0.000988450840003725	SMAD4;TGFBR2
-0	Reactome_Pathways_2024	Defective Intrinsic Pathway for Apoptosis	2/25	3.1379391746150004e-05	0.0010041405358768	CDKN2A;TP53
-0	KEGG_2021_Human	Viral carcinogenesis	3/203	3.4994019034786474e-05	0.00019154620945356808	CDKN2A;KRAS;TP53
-0	GO_Biological_Process_2021	ventricular septum morphogenesis (GO:0060412)	2/28	3.951834652776197e-05	0.0011207649554234	SMAD4;TGFBR2
-0	GO_Biological_Process_2021	regulation of cell growth (GO:0001558)	3/217	4.269580782565657e-05	0.0011207649554234	SMAD4;CDKN2A;TP53
-0	KEGG_2021_Human	Human cytomegalovirus infection	3/225	4.756028474799743e-05	0.00024731348068958664	CDKN2A;KRAS;TP53
-0	Reactome_Pathways_2024	Oncogene Induced Senescence	2/35	6.213249023444066e-05	0.0015891084562382	CDKN2A;TP53
-0	Reactome_Pathways_2024	Gene Expression (Transcription)	5/1615	6.23979634208195e-05	0.0015891084562382	SMAD4;CDKN2A;KRAS;TP53;KDM6A
-0	Reactome_Pathways_2024	Regulation of TP53 Degradation	2/36	6.577640515487366e-05	0.0015891084562382	CDKN2A;TP53
-0	GO_Biological_Process_2021	regulation of cell population proliferation (GO:0042127)	4/764	6.742760357730127e-05	0.0016338227020653	CDKN2A;KRAS;TP53;TGFBR2
-0	KEGG_2021_Human	Thyroid cancer	2/37	6.952349496042318e-05	0.0003443068321849529	KRAS;TP53
-0	Reactome_Pathways_2024	Regulation of TP53 Expression and Degradation	2/37	6.952349496042318e-05	0.0015891084562382	CDKN2A;TP53
-0	GO_Biological_Process_2021	ventricular septum development (GO:0003281)	2/38	7.337370770172965e-05	0.0016509084232889	SMAD4;TGFBR2
-0	Reactome_Pathways_2024	Deubiquitination	3/268	8.002330002875854e-05	0.0017071637339468	SMAD4;TP53;TGFBR2
-0	Reactome_Pathways_2024	Transcriptional Regulation by VENTX	2/41	8.554256462743403e-05	0.0017108512925486	CDKN2A;TP53
-0	GO_Biological_Process_2021	positive regulation of epithelial to mesenchymal transition (GO:0010718)	2/42	8.980475024118336e-05	0.0018858997550648	SMAD4;TGFBR2
-0	Reactome_Pathways_2024	Stabilization of P53	2/44	9.863766028215162e-05	0.0018567088994287	CDKN2A;TP53
-0	KEGG_2021_Human	MAPK signaling pathway	3/294	0.00010533660297095776	0.000497954850408164	KRAS;TP53;TGFBR2
-0	Reactome_Pathways_2024	TGF-beta Receptor Signaling Activates SMADs	2/47	0.00011265759512176318	0.0020028016910535	SMAD4;TGFBR2
-0	GO_Biological_Process_2021	positive regulation of reactive oxygen species metabolic process (GO:2000379)	2/49	0.0001225173273092752	0.0024120598814013	TP53;TGFBR2
-0	Reactome_Pathways_2024	Signaling by TGFBR3	2/49	0.0001225173273092752	0.0020634497231035	SMAD4;TGFBR2
-0	KEGG_2021_Human	MicroRNAs in cancer	3/310	0.00012325400849946293	0.0005573224732149627	CDKN2A;KRAS;TP53
-0	Reactome_Pathways_2024	p53-Dependent G1 DNA Damage Response	2/53	0.0001434663901560044	0.0021503289531018	CDKN2A;TP53
-0	Reactome_Pathways_2024	p53-Dependent G1 S DNA Damage Checkpoint	2/53	0.0001434663901560044	0.0021503289531018	CDKN2A;TP53
-0	Reactome_Pathways_2024	G1 S DNA Damage Checkpoints	2/55	0.00015455489350419234	0.0021503289531018	CDKN2A;TP53
-0	Reactome_Pathways_2024	Intrinsic Pathway for Apoptosis	2/55	0.00015455489350419234	0.0021503289531018	CDKN2A;TP53
-0	GO_Biological_Process_2021	regulation of reactive oxygen species metabolic process (GO:2000377)	2/57	0.00016605216030300598	0.0030768488526733	TP53;TGFBR2
-0	KEGG_2021_Human	Endometrial cancer	2/58	0.0001719539508912564	0.0007451337871954444	KRAS;TP53
-0	GO_Biological_Process_2021	regulation of DNA-templated transcription, initiation (GO:2000142)	2/61	0.0001902713322118005	0.003302170595935	CDKN2A;TP53
-0	GO_Biological_Process_2021	regulation of transcription initiation from RNA polymerase II promoter (GO:0060260)	2/64	0.00020950564474475007	0.003302170595935	CDKN2A;TP53
-0	GO_Biological_Process_2021	positive regulation of protein phosphorylation (GO:0001934)	3/371	0.00020966162513873625	0.003302170595935	SMAD4;KRAS;TP53
-0	KEGG_2021_Human	Mitophagy	2/68	0.0002365753274945057	0.000984153362377144	KRAS;TP53
-0	KEGG_2021_Human	Central carbon metabolism in cancer	2/70	0.000250719498984362	0.000993561061856386	KRAS;TP53
-0	KEGG_2021_Human	Adherens junction	2/71	0.00025794373721271563	0.000993561061856386	SMAD4;TGFBR2
-0	KEGG_2021_Human	p53 signaling pathway	2/73	0.0002726962614621149	0.0010128718282878	CDKN2A;TP53
-0	GO_Biological_Process_2021	regulation of epithelial to mesenchymal transition (GO:0010717)	2/76	0.0002955843967702132	0.0044337659515531	SMAD4;TGFBR2
-0	Reactome_Pathways_2024	Diseases of Programmed Cell Death	2/78	0.0003113487871578887	0.0041513171621051	CDKN2A;TP53
-0	GO_Biological_Process_2021	negative regulation of nucleic acid-templated transcription (GO:1903507)	3/464	0.0004050648065763604	0.0055503539177934	SMAD4;CDKN2A;TP53
-0	GO_Biological_Process_2021	transforming growth factor beta receptor signaling pathway (GO:0007179)	2/89	0.0004052639368547568	0.0055503539177934	SMAD4;TGFBR2
-0	Reactome_Pathways_2024	Generic Transcription Pathway	4/1230	0.0004287268566460239	0.0053567345754786	SMAD4;CDKN2A;KRAS;TP53
-0	KEGG_2021_Human	TGF-beta signaling pathway	2/94	0.00045197447980601367	0.0016208739965457	SMAD4;TGFBR2
-0	GO_Biological_Process_2021	hemopoiesis (GO:0030097)	2/94	0.00045197447980601367	0.0059321650474539	TP53;TGFBR2
-0	Reactome_Pathways_2024	Oxidative Stress Induced Senescence	2/94	0.00045197447980601367	0.0053567345754786	CDKN2A;TP53
-0	Reactome_Pathways_2024	Signaling by TGF-beta Receptor Complex	2/94	0.00045197447980601367	0.0053567345754786	SMAD4;TGFBR2
-0	KEGG_2021_Human	Prostate cancer	2/97	0.0004812034718224146	0.001668172035651	KRAS;TP53
-0	GO_Biological_Process_2021	regulation of transforming growth factor beta receptor signaling pathway (GO:0017015)	2/100	0.0005113327792346296	0.0064427930183563	SMAD4;TGFBR2
-0	KEGG_2021_Human	Longevity regulating pathway	2/102	0.0005319184795012633	0.0017845007054235	KRAS;TP53
-0	GO_Biological_Process_2021	positive regulation of cellular metabolic process (GO:0031325)	2/105	0.0005635452540066437	0.0068275675004651	TP53;TGFBR2
-0	KEGG_2021_Human	Th17 cell differentiation	2/107	0.0005851279925089499	0.001901665975654	SMAD4;TGFBR2
-0	GO_Biological_Process_2021	negative regulation of transmembrane receptor protein serine/threonine kinase signaling pathway (GO:0090101)	2/108	0.0005960686757369518	0.0069541345502644	SMAD4;TGFBR2
-0	Reactome_Pathways_2024	Maternal to Zygotic Transition (MZT)	2/109	0.000607108833817942	0.0067541919213095	TP53;KDM6A
-0	Reactome_Pathways_2024	RNA Polymerase II Transcription	4/1360	0.0006306793208545021	0.0067541919213095	SMAD4;CDKN2A;KRAS;TP53
-0	Reactome_Pathways_2024	Signal Transduction	5/2613	0.000633205492622767	0.0067541919213095	RNF43;SMAD4;KRAS;TP53;TGFBR2
-0	GO_Biological_Process_2021	negative regulation of cellular macromolecule biosynthetic process (GO:2000113)	3/547	0.0006559507000721189	0.0072102410406507	SMAD4;CDKN2A;TP53
-0	GO_Biological_Process_2021	cellular response to transforming growth factor beta stimulus (GO:0071560)	2/114	0.000663799968821819	0.0072102410406507	SMAD4;TGFBR2
-0	KEGG_2021_Human	Sphingolipid signaling pathway	2/119	0.0007229703571880654	0.002211438739634	KRAS;TP53
-0	KEGG_2021_Human	Neurotrophin signaling pathway	2/119	0.0007229703571880654	0.002211438739634	KRAS;TP53
-0	GO_Biological_Process_2021	negative regulation of cellular process (GO:0048523)	3/566	0.0007247367094458242	0.0076097354491811	SMAD4;CDKN2A;TP53
-0	KEGG_2021_Human	Thyroid hormone signaling pathway	2/121	0.0007473312832696021	0.0022206415274296	KRAS;TP53
-0	GO_Biological_Process_2021	circulatory system development (GO:0072359)	2/126	0.0008099619795892264	0.0082302588248582	KDM6A;TGFBR2
-0	Reactome_Pathways_2024	Post-translational Protein Modification	4/1457	0.0008209006100904742	0.008473812749321	SMAD4;CDKN2A;TP53;TGFBR2
-0	KEGG_2021_Human	Relaxin signaling pathway	2/129	0.0008487235488554866	0.0024518680300269	KRAS;TGFBR2
-0	GO_Biological_Process_2021	transmembrane receptor protein serine/threonine kinase signaling pathway (GO:0007178)	2/133	0.00090178315414844	0.0088769279236487	SMAD4;TGFBR2
-0	KEGG_2021_Human	Apelin signaling pathway	2/137	0.000956414098463136	0.002688299087572	SMAD4;KRAS
-0	KEGG_2021_Human	Apoptosis	2/142	0.0010269075576729	0.002776799243557	KRAS;TP53
-0	KEGG_2021_Human	Signaling pathways regulating pluripotency of stem cells	2/143	0.0010412997163339	0.002776799243557	SMAD4;KRAS
-0	KEGG_2021_Human	Breast cancer	2/147	0.001099844896677	0.0028595967313603	KRAS;TP53
-0	KEGG_2021_Human	Hepatitis C	2/157	0.0012530260824635	0.00317840762381	KRAS;TP53
-0	GO_Biological_Process_2021	cellular response to growth factor stimulus (GO:0071363)	2/158	0.0012688785397168	0.0121120224245702	SMAD4;TGFBR2
-0	Reactome_Pathways_2024	Regulation of TP53 Activity	2/160	0.00130087425986	0.0127710780378448	CDKN2A;TP53
-0	Reactome_Pathways_2024	Signaling by TGFB Family Members	2/161	0.0013170174226527	0.0127710780378448	SMAD4;TGFBR2
-0	KEGG_2021_Human	Hippo signaling pathway	2/163	0.0013495941039708	0.0033418520669755	SMAD4;TGFBR2
-0	GO_Biological_Process_2021	heart development (GO:0007507)	2/164	0.0013660275223402	0.0122424156045283	KDM6A;TGFBR2
-0	Reactome_Pathways_2024	Cellular Senescence	2/167	0.0014159074884179	0.0130369419716971	CDKN2A;TP53
-0	Reactome_Pathways_2024	Apoptosis	2/168	0.0014327272143439	0.0130369419716971	CDKN2A;TP53
-0	Reactome_Pathways_2024	SUMO E3 Ligases SUMOylate Target Proteins	2/170	0.0014666559718159	0.0130369419716971	CDKN2A;TP53
-0	Reactome_Pathways_2024	SUMOylation	2/176	0.0015707531014287	0.0135848916880325	CDKN2A;TP53
-0	GO_Biological_Process_2021	positive regulation of CD4-positive, alpha-beta T cell proliferation (GO:2000563)	1/5	0.0017489165149326	0.0122424156045283	TGFBR2
-0	GO_Biological_Process_2021	positive regulation of cell proliferation involved in heart morphogenesis (GO:2000138)	1/5	0.0017489165149326	0.0122424156045283	SMAD4
-0	GO_Biological_Process_2021	positive regulation of epithelial to mesenchymal transition involved in endocardial cushion formation (GO:1905007)	1/5	0.0017489165149326	0.0122424156045283	TGFBR2
-0	GO_Biological_Process_2021	tricuspid valve development (GO:0003175)	1/5	0.0017489165149326	0.0122424156045283	TGFBR2
-0	GO_Biological_Process_2021	tricuspid valve morphogenesis (GO:0003186)	1/5	0.0017489165149326	0.0122424156045283	TGFBR2
-0	GO_Biological_Process_2021	bone marrow development (GO:0048539)	1/5	0.0017489165149326	0.0122424156045283	TP53
-0	GO_Biological_Process_2021	positive regulation of histone H3-K9 acetylation (GO:2000617)	1/5	0.0017489165149326	0.0122424156045283	SMAD4
-0	GO_Biological_Process_2021	cardiac endothelial cell differentiation (GO:0003348)	1/5	0.0017489165149326	0.0122424156045283	SMAD4
-0	GO_Biological_Process_2021	histone H3-K27 demethylation (GO:0071557)	1/5	0.0017489165149326	0.0122424156045283	KDM6A
-0	GO_Biological_Process_2021	endocardial cell differentiation (GO:0060956)	1/5	0.0017489165149326	0.0122424156045283	SMAD4
-0	GO_Biological_Process_2021	cellular response to antibiotic (GO:0071236)	1/5	0.0017489165149326	0.0122424156045283	TP53
-0	GO_Molecular_Function_2021	histone demethylase activity (H3-K27 specific) (GO:0071558)	1/5	0.0017489165149326	0.0262864488027055	KDM6A
-0	Reactome_Pathways_2024	Activation of NOXA and Translocation to Mitochondria	1/5	0.0017489165149326	0.0139913321194609	TP53
-0	Reactome_Pathways_2024	Activation of RAS in B Cells	1/5	0.0017489165149326	0.0139913321194609	KRAS
-0	Reactome_Pathways_2024	RUNX3 Regulates BCL2L11 (BIM) Transcription	1/5	0.0017489165149326	0.0139913321194609	SMAD4
-0	GO_Molecular_Function_2021	RNA polymerase II-specific DNA-binding transcription factor binding (GO:0061629)	2/190	0.0018270752687273	0.0262864488027055	CDKN2A;TP53
-0	Reactome_Pathways_2024	Ub-specific Processing Proteases	2/190	0.0018270752687273	0.0142600996583599	SMAD4;TP53
-0	KEGG_2021_Human	Kaposi sarcoma-associated herpesvirus infection	2/193	0.0018844377015039	0.0045577097896838	KRAS;TP53
-0	Reactome_Pathways_2024	Programmed Cell Death	2/202	0.0020616609196503	0.0149218651162541	CDKN2A;TP53
-0	GO_Biological_Process_2021	negative regulation of cardiac muscle cell differentiation (GO:2000726)	1/6	0.0020983872819732	0.0137706665379494	SMAD4
-0	GO_Biological_Process_2021	regulation of thymocyte apoptotic process (GO:0070243)	1/6	0.0020983872819732	0.0137706665379494	TP53
-0	GO_Biological_Process_2021	regulation of macrophage apoptotic process (GO:2000109)	1/6	0.0020983872819732	0.0137706665379494	CDKN2A
-0	Reactome_Pathways_2024	Estrogen-stimulated Signaling Through PRKCZ	1/6	0.0020983872819732	0.0149218651162541	KRAS
-0	Reactome_Pathways_2024	SMAD2 3 Phosphorylation Motif Mutants in Cancer	1/6	0.0020983872819732	0.0149218651162541	TGFBR2
-0	Reactome_Pathways_2024	TGFBR1 KD Mutants in Cancer	1/6	0.0020983872819732	0.0149218651162541	TGFBR2
-0	KEGG_2021_Human	Proteoglycans in cancer	2/205	0.0021224428462349	0.0050166830911007	KRAS;TP53
-0	GO_Molecular_Function_2021	transcription regulatory region nucleic acid binding (GO:0001067)	2/212	0.0022675765707237	0.0262864488027055	SMAD4;TP53
-0	KEGG_2021_Human	Lipid and atherosclerosis	2/215	0.0023311917745631	0.0053876432123238	KRAS;TP53
-0	GO_Biological_Process_2021	SMAD protein complex assembly (GO:0007183)	1/7	0.0024477534600423	0.0142785618502467	SMAD4
-0	GO_Biological_Process_2021	positive regulation of cardiac epithelial to mesenchymal transition (GO:0062043)	1/7	0.0024477534600423	0.0142785618502467	TGFBR2
-0	GO_Biological_Process_2021	regulation of T cell tolerance induction (GO:0002664)	1/7	0.0024477534600423	0.0142785618502467	TGFBR2
-0	GO_Biological_Process_2021	positive regulation of RNA polymerase II transcription preinitiation complex assembly (GO:0045899)	1/7	0.0024477534600423	0.0142785618502467	TP53
-0	GO_Biological_Process_2021	regulation of transforming growth factor beta2 production (GO:0032909)	1/7	0.0024477534600423	0.0142785618502467	SMAD4
-0	GO_Biological_Process_2021	atrioventricular valve formation (GO:0003190)	1/7	0.0024477534600423	0.0142785618502467	SMAD4
-0	Reactome_Pathways_2024	SOS-mediated Signalling	1/7	0.0024477534600423	0.016318356400282	KRAS
-0	Reactome_Pathways_2024	RAS Signaling Downstream of NF1 Loss-Of-Function Variants	1/7	0.0024477534600423	0.016318356400282	KRAS
-0	Reactome_Pathways_2024	Loss of Function of TGFBR1 in Cancer	1/7	0.0024477534600423	0.016318356400282	TGFBR2
-0	GO_Biological_Process_2021	ER overload response (GO:0006983)	1/8	0.002797015027105	0.0146843288923015	TP53
-0	GO_Biological_Process_2021	stress-induced premature senescence (GO:0090400)	1/8	0.002797015027105	0.0146843288923015	TP53
-0	GO_Biological_Process_2021	positive regulation of execution phase of apoptosis (GO:1900119)	1/8	0.002797015027105	0.0146843288923015	TP53
-0	GO_Biological_Process_2021	negative regulation of muscle hypertrophy (GO:0014741)	1/8	0.002797015027105	0.0146843288923015	SMAD4
-0	GO_Biological_Process_2021	regulation of epithelial to mesenchymal transition involved in endocardial cushion formation (GO:1905005)	1/8	0.002797015027105	0.0146843288923015	TGFBR2
-0	GO_Biological_Process_2021	positive regulation of myeloid cell apoptotic process (GO:0033034)	1/8	0.002797015027105	0.0146843288923015	CDKN2A
-0	Reactome_Pathways_2024	Activated NTRK3 Signals Through RAS	1/8	0.002797015027105	0.0175498982092866	KRAS
-0	Reactome_Pathways_2024	Signaling by RNF43 Mutants	1/8	0.002797015027105	0.0175498982092866	RNF43
-0	Reactome_Pathways_2024	TGFBR3 Regulates TGF-beta Signaling	1/8	0.002797015027105	0.0175498982092866	TGFBR2
-0	Reactome_Pathways_2024	Metabolism of Proteins	4/2067	0.0030787528159806	0.017662719847094	SMAD4;CDKN2A;TP53;TGFBR2
-0	GO_Biological_Process_2021	regulation of helicase activity (GO:0051095)	1/9	0.0031461719727636	0.0147672461151777	TP53
-0	GO_Biological_Process_2021	regulation of smooth muscle cell apoptotic process (GO:0034391)	1/9	0.0031461719727636	0.0147672461151777	CDKN2A
-0	GO_Biological_Process_2021	positive regulation of smooth muscle cell apoptotic process (GO:0034393)	1/9	0.0031461719727636	0.0147672461151777	CDKN2A
-0	GO_Molecular_Function_2021	activin-activated receptor activity (GO:0017002)	1/9	0.0031461719727636	0.0262864488027055	TGFBR2
-0	GO_Molecular_Function_2021	type I transforming growth factor beta receptor binding (GO:0034713)	1/9	0.0031461719727636	0.0262864488027055	TGFBR2
-0	Reactome_Pathways_2024	Activated NTRK2 Signals Through RAS	1/9	0.0031461719727636	0.017662719847094	KRAS
-0	Reactome_Pathways_2024	SHC-related Events Triggered by IGF1R	1/9	0.0031461719727636	0.017662719847094	KRAS
-0	Reactome_Pathways_2024	Activation of PUMA and Translocation to Mitochondria	1/9	0.0031461719727636	0.017662719847094	TP53
-0	Reactome_Pathways_2024	PI5P Regulates TP53 Acetylation	1/9	0.0031461719727636	0.017662719847094	TP53
-0	Reactome_Pathways_2024	EGFR Transactivation by Gastrin	1/9	0.0031461719727636	0.017662719847094	KRAS
-0	GO_Biological_Process_2021	negative regulation of transcription, DNA-templated (GO:0045892)	3/948	0.0032183198267045	0.0147672461151777	SMAD4;CDKN2A;TP53
-0	GO_Biological_Process_2021	positive regulation of cell differentiation (GO:0045597)	2/258	0.0033354498516176	0.0147672461151777	SMAD4;TGFBR2
-0	Reactome_Pathways_2024	Cell Cycle Checkpoints	2/261	0.0034119085834329	0.0188243232189402	CDKN2A;TP53
-0	GO_Biological_Process_2021	regulation of RNA polymerase II transcription preinitiation complex assembly (GO:0045898)	1/10	0.0034952242970889	0.0147672461151777	TP53
-0	GO_Biological_Process_2021	negative regulation of telomerase activity (GO:0051974)	1/10	0.0034952242970889	0.0147672461151777	TP53
-0	GO_Biological_Process_2021	positive regulation of T cell apoptotic process (GO:0070234)	1/10	0.0034952242970889	0.0147672461151777	TP53
-0	GO_Biological_Process_2021	hematopoietic stem cell differentiation (GO:0060218)	1/10	0.0034952242970889	0.0147672461151777	TP53
-0	GO_Biological_Process_2021	DNA damage response, signal transduction by p53 class mediator resulting in transcription of p21 class mediator (GO:0006978)	1/10	0.0034952242970889	0.0147672461151777	TP53
-0	GO_Biological_Process_2021	myeloid dendritic cell differentiation (GO:0043011)	1/10	0.0034952242970889	0.0147672461151777	TGFBR2
-0	GO_Biological_Process_2021	positive regulation of mesenchymal cell proliferation (GO:0002053)	1/10	0.0034952242970889	0.0147672461151777	TGFBR2
-0	GO_Molecular_Function_2021	cyclin-dependent protein serine/threonine kinase inhibitor activity (GO:0004861)	1/10	0.0034952242970889	0.0262864488027055	CDKN2A
-0	GO_Biological_Process_2021	protein deubiquitination (GO:0016579)	2/267	0.0035673053480325	0.0147672461151777	SMAD4;TP53
-0	GO_Biological_Process_2021	protein modification by small protein removal (GO:0070646)	2/276	0.0038065791213502	0.0147672461151777	SMAD4;TP53
-0	GO_Biological_Process_2021	regulation of histone H3-K9 acetylation (GO:2000615)	1/11	0.0038441720045859	0.0147672461151777	SMAD4
-0	GO_Biological_Process_2021	positive regulation of production of miRNAs involved in gene silencing by miRNA (GO:1903800)	1/11	0.0038441720045859	0.0147672461151777	TP53
-0	GO_Biological_Process_2021	regulation of mesenchymal cell proliferation (GO:0010464)	1/11	0.0038441720045859	0.0147672461151777	TGFBR2
-0	GO_Biological_Process_2021	regulation of CD4-positive, alpha-beta T cell proliferation (GO:2000561)	1/11	0.0038441720045859	0.0147672461151777	TGFBR2
-0	GO_Biological_Process_2021	positive regulation of transcription from RNA polymerase II promoter in response to endoplasmic reticulum stress (GO:1990440)	1/11	0.0038441720045859	0.0147672461151777	TP53
-0	GO_Biological_Process_2021	DNA damage response, signal transduction resulting in transcription (GO:0042772)	1/11	0.0038441720045859	0.0147672461151777	TP53
-0	GO_Biological_Process_2021	response to sterol (GO:0036314)	1/11	0.0038441720045859	0.0147672461151777	TGFBR2
-0	GO_Biological_Process_2021	positive regulation of leukocyte apoptotic process (GO:2000108)	1/11	0.0038441720045859	0.0147672461151777	CDKN2A
-0	GO_Cellular_Component_2021	MLL3/4 complex (GO:0044666)	1/11	0.0038441720045859	0.0691950960825472	KDM6A
-0	Reactome_Pathways_2024	Activated NTRK2 Signals Through FRS2 and FRS3	1/11	0.0038441720045859	0.0198408877656049	KRAS
-0	Reactome_Pathways_2024	Signaling by FGFR4 in Disease	1/11	0.0038441720045859	0.0198408877656049	KRAS
-0	Reactome_Pathways_2024	Constitutive Signaling by Overexpressed ERBB2	1/11	0.0038441720045859	0.0198408877656049	KRAS
-0	Reactome_Pathways_2024	MET Activates RAS Signaling	1/11	0.0038441720045859	0.0198408877656049	KRAS
-0	Reactome_Pathways_2024	Signaling by WNT	2/287	0.0041090476264954	0.0200263407998114	RNF43;KRAS
-0	GO_Biological_Process_2021	negative regulation of cardiac muscle hypertrophy (GO:0010614)	1/12	0.0041930151049605	0.0151816064145122	SMAD4
-0	GO_Biological_Process_2021	positive regulation of cellular senescence (GO:2000774)	1/12	0.0041930151049605	0.0151816064145122	CDKN2A
-0	GO_Biological_Process_2021	chromatin assembly or disassembly (GO:0006333)	1/12	0.0041930151049605	0.0151816064145122	TP53
-0	GO_Biological_Process_2021	mitotic G1/S transition checkpoint signaling (GO:0044819)	1/12	0.0041930151049605	0.0151816064145122	TP53
-0	GO_Biological_Process_2021	mRNA transcription (GO:0009299)	1/12	0.0041930151049605	0.0151816064145122	TP53
-0	GO_Molecular_Function_2021	transforming growth factor beta-activated receptor activity (GO:0005024)	1/12	0.0041930151049605	0.0262864488027055	TGFBR2
-0	Reactome_Pathways_2024	Signaling by PDGFRA Extracellular Domain Mutants	1/12	0.0041930151049605	0.0200263407998114	KRAS
-0	Reactome_Pathways_2024	Signaling by PDGFRA Transmembrane, Juxtamembrane and Kinase Domain Mutants	1/12	0.0041930151049605	0.0200263407998114	KRAS
-0	Reactome_Pathways_2024	TP53 Regulates Transcription of Caspase Activators and Caspases	1/12	0.0041930151049605	0.0200263407998114	TP53
-0	Reactome_Pathways_2024	TP53 Regulates Transcription of Death Receptors and Ligands	1/12	0.0041930151049605	0.0200263407998114	TP53
-0	GO_Biological_Process_2021	regulation of cell cycle (GO:0051726)	2/296	0.0043646803682731	0.0155505694226934	CDKN2A;TP53
-0	GO_Biological_Process_2021	positive regulation of CD4-positive, alpha-beta T cell activation (GO:2000516)	1/13	0.0045417536091676	0.0155505694226934	TGFBR2
-0	GO_Biological_Process_2021	positive regulation of cell aging (GO:0090343)	1/13	0.0045417536091676	0.0155505694226934	CDKN2A
-0	GO_Biological_Process_2021	pathway-restricted SMAD protein phosphorylation (GO:0060389)	1/13	0.0045417536091676	0.0155505694226934	TGFBR2
-0	GO_Biological_Process_2021	embryonic hemopoiesis (GO:0035162)	1/13	0.0045417536091676	0.0155505694226934	TGFBR2
-0	GO_Molecular_Function_2021	I-SMAD binding (GO:0070411)	1/13	0.0045417536091676	0.0262864488027055	SMAD4
-0	Reactome_Pathways_2024	p38MAPK Events	1/13	0.0045417536091676	0.0201225106859265	KRAS
-0	Reactome_Pathways_2024	GRB2 Events in EGFR Signaling	1/13	0.0045417536091676	0.0201225106859265	KRAS
-0	GO_Biological_Process_2021	regulation of gene expression (GO:0010468)	3/1079	0.0046519796091913	0.0157191027864569	KRAS;TP53;KDM6A
-0	GO_Biological_Process_2021	positive regulation of alpha-beta T cell differentiation (GO:0046638)	1/14	0.0048903875335643	0.0157191027864569	TGFBR2
-0	GO_Biological_Process_2021	positive regulation of SMAD protein signal transduction (GO:0060391)	1/14	0.0048903875335643	0.0157191027864569	SMAD4
-0	GO_Biological_Process_2021	atrioventricular valve development (GO:0003171)	1/14	0.0048903875335643	0.0157191027864569	TGFBR2
-0	GO_Biological_Process_2021	branching involved in blood vessel morphogenesis (GO:0001569)	1/14	0.0048903875335643	0.0157191027864569	TGFBR2
-0	GO_Biological_Process_2021	myeloid dendritic cell activation (GO:0001773)	1/14	0.0048903875335643	0.0157191027864569	TGFBR2
-0	Reactome_Pathways_2024	Erythropoietin Activates RAS	1/14	0.0048903875335643	0.0201225106859265	KRAS
-0	Reactome_Pathways_2024	SHC1 Events in EGFR Signaling	1/14	0.0048903875335643	0.0201225106859265	KRAS
-0	Reactome_Pathways_2024	SHC1 Events in ERBB4 Signaling	1/14	0.0048903875335643	0.0201225106859265	KRAS
-0	Reactome_Pathways_2024	PTK6 Regulates RHO GTPases, RAS GTPase and MAP Kinases	1/14	0.0048903875335643	0.0201225106859265	KRAS
-0	Reactome_Pathways_2024	TP53 Regulates Transcription of Genes Involved in G1 Cell Cycle Arrest	1/14	0.0048903875335643	0.0201225106859265	TP53
-0	Reactome_Pathways_2024	TP53 Regulates Transcription of Cell Death Genes With Uncertain Role in P53-Dependent Apoptosis	1/14	0.0048903875335643	0.0201225106859265	TP53
-0	Reactome_Pathways_2024	Regulation of TP53 Activity Through Association With Co-factors	1/14	0.0048903875335643	0.0201225106859265	TP53
-0	GO_Biological_Process_2021	positive regulation of protein export from nucleus (GO:0046827)	1/15	0.0052389168941443	0.0163391962540145	TP53
-0	GO_Biological_Process_2021	positive regulation of histone H3-K4 methylation (GO:0051571)	1/15	0.0052389168941443	0.0163391962540145	SMAD4
-0	GO_Biological_Process_2021	embryonic cranial skeleton morphogenesis (GO:0048701)	1/15	0.0052389168941443	0.0163391962540145	TGFBR2
-0	Reactome_Pathways_2024	Signaling by EGFRvIII in Cancer	1/15	0.0052389168941443	0.0201225106859265	KRAS
-0	Reactome_Pathways_2024	Constitutive Signaling by EGFRvIII	1/15	0.0052389168941443	0.0201225106859265	KRAS
-0	KEGG_2021_Human	Human papillomavirus infection	2/331	0.005427930973216	0.0122718439394449	KRAS;TP53
-0	GO_Molecular_Function_2021	DNA-binding transcription activator activity, RNA polymerase II-specific (GO:0001228)	2/333	0.0054919825584048	0.0262864488027055	SMAD4;TP53
-0	GO_Molecular_Function_2021	RNA polymerase II cis-regulatory region sequence-specific DNA binding (GO:0000978)	3/1149	0.0055576579606955	0.0262864488027055	SMAD4;TP53;KDM6A
-0	GO_Molecular_Function_2021	cis-regulatory region sequence-specific DNA binding (GO:0000987)	3/1149	0.0055576579606955	0.0262864488027055	SMAD4;TP53;KDM6A
-0	GO_Biological_Process_2021	positive regulation of alpha-beta T cell proliferation (GO:0046641)	1/16	0.0055873417078214	0.0172550258623898	TGFBR2
-0	Reactome_Pathways_2024	Signaling by ERBB2 ECD Mutants	1/16	0.0055873417078214	0.0201225106859265	KRAS
-0	Reactome_Pathways_2024	GRB2 Events in ERBB2 Signaling	1/16	0.0055873417078214	0.0201225106859265	KRAS
-0	Reactome_Pathways_2024	Signaling by FLT3 ITD and TKD Mutants	1/16	0.0055873417078214	0.0201225106859265	KRAS
-0	Reactome_Pathways_2024	TGF-beta Receptor Signaling in EMT (Epithelial to Mesenchymal Transition)	1/16	0.0055873417078214	0.0201225106859265	TGFBR2
-0	GO_Biological_Process_2021	positive regulation of multicellular organismal process (GO:0051240)	2/345	0.0058837060214865	0.0178069859853733	SMAD4;TGFBR2
-0	GO_Biological_Process_2021	cellular response to gamma radiation (GO:0071480)	1/17	0.0059356619951244	0.0178069859853733	TP53
-0	GO_Biological_Process_2021	negative regulation of ATPase activity (GO:0032780)	1/17	0.0059356619951244	0.0178069859853733	TP53
-0	Reactome_Pathways_2024	FOXO-mediated Transcription of Cell Cycle Genes	1/17	0.0059356619951244	0.0201225106859265	SMAD4
-0	Reactome_Pathways_2024	Formation of Senescence-Associated Heterochromatin Foci (SAHF)	1/17	0.0059356619951244	0.0201225106859265	TP53
-0	Reactome_Pathways_2024	Signaling by Activin	1/17	0.0059356619951244	0.0201225106859265	SMAD4
-0	Reactome_Pathways_2024	Germ Layer Formation at Gastrulation	1/17	0.0059356619951244	0.0201225106859265	SMAD4
-0	Reactome_Pathways_2024	Signaling by NTRK3 (TRKC)	1/17	0.0059356619951244	0.0201225106859265	KRAS
-0	Reactome_Pathways_2024	Regulation of MITF-M-dependent Genes Involved in Cell Cycle and Proliferation	1/17	0.0059356619951244	0.0201225106859265	CDKN2A
-0	KEGG_2021_Human	PI3K-Akt signaling pathway	2/354	0.0061858050164402	0.0136877387597826	KRAS;TP53
-0	GO_Biological_Process_2021	regulation of transforming growth factor beta production (GO:0071634)	1/18	0.0062838777740325	0.0181598302644061	SMAD4
-0	GO_Biological_Process_2021	negative regulation of fibroblast proliferation (GO:0048147)	1/18	0.0062838777740325	0.0181598302644061	TP53
-0	GO_Biological_Process_2021	regulation of production of miRNAs involved in gene silencing by miRNA (GO:1903798)	1/18	0.0062838777740325	0.0181598302644061	TP53
-0	GO_Biological_Process_2021	interleukin-6-mediated signaling pathway (GO:0070102)	1/18	0.0062838777740325	0.0181598302644061	SMAD4
-0	GO_Molecular_Function_2021	transforming growth factor beta receptor binding (GO:0005160)	1/18	0.0062838777740325	0.0262864488027055	TGFBR2
-0	GO_Molecular_Function_2021	transmembrane receptor protein serine/threonine kinase activity (GO:0004675)	1/18	0.0062838777740325	0.0262864488027055	TGFBR2
-0	Reactome_Pathways_2024	Zygotic Genome Activation (ZGA)	1/18	0.0062838777740325	0.0201225106859265	TP53
-0	Reactome_Pathways_2024	SHC-mediated Cascade FGFR3	1/18	0.0062838777740325	0.0201225106859265	KRAS
-0	Reactome_Pathways_2024	Formation of Definitive Endoderm	1/18	0.0062838777740325	0.0201225106859265	SMAD4
-0	Reactome_Pathways_2024	Gastrin-CREB Signalling Pathway via PKC and MAPK	1/18	0.0062838777740325	0.0201225106859265	KRAS
-0	Reactome_Pathways_2024	TP53 Regulates Transcription of Genes Involved in G2 Cell Cycle Arrest	1/18	0.0062838777740325	0.0201225106859265	TP53
-0	Reactome_Pathways_2024	Tie2 Signaling	1/18	0.0062838777740325	0.0201225106859265	KRAS
-0	Reactome_Pathways_2024	Regulation of NF-kappa B Signaling	1/18	0.0062838777740325	0.0201225106859265	TP53
-0	Reactome_Pathways_2024	Transcriptional Regulation by TP53	2/362	0.0064602835032726	0.0201225106859265	CDKN2A;TP53
-0	GO_Biological_Process_2021	regulation of histone H3-K4 methylation (GO:0051569)	1/19	0.006631989066781	0.0186524692503217	SMAD4
-0	GO_Biological_Process_2021	response to cholesterol (GO:0070723)	1/19	0.006631989066781	0.0186524692503217	TGFBR2
-0	GO_Biological_Process_2021	endocardial cushion morphogenesis (GO:0003203)	1/19	0.006631989066781	0.0186524692503217	TGFBR2
-0	GO_Molecular_Function_2021	R-SMAD binding (GO:0070412)	1/19	0.006631989066781	0.0262864488027055	SMAD4
-0	Reactome_Pathways_2024	SARS-CoV-1 Targets Host Intracellular Signalling and Regulatory Pathways	1/19	0.006631989066781	0.0201225106859265	SMAD4
-0	Reactome_Pathways_2024	Signaling by FLT3 Fusion Proteins	1/19	0.006631989066781	0.0201225106859265	KRAS
-0	Reactome_Pathways_2024	Signaling by Ligand-Responsive EGFR Variants in Cancer	1/19	0.006631989066781	0.0201225106859265	KRAS
-0	Reactome_Pathways_2024	Constitutive Signaling by Ligand-Responsive EGFR Cancer Variants	1/19	0.006631989066781	0.0201225106859265	KRAS
-0	Reactome_Pathways_2024	Regulation of TP53 Activity Through Methylation	1/19	0.006631989066781	0.0201225106859265	TP53
-0	Reactome_Pathways_2024	VEGFR2 Mediated Cell Proliferation	1/19	0.006631989066781	0.0201225106859265	KRAS
-0	GO_Biological_Process_2021	negative regulation of cyclin-dependent protein serine/threonine kinase activity (GO:0045736)	1/20	0.0069799958941807	0.0194575106784685	CDKN2A
-0	GO_Molecular_Function_2021	transcription coactivator binding (GO:0001223)	1/20	0.0069799958941807	0.0262864488027055	SMAD4
-0	Reactome_Pathways_2024	SHC-mediated Cascade FGFR4	1/20	0.0069799958941807	0.0201225106859265	KRAS
-0	Reactome_Pathways_2024	FRS-mediated FGFR3 Signaling	1/20	0.0069799958941807	0.0201225106859265	KRAS
-0	Reactome_Pathways_2024	Apoptotic Factor-Mediated Response	1/20	0.0069799958941807	0.0201225106859265	CDKN2A
-0	Reactome_Pathways_2024	Signaling by KIT in Disease	1/20	0.0069799958941807	0.0201225106859265	KRAS
-0	Reactome_Pathways_2024	Signaling by PDGFR in Disease	1/20	0.0069799958941807	0.0201225106859265	KRAS
-0	Reactome_Pathways_2024	Signaling by Phosphorylated Juxtamembrane, Extracellular and Kinase Domain KIT Mutants	1/20	0.0069799958941807	0.0201225106859265	KRAS
-0	Reactome_Pathways_2024	Signalling to RAS	1/20	0.0069799958941807	0.0201225106859265	KRAS
-0	Reactome_Pathways_2024	TP53 Regulates Transcription of Genes Involved in Cytochrome C Release	1/20	0.0069799958941807	0.0201225106859265	TP53
-0	Reactome_Pathways_2024	Ras Activation Upon Ca2+ Influx Through NMDA Receptor	1/20	0.0069799958941807	0.0201225106859265	KRAS
-0	GO_Biological_Process_2021	negative regulation of cell population proliferation (GO:0008285)	2/379	0.0070620183536169	0.0195134717665732	CDKN2A;TP53
-0	GO_Biological_Process_2021	positive regulation of macromolecule metabolic process (GO:0010604)	2/384	0.0072437533577504	0.019728956900384	KRAS;TP53
-0	GO_Biological_Process_2021	intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator (GO:0042771)	1/21	0.0073278982772855	0.019728956900384	TP53
-0	GO_Biological_Process_2021	positive regulation of transcription from RNA polymerase II promoter involved in cellular response to chemical stimulus (GO:1901522)	1/21	0.0073278982772855	0.019728956900384	SMAD4
-0	GO_Molecular_Function_2021	histone acetyltransferase binding (GO:0035035)	1/21	0.0073278982772855	0.0262864488027055	TP53
-0	Reactome_Pathways_2024	SHC-mediated Cascade FGFR1	1/21	0.0073278982772855	0.0203906734672292	KRAS
-0	Reactome_Pathways_2024	CD209 (DC-SIGN) Signaling	1/21	0.0073278982772855	0.0203906734672292	KRAS
-0	Reactome_Pathways_2024	TP53 Regulates Transcription of Additional Cell Cycle Genes With Uncertain Roles in the P53 Pathway	1/21	0.0073278982772855	0.0203906734672292	TP53
-0	Reactome_Pathways_2024	Regulation of FZD by Ubiquitination	1/21	0.0073278982772855	0.0203906734672292	RNF43
-0	GO_Biological_Process_2021	negative regulation of cyclin-dependent protein kinase activity (GO:1904030)	1/22	0.0076756962402828	0.0199761998664239	CDKN2A
-0	GO_Biological_Process_2021	regulation of execution phase of apoptosis (GO:1900117)	1/22	0.0076756962402828	0.0199761998664239	TP53
-0	Reactome_Pathways_2024	SHC1 Events in ERBB2 Signaling	1/22	0.0076756962402828	0.0206405277049622	KRAS
-0	Reactome_Pathways_2024	FRS-mediated FGFR4 Signaling	1/22	0.0076756962402828	0.0206405277049622	KRAS
-0	Reactome_Pathways_2024	Signaling by ERBB2 TMD JMD Mutants	1/22	0.0076756962402828	0.0206405277049622	KRAS
-0	Reactome_Pathways_2024	Signaling by FGFR3 in Disease	1/22	0.0076756962402828	0.0206405277049622	KRAS
-0	GO_Biological_Process_2021	regulation of SMAD protein signal transduction (GO:0060390)	1/23	0.0080233898041786	0.0199761998664239	SMAD4
-0	GO_Biological_Process_2021	positive regulation of transcription initiation from RNA polymerase II promoter (GO:0060261)	1/23	0.0080233898041786	0.0199761998664239	TP53
-0	GO_Biological_Process_2021	positive regulation of histone acetylation (GO:0035066)	1/23	0.0080233898041786	0.0199761998664239	SMAD4
-0	GO_Biological_Process_2021	regulation of protein export from nucleus (GO:0046825)	1/23	0.0080233898041786	0.0199761998664239	TP53
-0	GO_Molecular_Function_2021	disordered domain specific binding (GO:0097718)	1/23	0.0080233898041786	0.0262864488027055	TP53
-0	Reactome_Pathways_2024	SHC-mediated Cascade FGFR2	1/23	0.0080233898041786	0.0210449568634193	KRAS
-0	Reactome_Pathways_2024	FRS-mediated FGFR1 Signaling	1/23	0.0080233898041786	0.0210449568634193	KRAS
-0	Reactome_Pathways_2024	Signaling by NODAL	1/23	0.0080233898041786	0.0210449568634193	SMAD4
-0	GO_Biological_Process_2021	positive regulation of cellular response to transforming growth factor beta stimulus (GO:1903846)	1/24	0.0083709789916443	0.0199761998664239	SMAD4
-0	GO_Biological_Process_2021	regulation of cardiac muscle hypertrophy (GO:0010611)	1/24	0.0083709789916443	0.0199761998664239	SMAD4
-0	GO_Biological_Process_2021	dendritic cell differentiation (GO:0097028)	1/24	0.0083709789916443	0.0199761998664239	TGFBR2
-0	GO_Biological_Process_2021	positive regulation of transcription from RNA polymerase II promoter in response to stress (GO:0036003)	1/24	0.0083709789916443	0.0199761998664239	TP53
-0	GO_Biological_Process_2021	positive regulation of transforming growth factor beta receptor signaling pathway (GO:0030511)	1/24	0.0083709789916443	0.0199761998664239	SMAD4
-0	GO_Biological_Process_2021	response to gamma radiation (GO:0010332)	1/24	0.0083709789916443	0.0199761998664239	TP53
-0	GO_Biological_Process_2021	heterochromatin assembly (GO:0031507)	1/24	0.0083709789916443	0.0199761998664239	CDKN2A
-0	GO_Biological_Process_2021	regulation of cellular response to transforming growth factor beta stimulus (GO:1903844)	1/24	0.0083709789916443	0.0199761998664239	SMAD4
-0	GO_Biological_Process_2021	DNA packaging (GO:0006323)	1/24	0.0083709789916443	0.0199761998664239	TP53
-0	GO_Molecular_Function_2021	transforming growth factor beta binding (GO:0050431)	1/24	0.0083709789916443	0.0262864488027055	TGFBR2
-0	GO_Molecular_Function_2021	protein phosphatase 2A binding (GO:0051721)	1/24	0.0083709789916443	0.0262864488027055	TP53
-0	Reactome_Pathways_2024	RAS Processing	1/24	0.0083709789916443	0.0216271970919064	KRAS
-0	GO_Biological_Process_2021	receptor catabolic process (GO:0032801)	1/25	0.0087184638276748	0.0203430822645745	RNF43
-0	GO_Biological_Process_2021	positive regulation of release of cytochrome c from mitochondria (GO:0090200)	1/25	0.0087184638276748	0.0203430822645745	TP53
-0	GO_Biological_Process_2021	cardiac conduction system development (GO:0003161)	1/25	0.0087184638276748	0.0203430822645745	SMAD4
-0	GO_Molecular_Function_2021	NF-kappaB binding (GO:0051059)	1/25	0.0087184638276748	0.0262864488027055	CDKN2A
-0	Reactome_Pathways_2024	FRS-mediated FGFR2 Signaling	1/25	0.0087184638276748	0.0216271970919064	KRAS
-0	Reactome_Pathways_2024	Signaling by EGFR in Cancer	1/25	0.0087184638276748	0.0216271970919064	KRAS
-0	Reactome_Pathways_2024	Signaling by ERBB2 KD Mutants	1/25	0.0087184638276748	0.0216271970919064	KRAS
-0	Reactome_Pathways_2024	Signaling by Erythropoietin	1/25	0.0087184638276748	0.0216271970919064	KRAS
-0	Reactome_Pathways_2024	Signaling by NTRK2 (TRKB)	1/25	0.0087184638276748	0.0216271970919064	KRAS
-0	Reactome_Pathways_2024	Downstream Signaling of Activated FGFR3	1/25	0.0087184638276748	0.0216271970919064	KRAS
-0	GO_Molecular_Function_2021	RNA polymerase II transcription regulatory region sequence-specific DNA binding (GO:0000977)	3/1359	0.0089034745944647	0.0262864488027055	SMAD4;TP53;KDM6A
-0	GO_Biological_Process_2021	positive regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway (GO:1900740)	1/26	0.0090658443341152	0.0203981497517592	TP53
-0	GO_Biological_Process_2021	positive regulation of histone methylation (GO:0031062)	1/26	0.0090658443341152	0.0203981497517592	SMAD4
-0	GO_Biological_Process_2021	histone lysine demethylation (GO:0070076)	1/26	0.0090658443341152	0.0203981497517592	KDM6A
-0	GO_Biological_Process_2021	regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway (GO:1900739)	1/26	0.0090658443341152	0.0203981497517592	TP53
-0	GO_Biological_Process_2021	cellular response to drug (GO:0035690)	1/26	0.0090658443341152	0.0203981497517592	TP53
-0	Reactome_Pathways_2024	Signaling by ERBB2 in Cancer	1/26	0.0090658443341152	0.0219778044463399	KRAS
-0	Reactome_Pathways_2024	HDMs Demethylate Histones	1/26	0.0090658443341152	0.0219778044463399	KDM6A
-0	Reactome_Pathways_2024	Downregulation of TGF-beta Receptor Signaling	1/26	0.0090658443341152	0.0219778044463399	TGFBR2
-0	GO_Biological_Process_2021	negative regulation of catalytic activity (GO:0043086)	1/27	0.0094131205361766	0.0204491928889354	TP53
-0	GO_Biological_Process_2021	positive regulation of BMP signaling pathway (GO:0030513)	1/27	0.0094131205361766	0.0204491928889354	SMAD4
-0	GO_Biological_Process_2021	cellular senescence (GO:0090398)	1/27	0.0094131205361766	0.0204491928889354	CDKN2A
-0	GO_Biological_Process_2021	positive regulation of gene silencing by miRNA (GO:2000637)	1/27	0.0094131205361766	0.0204491928889354	TP53
-0	GO_Biological_Process_2021	entrainment of circadian clock by photoperiod (GO:0043153)	1/27	0.0094131205361766	0.0204491928889354	TP53
-0	Reactome_Pathways_2024	Cardiogenesis	1/27	0.0094131205361766	0.0223125820116779	SMAD4
-0	Reactome_Pathways_2024	Pyroptosis	1/27	0.0094131205361766	0.0223125820116779	TP53
-0	Reactome_Pathways_2024	Downstream Signaling of Activated FGFR4	1/27	0.0094131205361766	0.0223125820116779	KRAS
-0	GO_Biological_Process_2021	cellular response to interleukin-6 (GO:0071354)	1/28	0.009760292455613	0.020914912404885	SMAD4
-0	GO_Biological_Process_2021	photoperiodism (GO:0009648)	1/28	0.009760292455613	0.020914912404885	TP53
-0	GO_Molecular_Function_2021	histone demethylase activity (GO:0032452)	1/28	0.009760292455613	0.0270070025057944	KDM6A
-0	Reactome_Pathways_2024	FLT3 Signaling in Disease	1/28	0.009760292455613	0.0226325622159142	KRAS
-0	Reactome_Pathways_2024	CREB1 Phosphorylation Through NMDA Receptor-Mediated Activation of RAS Signaling	1/28	0.009760292455613	0.0226325622159142	KRAS
-0	Reactome_Pathways_2024	TGFBR3 Expression	1/28	0.009760292455613	0.0226325622159142	SMAD4
-0	GO_Biological_Process_2021	negative regulation of transferase activity (GO:0051348)	1/29	0.0101073601190722	0.0215122867399172	TP53
-0	Reactome_Pathways_2024	DAP12 Signaling	1/29	0.0101073601190722	0.0227393321530371	KRAS
-0	Reactome_Pathways_2024	Downstream Signal Transduction	1/29	0.0101073601190722	0.0227393321530371	KRAS
-0	GO_Molecular_Function_2021	kinase binding (GO:0019900)	2/461	0.0103105144955956	0.0270070025057944	CDKN2A;TP53
-0	GO_Biological_Process_2021	negative regulation of cytoskeleton organization (GO:0051494)	1/30	0.0104543235506301	0.0218086882016455	SMAD4
-0	GO_Biological_Process_2021	response to alcohol (GO:0097305)	1/30	0.0104543235506301	0.0218086882016455	TGFBR2
-0	GO_Biological_Process_2021	histone H3-K4 methylation (GO:0051568)	1/30	0.0104543235506301	0.0218086882016455	KDM6A
-0	GO_Molecular_Function_2021	protein serine/threonine kinase inhibitor activity (GO:0030291)	1/30	0.0104543235506301	0.0270070025057944	CDKN2A
-0	Reactome_Pathways_2024	Activation of BH3-only Proteins	1/30	0.0104543235506301	0.0227393321530371	TP53
-0	Reactome_Pathways_2024	Signaling by CSF3 (G-CSF)	1/30	0.0104543235506301	0.0227393321530371	KRAS
-0	Reactome_Pathways_2024	Regulation of TP53 Activity Through Acetylation	1/30	0.0104543235506301	0.0227393321530371	TP53
-0	Reactome_Pathways_2024	Downstream Signaling of Activated FGFR2	1/30	0.0104543235506301	0.0227393321530371	KRAS
-0	GO_Biological_Process_2021	regulation of transmembrane receptor protein serine/threonine kinase signaling pathway (GO:0090092)	1/31	0.0108011827726926	0.0220933283986894	SMAD4
-0	GO_Biological_Process_2021	regulation of cellular senescence (GO:2000772)	1/31	0.0108011827726926	0.0220933283986894	CDKN2A
-0	GO_Biological_Process_2021	embryonic skeletal system morphogenesis (GO:0048704)	1/31	0.0108011827726926	0.0220933283986894	TGFBR2
-0	Reactome_Pathways_2024	FOXO-mediated Transcription of Oxidative Stress, Metabolic and Neuronal Genes	1/31	0.0108011827726926	0.0227393321530371	SMAD4
-0	Reactome_Pathways_2024	Signaling by BMP	1/31	0.0108011827726926	0.0227393321530371	SMAD4
-0	Reactome_Pathways_2024	Signaling by CSF1 (M-CSF) in Myeloid Cells	1/31	0.0108011827726926	0.0227393321530371	KRAS
-0	Reactome_Pathways_2024	RUNX2 Regulates Bone Development	1/31	0.0108011827726926	0.0227393321530371	SMAD4
-0	Reactome_Pathways_2024	Transcriptional Regulation of Brown and Beige Adipocyte Differentiation	1/31	0.0108011827726926	0.0227393321530371	SMAD4
-0	Reactome_Pathways_2024	Transcriptional Regulation of Brown and Beige Adipocyte Differentiation by EBF2	1/31	0.0108011827726926	0.0227393321530371	SMAD4
-0	Reactome_Pathways_2024	Downregulation of SMAD2 3 SMAD4 Transcriptional Activity	1/31	0.0108011827726926	0.0227393321530371	SMAD4
-0	Reactome_Pathways_2024	Downstream Signaling of Activated FGFR1	1/31	0.0108011827726926	0.0227393321530371	KRAS
-0	GO_Biological_Process_2021	positive regulation of cell population proliferation (GO:0008284)	2/474	0.0108770938573817	0.0221050617101628	KRAS;TGFBR2
-0	GO_Biological_Process_2021	negative regulation of cell-matrix adhesion (GO:0001953)	1/32	0.0111479378107245	0.0222253190530267	CDKN2A
-0	GO_Biological_Process_2021	negative regulation of DNA biosynthetic process (GO:2000279)	1/32	0.0111479378107245	0.0222253190530267	TP53
-0	GO_Biological_Process_2021	hematopoietic progenitor cell differentiation (GO:0002244)	1/32	0.0111479378107245	0.0222253190530267	TP53
-0	Reactome_Pathways_2024	Transcriptional Regulation of Pluripotent Stem Cells	1/32	0.0111479378107245	0.0233159483622997	SMAD4
-0	GO_Biological_Process_2021	positive regulation of gene expression (GO:0010628)	2/482	0.0112326418056335	0.0222533469734249	KRAS;TP53
-0	GO_Biological_Process_2021	signal transduction by p53 class mediator (GO:0072331)	1/33	0.0114945886890378	0.0224894126524652	TP53
-0	GO_Biological_Process_2021	vasculogenesis (GO:0001570)	1/33	0.0114945886890378	0.0224894126524652	TGFBR2
-0	GO_Biological_Process_2021	positive regulation of pri-miRNA transcription by RNA polymerase II (GO:1902895)	1/34	0.011841135434323	0.0226058040109803	TP53
-0	GO_Biological_Process_2021	ventricular cardiac muscle tissue morphogenesis (GO:0055010)	1/34	0.011841135434323	0.0226058040109803	SMAD4
-0	GO_Biological_Process_2021	histone lysine methylation (GO:0034968)	1/34	0.011841135434323	0.0226058040109803	KDM6A
-0	GO_Biological_Process_2021	positive regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway (GO:1901030)	1/34	0.011841135434323	0.0226058040109803	TP53
-0	GO_Molecular_Function_2021	frizzled binding (GO:0005109)	1/34	0.011841135434323	0.0293660158771211	RNF43
-0	Reactome_Pathways_2024	Signaling by WNT in Cancer	1/34	0.011841135434323	0.0242895085832267	RNF43
-0	Reactome_Pathways_2024	Signalling to ERKs	1/34	0.011841135434323	0.0242895085832267	KRAS
-0	Reactome_Pathways_2024	RAF Activation	1/34	0.011841135434323	0.0242895085832267	KRAS
-0	GO_Biological_Process_2021	negative regulation of cell cycle G1/S phase transition (GO:1902807)	1/35	0.0121875780684806	0.0229885454585114	CDKN2A
-0	GO_Biological_Process_2021	negative regulation of organelle assembly (GO:1902116)	1/35	0.0121875780684806	0.0229885454585114	SMAD4
-0	GO_Molecular_Function_2021	protein kinase binding (GO:0019901)	2/506	0.0123304931229475	0.0294034836008749	CDKN2A;TP53
-0	GO_Biological_Process_2021	intrinsic apoptotic signaling pathway by p53 class mediator (GO:0072332)	1/36	0.0125339166174689	0.0234200893809763	TP53
-0	Reactome_Pathways_2024	SMAD2 SMAD3 SMAD4 Heterotrimer Regulates Transcription	1/36	0.0125339166174689	0.025385147579684	SMAD4
-0	Reactome_Pathways_2024	Signaling by High-Kinase Activity BRAF Mutants	1/36	0.0125339166174689	0.025385147579684	KRAS
-0	GO_Biological_Process_2021	positive regulation of nucleic acid-templated transcription (GO:1903508)	2/511	0.012565063826619	0.0234200893809763	SMAD4;TP53
-0	Reactome_Pathways_2024	Cell Cycle, Mitotic	2/516	0.0128016396058812	0.025764306125044	CDKN2A;TP53
-0	KEGG_2021_Human	Aldosterone-regulated sodium reabsorption	1/37	0.012880151107249	0.0279069940657063	KRAS
-0	GO_Biological_Process_2021	negative regulation of G1/S transition of mitotic cell cycle (GO:2000134)	1/37	0.012880151107249	0.023866162345785	CDKN2A
-0	GO_Molecular_Function_2021	core promoter sequence-specific DNA binding (GO:0001046)	1/37	0.012880151107249	0.0295766432833126	TP53
-0	Reactome_Pathways_2024	FLT3 Signaling	1/38	0.0132262815609199	0.0262882614875427	KRAS
-0	Reactome_Pathways_2024	Signaling by FGFR1 in Disease	1/38	0.0132262815609199	0.0262882614875427	KRAS
-0	Reactome_Pathways_2024	Association of TriC CCT With Target Proteins During Biosynthesis	1/39	0.013572308007059	0.0263220518924781	TP53
-0	Reactome_Pathways_2024	Autodegradation of the E3 Ubiquitin Ligase COP1	1/39	0.013572308007059	0.0263220518924781	TP53
-0	Reactome_Pathways_2024	Ovarian Tumor Domain Proteases	1/39	0.013572308007059	0.0263220518924781	TP53
-0	Reactome_Pathways_2024	Chromatin Modifications During the Maternal to Zygotic Transition (MZT)	1/39	0.013572308007059	0.0263220518924781	KDM6A
-0	GO_Biological_Process_2021	negative regulation of cell-substrate adhesion (GO:0010812)	1/40	0.0139182304660795	0.0251967965334198	CDKN2A
-0	GO_Biological_Process_2021	stem cell differentiation (GO:0048863)	1/40	0.0139182304660795	0.0251967965334198	TP53
-0	GO_Biological_Process_2021	bone development (GO:0060348)	1/40	0.0139182304660795	0.0251967965334198	TP53
-0	GO_Biological_Process_2021	positive regulation of intrinsic apoptotic signaling pathway (GO:2001244)	1/40	0.0139182304660795	0.0251967965334198	TP53
-0	Reactome_Pathways_2024	Signaling by FGFR3	1/40	0.0139182304660795	0.0266696631685356	KRAS
-0	Reactome_Pathways_2024	MAP2K and MAPK Activation	1/40	0.0139182304660795	0.0266696631685356	KRAS
-0	KEGG_2021_Human	Ferroptosis	1/41	0.0142640489654407	0.0302747161715476	TP53
-0	GO_Biological_Process_2021	regulation of release of cytochrome c from mitochondria (GO:0090199)	1/41	0.0142640489654407	0.0255294058188285	TP53
-0	GO_Biological_Process_2021	response to growth factor (GO:0070848)	1/41	0.0142640489654407	0.0255294058188285	TGFBR2
-0	Reactome_Pathways_2024	Signaling by FGFR4	1/41	0.0142640489654407	0.027008850112077	KRAS
-0	Reactome_Pathways_2024	Signaling by RAF1 Mutants	1/41	0.0142640489654407	0.027008850112077	KRAS
-0	GO_Molecular_Function_2021	transcription cis-regulatory region binding (GO:0000976)	2/549	0.0144129249100801	0.0319143337294631	SMAD4;TP53
-0	Reactome_Pathways_2024	Formation of WDR5-containing Histone-Modifying Complexes	1/42	0.0146097635321501	0.0275007313546355	KDM6A
-0	GO_Biological_Process_2021	cellular response to glucose starvation (GO:0042149)	1/43	0.0149553741881686	0.0264659711756916	TP53
-0	GO_Biological_Process_2021	heart looping (GO:0001947)	1/43	0.0149553741881686	0.0264659711756916	TGFBR2
-0	Reactome_Pathways_2024	Negative Regulation of MAPK Pathway	1/43	0.0149553741881686	0.0276619383420108	KRAS
-0	Reactome_Pathways_2024	Signaling by FGFR2 in Disease	1/43	0.0149553741881686	0.0276619383420108	KRAS
-0	Reactome_Pathways_2024	Signaling by SCF-KIT	1/43	0.0149553741881686	0.0276619383420108	KRAS
-0	GO_Biological_Process_2021	branching morphogenesis of an epithelial tube (GO:0048754)	1/44	0.0153008809616605	0.0267765416829059	TGFBR2
-0	GO_Biological_Process_2021	cardiac ventricle morphogenesis (GO:0003208)	1/44	0.0153008809616605	0.0267765416829059	TGFBR2
-0	GO_Molecular_Function_2021	cyclin-dependent protein serine/threonine kinase regulator activity (GO:0016538)	1/44	0.0153008809616605	0.0323356533410463	CDKN2A
-0	Reactome_Pathways_2024	TP53 Regulates Transcription of Cell Death Genes	1/44	0.0153008809616605	0.0276619383420108	TP53
-0	GO_Biological_Process_2021	cellular response to radiation (GO:0071478)	1/45	0.0156462838746998	0.0269321279810407	TP53
-0	GO_Biological_Process_2021	positive regulation of RNA metabolic process (GO:0051254)	1/45	0.0156462838746998	0.0269321279810407	TP53
-0	GO_Biological_Process_2021	regulation of pri-miRNA transcription by RNA polymerase II (GO:1902893)	1/45	0.0156462838746998	0.0269321279810407	TP53
-0	GO_Molecular_Function_2021	copper ion binding (GO:0005507)	1/45	0.0156462838746998	0.0323356533410463	TP53
-0	Reactome_Pathways_2024	Paradoxical Activation of RAF Signaling by Kinase Inactive BRAF	1/45	0.0156462838746998	0.0276619383420108	KRAS
-0	Reactome_Pathways_2024	Signaling by RAS Mutants	1/45	0.0156462838746998	0.0276619383420108	KRAS
-0	Reactome_Pathways_2024	Signaling by Moderate Kinase Activity BRAF Mutants	1/45	0.0156462838746998	0.0276619383420108	KRAS
-0	Reactome_Pathways_2024	Signaling Downstream of RAS Mutants	1/45	0.0156462838746998	0.0276619383420108	KRAS
-0	Reactome_Pathways_2024	TAK1-dependent IKK and NF-kappa-B Activation	1/45	0.0156462838746998	0.0276619383420108	TP53
-0	Reactome_Pathways_2024	DAP12 Interactions	1/45	0.0156462838746998	0.0276619383420108	KRAS
-0	Reactome_Pathways_2024	Regulation of RUNX3 Expression and Activity	1/45	0.0156462838746998	0.0276619383420108	CDKN2A
-0	GO_Biological_Process_2021	regulation of fibroblast proliferation (GO:0048145)	1/46	0.0159915829549078	0.0269376932128127	TP53
-0	GO_Biological_Process_2021	positive regulation of nucleocytoplasmic transport (GO:0046824)	1/46	0.0159915829549078	0.0269376932128127	TP53
-0	GO_Biological_Process_2021	regulation of telomerase activity (GO:0051972)	1/46	0.0159915829549078	0.0269376932128127	TP53
-0	GO_Biological_Process_2021	positive regulation of response to stimulus (GO:0048584)	1/46	0.0159915829549078	0.0269376932128127	CDKN2A
-0	GO_Biological_Process_2021	positive regulation of pathway-restricted SMAD protein phosphorylation (GO:0010862)	1/47	0.0163367782286595	0.0270846586422514	SMAD4
-0	GO_Biological_Process_2021	determination of heart left/right asymmetry (GO:0061371)	1/47	0.0163367782286595	0.0270846586422514	TGFBR2
-0	GO_Biological_Process_2021	embryonic heart tube morphogenesis (GO:0003143)	1/47	0.0163367782286595	0.0270846586422514	TGFBR2
-0	Reactome_Pathways_2024	G1 Phase	1/47	0.0163367782286595	0.0285670438971096	CDKN2A
-0	Reactome_Pathways_2024	Cyclin D Associated Events in G1	1/47	0.0163367782286595	0.0285670438971096	CDKN2A
-0	GO_Biological_Process_2021	cellular response to ionizing radiation (GO:0071479)	1/48	0.0166818697165673	0.0275119840875325	TP53
-0	Reactome_Pathways_2024	IRS-mediated Signalling	1/48	0.0166818697165673	0.0290119473331606	KRAS
-0	Reactome_Pathways_2024	TP53 Regulates Transcription of Cell Cycle Genes	1/49	0.0170268574512903	0.029451861537367	TP53
-0	GO_Biological_Process_2021	negative regulation of ERK1 and ERK2 cascade (GO:0070373)	1/50	0.0173717414502839	0.0285005133168721	SMAD4
-0	Reactome_Pathways_2024	Signaling by ERBB2	1/50	0.0173717414502839	0.0298868670112412	KRAS
-0	GO_Biological_Process_2021	intrinsic apoptotic signaling pathway in response to DNA damage (GO:0008630)	1/51	0.0177165217463898	0.0289155665808953	TP53
-0	Reactome_Pathways_2024	Transcriptional Activity of SMAD2 SMAD3 SMAD4 Heterotrimer	1/51	0.0177165217463898	0.0303170425606671	SMAD4
-0	GO_Biological_Process_2021	signal transduction in response to DNA damage (GO:0042770)	1/52	0.0180611983617244	0.0290269259384857	TP53
-0	GO_Biological_Process_2021	negative regulation of BMP signaling pathway (GO:0030514)	1/52	0.0180611983617244	0.0290269259384857	SMAD4
-0	GO_Biological_Process_2021	regulation of intrinsic apoptotic signaling pathway (GO:2001242)	1/52	0.0180611983617244	0.0290269259384857	TP53
-0	Reactome_Pathways_2024	Signaling by FGFR1	1/52	0.0180611983617244	0.0305798067500097	KRAS
-0	Reactome_Pathways_2024	IRS-related Events Triggered by IGF1R	1/52	0.0180611983617244	0.0305798067500097	KRAS
-0	GO_Biological_Process_2021	cytokine-mediated signaling pathway (GO:0019221)	2/621	0.0182230540666167	0.0291383859440826	SMAD4;TP53
-0	GO_Biological_Process_2021	cardiac muscle tissue development (GO:0048738)	1/53	0.0184057713212007	0.0291989669401377	SMAD4
-0	GO_Molecular_Function_2021	transcription coregulator binding (GO:0001221)	1/53	0.0184057713212007	0.0368115426424014	SMAD4
-0	Reactome_Pathways_2024	Signaling by EGFR	1/53	0.0184057713212007	0.0308368943601268	KRAS
-0	Reactome_Pathways_2024	IGF1R Signaling Cascade	1/53	0.0184057713212007	0.0308368943601268	KRAS
-0	GO_Biological_Process_2021	positive regulation of cellular process (GO:0048522)	2/625	0.0184463314955155	0.0291989669401377	KRAS;TGFBR2
-0	Reactome_Pathways_2024	Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R)	1/54	0.018750240650692	0.0310884819078832	KRAS
-0	Reactome_Pathways_2024	Insulin Receptor Signalling Cascade	1/54	0.018750240650692	0.0310884819078832	KRAS
-0	Reactome_Pathways_2024	Signaling by Non-Receptor Tyrosine Kinases	1/55	0.0190946063765726	0.031174867553588	KRAS
-0	Reactome_Pathways_2024	Signaling by PTK6	1/55	0.0190946063765726	0.031174867553588	KRAS
-0	Reactome_Pathways_2024	Regulation of RAS by GAPs	1/55	0.0190946063765726	0.031174867553588	KRAS
-0	GO_Biological_Process_2021	positive regulation of establishment of protein localization to mitochondrion (GO:1903749)	1/56	0.0194388685228235	0.0303130870529179	TP53
-0	GO_Biological_Process_2021	blood vessel morphogenesis (GO:0048514)	1/56	0.0194388685228235	0.0303130870529179	TGFBR2
-0	GO_Biological_Process_2021	DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest (GO:0006977)	1/56	0.0194388685228235	0.0303130870529179	TP53
-0	GO_Molecular_Function_2021	receptor tyrosine kinase binding (GO:0030971)	1/56	0.0194388685228235	0.0376628077629706	TP53
-0	GO_Biological_Process_2021	cellular response to peptide (GO:1901653)	1/57	0.0197830271154541	0.0306978006963944	TP53
-0	Reactome_Pathways_2024	Cell Cycle	2/649	0.0198111591936301	0.0321805631571657	CDKN2A;TP53
-0	GO_Biological_Process_2021	regulation of pathway-restricted SMAD protein phosphorylation (GO:0060393)	1/58	0.0201270821818301	0.0307768489673615	SMAD4
-0	GO_Biological_Process_2021	cellular iron ion homeostasis (GO:0006879)	1/58	0.0201270821818301	0.0307768489673615	SMAD4
-0	GO_Biological_Process_2021	positive regulation of mitochondrion organization (GO:0010822)	1/58	0.0201270821818301	0.0307768489673615	TP53
-0	Reactome_Pathways_2024	Signaling by ERBB4	1/58	0.0201270821818301	0.0323651572773147	KRAS
-0	Reactome_Pathways_2024	Signaling by PDGF	1/58	0.0201270821818301	0.0323651572773147	KRAS
-0	KEGG_2021_Human	VEGF signaling pathway	1/59	0.0204710337470903	0.0424460335499333	KRAS
-0	GO_Biological_Process_2021	positive regulation of apoptotic signaling pathway (GO:2001235)	1/59	0.0204710337470903	0.0310018059150646	TP53
-0	GO_Biological_Process_2021	mitotic DNA damage checkpoint signaling (GO:0044773)	1/59	0.0204710337470903	0.0310018059150646	TP53
-0	KEGG_2021_Human	Long-term depression	1/60	0.0208148818369865	0.0424460335499333	KRAS
-0	GO_Biological_Process_2021	peptidyl-threonine phosphorylation (GO:0018107)	1/60	0.0208148818369865	0.0313717118595729	TGFBR2
-0	GO_Cellular_Component_2021	caveola (GO:0005901)	1/60	0.0208148818369865	0.1431818264444794	TGFBR2
-0	GO_Molecular_Function_2021	transmembrane receptor protein kinase activity (GO:0019199)	1/60	0.0208148818369865	0.0391067476937322	TGFBR2
-0	Reactome_Pathways_2024	DNA Damage Telomere Stress Induced Senescence	1/60	0.0208148818369865	0.0331381203374909	TP53
-0	Reactome_Pathways_2024	Recruitment and ATM-med Phosphorylation of Repair and Signaling Proteins at DNA Double Strand Breaks	1/60	0.0208148818369865	0.0331381203374909	TP53
-0	GO_Biological_Process_2021	iron ion homeostasis (GO:0055072)	1/61	0.0211586264750493	0.0317379397125739	SMAD4
-0	Reactome_Pathways_2024	DNA Double Strand Break Response	1/61	0.0211586264750493	0.0331900023138028	TP53
-0	Reactome_Pathways_2024	Regulated Necrosis	1/61	0.0211586264750493	0.0331900023138028	TP53
-0	Reactome_Pathways_2024	Regulation of PTEN Gene Transcription	1/61	0.0211586264750493	0.0331900023138028	TP53
-0	Reactome_Pathways_2024	TP53 Regulates Transcription of DNA Repair Genes	1/62	0.0215022676893736	0.0335645154175588	TP53
-0	KEGG_2021_Human	Basal cell carcinoma	1/63	0.0218458055031972	0.0434785935352662	TP53
-0	GO_Biological_Process_2021	cell cycle G1/S phase transition (GO:0044843)	1/63	0.0218458055031972	0.0325072935740173	CDKN2A
-0	Reactome_Pathways_2024	NCAM Signaling for Neurite Out-Growth	1/63	0.0218458055031972	0.0336089315433804	KRAS
-0	Reactome_Pathways_2024	Signaling by FGFR in Disease	1/63	0.0218458055031972	0.0336089315433804	KRAS
-0	Reactome_Pathways_2024	Ca2+ Pathway	1/63	0.0218458055031972	0.0336089315433804	KRAS
-0	GO_Biological_Process_2021	negative regulation of transcription by RNA polymerase II (GO:0000122)	2/684	0.0218779245641005	0.0325072935740173	SMAD4;TP53
-0	KEGG_2021_Human	GnRH secretion	1/64	0.0221892399395956	0.0434785935352662	KRAS
-0	GO_Biological_Process_2021	BMP signaling pathway (GO:0030509)	1/65	0.0225325710338771	0.0330128366310293	SMAD4
-0	GO_Biological_Process_2021	regulation of cell-matrix adhesion (GO:0001952)	1/65	0.0225325710338771	0.0330128366310293	CDKN2A
-0	GO_Biological_Process_2021	mitotic G1 DNA damage checkpoint signaling (GO:0031571)	1/65	0.0225325710338771	0.0330128366310293	TP53
-0	Reactome_Pathways_2024	Signaling by BRAF and RAF1 Fusions	1/65	0.0225325710338771	0.0343353463373366	KRAS
-0	Reactome_Pathways_2024	The Role of GTSE1 in G2 M Progression After G2 Checkpoint	1/65	0.0225325710338771	0.0343353463373366	TP53
-0	GO_Biological_Process_2021	embryonic organ development (GO:0048568)	1/66	0.0228757988010256	0.0333605399181624	TGFBR2
-0	KEGG_2021_Human	Acute myeloid leukemia	1/67	0.0232189232742133	0.0434785935352662	KRAS
-0	KEGG_2021_Human	Long-term potentiation	1/67	0.0232189232742133	0.0434785935352662	KRAS
-0	GO_Biological_Process_2021	peptidyl-threonine modification (GO:0018210)	1/67	0.0232189232742133	0.0337048886238581	TGFBR2
-0	GO_Molecular_Function_2021	GDP binding (GO:0019003)	1/67	0.0232189232742133	0.0417977453787575	KRAS
-0	Reactome_Pathways_2024	FOXO-mediated Transcription	1/67	0.0232189232742133	0.035146649590699	SMAD4
-0	Reactome_Pathways_2024	Hemostasis	2/707	0.023284655353838	0.035146649590699	KRAS;TP53
-0	KEGG_2021_Human	Fc epsilon RI signaling pathway	1/68	0.0235619444744116	0.0434785935352662	KRAS
-0	GO_Biological_Process_2021	negative regulation of transforming growth factor beta receptor signaling pathway (GO:0030512)	1/68	0.0235619444744116	0.0340459289423838	TGFBR2
-0	Reactome_Pathways_2024	Downstream Signaling Events of B Cell Receptor (BCR)	1/68	0.0235619444744116	0.0353982264404307	KRAS
-0	GO_Molecular_Function_2021	sequence-specific double-stranded DNA binding (GO:1990837)	2/712	0.0235955014234921	0.0417977453787575	SMAD4;TP53
-0	KEGG_2021_Human	Renal cell carcinoma	1/69	0.0239048624297548	0.0434785935352662	KRAS
-0	GO_Biological_Process_2021	cellular response to decreased oxygen levels (GO:0036294)	1/69	0.0239048624297548	0.0343837062345789	TP53
-0	KEGG_2021_Human	Prolactin signaling pathway	1/70	0.0242476771638985	0.0434785935352662	KRAS
-0	GO_Biological_Process_2021	cellular response to light stimulus (GO:0071482)	1/70	0.0242476771638985	0.0347182650301274	TP53
-0	GO_Biological_Process_2021	regulation of G1/S transition of mitotic cell cycle (GO:2000045)	1/71	0.024590388704151	0.0347353024296304	CDKN2A
-0	GO_Biological_Process_2021	myeloid leukocyte differentiation (GO:0002573)	1/71	0.024590388704151	0.0347353024296304	TGFBR2
-0	GO_Biological_Process_2021	cellular response to BMP stimulus (GO:0071773)	1/71	0.024590388704151	0.0347353024296304	SMAD4
-0	GO_Biological_Process_2021	negative regulation of supramolecular fiber organization (GO:1902904)	1/72	0.024932997075323	0.0349061959054522	SMAD4
-0	GO_Biological_Process_2021	response to ionizing radiation (GO:0010212)	1/72	0.024932997075323	0.0349061959054522	TP53
-0	GO_Molecular_Function_2021	protein tyrosine kinase binding (GO:1990782)	1/72	0.024932997075323	0.042940161629723	TP53
-0	GO_Biological_Process_2021	chromatin assembly (GO:0031497)	1/73	0.0252755023025473	0.0352291293154974	TP53
-0	Reactome_Pathways_2024	Pre-NOTCH Transcription and Translation	1/73	0.0252755023025473	0.0377951436299773	TP53
-0	GO_Biological_Process_2021	DNA damage response, signal transduction by p53 class mediator (GO:0030330)	1/74	0.0256179044155202	0.0355490744092021	TP53
-0	Reactome_Pathways_2024	Extra-nuclear Estrogen Signaling	1/75	0.0259602034362562	0.0384595606463055	KRAS
-0	Reactome_Pathways_2024	Signaling by FGFR2	1/75	0.0259602034362562	0.0384595606463055	KRAS
-0	GO_Biological_Process_2021	regulation of BMP signaling pathway (GO:0030510)	1/76	0.0263023993869505	0.0361801563619625	SMAD4
-0	GO_Biological_Process_2021	RNA transport (GO:0050658)	1/76	0.0263023993869505	0.0361801563619625	TGFBR2
-0	GO_Biological_Process_2021	cellular response to UV (GO:0034644)	1/77	0.0266444923046077	0.036491369895441	TP53
-0	Reactome_Pathways_2024	SUMOylation of DNA Damage Response and Repair Proteins	1/77	0.0266444923046077	0.0391111813645618	CDKN2A
-0	Reactome_Pathways_2024	G2 M DNA Damage Checkpoint	1/77	0.0266444923046077	0.0391111813645618	TP53
-0	GO_Biological_Process_2021	negative regulation of protein serine/threonine kinase activity (GO:0071901)	1/78	0.026986482201804	0.0367997484570054	CDKN2A
-0	GO_Biological_Process_2021	negative regulation of NF-kappaB transcription factor activity (GO:0032088)	1/79	0.0273283691119178	0.0371053287510953	CDKN2A
-0	Reactome_Pathways_2024	Signaling by MET	1/79	0.0273283691119178	0.0399318635425283	KRAS
-0	GO_Biological_Process_2021	negative regulation of cell cycle (GO:0045786)	1/80	0.0276701530557868	0.037248282959713	CDKN2A
-0	GO_Biological_Process_2021	negative regulation of cellular response to growth factor stimulus (GO:0090288)	1/80	0.0276701530557868	0.037248282959713	SMAD4
-0	Reactome_Pathways_2024	PKR-mediated Signaling	1/80	0.0276701530557868	0.0399716146386617	TP53
-0	Reactome_Pathways_2024	Post NMDA Receptor Activation Events	1/80	0.0276701530557868	0.0399716146386617	KRAS
-0	Reactome_Pathways_2024	Cytokine Signaling in Immune System	2/776	0.0277303076555715	0.0399716146386617	KRAS;TP53
-0	KEGG_2021_Human	B cell receptor signaling pathway	1/81	0.0280118340691475	0.0493767922574803	KRAS
-0	Reactome_Pathways_2024	Senescence-Associated Secretory Phenotype (SASP)	1/81	0.0280118340691475	0.0401334402529521	CDKN2A
-0	GO_Biological_Process_2021	regulation of cyclin-dependent protein serine/threonine kinase activity (GO:0000079)	1/82	0.028353412163333	0.0380056375806379	CDKN2A
-0	GO_Cellular_Component_2021	plasma membrane raft (GO:0044853)	1/82	0.028353412163333	0.1431818264444794	TGFBR2
-0	Reactome_Pathways_2024	Oncogenic MAPK Signaling	1/82	0.028353412163333	0.0401334402529521	KRAS
-0	Reactome_Pathways_2024	Signaling by Insulin Receptor	1/82	0.028353412163333	0.0401334402529521	KRAS
-0	Reactome_Pathways_2024	UCH Proteinases	1/82	0.028353412163333	0.0401334402529521	TGFBR2
-0	Reactome_Pathways_2024	Cellular Responses to Stress	2/787	0.0284696591794379	0.0401334402529521	CDKN2A;TP53
-0	KEGG_2021_Human	ErbB signaling pathway	1/85	0.0293775292387813	0.0509210506805543	KRAS
-0	GO_Biological_Process_2021	G1/S transition of mitotic cell cycle (GO:0000082)	1/85	0.0293775292387813	0.0390460831654688	CDKN2A
-0	GO_Biological_Process_2021	regulation of cell cycle G2/M phase transition (GO:1902749)	1/85	0.0293775292387813	0.0390460831654688	TP53
-0	GO_Molecular_Function_2021	mRNA 3'-UTR binding (GO:0003730)	1/85	0.0293775292387813	0.0491291602840907	TP53
-0	GO_Biological_Process_2021	negative regulation of phosphorylation (GO:0042326)	1/86	0.0297186959454334	0.0393335681630736	CDKN2A
-0	Reactome_Pathways_2024	TP53 Regulates Metabolic Genes	1/86	0.0297186959454334	0.0417104504497311	TP53
-0	GO_Biological_Process_2021	regulation of transcription from RNA polymerase II promoter in response to stress (GO:0043618)	1/87	0.0300597598671569	0.0396185119588051	TP53
-0	Reactome_Pathways_2024	Nuclear Events Mediated by NFE2L2	1/87	0.0300597598671569	0.0420049046178612	CDKN2A
-0	GO_Molecular_Function_2021	DNA binding (GO:0003677)	2/811	0.0301114208192814	0.0491291602840907	SMAD4;TP53
-0	KEGG_2021_Human	Gap junction	1/88	0.0304007210272824	0.0515665203833818	KRAS
-0	KEGG_2021_Human	PD-L1 expression and PD-1 checkpoint pathway in cancer	1/89	0.0307415794593238	0.0515665203833818	KRAS
-0	Reactome_Pathways_2024	Pre-NOTCH Expression and Processing	1/89	0.0307415794593238	0.0427708931607983	TP53
-0	Reactome_Pathways_2024	Activation of HOX Genes During Differentiation	1/91	0.0314229882270153	0.0429716078318159	KDM6A
-0	Reactome_Pathways_2024	Activation of Anterior HOX Genes in Hindbrain Development During Early Embryogenesis	1/91	0.0314229882270153	0.0429716078318159	KDM6A
-0	Reactome_Pathways_2024	Signaling by FGFR	1/91	0.0314229882270153	0.0429716078318159	KRAS
-0	Reactome_Pathways_2024	Chaperonin-mediated Protein Folding	1/91	0.0314229882270153	0.0429716078318159	TP53
-0	KEGG_2021_Human	Small cell lung cancer	1/92	0.0317635386122593	0.052168977853661	TP53
-0	GO_Biological_Process_2021	positive regulation of transmembrane receptor protein serine/threonine kinase signaling pathway (GO:0090100)	1/92	0.0317635386122593	0.0413451019126515	SMAD4
-0	GO_Biological_Process_2021	negative regulation of mitotic cell cycle phase transition (GO:1901991)	1/92	0.0317635386122593	0.0413451019126515	CDKN2A
-0	GO_Biological_Process_2021	regulation of peptidyl-tyrosine phosphorylation (GO:0050730)	1/92	0.0317635386122593	0.0413451019126515	TP53
-0	Reactome_Pathways_2024	Regulation of TP53 Activity Through Phosphorylation	1/92	0.0317635386122593	0.0431650236927511	TP53
-0	KEGG_2021_Human	GnRH signaling pathway	1/93	0.0321039863714836	0.052168977853661	KRAS
-0	GO_Molecular_Function_2021	histone deacetylase binding (GO:0042826)	1/93	0.0321039863714836	0.0510371065392817	TP53
-0	Reactome_Pathways_2024	Activation of NMDA Receptors and Postsynaptic Events	1/93	0.0321039863714836	0.0431650236927511	KRAS
-0	Reactome_Pathways_2024	Signaling by ALK Fusions and Activated Point Mutants	1/93	0.0321039863714836	0.0431650236927511	TP53
-0	Reactome_Pathways_2024	Signaling by ALK in Cancer	1/93	0.0321039863714836	0.0431650236927511	TP53
-0	GO_Biological_Process_2021	negative regulation of MAPK cascade (GO:0043409)	1/94	0.0324443315283112	0.042057466795959	SMAD4
-0	Reactome_Pathways_2024	MITF-M-dependent Gene Expression	1/94	0.0324443315283112	0.0434401091592451	CDKN2A
-0	GO_Biological_Process_2021	regulation of cell cycle phase transition (GO:1901987)	1/95	0.0327845741023385	0.0421515952744352	TP53
-0	GO_Biological_Process_2021	mRNA metabolic process (GO:0016071)	1/95	0.0327845741023385	0.0421515952744352	TP53
-0	GO_Biological_Process_2021	cellular transition metal ion homeostasis (GO:0046916)	1/96	0.033124714124782	0.042415792476855	SMAD4
-0	GO_Biological_Process_2021	regulation of transcription by RNA polymerase II (GO:0006357)	3/2206	0.0333327191548852	0.042509338193477	SMAD4;CDKN2A;TP53
-0	Reactome_Pathways_2024	Protein Folding	1/97	0.0334647516210734	0.0445164597428142	TP53
-0	KEGG_2021_Human	Choline metabolism in cancer	1/98	0.0338046866171995	0.0532511875790437	KRAS
-0	Reactome_Pathways_2024	MyD88 Cascade Initiated on Plasma Membrane	1/98	0.0338046866171995	0.0445164597428142	TP53
-0	Reactome_Pathways_2024	Toll Like Receptor 10 (TLR10) Cascade	1/98	0.0338046866171995	0.0445164597428142	TP53
-0	Reactome_Pathways_2024	Toll Like Receptor 5 (TLR5) Cascade	1/98	0.0338046866171995	0.0445164597428142	TP53
-0	GO_Biological_Process_2021	response to UV (GO:0009411)	1/99	0.0341445191334868	0.0433690464800337	TP53
-0	Reactome_Pathways_2024	VEGFA-VEGFR2 Pathway	1/99	0.0341445191334868	0.044779697224245	KRAS
-0	KEGG_2021_Human	Progesterone-mediated oocyte maturation	1/100	0.0344842492004146	0.0532511875790437	KRAS
-0	KEGG_2021_Human	Melanogenesis	1/101	0.0348238768451011	0.0532511875790437	KRAS
-0	GO_Biological_Process_2021	positive regulation of protein localization to membrane (GO:1905477)	1/101	0.0348238768451011	0.0439396709898865	TP53
-0	GO_Biological_Process_2021	regulation of transcription, DNA-templated (GO:0006355)	3/2244	0.0348727547538782	0.0439396709898865	SMAD4;CDKN2A;TP53
-0	KEGG_2021_Human	Chagas disease	1/102	0.0351634020883028	0.0532511875790437	TGFBR2
-0	GO_Biological_Process_2021	intrinsic apoptotic signaling pathway (GO:0097193)	1/102	0.0351634020883028	0.0441293691546429	TP53
-0	Reactome_Pathways_2024	Interleukin-1 Signaling	1/102	0.0351634020883028	0.0453401161963943	TP53
-0	Reactome_Pathways_2024	TRAF6 Mediated Induction of NFkB and MAP Kinases Upon TLR7 8 or 9 Activation	1/102	0.0351634020883028	0.0453401161963943	TP53
-0	GO_Biological_Process_2021	chromatin remodeling (GO:0006338)	1/103	0.0355028249621205	0.0443785312026506	KDM6A
-0	Reactome_Pathways_2024	Epigenetic Regulation of Adipogenesis Genes by MLL3 and MLL4 Complexes	1/103	0.0355028249621205	0.0453401161963943	KDM6A
-0	Reactome_Pathways_2024	Epigenetic Regulation of Gene Expression by MLL3 and MLL4 Complexes	1/103	0.0355028249621205	0.0453401161963943	KDM6A
-0	Reactome_Pathways_2024	MyD88 Dependent Cascade Initiated on Endosome	1/103	0.0355028249621205	0.0453401161963943	TP53
-0	Reactome_Pathways_2024	MLL4 and MLL3 Complexes Regulate Expression of PPARG Targets in Adipogenesis and Hepatic Steatosis	1/103	0.0355028249621205	0.0453401161963943	KDM6A
-0	Reactome_Pathways_2024	Cellular Responses to Stimuli	2/887	0.0355636536415468	0.0453401161963943	CDKN2A;TP53
-0	KEGG_2021_Human	T cell receptor signaling pathway	1/104	0.0358421454858948	0.0532511875790437	KRAS
-0	KEGG_2021_Human	C-type lectin receptor signaling pathway	1/104	0.0358421454858948	0.0532511875790437	KRAS
-0	GO_Biological_Process_2021	nucleotide-excision repair (GO:0006289)	1/105	0.0361813636837844	0.0450479429264509	TP53
-0	Reactome_Pathways_2024	Toll Like Receptor 3 (TLR3) Cascade	1/106	0.0365204795889454	0.0461919109425397	TP53
-0	Reactome_Pathways_2024	Transcriptional Regulation by RUNX2	1/106	0.0365204795889454	0.0461919109425397	SMAD4
-0	Reactome_Pathways_2024	Toll Like Receptor 7 8 (TLR7 8) Cascade	1/107	0.0368594932260918	0.0464371568202731	TP53
-0	GO_Biological_Process_2021	positive regulation of transcription by RNA polymerase II (GO:0045944)	2/908	0.0371364345837735	0.0460550271412939	SMAD4;TP53
-0	Reactome_Pathways_2024	Signaling by VEGF	1/108	0.0371984046126248	0.0466803508864311	KRAS
-0	GO_Biological_Process_2021	response to endoplasmic reticulum stress (GO:0034976)	1/110	0.0378759207590496	0.0467879021141202	TP53
-0	Reactome_Pathways_2024	MyD88-independent TLR4 Cascade	1/110	0.0378759207590496	0.0467965044127254	TP53
-0	Reactome_Pathways_2024	Adipogenesis	1/110	0.0378759207590496	0.0467965044127254	SMAD4
-0	Reactome_Pathways_2024	TRIF (TICAM1)-mediated TLR4 Signaling	1/110	0.0378759207590496	0.0467965044127254	TP53
-0	Reactome_Pathways_2024	Toll Like Receptor 9 (TLR9) Cascade	1/110	0.0378759207590496	0.0467965044127254	TP53
-0	GO_Biological_Process_2021	regulation of Wnt signaling pathway (GO:0030111)	1/111	0.0382145255653894	0.0470217795042878	RNF43
-0	Reactome_Pathways_2024	FCERI Mediated MAPK Activation	1/111	0.0382145255653894	0.0470332622343255	KRAS
-0	GO_Biological_Process_2021	protein-containing complex subunit organization (GO:0043933)	1/112	0.0385530282298092	0.0472537116435404	TP53
-0	Reactome_Pathways_2024	SARS-CoV-1-host Interactions	1/112	0.0385530282298092	0.0470876680669425	SMAD4
-0	Reactome_Pathways_2024	Interleukin-4 and Interleukin-13 Signaling	1/112	0.0385530282298092	0.0470876680669425	TP53
-0	KEGG_2021_Human	Serotonergic synapse	1/113	0.0388914287807867	0.0561765082389141	KRAS
-0	KEGG_2021_Human	Cholinergic synapse	1/113	0.0388914287807867	0.0561765082389141	KRAS
-0	GO_Biological_Process_2021	activation of protein kinase activity (GO:0032147)	1/114	0.0392297272340265	0.0478967599950324	TGFBR2
-0	GO_Molecular_Function_2021	phosphatase binding (GO:0019902)	1/114	0.0392297272340265	0.0608060772127412	TP53
-0	GO_Biological_Process_2021	cellular response to lectin (GO:1990858)	1/115	0.039567923627146	0.0479380613175038	KRAS
-0	GO_Biological_Process_2021	stimulatory C-type lectin receptor signaling pathway (GO:0002223)	1/115	0.039567923627146	0.0479380613175038	KRAS
-0	Reactome_Pathways_2024	MyD88 MAL(TIRAP) Cascade Initiated on Plasma Membrane	1/115	0.039567923627146	0.0477801341912706	TP53
-0	Reactome_Pathways_2024	Signaling by NTRK1 (TRKA)	1/115	0.039567923627146	0.0477801341912706	KRAS
-0	Reactome_Pathways_2024	Toll Like Receptor TLR6 TLR2 Cascade	1/115	0.039567923627146	0.0477801341912706	TP53
-0	GO_Biological_Process_2021	tumor necrosis factor-mediated signaling pathway (GO:0033209)	1/116	0.0399060179737804	0.048162435485597	TP53
-0	GO_Biological_Process_2021	positive regulation of protein-containing complex assembly (GO:0031334)	1/118	0.0405819006488554	0.0487912164289673	TP53
-0	GO_Molecular_Function_2021	protease binding (GO:0002020)	1/118	0.0405819006488554	0.0613677522007081	TP53
-0	Reactome_Pathways_2024	Toll Like Receptor 2 (TLR2) Cascade	1/118	0.0405819006488554	0.0486374839237218	TP53
-0	Reactome_Pathways_2024	Toll Like Receptor TLR1 TLR2 Cascade	1/118	0.0405819006488554	0.0486374839237218	TP53
-0	KEGG_2021_Human	Growth hormone synthesis, secretion and action	1/119	0.0409196890369817	0.0582965432855629	KRAS
-0	GO_Biological_Process_2021	innate immune response activating cell surface receptor signaling pathway (GO:0002220)	1/119	0.0409196890369817	0.049010273941632	KRAS
-0	Reactome_Pathways_2024	KEAP1-NFE2L2 Pathway	1/119	0.0409196890369817	0.048859330193411	CDKN2A
-0	Reactome_Pathways_2024	Gastrulation	1/120	0.0412573754770396	0.0490794057719431	SMAD4
-0	GO_Biological_Process_2021	cellular response to organic substance (GO:0071310)	1/123	0.0422698234347813	0.0504355847801368	TGFBR2
-0	GO_Molecular_Function_2021	protein phosphatase binding (GO:0019903)	1/123	0.0422698234347813	0.0623983107846772	TP53
-0	GO_Biological_Process_2021	cellular response to oxidative stress (GO:0034599)	1/125	0.0429442795187326	0.0508550678511307	TP53
-0	GO_Biological_Process_2021	regulation of phosphorylation (GO:0042325)	1/125	0.0429442795187326	0.0508550678511307	CDKN2A
-0	GO_Cellular_Component_2021	mitochondrial outer membrane (GO:0005741)	1/126	0.0432813548722839	0.1431818264444794	KRAS
-0	KEGG_2021_Human	Osteoclast differentiation	1/127	0.043618328465468	0.0613014346001172	TGFBR2
-0	KEGG_2021_Human	Natural killer cell mediated cytotoxicity	1/131	0.044965205761108	0.0619503087661133	KRAS
-0	GO_Biological_Process_2021	cellular response to hypoxia (GO:0071456)	1/131	0.044965205761108	0.0530488382574869	TP53
-0	Reactome_Pathways_2024	C-type Lectin Receptors (CLRs)	1/131	0.044965205761108	0.0532920957168687	KRAS
-0	GO_Biological_Process_2021	positive regulation of peptidyl-tyrosine phosphorylation (GO:0050731)	1/134	0.0459742965041297	0.0540369529806002	TP53
-0	Reactome_Pathways_2024	Beta-catenin Independent WNT Signaling	1/134	0.0459742965041297	0.0540874076519173	KRAS
-0	Reactome_Pathways_2024	Signaling by NTRKs	1/134	0.0459742965041297	0.0540874076519173	KRAS
-0	Reactome_Pathways_2024	Epigenetic Regulation by WDR5-containing Histone Modifying Complexes	1/135	0.0463104569464851	0.0542833194977114	KDM6A
-0	Reactome_Pathways_2024	MITF-M-regulated Melanocyte Development	1/136	0.0466465158518436	0.0544776827466787	CDKN2A
-0	KEGG_2021_Human	Autophagy	1/137	0.0469824732592036	0.0619503087661133	KRAS
-0	KEGG_2021_Human	Estrogen signaling pathway	1/137	0.0469824732592036	0.0619503087661133	KRAS
-0	KEGG_2021_Human	Insulin signaling pathway	1/137	0.0469824732592036	0.0619503087661133	KRAS
-0	Reactome_Pathways_2024	G2 M Checkpoints	1/137	0.0469824732592036	0.0546705143379824	TP53
-0	KEGG_2021_Human	Fluid shear stress and atherosclerosis	1/139	0.047654083666241	0.0619503087661133	TP53
-0	KEGG_2021_Human	Measles	1/139	0.047654083666241	0.0619503087661133	TP53
-0	Reactome_Pathways_2024	Mitotic G1 Phase and G1 S Transition	1/139	0.047654083666241	0.055251111497091	CDKN2A
-0	Reactome_Pathways_2024	Interleukin-1 Family Signaling	1/140	0.047989736708364	0.0554394070277129	TP53
-0	GO_Biological_Process_2021	chromatin organization (GO:0006325)	1/142	0.048660738622087	0.056981905821403	KDM6A
-0	GO_Cellular_Component_2021	organelle outer membrane (GO:0031968)	1/142	0.048660738622087	0.1431818264444794	KRAS
-0	GO_Biological_Process_2021	negative regulation of DNA-binding transcription factor activity (GO:0043433)	1/143	0.0489960875365205	0.0571621021259406	CDKN2A
-0	GO_Molecular_Function_2021	G protein-coupled receptor binding (GO:0001664)	1/143	0.0489960875365205	0.0706455215642854	RNF43
-0	GO_Cellular_Component_2021	nucleus (GO:0005634)	4/4484	0.0491385464218089	0.1431818264444794	SMAD4;CDKN2A;TP53;KDM6A
-0	Reactome_Pathways_2024	PTEN Regulation	1/145	0.049666481424915	0.0571700505610533	TP53
+0	KEGG_2021_Human	Thyroid cancer	2/37	1.9933285979787188e-05	0.0007997464472615098	KRAS;TP53
+0	KEGG_2021_Human	Bladder cancer	2/41	2.4535984484988297e-05	0.0007997464472615098	KRAS;TP53
+0	Reactome_Pathways_2024	Diseases of Signal Transduction by Growth Factor Receptors and Second Messengers	3/451	4.480127394826046e-05	0.0119619401441855	RNF43;KRAS;TP53
+0	KEGG_2021_Human	Endometrial cancer	2/58	4.94051825135443e-05	0.0007997464472615098	KRAS;TP53
+0	KEGG_2021_Human	Mitophagy	2/68	6.804004293678513e-05	0.0007997464472615098	KRAS;TP53
+0	KEGG_2021_Human	Central carbon metabolism in cancer	2/70	7.212240452536874e-05	0.0007997464472615098	KRAS;TP53
+0	KEGG_2021_Human	Melanoma	2/72	7.632311792468519e-05	0.0007997464472615098	KRAS;TP53
+0	KEGG_2021_Human	Non-small cell lung cancer	2/72	7.632311792468519e-05	0.0007997464472615098	KRAS;TP53
+0	KEGG_2021_Human	Glioma	2/75	8.284599327123829e-05	0.0007997464472615098	KRAS;TP53
+0	KEGG_2021_Human	Chronic myeloid leukemia	2/76	8.507940928313934e-05	0.0007997464472615098	KRAS;TP53
+0	KEGG_2021_Human	Pancreatic cancer	2/76	8.507940928313934e-05	0.0007997464472615098	KRAS;TP53
+0	KEGG_2021_Human	Colorectal cancer	2/86	0.00010903795493729443	0.0009317788876459708	KRAS;TP53
+0	Reactome_Pathways_2024	Transcriptional Regulation by RUNX3	2/86	0.00010903795493729443	0.0145565669841288	KRAS;TP53
+0	KEGG_2021_Human	Prostate cancer	2/97	0.00013879851713065886	0.0010872550508568	KRAS;TP53
+0	KEGG_2021_Human	Longevity regulating pathway	2/102	0.0001535036034265559	0.0011099491324689	KRAS;TP53
+0	GO_Biological_Process_2021	small GTPase mediated signal transduction (GO:0007264)	2/106	0.00016579685908668418	0.0155868622075649	KRAS;TP53
+0	Reactome_Pathways_2024	Maternal to Zygotic Transition (MZT)	2/109	0.00017532524303600028	0.015603946630204	TP53;KDM6A
+0	KEGG_2021_Human	Sphingolipid signaling pathway	2/119	0.00020899373566679572	0.0012694651716275	KRAS;TP53
+0	KEGG_2021_Human	Neurotrophin signaling pathway	2/119	0.00020899373566679572	0.0012694651716275	KRAS;TP53
+0	KEGG_2021_Human	Thyroid hormone signaling pathway	2/121	0.00021607917814936667	0.0012694651716275	KRAS;TP53
+0	KEGG_2021_Human	Apoptosis	2/142	0.00029753938171563505	0.0016205260129087	KRAS;TP53
+0	GO_Biological_Process_2021	Ras protein signal transduction (GO:0007265)	2/142	0.00029753938171563505	0.0155868622075649	KRAS;TP53
+0	KEGG_2021_Human	Breast cancer	2/147	0.00031883209471078773	0.0016205260129087	KRAS;TP53
+0	KEGG_2021_Human	Gastric cancer	2/149	0.00032755313026878297	0.0016205260129087	KRAS;TP53
+0	KEGG_2021_Human	Cellular senescence	2/156	0.0003589936594012709	0.0016275496466338	KRAS;TP53
+0	KEGG_2021_Human	Hepatitis C	2/157	0.0003636015168011833	0.0016275496466338	KRAS;TP53
+0	KEGG_2021_Human	Hepatitis B	2/162	0.0003870767430812045	0.0016301374189876	KRAS;TP53
+0	KEGG_2021_Human	Wnt signaling pathway	2/166	0.0004063796954984381	0.0016301374189876	RNF43;TP53
+0	KEGG_2021_Human	Hepatocellular carcinoma	2/168	0.00041620529846492633	0.0016301374189876	KRAS;TP53
+0	KEGG_2021_Human	Transcriptional misregulation in cancer	2/192	0.0005431486469978258	0.0019841205859933	TP53;KDM6A
+0	KEGG_2021_Human	Kaposi sarcoma-associated herpesvirus infection	2/193	0.000548799311019435	0.0019841205859933	KRAS;TP53
+0	GO_Biological_Process_2021	regulation of gene expression (GO:0010468)	3/1079	0.0006011592273869262	0.0155868622075649	KRAS;TP53;KDM6A
+0	KEGG_2021_Human	Viral carcinogenesis	2/203	0.0006068921302000137	0.0020775895513392	KRAS;TP53
+0	KEGG_2021_Human	Proteoglycans in cancer	2/205	0.0006188564621010593	0.0020775895513392	KRAS;TP53
+0	KEGG_2021_Human	Lipid and atherosclerosis	2/215	0.0006804043619374445	0.0022054486214524	KRAS;TP53
+0	KEGG_2021_Human	Human T-cell leukemia virus 1 infection	2/219	0.0007058282187599493	0.0022115950854478	KRAS;TP53
+0	KEGG_2021_Human	Human cytomegalovirus infection	2/225	0.0007448249985604983	0.0022585016085382	KRAS;TP53
+0	GO_Biological_Process_2021	bone marrow development (GO:0048539)	1/5	0.000999677239285086	0.0155868622075649	TP53
+0	GO_Biological_Process_2021	histone H3-K27 demethylation (GO:0071557)	1/5	0.000999677239285086	0.0155868622075649	KDM6A
+0	GO_Biological_Process_2021	cellular response to antibiotic (GO:0071236)	1/5	0.000999677239285086	0.0155868622075649	TP53
+0	GO_Molecular_Function_2021	histone demethylase activity (H3-K27 specific) (GO:0071558)	1/5	0.000999677239285086	0.0429861212892587	KDM6A
+0	Reactome_Pathways_2024	Activation of NOXA and Translocation to Mitochondria	1/5	0.000999677239285086	0.0160551896053571	TP53
+0	Reactome_Pathways_2024	Activation of RAS in B Cells	1/5	0.000999677239285086	0.0160551896053571	KRAS
+0	GO_Biological_Process_2021	regulation of thymocyte apoptotic process (GO:0070243)	1/6	0.0011995241237685	0.0155868622075649	TP53
+0	Reactome_Pathways_2024	Estrogen-stimulated Signaling Through PRKCZ	1/6	0.0011995241237685	0.0160551896053571	KRAS
+0	Reactome_Pathways_2024	Signaling by WNT	2/287	0.0012079927480026	0.0160551896053571	RNF43;KRAS
+0	Reactome_Pathways_2024	Developmental Biology	3/1385	0.0012569516819077	0.0160551896053571	KRAS;TP53;KDM6A
+0	KEGG_2021_Human	MAPK signaling pathway	2/294	0.0012671471920907	0.0037222448767665	KRAS;TP53
+0	GO_Biological_Process_2021	positive regulation of RNA polymerase II transcription preinitiation complex assembly (GO:0045899)	1/7	0.0013993412035435	0.0155868622075649	TP53
+0	Reactome_Pathways_2024	SOS-mediated Signalling	1/7	0.0013993412035435	0.0160551896053571	KRAS
+0	Reactome_Pathways_2024	RAS Signaling Downstream of NF1 Loss-Of-Function Variants	1/7	0.0013993412035435	0.0160551896053571	KRAS
+0	Reactome_Pathways_2024	RUNX3 Regulates CDKN1A Transcription	1/7	0.0013993412035435	0.0160551896053571	TP53
+0	KEGG_2021_Human	MicroRNAs in cancer	2/310	0.0014075543861353	0.0040093973423248	KRAS;TP53
+0	GO_Biological_Process_2021	positive regulation of execution phase of apoptosis (GO:1900119)	1/8	0.0015991284507528	0.0155868622075649	TP53
+0	GO_Biological_Process_2021	ER overload response (GO:0006983)	1/8	0.0015991284507528	0.0155868622075649	TP53
+0	GO_Biological_Process_2021	stress-induced premature senescence (GO:0090400)	1/8	0.0015991284507528	0.0155868622075649	TP53
+0	Reactome_Pathways_2024	Activated NTRK3 Signals Through RAS	1/8	0.0015991284507528	0.0160551896053571	KRAS
+0	Reactome_Pathways_2024	Signaling by RNF43 Mutants	1/8	0.0015991284507528	0.0160551896053571	RNF43
+0	KEGG_2021_Human	Human papillomavirus infection	2/331	0.0016027785077092	0.0044312111683726	KRAS;TP53
+0	GO_Biological_Process_2021	regulation of helicase activity (GO:0051095)	1/9	0.0017988858466888	0.0155868622075649	TP53
+0	Reactome_Pathways_2024	Activated NTRK2 Signals Through RAS	1/9	0.0017988858466888	0.0160551896053571	KRAS
+0	Reactome_Pathways_2024	SHC-related Events Triggered by IGF1R	1/9	0.0017988858466888	0.0160551896053571	KRAS
+0	Reactome_Pathways_2024	Activation of PUMA and Translocation to Mitochondria	1/9	0.0017988858466888	0.0160551896053571	TP53
+0	Reactome_Pathways_2024	PI5P Regulates TP53 Acetylation	1/9	0.0017988858466888	0.0160551896053571	TP53
+0	Reactome_Pathways_2024	EGFR Transactivation by Gastrin	1/9	0.0017988858466888	0.0160551896053571	KRAS
+0	KEGG_2021_Human	PI3K-Akt signaling pathway	2/354	0.0018307844751352	0.0049169640189347	KRAS;TP53
+0	Reactome_Pathways_2024	Gene Expression (Transcription)	3/1615	0.0019753903039654	0.0160551896053571	KRAS;TP53;KDM6A
+0	GO_Biological_Process_2021	regulation of RNA polymerase II transcription preinitiation complex assembly (GO:0045898)	1/10	0.0019986133767566	0.0155868622075649	TP53
+0	GO_Biological_Process_2021	hematopoietic stem cell differentiation (GO:0060218)	1/10	0.0019986133767566	0.0155868622075649	TP53
+0	GO_Biological_Process_2021	negative regulation of telomerase activity (GO:0051974)	1/10	0.0019986133767566	0.0155868622075649	TP53
+0	GO_Biological_Process_2021	DNA damage response, signal transduction by p53 class mediator resulting in transcription of p21 class mediator (GO:0006978)	1/10	0.0019986133767566	0.0155868622075649	TP53
+0	GO_Biological_Process_2021	positive regulation of T cell apoptotic process (GO:0070234)	1/10	0.0019986133767566	0.0155868622075649	TP53
+0	Reactome_Pathways_2024	RUNX3 Regulates p14-ARF	1/10	0.0019986133767566	0.0160551896053571	KRAS
+0	GO_Biological_Process_2021	positive regulation of protein phosphorylation (GO:0001934)	2/371	0.002008804359979	0.0155868622075649	KRAS;TP53
+0	GO_Biological_Process_2021	positive regulation of macromolecule metabolic process (GO:0010604)	2/384	0.0021503620336328	0.0155868622075649	KRAS;TP53
+0	GO_Biological_Process_2021	positive regulation of transcription from RNA polymerase II promoter in response to endoplasmic reticulum stress (GO:1990440)	1/11	0.0021983110308393	0.0155868622075649	TP53
+0	GO_Biological_Process_2021	positive regulation of production of miRNAs involved in gene silencing by miRNA (GO:1903800)	1/11	0.0021983110308393	0.0155868622075649	TP53
+0	GO_Biological_Process_2021	DNA damage response, signal transduction resulting in transcription (GO:0042772)	1/11	0.0021983110308393	0.0155868622075649	TP53
+0	GO_Cellular_Component_2021	MLL3/4 complex (GO:0044666)	1/11	0.0021983110308393	0.0329746654625901	KDM6A
+0	Reactome_Pathways_2024	Activated NTRK2 Signals Through FRS2 and FRS3	1/11	0.0021983110308393	0.0160551896053571	KRAS
+0	Reactome_Pathways_2024	Signaling by FGFR4 in Disease	1/11	0.0021983110308393	0.0160551896053571	KRAS
+0	Reactome_Pathways_2024	Constitutive Signaling by Overexpressed ERBB2	1/11	0.0021983110308393	0.0160551896053571	KRAS
+0	Reactome_Pathways_2024	MET Activates RAS Signaling	1/11	0.0021983110308393	0.0160551896053571	KRAS
+0	GO_Biological_Process_2021	replicative senescence (GO:0090399)	1/12	0.0023979788011638	0.0155868622075649	TP53
+0	GO_Biological_Process_2021	mitotic G1/S transition checkpoint signaling (GO:0044819)	1/12	0.0023979788011638	0.0155868622075649	TP53
+0	GO_Biological_Process_2021	mRNA transcription (GO:0009299)	1/12	0.0023979788011638	0.0155868622075649	TP53
+0	GO_Biological_Process_2021	chromatin assembly or disassembly (GO:0006333)	1/12	0.0023979788011638	0.0155868622075649	TP53
+0	Reactome_Pathways_2024	Signaling by PDGFRA Extracellular Domain Mutants	1/12	0.0023979788011638	0.0160551896053571	KRAS
+0	Reactome_Pathways_2024	Signaling by PDGFRA Transmembrane, Juxtamembrane and Kinase Domain Mutants	1/12	0.0023979788011638	0.0160551896053571	KRAS
+0	Reactome_Pathways_2024	TP53 Regulates Transcription of Caspase Activators and Caspases	1/12	0.0023979788011638	0.0160551896053571	TP53
+0	Reactome_Pathways_2024	TP53 Regulates Transcription of Death Receptors and Ligands	1/12	0.0023979788011638	0.0160551896053571	TP53
+0	Reactome_Pathways_2024	p38MAPK Events	1/13	0.002597616681955	0.0160551896053571	KRAS
+0	Reactome_Pathways_2024	GRB2 Events in EGFR Signaling	1/13	0.002597616681955	0.0160551896053571	KRAS
+0	Reactome_Pathways_2024	Erythropoietin Activates RAS	1/14	0.002797224668801	0.0160551896053571	KRAS
+0	Reactome_Pathways_2024	SHC1 Events in EGFR Signaling	1/14	0.002797224668801	0.0160551896053571	KRAS
+0	Reactome_Pathways_2024	SHC1 Events in ERBB4 Signaling	1/14	0.002797224668801	0.0160551896053571	KRAS
+0	Reactome_Pathways_2024	PTK6 Regulates RHO GTPases, RAS GTPase and MAP Kinases	1/14	0.002797224668801	0.0160551896053571	KRAS
+0	Reactome_Pathways_2024	TP53 Regulates Transcription of Genes Involved in G1 Cell Cycle Arrest	1/14	0.002797224668801	0.0160551896053571	TP53
+0	Reactome_Pathways_2024	TP53 Regulates Transcription of Cell Death Genes With Uncertain Role in P53-Dependent Apoptosis	1/14	0.002797224668801	0.0160551896053571	TP53
+0	Reactome_Pathways_2024	Regulation of TP53 Activity Through Association With Co-factors	1/14	0.002797224668801	0.0160551896053571	TP53
+0	GO_Biological_Process_2021	positive regulation of protein export from nucleus (GO:0046827)	1/15	0.0029968027587318	0.0185879566781682	TP53
+0	Reactome_Pathways_2024	Signaling by EGFRvIII in Cancer	1/15	0.0029968027587318	0.0160551896053571	KRAS
+0	Reactome_Pathways_2024	Constitutive Signaling by EGFRvIII	1/15	0.0029968027587318	0.0160551896053571	KRAS
+0	Reactome_Pathways_2024	Signaling by ERBB2 ECD Mutants	1/16	0.0031963509494465	0.0160551896053571	KRAS
+0	Reactome_Pathways_2024	GRB2 Events in ERBB2 Signaling	1/16	0.0031963509494465	0.0160551896053571	KRAS
+0	Reactome_Pathways_2024	Signaling by FLT3 ITD and TKD Mutants	1/16	0.0031963509494465	0.0160551896053571	KRAS
+0	GO_Biological_Process_2021	positive regulation of gene expression (GO:0010628)	2/482	0.0033674487698592	0.0185879566781682	KRAS;TP53
+0	GO_Biological_Process_2021	cellular response to gamma radiation (GO:0071480)	1/17	0.0033958692395375	0.0185879566781682	TP53
+0	GO_Biological_Process_2021	negative regulation of ATPase activity (GO:0032780)	1/17	0.0033958692395375	0.0185879566781682	TP53
+0	Reactome_Pathways_2024	Formation of Senescence-Associated Heterochromatin Foci (SAHF)	1/17	0.0033958692395375	0.0160551896053571	TP53
+0	Reactome_Pathways_2024	Signaling by NTRK3 (TRKC)	1/17	0.0033958692395375	0.0160551896053571	KRAS
+0	GO_Biological_Process_2021	regulation of production of miRNAs involved in gene silencing by miRNA (GO:1903798)	1/18	0.0035953576273759	0.0185879566781682	TP53
+0	GO_Biological_Process_2021	negative regulation of fibroblast proliferation (GO:0048147)	1/18	0.0035953576273759	0.0185879566781682	TP53
+0	Reactome_Pathways_2024	Zygotic Genome Activation (ZGA)	1/18	0.0035953576273759	0.0160551896053571	TP53
+0	Reactome_Pathways_2024	SHC-mediated Cascade FGFR3	1/18	0.0035953576273759	0.0160551896053571	KRAS
+0	Reactome_Pathways_2024	Gastrin-CREB Signalling Pathway via PKC and MAPK	1/18	0.0035953576273759	0.0160551896053571	KRAS
+0	Reactome_Pathways_2024	TP53 Regulates Transcription of Genes Involved in G2 Cell Cycle Arrest	1/18	0.0035953576273759	0.0160551896053571	TP53
+0	Reactome_Pathways_2024	Tie2 Signaling	1/18	0.0035953576273759	0.0160551896053571	KRAS
+0	Reactome_Pathways_2024	Regulation of NF-kappa B Signaling	1/18	0.0035953576273759	0.0160551896053571	TP53
+0	Reactome_Pathways_2024	Signaling by FLT3 Fusion Proteins	1/19	0.0037948161126764	0.0160551896053571	KRAS
+0	Reactome_Pathways_2024	Signaling by Ligand-Responsive EGFR Variants in Cancer	1/19	0.0037948161126764	0.0160551896053571	KRAS
+0	Reactome_Pathways_2024	Constitutive Signaling by Ligand-Responsive EGFR Cancer Variants	1/19	0.0037948161126764	0.0160551896053571	KRAS
+0	Reactome_Pathways_2024	Regulation of TP53 Activity Through Methylation	1/19	0.0037948161126764	0.0160551896053571	TP53
+0	Reactome_Pathways_2024	VEGFR2 Mediated Cell Proliferation	1/19	0.0037948161126764	0.0160551896053571	KRAS
+0	Reactome_Pathways_2024	SHC-mediated Cascade FGFR4	1/20	0.003994244696037	0.0160551896053571	KRAS
+0	Reactome_Pathways_2024	FRS-mediated FGFR3 Signaling	1/20	0.003994244696037	0.0160551896053571	KRAS
+0	Reactome_Pathways_2024	SUMOylation of Transcription Factors	1/20	0.003994244696037	0.0160551896053571	TP53
+0	Reactome_Pathways_2024	Signaling by KIT in Disease	1/20	0.003994244696037	0.0160551896053571	KRAS
+0	Reactome_Pathways_2024	Signaling by PDGFR in Disease	1/20	0.003994244696037	0.0160551896053571	KRAS
+0	Reactome_Pathways_2024	Signaling by Phosphorylated Juxtamembrane, Extracellular and Kinase Domain KIT Mutants	1/20	0.003994244696037	0.0160551896053571	KRAS
+0	Reactome_Pathways_2024	Signalling to RAS	1/20	0.003994244696037	0.0160551896053571	KRAS
+0	Reactome_Pathways_2024	TP53 Regulates Transcription of Genes Involved in Cytochrome C Release	1/20	0.003994244696037	0.0160551896053571	TP53
+0	Reactome_Pathways_2024	Ras Activation Upon Ca2+ Influx Through NMDA Receptor	1/20	0.003994244696037	0.0160551896053571	KRAS
+0	KEGG_2021_Human	Pathways in cancer	2/531	0.0040741752483777	0.0106381242596529	KRAS;TP53
+0	GO_Biological_Process_2021	intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator (GO:0042771)	1/21	0.0041936433766275	0.0185879566781682	TP53
+0	GO_Molecular_Function_2021	histone acetyltransferase binding (GO:0035035)	1/21	0.0041936433766275	0.0453340186371097	TP53
+0	Reactome_Pathways_2024	SHC-mediated Cascade FGFR1	1/21	0.0041936433766275	0.0160551896053571	KRAS
+0	Reactome_Pathways_2024	CD209 (DC-SIGN) Signaling	1/21	0.0041936433766275	0.0160551896053571	KRAS
+0	Reactome_Pathways_2024	TP53 Regulates Transcription of Additional Cell Cycle Genes With Uncertain Roles in the P53 Pathway	1/21	0.0041936433766275	0.0160551896053571	TP53
+0	Reactome_Pathways_2024	Regulation of FZD by Ubiquitination	1/21	0.0041936433766275	0.0160551896053571	RNF43
+0	GO_Biological_Process_2021	negative regulation of phosphate metabolic process (GO:0045936)	1/22	0.0043930121554123	0.0185879566781682	TP53
+0	GO_Biological_Process_2021	regulation of execution phase of apoptosis (GO:1900117)	1/22	0.0043930121554123	0.0185879566781682	TP53
+0	Reactome_Pathways_2024	SHC1 Events in ERBB2 Signaling	1/22	0.0043930121554123	0.0160551896053571	KRAS
+0	Reactome_Pathways_2024	FRS-mediated FGFR4 Signaling	1/22	0.0043930121554123	0.0160551896053571	KRAS
+0	Reactome_Pathways_2024	Signaling by ERBB2 TMD JMD Mutants	1/22	0.0043930121554123	0.0160551896053571	KRAS
+0	Reactome_Pathways_2024	Signaling by FGFR3 in Disease	1/22	0.0043930121554123	0.0160551896053571	KRAS
+0	Reactome_Pathways_2024	Disease	3/2131	0.0044467631896718	0.0160551896053571	RNF43;KRAS;TP53
+0	GO_Biological_Process_2021	positive regulation of transcription initiation from RNA polymerase II promoter (GO:0060261)	1/23	0.0045923510335213	0.0185879566781682	TP53
+0	GO_Biological_Process_2021	regulation of protein export from nucleus (GO:0046825)	1/23	0.0045923510335213	0.0185879566781682	TP53
+0	GO_Molecular_Function_2021	disordered domain specific binding (GO:0097718)	1/23	0.0045923510335213	0.0453340186371097	TP53
+0	Reactome_Pathways_2024	SHC-mediated Cascade FGFR2	1/23	0.0045923510335213	0.0160551896053571	KRAS
+0	Reactome_Pathways_2024	FRS-mediated FGFR1 Signaling	1/23	0.0045923510335213	0.0160551896053571	KRAS
+0	GO_Biological_Process_2021	positive regulation of transcription from RNA polymerase II promoter in response to stress (GO:0036003)	1/24	0.0047916600118212	0.0185879566781682	TP53
+0	GO_Biological_Process_2021	response to gamma radiation (GO:0010332)	1/24	0.0047916600118212	0.0185879566781682	TP53
+0	GO_Biological_Process_2021	DNA packaging (GO:0006323)	1/24	0.0047916600118212	0.0185879566781682	TP53
+0	GO_Molecular_Function_2021	protein phosphatase 2A binding (GO:0051721)	1/24	0.0047916600118212	0.0453340186371097	TP53
+0	Reactome_Pathways_2024	RAS Processing	1/24	0.0047916600118212	0.0160551896053571	KRAS
+0	GO_Biological_Process_2021	receptor catabolic process (GO:0032801)	1/25	0.0049909390908039	0.0185879566781682	RNF43
+0	GO_Biological_Process_2021	positive regulation of release of cytochrome c from mitochondria (GO:0090200)	1/25	0.0049909390908039	0.0185879566781682	TP53
+0	Reactome_Pathways_2024	FRS-mediated FGFR2 Signaling	1/25	0.0049909390908039	0.0160551896053571	KRAS
+0	Reactome_Pathways_2024	Signaling by EGFR in Cancer	1/25	0.0049909390908039	0.0160551896053571	KRAS
+0	Reactome_Pathways_2024	Signaling by ERBB2 KD Mutants	1/25	0.0049909390908039	0.0160551896053571	KRAS
+0	Reactome_Pathways_2024	Signaling by Erythropoietin	1/25	0.0049909390908039	0.0160551896053571	KRAS
+0	Reactome_Pathways_2024	Signaling by NTRK2 (TRKB)	1/25	0.0049909390908039	0.0160551896053571	KRAS
+0	Reactome_Pathways_2024	Defective Intrinsic Pathway for Apoptosis	1/25	0.0049909390908039	0.0160551896053571	TP53
+0	Reactome_Pathways_2024	Downstream Signaling of Activated FGFR3	1/25	0.0049909390908039	0.0160551896053571	KRAS
+0	GO_Biological_Process_2021	positive regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway (GO:1900740)	1/26	0.005190188272057	0.0185879566781682	TP53
+0	GO_Biological_Process_2021	histone lysine demethylation (GO:0070076)	1/26	0.005190188272057	0.0185879566781682	KDM6A
+0	GO_Biological_Process_2021	regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway (GO:1900739)	1/26	0.005190188272057	0.0185879566781682	TP53
+0	GO_Biological_Process_2021	cellular response to drug (GO:0035690)	1/26	0.005190188272057	0.0185879566781682	TP53
+0	Reactome_Pathways_2024	Signaling by ERBB2 in Cancer	1/26	0.005190188272057	0.0163032972781085	KRAS
+0	Reactome_Pathways_2024	HDMs Demethylate Histones	1/26	0.005190188272057	0.0163032972781085	KDM6A
+0	GO_Biological_Process_2021	positive regulation of gene silencing by miRNA (GO:2000637)	1/27	0.0053894075575753	0.0185879566781682	TP53
+0	GO_Biological_Process_2021	negative regulation of catalytic activity (GO:0043086)	1/27	0.0053894075575753	0.0185879566781682	TP53
+0	GO_Biological_Process_2021	entrainment of circadian clock by photoperiod (GO:0043153)	1/27	0.0053894075575753	0.0185879566781682	TP53
+0	Reactome_Pathways_2024	Pyroptosis	1/27	0.0053894075575753	0.0165399059525589	TP53
+0	Reactome_Pathways_2024	Downstream Signaling of Activated FGFR4	1/27	0.0053894075575753	0.0165399059525589	KRAS
+0	GO_Biological_Process_2021	photoperiodism (GO:0009648)	1/28	0.0055885969486986	0.0188894576866013	TP53
+0	GO_Molecular_Function_2021	histone demethylase activity (GO:0032452)	1/28	0.0055885969486986	0.0453340186371097	KDM6A
+0	Reactome_Pathways_2024	FLT3 Signaling in Disease	1/28	0.0055885969486986	0.0167657908460958	KRAS
+0	Reactome_Pathways_2024	CREB1 Phosphorylation Through NMDA Receptor-Mediated Activation of RAS Signaling	1/28	0.0055885969486986	0.0167657908460958	KRAS
+0	GO_Biological_Process_2021	negative regulation of transferase activity (GO:0051348)	1/29	0.0057877564464318	0.0191790360675879	TP53
+0	Reactome_Pathways_2024	DAP12 Signaling	1/29	0.0057877564464318	0.0168263008030674	KRAS
+0	Reactome_Pathways_2024	Downstream Signal Transduction	1/29	0.0057877564464318	0.0168263008030674	KRAS
+0	GO_Biological_Process_2021	histone H3-K4 methylation (GO:0051568)	1/30	0.0059868860535258	0.019457379673959	KDM6A
+0	Reactome_Pathways_2024	Activation of BH3-only Proteins	1/30	0.0059868860535258	0.0168263008030674	TP53
+0	Reactome_Pathways_2024	Signaling by CSF3 (G-CSF)	1/30	0.0059868860535258	0.0168263008030674	KRAS
+0	Reactome_Pathways_2024	Regulation of TP53 Activity Through Acetylation	1/30	0.0059868860535258	0.0168263008030674	TP53
+0	Reactome_Pathways_2024	Downstream Signaling of Activated FGFR2	1/30	0.0059868860535258	0.0168263008030674	KRAS
+0	Reactome_Pathways_2024	Signaling by CSF1 (M-CSF) in Myeloid Cells	1/31	0.0061859857715872	0.0170274041341629	KRAS
+0	Reactome_Pathways_2024	Downstream Signaling of Activated FGFR1	1/31	0.0061859857715872	0.0170274041341629	KRAS
+0	GO_Biological_Process_2021	hematopoietic progenitor cell differentiation (GO:0002244)	1/32	0.006385055602597	0.0197645663482652	TP53
+0	GO_Biological_Process_2021	negative regulation of DNA biosynthetic process (GO:2000279)	1/32	0.006385055602597	0.0197645663482652	TP53
+0	GO_Biological_Process_2021	signal transduction by p53 class mediator (GO:0072331)	1/33	0.006584095548098	0.0197645663482652	TP53
+0	GO_Biological_Process_2021	positive regulation of pri-miRNA transcription by RNA polymerase II (GO:1902895)	1/34	0.0067831056106472	0.0197645663482652	TP53
+0	GO_Biological_Process_2021	histone lysine methylation (GO:0034968)	1/34	0.0067831056106472	0.0197645663482652	KDM6A
+0	GO_Biological_Process_2021	positive regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway (GO:1901030)	1/34	0.0067831056106472	0.0197645663482652	TP53
+0	GO_Molecular_Function_2021	frizzled binding (GO:0005109)	1/34	0.0067831056106472	0.0453340186371097	RNF43
+0	Reactome_Pathways_2024	Signaling by WNT in Cancer	1/34	0.0067831056106472	0.0181108919804281	RNF43
+0	Reactome_Pathways_2024	Signalling to ERKs	1/34	0.0067831056106472	0.0181108919804281	KRAS
+0	Reactome_Pathways_2024	RAF Activation	1/34	0.0067831056106472	0.0181108919804281	KRAS
+0	Reactome_Pathways_2024	Oncogene Induced Senescence	1/35	0.0069820857918579	0.01842350250587	TP53
+0	Reactome_Pathways_2024	Hemostasis	2/707	0.0071401146916614	0.01842350250587	KRAS;TP53
+0	GO_Biological_Process_2021	intrinsic apoptotic signaling pathway by p53 class mediator (GO:0072332)	1/36	0.0071810360955563	0.020569408477102	TP53
+0	Reactome_Pathways_2024	Signaling by High-Kinase Activity BRAF Mutants	1/36	0.0071810360955563	0.01842350250587	KRAS
+0	Reactome_Pathways_2024	Regulation of TP53 Degradation	1/36	0.0071810360955563	0.01842350250587	TP53
+0	KEGG_2021_Human	Aldosterone-regulated sodium reabsorption	1/37	0.0073799565223201	0.018749078732381	KRAS
+0	GO_Molecular_Function_2021	core promoter sequence-specific DNA binding (GO:0001046)	1/37	0.0073799565223201	0.0453340186371097	TP53
+0	Reactome_Pathways_2024	Regulation of TP53 Expression and Degradation	1/37	0.0073799565223201	0.01842350250587	TP53
+0	Reactome_Pathways_2024	FLT3 Signaling	1/38	0.0075788470742876	0.01842350250587	KRAS
+0	Reactome_Pathways_2024	Signaling by FGFR1 in Disease	1/38	0.0075788470742876	0.01842350250587	KRAS
+0	Reactome_Pathways_2024	Association of TriC CCT With Target Proteins During Biosynthesis	1/39	0.0077777077543161	0.01842350250587	TP53
+0	Reactome_Pathways_2024	Autodegradation of the E3 Ubiquitin Ligase COP1	1/39	0.0077777077543161	0.01842350250587	TP53
+0	Reactome_Pathways_2024	Ovarian Tumor Domain Proteases	1/39	0.0077777077543161	0.01842350250587	TP53
+0	Reactome_Pathways_2024	Chromatin Modifications During the Maternal to Zygotic Transition (MZT)	1/39	0.0077777077543161	0.01842350250587	KDM6A
+0	GO_Biological_Process_2021	bone development (GO:0060348)	1/40	0.0079765385653122	0.0217425002828673	TP53
+0	GO_Biological_Process_2021	stem cell differentiation (GO:0048863)	1/40	0.0079765385653122	0.0217425002828673	TP53
+0	GO_Biological_Process_2021	positive regulation of intrinsic apoptotic signaling pathway (GO:2001244)	1/40	0.0079765385653122	0.0217425002828673	TP53
+0	Reactome_Pathways_2024	Signaling by FGFR3	1/40	0.0079765385653122	0.01842350250587	KRAS
+0	Reactome_Pathways_2024	MAP2K and MAPK Activation	1/40	0.0079765385653122	0.01842350250587	KRAS
+0	Reactome_Pathways_2024	Signal Transduction	3/2613	0.0080391298439771	0.01842350250587	RNF43;KRAS;TP53
+0	KEGG_2021_Human	Ferroptosis	1/41	0.0081753395103782	0.0202232082625146	TP53
+0	GO_Biological_Process_2021	regulation of release of cytochrome c from mitochondria (GO:0090199)	1/41	0.0081753395103782	0.0218245560101871	TP53
+0	Reactome_Pathways_2024	Signaling by FGFR4	1/41	0.0081753395103782	0.01842350250587	KRAS
+0	Reactome_Pathways_2024	Signaling by RAF1 Mutants	1/41	0.0081753395103782	0.01842350250587	KRAS
+0	Reactome_Pathways_2024	Transcriptional Regulation by VENTX	1/41	0.0081753395103782	0.01842350250587	TP53
+0	GO_Biological_Process_2021	regulation of cell population proliferation (GO:0042127)	2/764	0.0083063994290043	0.0218245560101871	KRAS;TP53
+0	Reactome_Pathways_2024	Formation of WDR5-containing Histone-Modifying Complexes	1/42	0.008374110589681	0.01842350250587	KDM6A
+0	Reactome_Pathways_2024	Cytokine Signaling in Immune System	2/776	0.0085625474529797	0.01842350250587	KRAS;TP53
+0	GO_Biological_Process_2021	cellular response to glucose starvation (GO:0042149)	1/43	0.008572851807857	0.0218245560101871	TP53
+0	Reactome_Pathways_2024	Negative Regulation of MAPK Pathway	1/43	0.008572851807857	0.01842350250587	KRAS
+0	Reactome_Pathways_2024	Signaling by FGFR2 in Disease	1/43	0.008572851807857	0.01842350250587	KRAS
+0	Reactome_Pathways_2024	Signaling by SCF-KIT	1/43	0.008572851807857	0.01842350250587	KRAS
+0	Reactome_Pathways_2024	Stabilization of P53	1/44	0.0087715631651939	0.01842350250587	TP53
+0	Reactome_Pathways_2024	TP53 Regulates Transcription of Cell Death Genes	1/44	0.0087715631651939	0.01842350250587	TP53
+0	GO_Biological_Process_2021	cellular response to radiation (GO:0071478)	1/45	0.0089702446657794	0.0218245560101871	TP53
+0	GO_Biological_Process_2021	positive regulation of RNA metabolic process (GO:0051254)	1/45	0.0089702446657794	0.0218245560101871	TP53
+0	GO_Biological_Process_2021	regulation of pri-miRNA transcription by RNA polymerase II (GO:1902893)	1/45	0.0089702446657794	0.0218245560101871	TP53
+0	GO_Molecular_Function_2021	copper ion binding (GO:0005507)	1/45	0.0089702446657794	0.0482150650785643	TP53
+0	Reactome_Pathways_2024	Paradoxical Activation of RAF Signaling by Kinase Inactive BRAF	1/45	0.0089702446657794	0.01842350250587	KRAS
+0	Reactome_Pathways_2024	Signaling by RAS Mutants	1/45	0.0089702446657794	0.01842350250587	KRAS
+0	Reactome_Pathways_2024	Signaling by Moderate Kinase Activity BRAF Mutants	1/45	0.0089702446657794	0.01842350250587	KRAS
+0	Reactome_Pathways_2024	Signaling Downstream of RAS Mutants	1/45	0.0089702446657794	0.01842350250587	KRAS
+0	Reactome_Pathways_2024	TAK1-dependent IKK and NF-kappa-B Activation	1/45	0.0089702446657794	0.01842350250587	TP53
+0	Reactome_Pathways_2024	DAP12 Interactions	1/45	0.0089702446657794	0.01842350250587	KRAS
+0	GO_Biological_Process_2021	regulation of fibroblast proliferation (GO:0048145)	1/46	0.009168896311972	0.0218245560101871	TP53
+0	GO_Biological_Process_2021	positive regulation of nucleocytoplasmic transport (GO:0046824)	1/46	0.009168896311972	0.0218245560101871	TP53
+0	GO_Biological_Process_2021	regulation of telomerase activity (GO:0051972)	1/46	0.009168896311972	0.0218245560101871	TP53
+0	GO_Biological_Process_2021	cellular response to ionizing radiation (GO:0071479)	1/48	0.0095661100512231	0.0224537860924543	TP53
+0	Reactome_Pathways_2024	IRS-mediated Signalling	1/48	0.0095661100512231	0.0194973388066914	KRAS
+0	GO_Biological_Process_2021	positive regulation of reactive oxygen species metabolic process (GO:2000379)	1/49	0.0097646721502219	0.0226058848409247	TP53
+0	Reactome_Pathways_2024	TP53 Regulates Transcription of Cell Cycle Genes	1/49	0.0097646721502219	0.0197512686674943	TP53
+0	Reactome_Pathways_2024	Signaling by ERBB2	1/50	0.0099632044032962	0.0200013201178954	KRAS
+0	GO_Biological_Process_2021	intrinsic apoptotic signaling pathway in response to DNA damage (GO:0008630)	1/51	0.010161706815005	0.0230377673259646	TP53
+0	GO_Biological_Process_2021	signal transduction in response to DNA damage (GO:0042770)	1/52	0.0103601793891911	0.0230377673259646	TP53
+0	GO_Biological_Process_2021	regulation of intrinsic apoptotic signaling pathway (GO:2001242)	1/52	0.0103601793891911	0.0230377673259646	TP53
+0	Reactome_Pathways_2024	Signaling by FGFR1	1/52	0.0103601793891911	0.0200349084496953	KRAS
+0	Reactome_Pathways_2024	IRS-related Events Triggered by IGF1R	1/52	0.0103601793891911	0.0200349084496953	KRAS
+0	Reactome_Pathways_2024	p53-Dependent G1 DNA Damage Response	1/53	0.010558622126276	0.0200349084496953	TP53
+0	Reactome_Pathways_2024	p53-Dependent G1 S DNA Damage Checkpoint	1/53	0.010558622126276	0.0200349084496953	TP53
+0	Reactome_Pathways_2024	Signaling by EGFR	1/53	0.010558622126276	0.0200349084496953	KRAS
+0	Reactome_Pathways_2024	IGF1R Signaling Cascade	1/53	0.010558622126276	0.0200349084496953	KRAS
+0	Reactome_Pathways_2024	Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R)	1/54	0.0107570350302103	0.0200349084496953	KRAS
+0	Reactome_Pathways_2024	Insulin Receptor Signalling Cascade	1/54	0.0107570350302103	0.0200349084496953	KRAS
+0	Reactome_Pathways_2024	G1 S DNA Damage Checkpoints	1/55	0.0109554181035787	0.0200349084496953	TP53
+0	Reactome_Pathways_2024	Signaling by Non-Receptor Tyrosine Kinases	1/55	0.0109554181035787	0.0200349084496953	KRAS
+0	Reactome_Pathways_2024	Signaling by PTK6	1/55	0.0109554181035787	0.0200349084496953	KRAS
+0	Reactome_Pathways_2024	Intrinsic Pathway for Apoptosis	1/55	0.0109554181035787	0.0200349084496953	TP53
+0	Reactome_Pathways_2024	Regulation of RAS by GAPs	1/55	0.0109554181035787	0.0200349084496953	KRAS
+0	GO_Biological_Process_2021	positive regulation of establishment of protein localization to mitochondrion (GO:1903749)	1/56	0.0111537713495647	0.0239219543627588	TP53
+0	GO_Biological_Process_2021	DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest (GO:0006977)	1/56	0.0111537713495647	0.0239219543627588	TP53
+0	GO_Molecular_Function_2021	receptor tyrosine kinase binding (GO:0030971)	1/56	0.0111537713495647	0.052952773505621	TP53
+0	GO_Biological_Process_2021	regulation of reactive oxygen species metabolic process (GO:2000377)	1/57	0.0113520947683085	0.0239219543627588	TP53
+0	GO_Biological_Process_2021	cellular response to peptide (GO:1901653)	1/57	0.0113520947683085	0.0239219543627588	TP53
+0	GO_Biological_Process_2021	positive regulation of mitochondrion organization (GO:0010822)	1/58	0.0115503883648835	0.0239219543627588	TP53
+0	Reactome_Pathways_2024	Signaling by ERBB4	1/58	0.0115503883648835	0.0208375249555669	KRAS
+0	Reactome_Pathways_2024	Signaling by PDGF	1/58	0.0115503883648835	0.0208375249555669	KRAS
+0	KEGG_2021_Human	VEGF signaling pathway	1/59	0.0117486521426567	0.0278551727363639	KRAS
+0	GO_Biological_Process_2021	positive regulation of apoptotic signaling pathway (GO:2001235)	1/59	0.0117486521426567	0.0239219543627588	TP53
+0	GO_Biological_Process_2021	mitotic DNA damage checkpoint signaling (GO:0044773)	1/59	0.0117486521426567	0.0239219543627588	TP53
+0	KEGG_2021_Human	Long-term depression	1/60	0.0119468861025562	0.0278551727363639	KRAS
+0	Reactome_Pathways_2024	DNA Damage Telomere Stress Induced Senescence	1/60	0.0119468861025562	0.0211943731768899	TP53
+0	Reactome_Pathways_2024	Recruitment and ATM-med Phosphorylation of Repair and Signaling Proteins at DNA Double Strand Breaks	1/60	0.0119468861025562	0.0211943731768899	TP53
+0	GO_Biological_Process_2021	regulation of DNA-templated transcription, initiation (GO:2000142)	1/61	0.0121450902474313	0.0244347649025701	TP53
+0	Reactome_Pathways_2024	DNA Double Strand Break Response	1/61	0.0121450902474313	0.0211943731768899	TP53
+0	Reactome_Pathways_2024	Regulated Necrosis	1/61	0.0121450902474313	0.0211943731768899	TP53
+0	Reactome_Pathways_2024	Regulation of PTEN Gene Transcription	1/61	0.0121450902474313	0.0211943731768899	TP53
+0	Reactome_Pathways_2024	TP53 Regulates Transcription of DNA Repair Genes	1/62	0.0123432645823882	0.0213283836406482	TP53
+0	KEGG_2021_Human	Basal cell carcinoma	1/63	0.0125414091070478	0.0278551727363639	TP53
+0	Reactome_Pathways_2024	NCAM Signaling for Neurite Out-Growth	1/63	0.0125414091070478	0.0213283836406482	KRAS
+0	Reactome_Pathways_2024	Signaling by FGFR in Disease	1/63	0.0125414091070478	0.0213283836406482	KRAS
+0	Reactome_Pathways_2024	Ca2+ Pathway	1/63	0.0125414091070478	0.0213283836406482	KRAS
+0	KEGG_2021_Human	GnRH secretion	1/64	0.0127395238270762	0.0278551727363639	KRAS
+0	GO_Biological_Process_2021	regulation of transcription initiation from RNA polymerase II promoter (GO:0060260)	1/64	0.0127395238270762	0.0253291709032458	TP53
+0	GO_Biological_Process_2021	mitotic G1 DNA damage checkpoint signaling (GO:0031571)	1/65	0.0129376087422444	0.0254239055516198	TP53
+0	Reactome_Pathways_2024	Signaling by BRAF and RAF1 Fusions	1/65	0.0129376087422444	0.0217254184539575	KRAS
+0	Reactome_Pathways_2024	The Role of GTSE1 in G2 M Progression After G2 Checkpoint	1/65	0.0129376087422444	0.0217254184539575	TP53
+0	KEGG_2021_Human	Acute myeloid leukemia	1/67	0.0133336891739785	0.0278551727363639	KRAS
+0	KEGG_2021_Human	Long-term potentiation	1/67	0.0133336891739785	0.0278551727363639	KRAS
+0	GO_Molecular_Function_2021	GDP binding (GO:0019003)	1/67	0.0133336891739785	0.052952773505621	KRAS
+0	KEGG_2021_Human	Fc epsilon RI signaling pathway	1/68	0.0135316846971434	0.0278551727363639	KRAS
+0	Reactome_Pathways_2024	Downstream Signaling Events of B Cell Receptor (BCR)	1/68	0.0135316846971434	0.0225809988383581	KRAS
+0	KEGG_2021_Human	Renal cell carcinoma	1/69	0.013729650427898	0.0278551727363639	KRAS
+0	GO_Biological_Process_2021	cellular response to decreased oxygen levels (GO:0036294)	1/69	0.013729650427898	0.0266702404863766	TP53
+0	KEGG_2021_Human	Prolactin signaling pathway	1/70	0.0139275863681819	0.0278551727363639	KRAS
+0	GO_Biological_Process_2021	cellular response to light stimulus (GO:0071482)	1/70	0.0139275863681819	0.0267472965479858	TP53
+0	GO_Biological_Process_2021	response to ionizing radiation (GO:0010212)	1/72	0.0143233688946267	0.0271983072268754	TP53
+0	GO_Molecular_Function_2021	protein tyrosine kinase binding (GO:1990782)	1/72	0.0143233688946267	0.052952773505621	TP53
+0	KEGG_2021_Human	p53 signaling pathway	1/73	0.0145212154854246	0.0284373803256232	TP53
+0	GO_Biological_Process_2021	chromatin assembly (GO:0031497)	1/73	0.0145212154854246	0.0272676157448529	TP53
+0	Reactome_Pathways_2024	Pre-NOTCH Transcription and Translation	1/73	0.0145212154854246	0.0240817672957042	TP53
+0	GO_Biological_Process_2021	DNA damage response, signal transduction by p53 class mediator (GO:0030330)	1/74	0.0147190322987359	0.0273353456976524	TP53
+0	Reactome_Pathways_2024	Extra-nuclear Estrogen Signaling	1/75	0.0149168193344818	0.0244342991552554	KRAS
+0	Reactome_Pathways_2024	Signaling by FGFR2	1/75	0.0149168193344818	0.0244342991552554	KRAS
+0	GO_Biological_Process_2021	cellular response to UV (GO:0034644)	1/77	0.0153123040957573	0.0281280368715541	TP53
+0	Reactome_Pathways_2024	G2 M DNA Damage Checkpoint	1/77	0.0153123040957573	0.024929178009556	TP53
+0	Reactome_Pathways_2024	Diseases of Programmed Cell Death	1/78	0.0155100018241851	0.0250980029518633	TP53
+0	Reactome_Pathways_2024	Signaling by MET	1/79	0.015707669790035	0.0252647459875864	KRAS
+0	Reactome_Pathways_2024	PKR-mediated Signaling	1/80	0.0159053079952946	0.0252780787782361	TP53
+0	Reactome_Pathways_2024	Post NMDA Receptor Activation Events	1/80	0.0159053079952946	0.0252780787782361	KRAS
+0	KEGG_2021_Human	B cell receptor signaling pathway	1/81	0.0161029164419929	0.0308913090928027	KRAS
+0	Reactome_Pathways_2024	Oncogenic MAPK Signaling	1/82	0.0163004951344669	0.0256013658876627	KRAS
+0	Reactome_Pathways_2024	Signaling by Insulin Receptor	1/82	0.0163004951344669	0.0256013658876627	KRAS
+0	KEGG_2021_Human	ErbB signaling pathway	1/85	0.0168930527073478	0.031758939089814	KRAS
+0	GO_Biological_Process_2021	regulation of cell cycle G2/M phase transition (GO:1902749)	1/85	0.0168930527073478	0.0306981280380838	TP53
+0	GO_Molecular_Function_2021	mRNA 3'-UTR binding (GO:0003730)	1/85	0.0168930527073478	0.052952773505621	TP53
+0	Reactome_Pathways_2024	TP53 Regulates Metabolic Genes	1/86	0.0170905124090214	0.0266851860421562	TP53
+0	GO_Biological_Process_2021	regulation of transcription from RNA polymerase II promoter in response to stress (GO:0043618)	1/87	0.0172879423680492	0.0310815134063864	TP53
+0	KEGG_2021_Human	Gap junction	1/88	0.0174853425891337	0.0319649044086512	KRAS
+0	KEGG_2021_Human	PD-L1 expression and PD-1 checkpoint pathway in cancer	1/89	0.0176827130771261	0.0319649044086512	KRAS
+0	Reactome_Pathways_2024	Pre-NOTCH Expression and Processing	1/89	0.0176827130771261	0.0272486005255058	TP53
+0	Reactome_Pathways_2024	Activation of HOX Genes During Differentiation	1/91	0.0180773648602116	0.0272486005255058	KDM6A
+0	Reactome_Pathways_2024	Activation of Anterior HOX Genes in Hindbrain Development During Early Embryogenesis	1/91	0.0180773648602116	0.0272486005255058	KDM6A
+0	Reactome_Pathways_2024	Signaling by FGFR	1/91	0.0180773648602116	0.0272486005255058	KRAS
+0	Reactome_Pathways_2024	Chaperonin-mediated Protein Folding	1/91	0.0180773648602116	0.0272486005255058	TP53
+0	KEGG_2021_Human	Small cell lung cancer	1/92	0.0182746461577157	0.0321547849452737	TP53
+0	GO_Biological_Process_2021	regulation of peptidyl-tyrosine phosphorylation (GO:0050730)	1/92	0.0182746461577157	0.0325096336910944	TP53
+0	Reactome_Pathways_2024	Regulation of TP53 Activity Through Phosphorylation	1/92	0.0182746461577157	0.0272486005255058	TP53
+0	GO_Molecular_Function_2021	RNA polymerase II cis-regulatory region sequence-specific DNA binding (GO:0000978)	2/1149	0.0183059536234602	0.052952773505621	TP53;KDM6A
+0	GO_Molecular_Function_2021	cis-regulatory region sequence-specific DNA binding (GO:0000987)	2/1149	0.0183059536234602	0.052952773505621	TP53;KDM6A
+0	Reactome_Pathways_2024	Innate Immune System	2/1149	0.0183059536234602	0.0272486005255058	KRAS;TP53
+0	KEGG_2021_Human	GnRH signaling pathway	1/93	0.0184718977345189	0.0321547849452737	KRAS
+0	GO_Molecular_Function_2021	histone deacetylase binding (GO:0042826)	1/93	0.0184718977345189	0.052952773505621	TP53
+0	Reactome_Pathways_2024	Activation of NMDA Receptors and Postsynaptic Events	1/93	0.0184718977345189	0.0272486005255058	KRAS
+0	Reactome_Pathways_2024	Signaling by ALK Fusions and Activated Point Mutants	1/93	0.0184718977345189	0.0272486005255058	TP53
+0	Reactome_Pathways_2024	Signaling by ALK in Cancer	1/93	0.0184718977345189	0.0272486005255058	TP53
+0	GO_Biological_Process_2021	hemopoiesis (GO:0030097)	1/94	0.0186691195905268	0.0325347620606182	TP53
+0	Reactome_Pathways_2024	Oxidative Stress Induced Senescence	1/94	0.0186691195905268	0.0273882139047838	TP53
+0	GO_Biological_Process_2021	regulation of cell cycle phase transition (GO:1901987)	1/95	0.0188663117274591	0.0325347620606182	TP53
+0	GO_Biological_Process_2021	mRNA metabolic process (GO:0016071)	1/95	0.0188663117274591	0.0325347620606182	TP53
+0	Reactome_Pathways_2024	Protein Folding	1/97	0.0192606068636	0.0279312286818625	TP53
+0	KEGG_2021_Human	Choline metabolism in cancer	1/98	0.0194577098682637	0.0323355365252795	KRAS
+0	Reactome_Pathways_2024	MyD88 Cascade Initiated on Plasma Membrane	1/98	0.0194577098682637	0.0279312286818625	TP53
+0	Reactome_Pathways_2024	Toll Like Receptor 10 (TLR10) Cascade	1/98	0.0194577098682637	0.0279312286818625	TP53
+0	Reactome_Pathways_2024	Toll Like Receptor 5 (TLR5) Cascade	1/98	0.0194577098682637	0.0279312286818625	TP53
+0	GO_Biological_Process_2021	response to UV (GO:0009411)	1/99	0.0196547831658258	0.0335521045962077	TP53
+0	Reactome_Pathways_2024	VEGFA-VEGFR2 Pathway	1/99	0.0196547831658258	0.0280632465522754	KRAS
+0	KEGG_2021_Human	AGE-RAGE signaling pathway in diabetic complications	1/100	0.0198518267597581	0.0323355365252795	KRAS
+0	KEGG_2021_Human	Progesterone-mediated oocyte maturation	1/100	0.0198518267597581	0.0323355365252795	KRAS
+0	KEGG_2021_Human	Melanogenesis	1/101	0.0200488406552823	0.0323355365252795	KRAS
+0	GO_Biological_Process_2021	positive regulation of protein localization to membrane (GO:1905477)	1/101	0.0200488406552823	0.0338594738470492	TP53
+0	GO_Biological_Process_2021	intrinsic apoptotic signaling pathway (GO:0097193)	1/102	0.0202458248516149	0.0338594738470492	TP53
+0	Reactome_Pathways_2024	Interleukin-1 Signaling	1/102	0.0202458248516149	0.0282809434609906	TP53
+0	Reactome_Pathways_2024	TRAF6 Mediated Induction of NFkB and MAP Kinases Upon TLR7 8 or 9 Activation	1/102	0.0202458248516149	0.0282809434609906	TP53
+0	GO_Biological_Process_2021	chromatin remodeling (GO:0006338)	1/103	0.0204427793556973	0.0338594738470492	KDM6A
+0	Reactome_Pathways_2024	Epigenetic Regulation of Adipogenesis Genes by MLL3 and MLL4 Complexes	1/103	0.0204427793556973	0.0282809434609906	KDM6A
+0	Reactome_Pathways_2024	Epigenetic Regulation of Gene Expression by MLL3 and MLL4 Complexes	1/103	0.0204427793556973	0.0282809434609906	KDM6A
+0	Reactome_Pathways_2024	MyD88 Dependent Cascade Initiated on Endosome	1/103	0.0204427793556973	0.0282809434609906	TP53
+0	Reactome_Pathways_2024	MLL4 and MLL3 Complexes Regulate Expression of PPARG Targets in Adipogenesis and Hepatic Steatosis	1/103	0.0204427793556973	0.0282809434609906	KDM6A
+0	KEGG_2021_Human	T cell receptor signaling pathway	1/104	0.020639704165072	0.0323355365252795	KRAS
+0	KEGG_2021_Human	C-type lectin receptor signaling pathway	1/104	0.020639704165072	0.0323355365252795	KRAS
+0	GO_Biological_Process_2021	nucleotide-excision repair (GO:0006289)	1/105	0.0208365992904918	0.0338594738470492	TP53
+0	GO_Biological_Process_2021	positive regulation of cellular metabolic process (GO:0031325)	1/105	0.0208365992904918	0.0338594738470492	TP53
+0	Reactome_Pathways_2024	Generic Transcription Pathway	2/1230	0.0208621272547188	0.0287123091598449	KRAS;TP53
+0	Reactome_Pathways_2024	Toll Like Receptor 3 (TLR3) Cascade	1/106	0.0210334647272819	0.0287996670881245	TP53
+0	Reactome_Pathways_2024	Toll Like Receptor 7 8 (TLR7 8) Cascade	1/107	0.0212303004825159	0.0289208685144478	TP53
+0	Reactome_Pathways_2024	Signaling by VEGF	1/108	0.0214271065608528	0.0290407992474503	KRAS
+0	GO_Biological_Process_2021	response to endoplasmic reticulum stress (GO:0034976)	1/110	0.0218206296854733	0.0350857174488329	TP53
+0	Reactome_Pathways_2024	MyD88-independent TLR4 Cascade	1/110	0.0218206296854733	0.0291305406301068	TP53
+0	Reactome_Pathways_2024	TRIF (TICAM1)-mediated TLR4 Signaling	1/110	0.0218206296854733	0.0291305406301068	TP53
+0	Reactome_Pathways_2024	Toll Like Receptor 9 (TLR9) Cascade	1/110	0.0218206296854733	0.0291305406301068	TP53
+0	GO_Biological_Process_2021	regulation of Wnt signaling pathway (GO:0030111)	1/111	0.0220173467371517	0.0350857174488329	RNF43
+0	Reactome_Pathways_2024	FCERI Mediated MAPK Activation	1/111	0.0220173467371517	0.029246923277709	KRAS
+0	GO_Biological_Process_2021	protein-containing complex subunit organization (GO:0043933)	1/112	0.022214034124409	0.0350857174488329	TP53
+0	Reactome_Pathways_2024	Interleukin-4 and Interleukin-13 Signaling	1/112	0.022214034124409	0.0293621144119664	TP53
+0	KEGG_2021_Human	Serotonergic synapse	1/113	0.0224106918459826	0.0339775005406833	KRAS
+0	KEGG_2021_Human	Cholinergic synapse	1/113	0.0224106918459826	0.0339775005406833	KRAS
+0	GO_Molecular_Function_2021	phosphatase binding (GO:0019902)	1/114	0.0226073199078965	0.0571288314441895	TP53
+0	GO_Biological_Process_2021	cellular response to lectin (GO:1990858)	1/115	0.0228039183067143	0.0353371119251355	KRAS
+0	GO_Biological_Process_2021	stimulatory C-type lectin receptor signaling pathway (GO:0002223)	1/115	0.0228039183067143	0.0353371119251355	KRAS
+0	Reactome_Pathways_2024	MyD88 MAL(TIRAP) Cascade Initiated on Plasma Membrane	1/115	0.0228039183067143	0.0297007131116718	TP53
+0	Reactome_Pathways_2024	Signaling by NTRK1 (TRKA)	1/115	0.0228039183067143	0.0297007131116718	KRAS
+0	Reactome_Pathways_2024	Toll Like Receptor TLR6 TLR2 Cascade	1/115	0.0228039183067143	0.0297007131116718	TP53
+0	GO_Biological_Process_2021	tumor necrosis factor-mediated signaling pathway (GO:0033209)	1/116	0.0230004870518633	0.0353371119251355	TP53
+0	GO_Biological_Process_2021	positive regulation of protein-containing complex assembly (GO:0031334)	1/118	0.0233935355815823	0.0355956482007666	TP53
+0	GO_Molecular_Function_2021	protease binding (GO:0002020)	1/118	0.0233935355815823	0.0571288314441895	TP53
+0	Reactome_Pathways_2024	Toll Like Receptor 2 (TLR2) Cascade	1/118	0.0233935355815823	0.0301742705327656	TP53
+0	Reactome_Pathways_2024	Toll Like Receptor TLR1 TLR2 Cascade	1/118	0.0233935355815823	0.0301742705327656	TP53
+0	KEGG_2021_Human	Growth hormone synthesis, secretion and action	1/119	0.0235900153756559	0.0351978007192327	KRAS
+0	GO_Biological_Process_2021	innate immune response activating cell surface receptor signaling pathway (GO:0002220)	1/119	0.0235900153756559	0.0355956482007666	KRAS
+0	GO_Molecular_Function_2021	protein phosphatase binding (GO:0019903)	1/123	0.0243756381306297	0.0571288314441895	TP53
+0	KEGG_2021_Human	Cell cycle	1/124	0.0245719697337619	0.0354282005721067	TP53
+0	GO_Biological_Process_2021	cellular response to oxidative stress (GO:0034599)	1/125	0.0247682717047499	0.0363707581387936	TP53
+0	GO_Biological_Process_2021	negative regulation of cell growth (GO:0030308)	1/126	0.0249645440479293	0.0363707581387936	TP53
+0	GO_Biological_Process_2021	circulatory system development (GO:0072359)	1/126	0.0249645440479293	0.0363707581387936	KDM6A
+0	GO_Biological_Process_2021	negative regulation of growth (GO:0045926)	1/126	0.0249645440479293	0.0363707581387936	TP53
+0	GO_Cellular_Component_2021	mitochondrial outer membrane (GO:0005741)	1/126	0.0249645440479293	0.1405043734550776	KRAS
+0	GO_Molecular_Function_2021	RNA polymerase II transcription regulatory region sequence-specific DNA binding (GO:0000977)	2/1359	0.0252429720334791	0.0571288314441895	TP53;KDM6A
+0	Reactome_Pathways_2024	RNA Polymerase II Transcription	2/1360	0.0252783944183145	0.0324487082196633	KRAS;TP53
+0	KEGG_2021_Human	Relaxin signaling pathway	1/129	0.0255531833463616	0.0354282005721067	KRAS
+0	KEGG_2021_Human	Natural killer cell mediated cytotoxicity	1/131	0.0259454614657023	0.0354282005721067	KRAS
+0	KEGG_2021_Human	FoxO signaling pathway	1/131	0.0259454614657023	0.0354282005721067	KRAS
+0	GO_Biological_Process_2021	cellular response to hypoxia (GO:0071456)	1/131	0.0259454614657023	0.0374767776726811	TP53
+0	Reactome_Pathways_2024	C-type Lectin Receptors (CLRs)	1/131	0.0259454614657023	0.0331456373748446	KRAS
+0	GO_Biological_Process_2021	positive regulation of peptidyl-tyrosine phosphorylation (GO:0050731)	1/134	0.0265336565820586	0.0380015929014229	TP53
+0	Reactome_Pathways_2024	Beta-catenin Independent WNT Signaling	1/134	0.0265336565820586	0.0335757644900931	KRAS
+0	Reactome_Pathways_2024	Signaling by NTRKs	1/134	0.0265336565820586	0.0335757644900931	KRAS
+0	Reactome_Pathways_2024	Epigenetic Regulation by WDR5-containing Histone Modifying Complexes	1/135	0.0267296624137218	0.0336642446436968	KDM6A
+0	KEGG_2021_Human	Insulin signaling pathway	1/137	0.0271215852941743	0.0354282005721067	KRAS
+0	KEGG_2021_Human	Apelin signaling pathway	1/137	0.0271215852941743	0.0354282005721067	KRAS
+0	KEGG_2021_Human	Autophagy	1/137	0.0271215852941743	0.0354282005721067	KRAS
+0	KEGG_2021_Human	Estrogen signaling pathway	1/137	0.0271215852941743	0.0354282005721067	KRAS
+0	Reactome_Pathways_2024	G2 M Checkpoints	1/137	0.0271215852941743	0.0339974801574861	TP53
+0	KEGG_2021_Human	Measles	1/139	0.0275133898059978	0.0354282005721067	TP53
+0	KEGG_2021_Human	Fluid shear stress and atherosclerosis	1/139	0.0275133898059978	0.0354282005721067	TP53
+0	Reactome_Pathways_2024	Interleukin-1 Family Signaling	1/140	0.0277092476844659	0.0345718183726748	TP53
+0	GO_Biological_Process_2021	chromatin organization (GO:0006325)	1/142	0.0281008746910155	0.0399079648973245	KDM6A
+0	GO_Cellular_Component_2021	organelle outer membrane (GO:0031968)	1/142	0.0281008746910155	0.1405043734550776	KRAS
+0	KEGG_2021_Human	Signaling pathways regulating pluripotency of stem cells	1/143	0.0282966438267282	0.0359443854015196	KRAS
+0	GO_Molecular_Function_2021	G protein-coupled receptor binding (GO:0001664)	1/143	0.0282966438267282	0.0608377842274657	RNF43
+0	Reactome_Pathways_2024	PTEN Regulation	1/145	0.0286880933828552	0.0356266089917318	TP53
+0	KEGG_2021_Human	Phospholipase D signaling pathway	1/148	0.0292750459631644	0.0366913909404993	KRAS
+0	GO_Biological_Process_2021	positive regulation of intracellular protein transport (GO:0090316)	1/148	0.0292750459631644	0.0412290230647898	TP53
+0	Reactome_Pathways_2024	Toll Like Receptor 4 (TLR4) Cascade	1/148	0.0292750459631644	0.036187209593356	TP53
+0	Reactome_Pathways_2024	DNA Double-Strand Break Repair	1/152	0.0300572355940569	0.0369828659152681	TP53
+0	KEGG_2021_Human	mTOR signaling pathway	1/154	0.0304481531092772	0.0371704726269099	KRAS
+0	KEGG_2021_Human	Oxytocin signaling pathway	1/154	0.0304481531092772	0.0371704726269099	KRAS
+0	GO_Biological_Process_2021	regulation of signal transduction by p53 class mediator (GO:1901796)	1/156	0.0308389524618798	0.0430725864963446	TP53
+0	GO_Biological_Process_2021	cellular response to starvation (GO:0009267)	1/158	0.0312296336705249	0.0432607220517927	TP53
+0	Reactome_Pathways_2024	Factors Involved in Megakaryocyte Development and Platelet Production	1/158	0.0312296336705249	0.0380744848859824	TP53
+0	Reactome_Pathways_2024	Antiviral Mechanism by IFN-stimulated Genes	1/158	0.0312296336705249	0.0380744848859824	TP53
+0	Reactome_Pathways_2024	Regulation of TP53 Activity	1/160	0.0316201967624613	0.0383754206162598	TP53
+0	Reactome_Pathways_2024	Signaling by the B Cell Receptor (BCR)	1/162	0.0320106417633028	0.0386734902751215	KRAS
+0	GO_Biological_Process_2021	heart development (GO:0007507)	1/164	0.0324009686878587	0.0445184041320985	KDM6A
+0	Reactome_Pathways_2024	Cellular Senescence	1/167	0.0329862377434371	0.0396726372860257	TP53
+0	Reactome_Pathways_2024	Apoptosis	1/168	0.0331812684196259	0.0397282451481619	TP53
+0	Reactome_Pathways_2024	SUMO E3 Ligases SUMOylate Target Proteins	1/170	0.033571241270066	0.0400157206210162	TP53
+0	Reactome_Pathways_2024	Toll-like Receptor Cascades	1/174	0.0343508330736836	0.0407629885807713	TP53
+0	Reactome_Pathways_2024	SUMOylation	1/176	0.0347404520666623	0.0410429234592868	TP53
+0	KEGG_2021_Human	Axon guidance	1/182	0.0359086017108702	0.0432744687284846	KRAS
+0	Reactome_Pathways_2024	G2 M Transition	1/184	0.0362977492217357	0.0426938283797508	TP53
+0	KEGG_2021_Human	Alcoholism	1/186	0.036686778924747	0.0436526230243825	KRAS
+0	Reactome_Pathways_2024	Mitotic G2-G2 M Phases	1/186	0.036686778924747	0.04296214900398	TP53
+0	GO_Molecular_Function_2021	protein heterodimerization activity (GO:0046982)	1/188	0.0370756908391698	0.0676980902482821	TP53
+0	GO_Molecular_Function_2021	GTP binding (GO:0005525)	1/189	0.0372701026320889	0.0676980902482821	KRAS
+0	Reactome_Pathways_2024	TCF Dependent Signaling in Response to WNT	1/189	0.0372701026320889	0.0434546611474574	RNF43
+0	GO_Molecular_Function_2021	RNA polymerase II-specific DNA-binding transcription factor binding (GO:0061629)	1/190	0.0374644849857352	0.0676980902482821	TP53
+0	Reactome_Pathways_2024	Ub-specific Processing Proteases	1/190	0.0374644849857352	0.0434913803964839	TP53
+0	GO_Biological_Process_2021	negative regulation of Wnt signaling pathway (GO:0030178)	1/191	0.0376588379120571	0.0512924658399139	RNF43
+0	KEGG_2021_Human	Chemokine signaling pathway	1/192	0.0378531613980021	0.0444774646426525	KRAS
+0	Reactome_Pathways_2024	ESR-mediated Signaling	1/192	0.0378531613980021	0.0437523553821063	KRAS
+0	GO_Biological_Process_2021	cellular response to tumor necrosis factor (GO:0071356)	1/194	0.0382417200936636	0.0512924658399139	TP53
+0	GO_Biological_Process_2021	regulation of programmed cell death (GO:0043067)	1/194	0.0382417200936636	0.0512924658399139	TP53
+0	Reactome_Pathways_2024	Fc Epsilon Receptor (FCERI) Signaling	1/197	0.0388243374612761	0.0446814573368997	KRAS
+0	GO_Biological_Process_2021	regulation of macromolecule metabolic process (GO:0060255)	1/200	0.0394066901050093	0.0522853637028457	KDM6A
+0	GO_Biological_Process_2021	modification-dependent protein catabolic process (GO:0019941)	1/201	0.0396007488400251	0.0522853637028457	RNF43
+0	KEGG_2021_Human	Epstein-Barr virus infection	1/202	0.0397947781709315	0.0461815944205872	TP53
+0	Reactome_Pathways_2024	Programmed Cell Death	1/202	0.0397947781709315	0.0456017415091791	TP53
+0	Reactome_Pathways_2024	Neurotransmitter Receptors and Postsynaptic Signal Transmission	1/204	0.0401827486352779	0.0458495465197402	KRAS
+0	GO_Molecular_Function_2021	DNA-binding transcription factor binding (GO:0140297)	1/208	0.0409583368640719	0.0676980902482821	TP53
+0	Reactome_Pathways_2024	Signaling by NOTCH	1/209	0.0411521604585945	0.0467558589040201	TP53
+0	KEGG_2021_Human	Rap1 signaling pathway	1/210	0.0413459546773084	0.0472643948051473	KRAS
+0	KEGG_2021_Human	Human immunodeficiency virus 1 infection	1/212	0.0417334549875237	0.0472643948051473	KRAS
+0	GO_Molecular_Function_2021	transcription regulatory region nucleic acid binding (GO:0001067)	1/212	0.0417334549875237	0.0676980902482821	TP53
+0	GO_Biological_Process_2021	positive regulation of protein modification process (GO:0031401)	1/214	0.0421208378090414	0.0551815627110698	KRAS
+0	GO_Molecular_Function_2021	guanyl ribonucleotide binding (GO:0032561)	1/214	0.0421208378090414	0.0676980902482821	KRAS
+0	GO_Molecular_Function_2021	GTPase activity (GO:0003924)	1/216	0.0425081031791539	0.0676980902482821	KRAS
+0	GO_Biological_Process_2021	regulation of cell growth (GO:0001558)	1/217	0.0427016918248823	0.055512199372347	TP53
+0	KEGG_2021_Human	Regulation of actin cytoskeleton	1/218	0.0428952511140014	0.048001828627573	KRAS
+0	Reactome_Pathways_2024	G Alpha (Q) Signalling Events	1/219	0.0430887810587136	0.0487487480621887	KRAS
+0	GO_Biological_Process_2021	transcription, DNA-templated (GO:0006351)	1/221	0.0434757528869667	0.0560870399839494	TP53
+0	KEGG_2021_Human	Thermogenesis	1/232	0.0456020005475511	0.049844047110114	KRAS
+0	KEGG_2021_Human	Ras signaling pathway	1/232	0.0456020005475511	0.049844047110114	KRAS
+0	Reactome_Pathways_2024	Cell Surface Interactions at the Vascular Wall	1/233	0.0457951198704699	0.0515919704869851	KRAS
+0	Reactome_Pathways_2024	Chromatin Modifying Enzymes	1/238	0.0467602768928187	0.0522384683279606	KDM6A
+0	Reactome_Pathways_2024	Chromatin Organization	1/238	0.0467602768928187	0.0522384683279606	KDM6A
+0	KEGG_2021_Human	Chemical carcinogenesis	1/239	0.0469532204061384	0.0507310657261725	KRAS
+0	KEGG_2021_Human	Shigellosis	1/246	0.0483030050427388	0.0515963917501982	TP53
+0	KEGG_2021_Human	Parkinson disease	1/249	0.04888104506869	0.0516271711961445	TP53
+0	GO_Biological_Process_2021	positive regulation of phosphorylation (GO:0042327)	1/253	0.0496513554753867	0.0635687808737906	KRAS

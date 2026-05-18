@@ -1,0 +1,10 @@
+Cluster_ID	Gene	Degree_Centrality	Betweenness_Centrality	Closeness_Centrality
+0	KRAS	1.0	1.0	1.0
+0	ARHGAP35	0.125	0.0	0.5333
+0	NF2	0.125	0.0	0.5333
+0	POT1	0.125	0.0	0.5333
+0	PRDM1	0.125	0.0	0.5333
+0	RET	0.125	0.0	0.5333
+0	SF3B1	0.125	0.0	0.5333
+0	SOX17	0.125	0.0	0.5333
+0	STK11	0.125	0.0	0.5333

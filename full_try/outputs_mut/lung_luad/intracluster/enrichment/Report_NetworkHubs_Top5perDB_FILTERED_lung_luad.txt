@@ -1,0 +1,85 @@
+--- 🏆 TOP 5 PATHWAY PER DATABASE — HUB GLOBALI DELLA RETE (LUNG_LUAD - FILTERED) ---
+Geni Hub analizzati (9): FLT1, INHBA, PREX2, POLE, STK11, GLI1, FBXW7, KRAS, KEAP1
+================================================================================
+
+
+  [GO]
+  🔸 [GO_Biological_Process_2021] regulation of cell population proliferation (GO:0042127)
+     - P-value: 8.90e-06 | Adjusted: 2.27e-03
+     - Overlap: 5/764
+     - Hubs coinvolti: STK11;FLT1;KRAS;INHBA;GLI1
+
+  🔸 [GO_Biological_Process_2021] vasculature development (GO:0001944)
+     - P-value: 2.44e-05 | Adjusted: 3.11e-03
+     - Overlap: 2/17
+     - Hubs coinvolti: STK11;FBXW7
+
+  🔸 [GO_Biological_Process_2021] hematopoietic progenitor cell differentiation (GO:0002244)
+     - P-value: 8.87e-05 | Adjusted: 6.19e-03
+     - Overlap: 2/32
+     - Hubs coinvolti: FLT1;INHBA
+
+  🔸 [GO_Biological_Process_2021] regulation of cell cycle G1/S phase transition (GO:1902806)
+     - P-value: 1.13e-04 | Adjusted: 6.19e-03
+     - Overlap: 2/36
+     - Hubs coinvolti: FBXW7;GLI1
+
+  🔸 [GO_Biological_Process_2021] regulation of autophagy (GO:0010506)
+     - P-value: 1.21e-04 | Adjusted: 6.19e-03
+     - Overlap: 3/231
+     - Hubs coinvolti: STK11;FBXW7;KEAP1
+
+
+  [KEGG]
+  🔸 [KEGG_2021_Human] PI3K-Akt signaling pathway
+     - P-value: 4.27e-04 | Adjusted: 2.45e-02
+     - Overlap: 3/354
+     - Hubs coinvolti: STK11;FLT1;KRAS
+
+  🔸 [KEGG_2021_Human] Longevity regulating pathway
+     - P-value: 9.06e-04 | Adjusted: 2.45e-02
+     - Overlap: 2/102
+     - Hubs coinvolti: STK11;KRAS
+
+  🔸 [KEGG_2021_Human] Pathways in cancer
+     - P-value: 1.39e-03 | Adjusted: 2.45e-02
+     - Overlap: 3/531
+     - Hubs coinvolti: KEAP1;KRAS;GLI1
+
+  🔸 [KEGG_2021_Human] FoxO signaling pathway
+     - P-value: 1.49e-03 | Adjusted: 2.45e-02
+     - Overlap: 2/131
+     - Hubs coinvolti: STK11;KRAS
+
+  🔸 [KEGG_2021_Human] Autophagy
+     - P-value: 1.62e-03 | Adjusted: 2.45e-02
+     - Overlap: 2/137
+     - Hubs coinvolti: STK11;KRAS
+
+
+  [Reactome]
+  🔸 [Reactome_2022] Signal Transduction R-HSA-162582
+     - P-value: 2.10e-04 | Adjusted: 2.04e-02
+     - Overlap: 6/2465
+     - Hubs coinvolti: PREX2;STK11;FLT1;FBXW7;INHBA;GLI1
+
+  🔸 [Reactome_2022] FBXW7 Mutants And NOTCH1 In Cancer R-HSA-2644605
+     - P-value: 2.25e-03 | Adjusted: 5.78e-02
+     - Overlap: 1/5
+     - Hubs coinvolti: FBXW7
+
+  🔸 [Reactome_2022] GLI Proteins Bind Promoters Of Hh Responsive Genes To Promote Transcription R-HSA-5635851
+     - P-value: 3.15e-03 | Adjusted: 5.78e-02
+     - Overlap: 1/7
+     - Hubs coinvolti: GLI1
+
+  🔸 [Reactome_2022] VEGF Binds To VEGFR Leading To Receptor Dimerization R-HSA-195399
+     - P-value: 3.59e-03 | Adjusted: 5.78e-02
+     - Overlap: 1/8
+     - Hubs coinvolti: FLT1
+
+  🔸 [Reactome_2022] AMPK Inhibits chREBP Transcriptional Activity R-HSA-163680
+     - P-value: 3.59e-03 | Adjusted: 5.78e-02
+     - Overlap: 1/8
+     - Hubs coinvolti: STK11
+

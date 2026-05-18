@@ -1,0 +1,14 @@
+--- 👑 TOP 3 HUB GENES PER OGNI CLUSTER (LUNG_LUSC - FILTERED) ---
+
+------------------------------------------------------------
+🎯 CLUSTER 0 | Totale geni nel network: 9
+------------------------------------------------------------
+🔸 HUB: KRAS
+   - Degree Centrality:      1.0000
+   - Betweenness Centrality: 1.0000
+🔸 HUB: ARHGAP35
+   - Degree Centrality:      0.1250
+   - Betweenness Centrality: 0.0000
+🔸 HUB: NF2
+   - Degree Centrality:      0.1250
+   - Betweenness Centrality: 0.0000

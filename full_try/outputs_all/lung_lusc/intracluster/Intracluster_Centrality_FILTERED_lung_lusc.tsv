@@ -1,0 +1,4 @@
+Cluster_ID	Gene	Degree_Centrality	Betweenness_Centrality	Closeness_Centrality
+0	KEAP1	1.0	0.0	1.0
+0	KRAS	1.0	0.0	1.0
+0	STK11	1.0	0.0	1.0

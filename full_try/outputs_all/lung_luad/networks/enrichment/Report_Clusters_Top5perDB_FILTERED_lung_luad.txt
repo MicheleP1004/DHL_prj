@@ -1,0 +1,113 @@
+--- 🏆 TOP 5 PATHWAY/ONTOLOGY PER DATABASE PER OGNI CLUSTER (LUNG_LUAD - FILTERED) ---
+
+================================================================================
+🎯 CLUSTER 0  |  DIMENSIONE: 12 geni
+🧬 TUTTI I GENI: ATM, CHEK2, DNMT3B, FBXW7, FOXP1, H3F3C, KDM5A, KRAS, NFE2L2, PAK7, POLE, RECQL
+================================================================================
+
+  [GO]
+  🔸 [GO_Biological_Process_2021] regulation of gene expression (GO:0010468)
+     P-value: 8.14e-07  |  Overlap: 7/1079
+     🎯 Geni nel pathway: FBXW7;CHEK2;DNMT3B;ATM;KRAS;FOXP1;NFE2L2
+  🔸 [GO_Biological_Process_2021] DNA damage induced protein phosphorylation (GO:0006975)
+     P-value: 9.22e-06  |  Overlap: 2/8
+     🎯 Geni nel pathway: CHEK2;ATM
+  🔸 [GO_Biological_Process_2021] replicative senescence (GO:0090399)
+     P-value: 2.17e-05  |  Overlap: 2/12
+     🎯 Geni nel pathway: CHEK2;ATM
+  🔸 [GO_Biological_Process_2021] DNA repair (GO:0006281)
+     P-value: 2.18e-05  |  Overlap: 4/298
+     🎯 Geni nel pathway: CHEK2;RECQL;ATM;POLE
+  🔸 [GO_Biological_Process_2021] cellular response to DNA damage stimulus (GO:0006974)
+     P-value: 4.08e-05  |  Overlap: 4/350
+     🎯 Geni nel pathway: CHEK2;RECQL;ATM;FOXP1
+
+  [KEGG]
+  🔸 [KEGG_2021_Human] MicroRNAs in cancer
+     P-value: 2.54e-05  |  Overlap: 4/310
+     🎯 Geni nel pathway: DNMT3B;ATM;KRAS;FOXP1
+  🔸 [KEGG_2021_Human] Cellular senescence
+     P-value: 9.73e-05  |  Overlap: 3/156
+     🎯 Geni nel pathway: CHEK2;ATM;KRAS
+  🔸 [KEGG_2021_Human] Human T-cell leukemia virus 1 infection
+     P-value: 2.65e-04  |  Overlap: 3/219
+     🎯 Geni nel pathway: CHEK2;ATM;KRAS
+  🔸 [KEGG_2021_Human] p53 signaling pathway
+     P-value: 8.47e-04  |  Overlap: 2/73
+     🎯 Geni nel pathway: CHEK2;ATM
+  🔸 [KEGG_2021_Human] Cell cycle
+     P-value: 2.42e-03  |  Overlap: 2/124
+     🎯 Geni nel pathway: CHEK2;ATM
+
+  [Reactome]
+  🔸 [Reactome_Pathways_2024] Regulation of TP53 Activity Through Methylation
+     P-value: 5.61e-05  |  Overlap: 2/19
+     🎯 Geni nel pathway: CHEK2;ATM
+  🔸 [Reactome_Pathways_2024] DNA Double-Strand Break Repair
+     P-value: 9.00e-05  |  Overlap: 3/152
+     🎯 Geni nel pathway: CHEK2;ATM;POLE
+  🔸 [Reactome_Pathways_2024] Regulation of TP53 Degradation
+     P-value: 2.06e-04  |  Overlap: 2/36
+     🎯 Geni nel pathway: CHEK2;ATM
+  🔸 [Reactome_Pathways_2024] Regulation of TP53 Expression and Degradation
+     P-value: 2.17e-04  |  Overlap: 2/37
+     🎯 Geni nel pathway: CHEK2;ATM
+  🔸 [Reactome_Pathways_2024] Stabilization of P53
+     P-value: 3.08e-04  |  Overlap: 2/44
+     🎯 Geni nel pathway: CHEK2;ATM
+
+================================================================================
+🎯 CLUSTER 1  |  DIMENSIONE: 7 geni
+🧬 TUTTI I GENI: EPHA5, FLT1, KEAP1, PREX2, SOX17, STAG2, STK11
+================================================================================
+
+  [GO]
+  🔸 [GO_Biological_Process_2021] blood vessel morphogenesis (GO:0048514)
+     P-value: 1.60e-04  |  Overlap: 2/56
+     🎯 Geni nel pathway: FLT1;SOX17
+  🔸 [GO_Molecular_Function_2021] transmembrane receptor protein kinase activity (GO:0019199)
+     P-value: 1.84e-04  |  Overlap: 2/60
+     🎯 Geni nel pathway: EPHA5;FLT1
+  🔸 [GO_Molecular_Function_2021] transmembrane receptor protein tyrosine kinase activity (GO:0004714)
+     P-value: 1.84e-04  |  Overlap: 2/60
+     🎯 Geni nel pathway: EPHA5;FLT1
+  🔸 [GO_Biological_Process_2021] regulation of kinase activity (GO:0043549)
+     P-value: 4.52e-04  |  Overlap: 2/94
+     🎯 Geni nel pathway: EPHA5;FLT1
+  🔸 [GO_Molecular_Function_2021] protein tyrosine kinase activity (GO:0004713)
+     P-value: 5.96e-04  |  Overlap: 2/108
+     🎯 Geni nel pathway: EPHA5;FLT1
+
+  [KEGG]
+  🔸 [KEGG_2021_Human] PI3K-Akt signaling pathway
+     P-value: 6.19e-03  |  Overlap: 2/354
+     🎯 Geni nel pathway: STK11;FLT1
+  🔸 [KEGG_2021_Human] Adipocytokine signaling pathway
+     P-value: 2.39e-02  |  Overlap: 1/69
+     🎯 Geni nel pathway: STK11
+  🔸 [KEGG_2021_Human] Rheumatoid arthritis
+     P-value: 3.21e-02  |  Overlap: 1/93
+     🎯 Geni nel pathway: FLT1
+  🔸 [KEGG_2021_Human] Longevity regulating pathway
+     P-value: 3.52e-02  |  Overlap: 1/102
+     🎯 Geni nel pathway: STK11
+  🔸 [KEGG_2021_Human] HIF-1 signaling pathway
+     P-value: 3.75e-02  |  Overlap: 1/109
+     🎯 Geni nel pathway: FLT1
+
+  [Reactome]
+  🔸 [Reactome_Pathways_2024] Signal Transduction
+     P-value: 6.33e-04  |  Overlap: 5/2613
+     🎯 Geni nel pathway: PREX2;STK11;FLT1;STAG2;SOX17
+  🔸 [Reactome_Pathways_2024] Reproduction
+     P-value: 8.23e-04  |  Overlap: 2/127
+     🎯 Geni nel pathway: STAG2;SOX17
+  🔸 [Reactome_Pathways_2024] AMPK Inhibits chREBP Transcriptional Activation Activity
+     P-value: 2.80e-03  |  Overlap: 1/8
+     🎯 Geni nel pathway: STK11
+  🔸 [Reactome_Pathways_2024] VEGF Binds to VEGFR Leading to Receptor Dimerization
+     P-value: 2.80e-03  |  Overlap: 1/8
+     🎯 Geni nel pathway: FLT1
+  🔸 [Reactome_Pathways_2024] VEGF Ligand-Receptor Interactions
+     P-value: 2.80e-03  |  Overlap: 1/8
+     🎯 Geni nel pathway: FLT1

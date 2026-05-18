@@ -1,0 +1,85 @@
+--- 🏆 TOP 5 PATHWAY PER DATABASE — HUB GLOBALI DELLA RETE (KRAS_LUNG_LUSC - FULL) ---
+Geni Hub analizzati (18): TP53, NF2, FAT1, TSHR, ARID1A, MTOR, RPTOR, SETD2, ZFHX3, STK11, SMARCA4, PIK3CG, NTRK3, ERBB4, KEAP1, RET, IL7R, KMT2D
+================================================================================
+
+
+  [GO]
+  🔸 [GO_Biological_Process_2021] regulation of cell population proliferation (GO:0042127)
+     - P-value: 1.36e-07 | Adjusted: 6.48e-05
+     - Overlap: 8/764
+     - Hubs coinvolti: KMT2D;STK11;ERBB4;NTRK3;NF2;IL7R;TP53;TSHR
+
+  🔸 [GO_Biological_Process_2021] positive regulation of transcription, DNA-templated (GO:0045893)
+     - P-value: 2.57e-07 | Adjusted: 6.48e-05
+     - Overlap: 9/1183
+     - Hubs coinvolti: RET;RPTOR;KMT2D;ZFHX3;ERBB4;ARID1A;TP53;MTOR;SMARCA4
+
+  🔸 [GO_Biological_Process_2021] positive regulation of cellular process (GO:0048522)
+     - P-value: 6.63e-07 | Adjusted: 1.11e-04
+     - Overlap: 7/625
+     - Hubs coinvolti: RPTOR;KMT2D;ZFHX3;ERBB4;NTRK3;IL7R;TSHR
+
+  🔸 [GO_Biological_Process_2021] regulation of cell growth (GO:0001558)
+     - P-value: 1.10e-06 | Adjusted: 1.38e-04
+     - Overlap: 5/217
+     - Hubs coinvolti: RPTOR;STK11;TP53;MTOR;SMARCA4
+
+  🔸 [GO_Biological_Process_2021] positive regulation of nucleic acid-templated transcription (GO:1903508)
+     - P-value: 3.86e-06 | Adjusted: 3.89e-04
+     - Overlap: 6/511
+     - Hubs coinvolti: RET;ZFHX3;ERBB4;ARID1A;TP53;SMARCA4
+
+
+  [KEGG]
+  🔸 [KEGG_2021_Human] PI3K-Akt signaling pathway
+     - P-value: 1.38e-08 | Adjusted: 1.37e-06
+     - Overlap: 7/354
+     - Hubs coinvolti: RPTOR;STK11;ERBB4;IL7R;TP53;MTOR;PIK3CG
+
+  🔸 [KEGG_2021_Human] Hepatocellular carcinoma
+     - P-value: 3.09e-07 | Adjusted: 1.34e-05
+     - Overlap: 5/168
+     - Hubs coinvolti: KEAP1;ARID1A;TP53;MTOR;SMARCA4
+
+  🔸 [KEGG_2021_Human] Central carbon metabolism in cancer
+     - P-value: 4.06e-07 | Adjusted: 1.34e-05
+     - Overlap: 4/70
+     - Hubs coinvolti: RET;NTRK3;TP53;MTOR
+
+  🔸 [KEGG_2021_Human] Longevity regulating pathway
+     - P-value: 1.85e-06 | Adjusted: 4.57e-05
+     - Overlap: 4/102
+     - Hubs coinvolti: RPTOR;STK11;TP53;MTOR
+
+  🔸 [KEGG_2021_Human] Thermogenesis
+     - P-value: 4.75e-05 | Adjusted: 9.41e-04
+     - Overlap: 4/232
+     - Hubs coinvolti: RPTOR;ARID1A;MTOR;SMARCA4
+
+
+  [Reactome]
+  🔸 [Reactome_2022] Signal Transduction R-HSA-162582
+     - P-value: 1.08e-07 | Adjusted: 2.34e-05
+     - Overlap: 12/2465
+     - Hubs coinvolti: RET;RPTOR;KMT2D;STK11;ERBB4;NTRK3;NF2;TP53;TSHR;MTOR;PIK3CG;SMARCA4
+
+  🔸 [Reactome_2022] Energy Dependent Regulation Of mTOR By LKB1-AMPK R-HSA-380972
+     - P-value: 2.20e-06 | Adjusted: 2.38e-04
+     - Overlap: 3/29
+     - Hubs coinvolti: RPTOR;STK11;MTOR
+
+  🔸 [Reactome_2022] Generic Transcription Pathway R-HSA-212436
+     - P-value: 3.92e-06 | Adjusted: 2.83e-04
+     - Overlap: 8/1190
+     - Hubs coinvolti: RPTOR;KMT2D;ZFHX3;STK11;ARID1A;TP53;MTOR;SMARCA4
+
+  🔸 [Reactome_2022] MTOR Signaling R-HSA-165159
+     - P-value: 6.39e-06 | Adjusted: 3.45e-04
+     - Overlap: 3/41
+     - Hubs coinvolti: RPTOR;STK11;MTOR
+
+  🔸 [Reactome_2022] RNA Polymerase II Transcription R-HSA-73857
+     - P-value: 8.11e-06 | Adjusted: 3.50e-04
+     - Overlap: 8/1312
+     - Hubs coinvolti: RPTOR;KMT2D;ZFHX3;STK11;ARID1A;TP53;MTOR;SMARCA4
+

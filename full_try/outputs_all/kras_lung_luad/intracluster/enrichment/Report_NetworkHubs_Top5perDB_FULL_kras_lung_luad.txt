@@ -1,0 +1,85 @@
+--- 🏆 TOP 5 PATHWAY PER DATABASE — HUB GLOBALI DELLA RETE (KRAS_LUNG_LUAD - FULL) ---
+Geni Hub analizzati (18): CDKN1B, H3F3C, AGO2, RECQL4, CDKN2A, FOXA1, IL7R, DROSHA, MCL1, ARAF, EIF1AX, GATA1, PRDM1, FYN, MALT1, DNAJB1, FGF19, FGF3
+================================================================================
+
+
+  [GO]
+  🔸 [GO_Biological_Process_2021] production of siRNA involved in RNA interference (GO:0030422)
+     - P-value: 3.43e-05 | Adjusted: 6.84e-03
+     - Overlap: 2/10
+     - Hubs coinvolti: AGO2;DROSHA
+
+  🔸 [GO_Biological_Process_2021] pre-miRNA processing (GO:0031054)
+     - P-value: 6.92e-05 | Adjusted: 6.84e-03
+     - Overlap: 2/14
+     - Hubs coinvolti: AGO2;DROSHA
+
+  🔸 [GO_Biological_Process_2021] RNA interference (GO:0016246)
+     - P-value: 1.03e-04 | Adjusted: 6.84e-03
+     - Overlap: 2/17
+     - Hubs coinvolti: AGO2;DROSHA
+
+  🔸 [GO_Biological_Process_2021] MAPK cascade (GO:0000165)
+     - P-value: 1.34e-04 | Adjusted: 6.84e-03
+     - Overlap: 4/303
+     - Hubs coinvolti: FGF19;ARAF;FYN;FGF3
+
+  🔸 [GO_Biological_Process_2021] negative regulation of cyclin-dependent protein serine/threonine kinase activity (GO:0045736)
+     - P-value: 1.44e-04 | Adjusted: 6.84e-03
+     - Overlap: 2/20
+     - Hubs coinvolti: CDKN1B;CDKN2A
+
+
+  [KEGG]
+  🔸 [KEGG_2021_Human] Melanoma
+     - P-value: 4.55e-07 | Adjusted: 3.64e-05
+     - Overlap: 4/72
+     - Hubs coinvolti: CDKN2A;FGF19;ARAF;FGF3
+
+  🔸 [KEGG_2021_Human] Pathways in cancer
+     - P-value: 4.82e-06 | Adjusted: 1.93e-04
+     - Overlap: 6/531
+     - Hubs coinvolti: CDKN1B;CDKN2A;FGF19;ARAF;IL7R;FGF3
+
+  🔸 [KEGG_2021_Human] Gastric cancer
+     - P-value: 8.35e-06 | Adjusted: 2.23e-04
+     - Overlap: 4/149
+     - Hubs coinvolti: CDKN1B;FGF19;ARAF;FGF3
+
+  🔸 [KEGG_2021_Human] PI3K-Akt signaling pathway
+     - P-value: 1.20e-05 | Adjusted: 2.39e-04
+     - Overlap: 5/354
+     - Hubs coinvolti: CDKN1B;FGF19;IL7R;FGF3;MCL1
+
+  🔸 [KEGG_2021_Human] Chronic myeloid leukemia
+     - P-value: 4.13e-05 | Adjusted: 6.61e-04
+     - Overlap: 3/76
+     - Hubs coinvolti: CDKN1B;CDKN2A;ARAF
+
+
+  [Reactome]
+  🔸 [Reactome_2022] MAPK Family Signaling Cascades R-HSA-5683057
+     - P-value: 2.44e-07 | Adjusted: 6.07e-05
+     - Overlap: 6/318
+     - Hubs coinvolti: DNAJB1;FGF19;AGO2;ARAF;FYN;FGF3
+
+  🔸 [Reactome_2022] PI3K/AKT Signaling In Cancer R-HSA-2219528
+     - P-value: 2.07e-06 | Adjusted: 2.57e-04
+     - Overlap: 4/105
+     - Hubs coinvolti: CDKN1B;FGF19;FYN;FGF3
+
+  🔸 [Reactome_2022] PIP3 Activates AKT Signaling R-HSA-1257604
+     - P-value: 3.09e-06 | Adjusted: 2.57e-04
+     - Overlap: 5/268
+     - Hubs coinvolti: CDKN1B;FGF19;AGO2;FYN;FGF3
+
+  🔸 [Reactome_2022] Intracellular Signaling By Second Messengers R-HSA-9006925
+     - P-value: 5.90e-06 | Adjusted: 3.68e-04
+     - Overlap: 5/306
+     - Hubs coinvolti: CDKN1B;FGF19;AGO2;FYN;FGF3
+
+  🔸 [Reactome_2022] Diseases Of Signal Transduction By Growth Factor Receptors And Second Messengers R-HSA-5663202
+     - P-value: 2.85e-05 | Adjusted: 1.42e-03
+     - Overlap: 5/424
+     - Hubs coinvolti: CDKN1B;FGF19;ARAF;FYN;FGF3
+

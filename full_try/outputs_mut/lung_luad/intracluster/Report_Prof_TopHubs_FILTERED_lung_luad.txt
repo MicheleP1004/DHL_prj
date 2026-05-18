@@ -1,0 +1,40 @@
+--- 👑 TOP 3 HUB GENES PER OGNI CLUSTER (LUNG_LUAD - FILTERED) ---
+
+------------------------------------------------------------
+🎯 CLUSTER 0 | Totale geni nel network: 22
+------------------------------------------------------------
+🔸 HUB: KRAS
+   - Degree Centrality:      1.0000
+   - Betweenness Centrality: 0.8976
+🔸 HUB: POLE
+   - Degree Centrality:      0.2857
+   - Betweenness Centrality: 0.0238
+🔸 HUB: FBXW7
+   - Degree Centrality:      0.1905
+   - Betweenness Centrality: 0.0071
+
+------------------------------------------------------------
+🎯 CLUSTER 1 | Totale geni nel network: 8
+------------------------------------------------------------
+🔸 HUB: PREX2
+   - Degree Centrality:      0.8571
+   - Betweenness Centrality: 0.5952
+🔸 HUB: GLI1
+   - Degree Centrality:      0.5714
+   - Betweenness Centrality: 0.1190
+🔸 HUB: FLT1
+   - Degree Centrality:      0.4286
+   - Betweenness Centrality: 0.0476
+
+------------------------------------------------------------
+🎯 CLUSTER 2 | Totale geni nel network: 8
+------------------------------------------------------------
+🔸 HUB: KEAP1
+   - Degree Centrality:      0.8571
+   - Betweenness Centrality: 0.4286
+🔸 HUB: STK11
+   - Degree Centrality:      0.8571
+   - Betweenness Centrality: 0.3333
+🔸 HUB: INHBA
+   - Degree Centrality:      0.4286
+   - Betweenness Centrality: 0.0476

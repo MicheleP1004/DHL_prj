@@ -1,85 +1,85 @@
 --- 🏆 TOP 5 PATHWAY PER DATABASE — HUB GLOBALI DELLA RETE (KRAS_COLON - FULL) ---
-Geni Hub analizzati (15): TGFBR2, ARID2, FLCN, IKBKE, SPEN, APC, KMT2D, PTPRT, PTPRS, EP300, FAT1, KMT2C, SESN1, NOTCH4, NOTCH3
+Geni Hub analizzati (15): EPHA5, ARID2, FAT1, PTPRT, APC, ARID1A, KMT2C, NOTCH4, FLCN, SPEN, SESN1, POLE, EP300, TGFBR2, KMT2D
 ================================================================================
 
 
   [GO]
-  🔸 [GO_Biological_Process_2021] positive regulation of transcription of Notch receptor target (GO:0007221)
-     - P-value: 2.31e-07 | Adjusted: 9.64e-05
-     - Overlap: 3/17
-     - Hubs coinvolti: NOTCH3;NOTCH4;EP300
-
   🔸 [GO_Biological_Process_2021] regulation of megakaryocyte differentiation (GO:0045652)
-     - P-value: 8.27e-06 | Adjusted: 1.39e-03
+     - P-value: 8.27e-06 | Adjusted: 2.34e-03
      - Overlap: 3/54
      - Hubs coinvolti: KMT2D;KMT2C;EP300
 
-  🔸 [GO_Biological_Process_2021] Notch signaling pathway (GO:0007219)
-     - P-value: 1.14e-05 | Adjusted: 1.39e-03
-     - Overlap: 3/60
-     - Hubs coinvolti: NOTCH3;NOTCH4;EP300
-
   🔸 [GO_Biological_Process_2021] histone H3-K4 monomethylation (GO:0097692)
-     - P-value: 1.47e-05 | Adjusted: 1.39e-03
+     - P-value: 1.47e-05 | Adjusted: 2.34e-03
      - Overlap: 2/8
      - Hubs coinvolti: KMT2D;KMT2C
 
   🔸 [GO_Biological_Process_2021] regulation of myeloid cell differentiation (GO:0045637)
-     - P-value: 1.66e-05 | Adjusted: 1.39e-03
+     - P-value: 1.66e-05 | Adjusted: 2.34e-03
      - Overlap: 3/68
      - Hubs coinvolti: KMT2D;KMT2C;EP300
 
+  🔸 [GO_Biological_Process_2021] hemopoiesis (GO:0030097)
+     - P-value: 4.39e-05 | Adjusted: 3.37e-03
+     - Overlap: 3/94
+     - Hubs coinvolti: FLCN;NOTCH4;TGFBR2
+
+  🔸 [GO_Biological_Process_2021] branching involved in blood vessel morphogenesis (GO:0001569)
+     - P-value: 4.75e-05 | Adjusted: 3.37e-03
+     - Overlap: 2/14
+     - Hubs coinvolti: NOTCH4;TGFBR2
+
 
   [KEGG]
-  🔸 [KEGG_2021_Human] Human papillomavirus infection
-     - P-value: 3.16e-06 | Adjusted: 2.21e-04
-     - Overlap: 5/331
-     - Hubs coinvolti: NOTCH3;APC;NOTCH4;EP300;IKBKE
-
-  🔸 [KEGG_2021_Human] Notch signaling pathway
-     - P-value: 1.08e-05 | Adjusted: 3.79e-04
-     - Overlap: 3/59
-     - Hubs coinvolti: NOTCH3;NOTCH4;EP300
+  🔸 [KEGG_2021_Human] Hepatocellular carcinoma
+     - P-value: 6.10e-06 | Adjusted: 3.66e-04
+     - Overlap: 4/168
+     - Hubs coinvolti: APC;ARID1A;ARID2;TGFBR2
 
   🔸 [KEGG_2021_Human] Pathways in cancer
-     - P-value: 3.12e-05 | Adjusted: 7.28e-04
-     - Overlap: 5/531
-     - Hubs coinvolti: NOTCH3;APC;NOTCH4;EP300;TGFBR2
+     - P-value: 5.31e-04 | Adjusted: 1.23e-02
+     - Overlap: 4/531
+     - Hubs coinvolti: APC;NOTCH4;EP300;TGFBR2
 
-  🔸 [KEGG_2021_Human] MicroRNAs in cancer
-     - P-value: 6.75e-05 | Adjusted: 1.18e-03
-     - Overlap: 4/310
-     - Hubs coinvolti: NOTCH3;APC;NOTCH4;EP300
+  🔸 [KEGG_2021_Human] Notch signaling pathway
+     - P-value: 8.76e-04 | Adjusted: 1.23e-02
+     - Overlap: 2/59
+     - Hubs coinvolti: NOTCH4;EP300
 
-  🔸 [KEGG_2021_Human] Thyroid hormone signaling pathway
-     - P-value: 9.32e-05 | Adjusted: 1.30e-03
-     - Overlap: 3/121
-     - Hubs coinvolti: NOTCH3;NOTCH4;EP300
+  🔸 [KEGG_2021_Human] Lysine degradation
+     - P-value: 9.99e-04 | Adjusted: 1.23e-02
+     - Overlap: 2/63
+     - Hubs coinvolti: KMT2D;KMT2C
+
+  🔸 [KEGG_2021_Human] Renal cell carcinoma
+     - P-value: 1.20e-03 | Adjusted: 1.23e-02
+     - Overlap: 2/69
+     - Hubs coinvolti: FLCN;EP300
 
 
   [Reactome]
-  🔸 [Reactome_2022] Defective LFNG Causes SCDO3 R-HSA-5083630
-     - P-value: 5.24e-06 | Adjusted: 3.95e-04
-     - Overlap: 2/5
-     - Hubs coinvolti: NOTCH3;NOTCH4
+  🔸 [Reactome_2022] Transcriptional Regulation By RUNX1 R-HSA-8878171
+     - P-value: 2.90e-07 | Adjusted: 4.68e-05
+     - Overlap: 5/204
+     - Hubs coinvolti: KMT2D;KMT2C;EP300;ARID1A;ARID2
 
-  🔸 [Reactome_2022] Pre-NOTCH Processing In Endoplasmic Reticulum R-HSA-1912399
-     - P-value: 7.86e-06 | Adjusted: 3.95e-04
-     - Overlap: 2/6
-     - Hubs coinvolti: NOTCH3;NOTCH4
+  🔸 [Reactome_2022] Chromatin Modifying Enzymes R-HSA-3247509
+     - P-value: 6.23e-07 | Adjusted: 5.02e-05
+     - Overlap: 5/238
+     - Hubs coinvolti: KMT2D;KMT2C;EP300;ARID1A;ARID2
+
+  🔸 [Reactome_2022] RUNX1 Interacts With Co-Factors Whose Precise Effect On RUNX1 Targets Is Not Known R-HSA-8939243
+     - P-value: 2.20e-06 | Adjusted: 1.18e-04
+     - Overlap: 3/35
+     - Hubs coinvolti: EP300;ARID1A;ARID2
 
   🔸 [Reactome_2022] Generic Transcription Pathway R-HSA-212436
-     - P-value: 1.09e-05 | Adjusted: 3.95e-04
+     - P-value: 1.09e-05 | Adjusted: 4.40e-04
      - Overlap: 7/1190
-     - Hubs coinvolti: KMT2D;NOTCH3;KMT2C;NOTCH4;SESN1;EP300;ARID2
+     - Hubs coinvolti: KMT2D;KMT2C;NOTCH4;SESN1;EP300;ARID1A;ARID2
 
-  🔸 [Reactome_2022] Pre-NOTCH Transcription And Translation R-HSA-1912408
-     - P-value: 1.26e-05 | Adjusted: 3.95e-04
-     - Overlap: 3/62
-     - Hubs coinvolti: NOTCH3;NOTCH4;EP300
-
-  🔸 [Reactome_2022] Transcriptional Regulation By RUNX1 R-HSA-8878171
-     - P-value: 1.31e-05 | Adjusted: 3.95e-04
-     - Overlap: 4/204
-     - Hubs coinvolti: KMT2D;KMT2C;EP300;ARID2
+  🔸 [Reactome_2022] RUNX1 Regulates Genes Involved In Megakaryocyte Differentiation And Platelet Function R-HSA-8936459
+     - P-value: 1.52e-05 | Adjusted: 4.89e-04
+     - Overlap: 3/66
+     - Hubs coinvolti: KMT2D;KMT2C;EP300
 

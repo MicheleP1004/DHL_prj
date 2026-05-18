@@ -1,63 +1,63 @@
 --- 🏆 TOP 5 PATHWAY/ONTOLOGY PER DATABASE PER OGNI CLUSTER (COLON - FILTERED) ---
 
 ================================================================================
-🎯 CLUSTER 2  |  DIMENSIONE: 7 geni
-🧬 TUTTI I GENI: ATRX, KMT2B, KMT2C, KMT2D, MED12, MSH3, MYOD1
+🎯 CLUSTER 0  |  DIMENSIONE: 10 geni
+🧬 TUTTI I GENI: ATRX, EP300, KMT2B, KMT2C, KMT2D, MED12, MSH3, MYOD1, PTPRD, RAD54L
 ================================================================================
 
   [GO]
   🔸 [GO_Biological_Process_2021] histone H3-K4 monomethylation (GO:0097692)
-     P-value: 1.47e-09  |  Overlap: 3/8
+     P-value: 5.03e-09  |  Overlap: 3/8
      🎯 Geni nel pathway: KMT2D;KMT2C;KMT2B
+  🔸 [GO_Biological_Process_2021] regulation of megakaryocyte differentiation (GO:0045652)
+     P-value: 9.84e-09  |  Overlap: 4/54
+     🎯 Geni nel pathway: KMT2D;KMT2C;KMT2B;EP300
+  🔸 [GO_Biological_Process_2021] regulation of myeloid cell differentiation (GO:0045637)
+     P-value: 2.53e-08  |  Overlap: 4/68
+     🎯 Geni nel pathway: KMT2D;KMT2C;KMT2B;EP300
   🔸 [GO_Molecular_Function_2021] histone methyltransferase activity (H3-K4 specific) (GO:0042800)
-     P-value: 1.47e-08  |  Overlap: 3/16
-     🎯 Geni nel pathway: KMT2D;KMT2C;KMT2B
-  🔸 [GO_Biological_Process_2021] histone H3-K4 methylation (GO:0051568)
-     P-value: 1.06e-07  |  Overlap: 3/30
+     P-value: 5.02e-08  |  Overlap: 3/16
      🎯 Geni nel pathway: KMT2D;KMT2C;KMT2B
   🔸 [GO_Biological_Process_2021] positive regulation of transcription, DNA-templated (GO:0045893)
-     P-value: 2.81e-07  |  Overlap: 6/1183
-     🎯 Geni nel pathway: MED12;KMT2D;KMT2C;MYOD1;ATRX;KMT2B
-  🔸 [GO_Molecular_Function_2021] histone-lysine N-methyltransferase activity (GO:0018024)
-     P-value: 3.70e-07  |  Overlap: 3/45
-     🎯 Geni nel pathway: KMT2D;KMT2C;KMT2B
+     P-value: 2.55e-07  |  Overlap: 7/1183
+     🎯 Geni nel pathway: MED12;KMT2D;KMT2C;MYOD1;ATRX;KMT2B;EP300
 
   [KEGG]
   🔸 [KEGG_2021_Human] Lysine degradation
-     P-value: 1.03e-06  |  Overlap: 3/63
+     P-value: 3.52e-06  |  Overlap: 3/63
      🎯 Geni nel pathway: KMT2D;KMT2C;KMT2B
-  🔸 [KEGG_2021_Human] Mismatch repair
-     P-value: 8.02e-03  |  Overlap: 1/23
-     🎯 Geni nel pathway: MSH3
-  🔸 [KEGG_2021_Human] Colorectal cancer
-     P-value: 2.97e-02  |  Overlap: 1/86
-     🎯 Geni nel pathway: MSH3
   🔸 [KEGG_2021_Human] Thyroid hormone signaling pathway
-     P-value: 4.16e-02  |  Overlap: 1/121
-     🎯 Geni nel pathway: MED12
-  🔸 [KEGG_2021_Human] Spinocerebellar ataxia
-     P-value: 4.90e-02  |  Overlap: 1/143
-     🎯 Geni nel pathway: MYOD1
+     P-value: 1.58e-03  |  Overlap: 2/121
+     🎯 Geni nel pathway: MED12;EP300
+  🔸 [KEGG_2021_Human] Mismatch repair
+     P-value: 1.14e-02  |  Overlap: 1/23
+     🎯 Geni nel pathway: MSH3
+  🔸 [KEGG_2021_Human] Homologous recombination
+     P-value: 2.03e-02  |  Overlap: 1/41
+     🎯 Geni nel pathway: RAD54L
+  🔸 [KEGG_2021_Human] Pathways in cancer
+     P-value: 2.75e-02  |  Overlap: 2/531
+     🎯 Geni nel pathway: MSH3;EP300
 
   [Reactome]
   🔸 [Reactome_Pathways_2024] Epigenetic Regulation by WDR5-containing Histone Modifying Complexes
-     P-value: 6.84e-08  |  Overlap: 4/135
-     🎯 Geni nel pathway: MED12;KMT2D;KMT2C;KMT2B
-  🔸 [Reactome_Pathways_2024] Formation of WDR5-containing Histone-Modifying Complexes
-     P-value: 3.00e-07  |  Overlap: 3/42
-     🎯 Geni nel pathway: KMT2D;KMT2C;KMT2B
-  🔸 [Reactome_Pathways_2024] PKMTs Methylate Histone Lysines
-     P-value: 3.96e-07  |  Overlap: 3/46
-     🎯 Geni nel pathway: KMT2D;KMT2C;KMT2B
+     P-value: 3.19e-09  |  Overlap: 5/135
+     🎯 Geni nel pathway: MED12;KMT2D;KMT2C;KMT2B;EP300
   🔸 [Reactome_Pathways_2024] RUNX1 Regulates Genes Involved in Megakaryocyte Differentiation and Platelet Function
-     P-value: 1.14e-06  |  Overlap: 3/65
-     🎯 Geni nel pathway: KMT2D;KMT2C;KMT2B
-  🔸 [Reactome_Pathways_2024] Epigenetic Regulation of Gene Expression
-     P-value: 1.48e-06  |  Overlap: 4/291
-     🎯 Geni nel pathway: MED12;KMT2D;KMT2C;KMT2B
+     P-value: 2.10e-08  |  Overlap: 4/65
+     🎯 Geni nel pathway: KMT2D;KMT2C;KMT2B;EP300
+  🔸 [Reactome_Pathways_2024] Epigenetic Regulation of Adipogenesis Genes by MLL3 and MLL4 Complexes
+     P-value: 1.36e-07  |  Overlap: 4/103
+     🎯 Geni nel pathway: MED12;KMT2D;KMT2C;EP300
+  🔸 [Reactome_Pathways_2024] Epigenetic Regulation of Gene Expression by MLL3 and MLL4 Complexes
+     P-value: 1.36e-07  |  Overlap: 4/103
+     🎯 Geni nel pathway: MED12;KMT2D;KMT2C;EP300
+  🔸 [Reactome_Pathways_2024] MLL4 and MLL3 Complexes Regulate Expression of PPARG Targets in Adipogenesis and Hepatic Steatosis
+     P-value: 1.36e-07  |  Overlap: 4/103
+     🎯 Geni nel pathway: MED12;KMT2D;KMT2C;EP300
 
 ================================================================================
-🎯 CLUSTER 3  |  DIMENSIONE: 8 geni
+🎯 CLUSTER 1  |  DIMENSIONE: 8 geni
 🧬 TUTTI I GENI: AMER1, CDKN1B, CTNNB1, FLCN, KRAS, MYD88, PIK3CA, STAT3
 ================================================================================
 

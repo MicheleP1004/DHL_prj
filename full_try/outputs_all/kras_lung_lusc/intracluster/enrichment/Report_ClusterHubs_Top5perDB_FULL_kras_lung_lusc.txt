@@ -1,0 +1,77 @@
+--- 🏆 TOP 5 PATHWAY PER DATABASE — HUB LOCALI PER OGNI CLUSTER (KRAS_LUNG_LUSC - FULL) ---
+
+================================================================================
+🎯 CLUSTER 0  |  TOP HUB ANALIZZATI: 2
+🧬 GENI HUB: CDKN2A, IKBKE
+================================================================================
+
+  [GO]
+  🔸 [GO_Biological_Process_2021] regulation of macrophage apoptotic process (GO:2000109)
+     - P-value: 6.00e-04 | Overlap: 1/6
+     - Geni nel pathway: CDKN2A
+
+  🔸 [GO_Biological_Process_2021] positive regulation of myeloid cell apoptotic process (GO:0033034)
+     - P-value: 8.00e-04 | Overlap: 1/8
+     - Geni nel pathway: CDKN2A
+
+  🔸 [GO_Biological_Process_2021] regulation of smooth muscle cell apoptotic process (GO:0034391)
+     - P-value: 9.00e-04 | Overlap: 1/9
+     - Geni nel pathway: CDKN2A
+
+  🔸 [GO_Biological_Process_2021] positive regulation of smooth muscle cell apoptotic process (GO:0034393)
+     - P-value: 9.00e-04 | Overlap: 1/9
+     - Geni nel pathway: CDKN2A
+
+  🔸 [GO_Biological_Process_2021] positive regulation of lipid localization (GO:1905954)
+     - P-value: 1.10e-03 | Overlap: 1/11
+     - Geni nel pathway: IKBKE
+
+  [KEGG]
+  🔸 [KEGG_2021_Human] Bladder cancer
+     - P-value: 4.10e-03 | Overlap: 1/41
+     - Geni nel pathway: CDKN2A
+
+  🔸 [KEGG_2021_Human] Cytosolic DNA-sensing pathway
+     - P-value: 6.29e-03 | Overlap: 1/63
+     - Geni nel pathway: IKBKE
+
+  🔸 [KEGG_2021_Human] RIG-I-like receptor signaling pathway
+     - P-value: 6.99e-03 | Overlap: 1/70
+     - Geni nel pathway: IKBKE
+
+  🔸 [KEGG_2021_Human] Melanoma
+     - P-value: 7.19e-03 | Overlap: 1/72
+     - Geni nel pathway: CDKN2A
+
+  🔸 [KEGG_2021_Human] Non-small cell lung cancer
+     - P-value: 7.19e-03 | Overlap: 1/72
+     - Geni nel pathway: CDKN2A
+
+  [Reactome]
+  🔸 [Reactome_2022] SUMO E3 Ligases SUMOylate Target Proteins R-HSA-3108232
+     - P-value: 7.01e-05 | Overlap: 2/168
+     - Geni nel pathway: CDKN2A;IKBKE
+
+  🔸 [Reactome_2022] SUMOylation R-HSA-2990846
+     - P-value: 7.53e-05 | Overlap: 2/174
+     - Geni nel pathway: CDKN2A;IKBKE
+
+  🔸 [Reactome_2022] RUNX3 Regulates p14-ARF R-HSA-8951936
+     - P-value: 1.00e-03 | Overlap: 1/10
+     - Geni nel pathway: CDKN2A
+
+  🔸 [Reactome_2022] SUMOylation Of Immune Response Proteins R-HSA-4755510
+     - P-value: 1.10e-03 | Overlap: 1/11
+     - Geni nel pathway: IKBKE
+
+  🔸 [Reactome_2022] TICAM1-dependent Activation Of IRF3/IRF7 R-HSA-9013973
+     - P-value: 1.20e-03 | Overlap: 1/12
+     - Geni nel pathway: IKBKE
+
+================================================================================
+🎯 CLUSTER 1  |  TOP HUB ANALIZZATI: 1
+🧬 GENI HUB: PIK3C3
+================================================================================
+
+[-] Troppi pochi hub per un enrichment (dopo filtraggio).
+

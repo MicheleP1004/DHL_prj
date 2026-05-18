@@ -1,0 +1,4 @@
+Gene	Total_Overlapping_Degree	Degree_MUT	Degree_CNA	Degree_SV	Participation_Coefficient	Betweenness_Centrality	Closeness_Centrality	Eigenvector_Centrality
+STK11	3	2	1	0	0.4444	0.0	1.0	0.6033
+KRAS	2	2	0	0	0.0	0.0	1.0	0.564
+KEAP1	3	2	1	0	0.4444	0.0	1.0	0.564

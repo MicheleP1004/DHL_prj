@@ -1,85 +1,85 @@
 --- 🏆 TOP 5 PATHWAY PER DATABASE — HUB GLOBALI DELLA RETE (PANCREAS - FULL) ---
-Geni Hub analizzati (12): GNAS, TSC2, PIK3CA, KRAS, MEN1, DAXX, RNF43, KMT2D, ATM, CDKN2A, BRCA2, SMAD4
+Geni Hub analizzati (12): TP53, CDKN2A, ARID1A, KMT2C, SMAD4, PREX2, EP300, SMARCA4, BRCA1, ATM, ABL1, ANKRD11
 ================================================================================
 
 
   [GO]
-  🔸 [GO_Biological_Process_2021] anoikis (GO:0043276)
-     - P-value: 1.19e-05 | Adjusted: 3.05e-03
-     - Overlap: 2/9
-     - Hubs coinvolti: PIK3CA;TSC2
+  🔸 [GO_Biological_Process_2021] intrinsic apoptotic signaling pathway in response to DNA damage (GO:0008630)
+     - P-value: 6.89e-11 | Adjusted: 3.77e-08
+     - Overlap: 5/51
+     - Hubs coinvolti: ABL1;EP300;ATM;BRCA1;TP53
+
+  🔸 [GO_Biological_Process_2021] positive regulation of transcription, DNA-templated (GO:0045893)
+     - P-value: 1.61e-09 | Adjusted: 4.40e-07
+     - Overlap: 9/1183
+     - Hubs coinvolti: SMAD4;KMT2C;ABL1;EP300;ATM;BRCA1;ARID1A;TP53;SMARCA4
+
+  🔸 [GO_Biological_Process_2021] positive regulation of transcription by RNA polymerase II (GO:0045944)
+     - P-value: 7.37e-09 | Adjusted: 1.17e-06
+     - Overlap: 8/908
+     - Hubs coinvolti: SMAD4;KMT2C;ABL1;EP300;ATM;BRCA1;TP53;SMARCA4
 
   🔸 [GO_Biological_Process_2021] regulation of cell cycle (GO:0051726)
-     - P-value: 2.12e-05 | Adjusted: 3.05e-03
-     - Overlap: 4/296
-     - Hubs coinvolti: CDKN2A;TSC2;ATM;MEN1
+     - P-value: 8.57e-09 | Adjusted: 1.17e-06
+     - Overlap: 6/296
+     - Hubs coinvolti: CDKN2A;ABL1;EP300;ATM;BRCA1;TP53
 
-  🔸 [GO_Biological_Process_2021] replicative senescence (GO:0090399)
-     - P-value: 2.17e-05 | Adjusted: 3.05e-03
-     - Overlap: 2/12
-     - Hubs coinvolti: CDKN2A;ATM
-
-  🔸 [GO_Biological_Process_2021] regulation of cell population proliferation (GO:0042127)
-     - P-value: 5.08e-05 | Adjusted: 4.23e-03
-     - Overlap: 5/764
-     - Hubs coinvolti: KMT2D;CDKN2A;TSC2;KRAS;MEN1
-
-  🔸 [GO_Biological_Process_2021] negative regulation of cyclin-dependent protein serine/threonine kinase activity (GO:0045736)
-     - P-value: 6.23e-05 | Adjusted: 4.23e-03
-     - Overlap: 2/20
-     - Hubs coinvolti: CDKN2A;MEN1
+  🔸 [GO_Biological_Process_2021] regulation of transcription by RNA polymerase II (GO:0006357)
+     - P-value: 1.40e-08 | Adjusted: 1.53e-06
+     - Overlap: 10/2206
+     - Hubs coinvolti: SMAD4;CDKN2A;KMT2C;ABL1;EP300;ATM;BRCA1;ARID1A;TP53;SMARCA4
 
 
   [KEGG]
-  🔸 [KEGG_2021_Human] Pancreatic cancer
-     - P-value: 5.38e-10 | Adjusted: 8.33e-08
-     - Overlap: 5/76
-     - Hubs coinvolti: SMAD4;PIK3CA;CDKN2A;KRAS;BRCA2
+  🔸 [KEGG_2021_Human] Cell cycle
+     - P-value: 4.50e-11 | Adjusted: 3.65e-09
+     - Overlap: 6/124
+     - Hubs coinvolti: SMAD4;CDKN2A;ABL1;EP300;ATM;TP53
 
-  🔸 [KEGG_2021_Human] Cellular senescence
-     - P-value: 2.05e-08 | Adjusted: 1.59e-06
-     - Overlap: 5/156
-     - Hubs coinvolti: PIK3CA;CDKN2A;TSC2;KRAS;ATM
+  🔸 [KEGG_2021_Human] MicroRNAs in cancer
+     - P-value: 1.13e-08 | Adjusted: 4.57e-07
+     - Overlap: 6/310
+     - Hubs coinvolti: CDKN2A;ABL1;EP300;ATM;BRCA1;TP53
+
+  🔸 [KEGG_2021_Human] Hepatocellular carcinoma
+     - P-value: 2.97e-08 | Adjusted: 8.03e-07
+     - Overlap: 5/168
+     - Hubs coinvolti: SMAD4;CDKN2A;ARID1A;TP53;SMARCA4
 
   🔸 [KEGG_2021_Human] Chronic myeloid leukemia
-     - P-value: 9.31e-08 | Adjusted: 3.97e-06
+     - P-value: 9.31e-08 | Adjusted: 1.81e-06
      - Overlap: 4/76
-     - Hubs coinvolti: SMAD4;PIK3CA;CDKN2A;KRAS
+     - Hubs coinvolti: SMAD4;CDKN2A;ABL1;TP53
 
   🔸 [KEGG_2021_Human] Human T-cell leukemia virus 1 infection
-     - P-value: 1.12e-07 | Adjusted: 3.97e-06
+     - P-value: 1.12e-07 | Adjusted: 1.81e-06
      - Overlap: 5/219
-     - Hubs coinvolti: SMAD4;PIK3CA;CDKN2A;KRAS;ATM
-
-  🔸 [KEGG_2021_Human] Human cytomegalovirus infection
-     - P-value: 1.28e-07 | Adjusted: 3.97e-06
-     - Overlap: 5/225
-     - Hubs coinvolti: PIK3CA;CDKN2A;GNAS;TSC2;KRAS
+     - Hubs coinvolti: SMAD4;CDKN2A;EP300;ATM;TP53
 
 
   [Reactome]
-  🔸 [Reactome_2022] Disease R-HSA-1643685
-     - P-value: 4.74e-08 | Adjusted: 1.34e-05
-     - Overlap: 9/1736
-     - Hubs coinvolti: RNF43;DAXX;SMAD4;PIK3CA;CDKN2A;GNAS;TSC2;ATM;BRCA2
-
-  🔸 [Reactome_2022] Regulation Of TP53 Degradation R-HSA-6804757
-     - P-value: 1.17e-06 | Adjusted: 1.11e-04
-     - Overlap: 3/36
-     - Hubs coinvolti: DAXX;CDKN2A;ATM
-
-  🔸 [Reactome_2022] Regulation Of TP53 Expression And Degradation R-HSA-6806003
-     - P-value: 1.27e-06 | Adjusted: 1.11e-04
-     - Overlap: 3/37
-     - Hubs coinvolti: DAXX;CDKN2A;ATM
-
   🔸 [Reactome_2022] Generic Transcription Pathway R-HSA-212436
-     - P-value: 1.58e-06 | Adjusted: 1.11e-04
-     - Overlap: 7/1190
-     - Hubs coinvolti: KMT2D;DAXX;SMAD4;CDKN2A;TSC2;ATM;MEN1
+     - P-value: 3.17e-11 | Adjusted: 7.99e-09
+     - Overlap: 10/1190
+     - Hubs coinvolti: SMAD4;CDKN2A;KMT2C;ABL1;EP300;ATM;BRCA1;ARID1A;TP53;SMARCA4
 
   🔸 [Reactome_2022] RNA Polymerase II Transcription R-HSA-73857
-     - P-value: 3.04e-06 | Adjusted: 1.72e-04
-     - Overlap: 7/1312
-     - Hubs coinvolti: KMT2D;DAXX;SMAD4;CDKN2A;TSC2;ATM;MEN1
+     - P-value: 8.35e-11 | Adjusted: 1.05e-08
+     - Overlap: 10/1312
+     - Hubs coinvolti: SMAD4;CDKN2A;KMT2C;ABL1;EP300;ATM;BRCA1;ARID1A;TP53;SMARCA4
+
+  🔸 [Reactome_2022] Gene Expression (Transcription) R-HSA-74160
+     - P-value: 2.23e-10 | Adjusted: 1.87e-08
+     - Overlap: 10/1449
+     - Hubs coinvolti: SMAD4;CDKN2A;KMT2C;ABL1;EP300;ATM;BRCA1;ARID1A;TP53;SMARCA4
+
+  🔸 [Reactome_2022] Regulation Of TP53 Activity R-HSA-5633007
+     - P-value: 2.12e-08 | Adjusted: 1.33e-06
+     - Overlap: 5/157
+     - Hubs coinvolti: CDKN2A;EP300;ATM;BRCA1;TP53
+
+  🔸 [Reactome_2022] Recruitment And ATM-mediated Phosphorylation Of Repair And Signal Proteins At DNA Double Strand Breaks R-HSA-5693565
+     - P-value: 3.56e-08 | Adjusted: 1.60e-06
+     - Overlap: 4/60
+     - Hubs coinvolti: ABL1;ATM;BRCA1;TP53
 

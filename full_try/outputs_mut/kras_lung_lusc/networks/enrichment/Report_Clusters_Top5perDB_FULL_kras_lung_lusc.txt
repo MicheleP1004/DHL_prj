@@ -1,0 +1,169 @@
+--- 🏆 TOP 5 PATHWAY/ONTOLOGY PER DATABASE PER OGNI CLUSTER (KRAS_LUNG_LUSC - FULL) ---
+
+================================================================================
+🎯 CLUSTER 0  |  DIMENSIONE: 8 geni
+🧬 TUTTI I GENI: APC, FGFR2, KEAP1, PTPRD, SMARCA4, SOX17, STAG2, STK11
+================================================================================
+
+  [GO]
+  🔸 [GO_Biological_Process_2021] regulation of canonical Wnt signaling pathway (GO:0060828)
+     P-value: 1.68e-06  |  Overlap: 4/253
+     🎯 Geni nel pathway: STK11;APC;SOX17;FGFR2
+  🔸 [GO_Biological_Process_2021] negative regulation of cell growth (GO:0030308)
+     P-value: 1.34e-05  |  Overlap: 3/126
+     🎯 Geni nel pathway: STK11;SOX17;SMARCA4
+  🔸 [GO_Biological_Process_2021] negative regulation of growth (GO:0045926)
+     P-value: 1.34e-05  |  Overlap: 3/126
+     🎯 Geni nel pathway: STK11;SOX17;SMARCA4
+  🔸 [GO_Biological_Process_2021] digestive tract morphogenesis (GO:0048546)
+     P-value: 1.68e-05  |  Overlap: 2/16
+     🎯 Geni nel pathway: SOX17;FGFR2
+  🔸 [GO_Biological_Process_2021] negative regulation of canonical Wnt signaling pathway (GO:0090090)
+     P-value: 3.00e-05  |  Overlap: 3/165
+     🎯 Geni nel pathway: STK11;APC;SOX17
+
+  [KEGG]
+  🔸 [KEGG_2021_Human] Hepatocellular carcinoma
+     P-value: 3.16e-05  |  Overlap: 3/168
+     🎯 Geni nel pathway: APC;KEAP1;SMARCA4
+  🔸 [KEGG_2021_Human] Pathways in cancer
+     P-value: 9.43e-04  |  Overlap: 3/531
+     🎯 Geni nel pathway: APC;KEAP1;FGFR2
+  🔸 [KEGG_2021_Human] Signaling pathways regulating pluripotency of stem cells
+     P-value: 1.38e-03  |  Overlap: 2/143
+     🎯 Geni nel pathway: APC;FGFR2
+  🔸 [KEGG_2021_Human] Gastric cancer
+     P-value: 1.50e-03  |  Overlap: 2/149
+     🎯 Geni nel pathway: APC;FGFR2
+  🔸 [KEGG_2021_Human] Wnt signaling pathway
+     P-value: 1.86e-03  |  Overlap: 2/166
+     🎯 Geni nel pathway: APC;SOX17
+
+  [Reactome]
+  🔸 [Reactome_Pathways_2024] TCF Dependent Signaling in Response to WNT
+     P-value: 4.49e-05  |  Overlap: 3/189
+     🎯 Geni nel pathway: APC;SOX17;SMARCA4
+  🔸 [Reactome_Pathways_2024] Signal Transduction
+     P-value: 1.09e-04  |  Overlap: 6/2613
+     🎯 Geni nel pathway: STK11;STAG2;APC;SOX17;FGFR2;SMARCA4
+  🔸 [Reactome_Pathways_2024] Deactivation of the Beta-Catenin Transactivating Complex
+     P-value: 1.20e-04  |  Overlap: 2/42
+     🎯 Geni nel pathway: APC;SOX17
+  🔸 [Reactome_Pathways_2024] Signaling by WNT
+     P-value: 1.55e-04  |  Overlap: 3/287
+     🎯 Geni nel pathway: APC;SOX17;SMARCA4
+  🔸 [Reactome_Pathways_2024] Reproduction
+     P-value: 1.09e-03  |  Overlap: 2/127
+     🎯 Geni nel pathway: STAG2;SOX17
+
+================================================================================
+🎯 CLUSTER 1  |  DIMENSIONE: 7 geni
+🧬 TUTTI I GENI: ARID1A, INPP4B, KDM5A, NTRK3, PGR, PIK3CG, PTPRT
+================================================================================
+
+  [GO]
+  🔸 [GO_Biological_Process_2021] intracellular steroid hormone receptor signaling pathway (GO:0030518)
+     P-value: 9.86e-05  |  Overlap: 2/44
+     🎯 Geni nel pathway: PGR;ARID1A
+  🔸 [GO_Biological_Process_2021] positive regulation of phosphatidylinositol 3-kinase signaling (GO:0014068)
+     P-value: 3.03e-04  |  Overlap: 2/77
+     🎯 Geni nel pathway: NTRK3;PIK3CG
+  🔸 [GO_Biological_Process_2021] chromatin remodeling (GO:0006338)
+     P-value: 5.42e-04  |  Overlap: 2/103
+     🎯 Geni nel pathway: KDM5A;ARID1A
+  🔸 [GO_Biological_Process_2021] regulation of phosphatidylinositol 3-kinase signaling (GO:0014066)
+     P-value: 5.74e-04  |  Overlap: 2/106
+     🎯 Geni nel pathway: NTRK3;PIK3CG
+  🔸 [GO_Biological_Process_2021] phosphatidylinositol metabolic process (GO:0046488)
+     P-value: 6.41e-04  |  Overlap: 2/112
+     🎯 Geni nel pathway: INPP4B;PIK3CG
+
+  [KEGG]
+  🔸 [KEGG_2021_Human] Inositol phosphate metabolism
+     P-value: 2.73e-04  |  Overlap: 2/73
+     🎯 Geni nel pathway: INPP4B;PIK3CG
+  🔸 [KEGG_2021_Human] Central carbon metabolism in cancer
+     P-value: 2.42e-02  |  Overlap: 1/70
+     🎯 Geni nel pathway: NTRK3
+  🔸 [KEGG_2021_Human] Phosphatidylinositol signaling system
+     P-value: 3.35e-02  |  Overlap: 1/97
+     🎯 Geni nel pathway: INPP4B
+  🔸 [KEGG_2021_Human] Progesterone-mediated oocyte maturation
+     P-value: 3.45e-02  |  Overlap: 1/100
+     🎯 Geni nel pathway: PGR
+  🔸 [KEGG_2021_Human] Toxoplasmosis
+     P-value: 3.86e-02  |  Overlap: 1/112
+     🎯 Geni nel pathway: PIK3CG
+
+  [Reactome]
+  🔸 [Reactome_Pathways_2024] Synthesis of PIPs at the Plasma Membrane
+     P-value: 1.43e-04  |  Overlap: 2/53
+     🎯 Geni nel pathway: INPP4B;PIK3CG
+  🔸 [Reactome_Pathways_2024] PI Metabolism
+     P-value: 3.61e-04  |  Overlap: 2/84
+     🎯 Geni nel pathway: INPP4B;PIK3CG
+  🔸 [Reactome_Pathways_2024] Activated NTRK3 Signals Through PI3K
+     P-value: 2.10e-03  |  Overlap: 1/6
+     🎯 Geni nel pathway: NTRK3
+  🔸 [Reactome_Pathways_2024] Phospholipid Metabolism
+     P-value: 2.25e-03  |  Overlap: 2/211
+     🎯 Geni nel pathway: INPP4B;PIK3CG
+  🔸 [Reactome_Pathways_2024] Activated NTRK3 Signals Through RAS
+     P-value: 2.80e-03  |  Overlap: 1/8
+     🎯 Geni nel pathway: NTRK3
+
+================================================================================
+🎯 CLUSTER 2  |  DIMENSIONE: 6 geni
+🧬 TUTTI I GENI: ERBB4, IRS1, KMT2D, NOTCH4, RET, TERT
+================================================================================
+
+  [GO]
+  🔸 [GO_Biological_Process_2021] positive regulation of cell population proliferation (GO:0008284)
+     P-value: 4.50e-06  |  Overlap: 4/474
+     🎯 Geni nel pathway: KMT2D;TERT;ERBB4;IRS1
+  🔸 [GO_Biological_Process_2021] positive regulation of protein kinase B signaling (GO:0051897)
+     P-value: 1.01e-05  |  Overlap: 3/161
+     🎯 Geni nel pathway: RET;ERBB4;IRS1
+  🔸 [GO_Biological_Process_2021] mammary gland development (GO:0030879)
+     P-value: 2.06e-05  |  Overlap: 2/24
+     🎯 Geni nel pathway: ERBB4;NOTCH4
+  🔸 [GO_Biological_Process_2021] regulation of protein kinase B signaling (GO:0051896)
+     P-value: 2.14e-05  |  Overlap: 3/207
+     🎯 Geni nel pathway: RET;ERBB4;IRS1
+  🔸 [GO_Biological_Process_2021] regulation of extrinsic apoptotic signaling pathway in absence of ligand (GO:2001239)
+     P-value: 2.83e-05  |  Overlap: 2/28
+     🎯 Geni nel pathway: RET;TERT
+
+  [KEGG]
+  🔸 [KEGG_2021_Human] Pathways in cancer
+     P-value: 3.51e-04  |  Overlap: 3/531
+     🎯 Geni nel pathway: RET;TERT;NOTCH4
+  🔸 [KEGG_2021_Human] Calcium signaling pathway
+     P-value: 2.08e-03  |  Overlap: 2/240
+     🎯 Geni nel pathway: RET;ERBB4
+  🔸 [KEGG_2021_Human] MicroRNAs in cancer
+     P-value: 3.45e-03  |  Overlap: 2/310
+     🎯 Geni nel pathway: IRS1;NOTCH4
+  🔸 [KEGG_2021_Human] Human papillomavirus infection
+     P-value: 3.92e-03  |  Overlap: 2/331
+     🎯 Geni nel pathway: TERT;NOTCH4
+  🔸 [KEGG_2021_Human] PI3K-Akt signaling pathway
+     P-value: 4.47e-03  |  Overlap: 2/354
+     🎯 Geni nel pathway: ERBB4;IRS1
+
+  [Reactome]
+  🔸 [Reactome_Pathways_2024] Signal Transduction
+     P-value: 4.95e-06  |  Overlap: 6/2613
+     🎯 Geni nel pathway: RET;KMT2D;TERT;ERBB4;IRS1;NOTCH4
+  🔸 [Reactome_Pathways_2024] RAF MAP Kinase Cascade
+     P-value: 4.47e-05  |  Overlap: 3/265
+     🎯 Geni nel pathway: RET;ERBB4;IRS1
+  🔸 [Reactome_Pathways_2024] MAPK1 MAPK3 Signaling
+     P-value: 4.77e-05  |  Overlap: 3/271
+     🎯 Geni nel pathway: RET;ERBB4;IRS1
+  🔸 [Reactome_Pathways_2024] MAPK Family Signaling Cascades
+     P-value: 7.40e-05  |  Overlap: 3/314
+     🎯 Geni nel pathway: RET;ERBB4;IRS1
+  🔸 [Reactome_Pathways_2024] Formation of the Beta-Catenin TCF Transactivating Complex
+     P-value: 1.32e-04  |  Overlap: 2/60
+     🎯 Geni nel pathway: KMT2D;TERT

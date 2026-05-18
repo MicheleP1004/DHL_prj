@@ -1,85 +1,85 @@
 --- 🏆 TOP 5 PATHWAY PER DATABASE — HUB GLOBALI DELLA RETE (KRAS_PANCREAS - FULL) ---
-Geni Hub analizzati (13): BRCA2, EP300, CCND2, RECQL4, PIK3C3, RICTOR, TERT, DDR2, FGF3, ERBB3, GLI1, HIST1H3D, WHSC1L1
+Geni Hub analizzati (13): BRCA2, EP300, SMAD4, CCND2, RECQL4, RICTOR, TERT, IL7R, HIST1H3D, FGF3, ERBB3, GLI1, WHSC1L1
 ================================================================================
 
 
   [GO]
   🔸 [GO_Biological_Process_2021] positive regulation of cell population proliferation (GO:0008284)
-     - P-value: 2.56e-07 | Adjusted: 8.49e-05
+     - P-value: 2.56e-07 | Adjusted: 9.03e-05
      - Overlap: 6/474
-     - Hubs coinvolti: CCND2;TERT;ERBB3;GLI1;FGF3;DDR2
+     - Hubs coinvolti: CCND2;TERT;ERBB3;GLI1;IL7R;FGF3
 
   🔸 [GO_Biological_Process_2021] establishment of protein localization to telomere (GO:0070200)
-     - P-value: 3.90e-06 | Adjusted: 6.47e-04
+     - P-value: 3.90e-06 | Adjusted: 6.88e-04
      - Overlap: 2/5
      - Hubs coinvolti: TERT;BRCA2
 
-  🔸 [GO_Biological_Process_2021] positive regulation of phosphorylation (GO:0042327)
-     - P-value: 1.63e-05 | Adjusted: 1.81e-03
-     - Overlap: 4/253
-     - Hubs coinvolti: CCND2;ERBB3;FGF3;DDR2
+  🔸 [GO_Biological_Process_2021] positive regulation of signal transduction (GO:0009967)
+     - P-value: 1.61e-05 | Adjusted: 1.89e-03
+     - Overlap: 4/252
+     - Hubs coinvolti: TERT;EP300;GLI1;IL7R
 
   🔸 [GO_Biological_Process_2021] establishment of protein localization to chromosome (GO:0070199)
-     - P-value: 3.03e-05 | Adjusted: 2.51e-03
+     - P-value: 3.03e-05 | Adjusted: 2.16e-03
      - Overlap: 2/13
      - Hubs coinvolti: TERT;BRCA2
 
-  🔸 [GO_Biological_Process_2021] protein localization to chromosome, telomeric region (GO:0070198)
-     - P-value: 4.08e-05 | Adjusted: 2.71e-03
-     - Overlap: 2/15
-     - Hubs coinvolti: TERT;BRCA2
+  🔸 [GO_Biological_Process_2021] positive regulation of cellular process (GO:0048522)
+     - P-value: 3.06e-05 | Adjusted: 2.16e-03
+     - Overlap: 5/625
+     - Hubs coinvolti: CCND2;ERBB3;GLI1;IL7R;FGF3
 
 
   [KEGG]
   🔸 [KEGG_2021_Human] Pathways in cancer
-     - P-value: 4.99e-07 | Adjusted: 3.19e-05
-     - Overlap: 6/531
-     - Hubs coinvolti: CCND2;TERT;EP300;BRCA2;GLI1;FGF3
+     - P-value: 2.68e-10 | Adjusted: 1.66e-08
+     - Overlap: 8/531
+     - Hubs coinvolti: SMAD4;CCND2;TERT;EP300;BRCA2;GLI1;IL7R;FGF3
+
+  🔸 [KEGG_2021_Human] FoxO signaling pathway
+     - P-value: 1.20e-06 | Adjusted: 3.72e-05
+     - Overlap: 4/131
+     - Hubs coinvolti: SMAD4;CCND2;EP300;IL7R
 
   🔸 [KEGG_2021_Human] Human T-cell leukemia virus 1 infection
-     - P-value: 3.42e-04 | Adjusted: 1.09e-02
-     - Overlap: 3/219
-     - Hubs coinvolti: CCND2;TERT;EP300
+     - P-value: 9.26e-06 | Adjusted: 1.91e-04
+     - Overlap: 4/219
+     - Hubs coinvolti: SMAD4;CCND2;TERT;EP300
 
-  🔸 [KEGG_2021_Human] Hedgehog signaling pathway
-     - P-value: 5.89e-04 | Adjusted: 1.26e-02
-     - Overlap: 2/56
-     - Hubs coinvolti: CCND2;GLI1
+  🔸 [KEGG_2021_Human] PI3K-Akt signaling pathway
+     - P-value: 6.08e-05 | Adjusted: 7.88e-04
+     - Overlap: 4/354
+     - Hubs coinvolti: CCND2;ERBB3;IL7R;FGF3
 
-  🔸 [KEGG_2021_Human] MicroRNAs in cancer
-     - P-value: 9.40e-04 | Adjusted: 1.45e-02
-     - Overlap: 3/310
-     - Hubs coinvolti: CCND2;ERBB3;EP300
-
-  🔸 [KEGG_2021_Human] Human papillomavirus infection
-     - P-value: 1.14e-03 | Adjusted: 1.45e-02
-     - Overlap: 3/331
-     - Hubs coinvolti: CCND2;TERT;EP300
+  🔸 [KEGG_2021_Human] Cell cycle
+     - P-value: 6.36e-05 | Adjusted: 7.88e-04
+     - Overlap: 3/124
+     - Hubs coinvolti: SMAD4;CCND2;EP300
 
 
   [Reactome]
-  🔸 [Reactome_2022] Signaling By Receptor Tyrosine Kinases R-HSA-9006934
-     - P-value: 1.00e-05 | Adjusted: 2.34e-03
-     - Overlap: 5/496
-     - Hubs coinvolti: ERBB3;EP300;PIK3C3;RICTOR;FGF3
+  🔸 [Reactome_2022] Diseases Of Signal Transduction By Growth Factor Receptors And Second Messengers R-HSA-5663202
+     - P-value: 4.68e-06 | Adjusted: 1.08e-03
+     - Overlap: 5/424
+     - Hubs coinvolti: SMAD4;ERBB3;EP300;RICTOR;FGF3
 
   🔸 [Reactome_2022] PI3K/AKT Signaling In Cancer R-HSA-2219528
-     - P-value: 3.87e-05 | Adjusted: 3.06e-03
+     - P-value: 3.87e-05 | Adjusted: 3.03e-03
      - Overlap: 3/105
      - Hubs coinvolti: ERBB3;RICTOR;FGF3
 
   🔸 [Reactome_2022] Disease R-HSA-1643685
-     - P-value: 3.94e-05 | Adjusted: 3.06e-03
+     - P-value: 3.94e-05 | Adjusted: 3.03e-03
      - Overlap: 7/1736
-     - Hubs coinvolti: CCND2;ERBB3;EP300;PIK3C3;RICTOR;BRCA2;FGF3
+     - Hubs coinvolti: SMAD4;CCND2;ERBB3;EP300;RICTOR;BRCA2;FGF3
 
-  🔸 [Reactome_2022] Diseases Of Signal Transduction By Growth Factor Receptors And Second Messengers R-HSA-5663202
-     - P-value: 1.22e-04 | Adjusted: 7.13e-03
-     - Overlap: 4/424
+  🔸 [Reactome_2022] Signaling By Receptor Tyrosine Kinases R-HSA-9006934
+     - P-value: 2.24e-04 | Adjusted: 1.12e-02
+     - Overlap: 4/496
      - Hubs coinvolti: ERBB3;EP300;RICTOR;FGF3
 
-  🔸 [Reactome_2022] PI3K Cascade R-HSA-109704
-     - P-value: 3.63e-04 | Adjusted: 1.12e-02
-     - Overlap: 2/44
-     - Hubs coinvolti: PIK3C3;FGF3
+  🔸 [Reactome_2022] SMAD2/SMAD3:SMAD4 Heterotrimer Regulates Transcription R-HSA-2173796
+     - P-value: 2.43e-04 | Adjusted: 1.12e-02
+     - Overlap: 2/36
+     - Hubs coinvolti: SMAD4;EP300
 

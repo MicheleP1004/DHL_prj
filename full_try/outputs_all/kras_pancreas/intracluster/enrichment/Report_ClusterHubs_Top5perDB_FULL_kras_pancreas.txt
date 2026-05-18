@@ -1,59 +1,7 @@
 --- 🏆 TOP 5 PATHWAY PER DATABASE — HUB LOCALI PER OGNI CLUSTER (KRAS_PANCREAS - FULL) ---
 
 ================================================================================
-🎯 CLUSTER 0  |  TOP HUB ANALIZZATI: 2
-🧬 GENI HUB: KMT2B, AXL
-================================================================================
-
-  [GO]
-  🔸 [GO_Biological_Process_2021] regulation of natural killer cell differentiation (GO:0032823)
-     - P-value: 5.00e-04 | Overlap: 1/5
-     - Geni nel pathway: AXL
-
-  🔸 [GO_Biological_Process_2021] negative regulation of dendritic cell apoptotic process (GO:2000669)
-     - P-value: 7.00e-04 | Overlap: 1/7
-     - Geni nel pathway: AXL
-
-  🔸 [GO_Biological_Process_2021] positive regulation of pinocytosis (GO:0048549)
-     - P-value: 7.00e-04 | Overlap: 1/7
-     - Geni nel pathway: AXL
-
-  🔸 [GO_Biological_Process_2021] histone H3-K4 dimethylation (GO:0044648)
-     - P-value: 7.00e-04 | Overlap: 1/7
-     - Geni nel pathway: KMT2B
-
-  🔸 [GO_Biological_Process_2021] natural killer cell differentiation (GO:0001779)
-     - P-value: 8.00e-04 | Overlap: 1/8
-     - Geni nel pathway: AXL
-
-  [KEGG]
-  🔸 [KEGG_2021_Human] Lysine degradation
-     - P-value: 6.29e-03 | Overlap: 1/63
-     - Geni nel pathway: KMT2B
-
-  [Reactome]
-  🔸 [Reactome_2022] PKMTs Methylate Histone Lysines R-HSA-3214841
-     - P-value: 4.69e-03 | Overlap: 1/47
-     - Geni nel pathway: KMT2B
-
-  🔸 [Reactome_2022] RUNX1 Regulates Genes Involved In Megakaryocyte Differentiation And Platelet Function R-HSA-8936459
-     - P-value: 6.59e-03 | Overlap: 1/66
-     - Geni nel pathway: KMT2B
-
-  🔸 [Reactome_2022] VEGFA-VEGFR2 Pathway R-HSA-4420097
-     - P-value: 9.28e-03 | Overlap: 1/93
-     - Geni nel pathway: AXL
-
-  🔸 [Reactome_2022] Signaling By VEGF R-HSA-194138
-     - P-value: 1.02e-02 | Overlap: 1/102
-     - Geni nel pathway: AXL
-
-  🔸 [Reactome_2022] Transcriptional Regulation By RUNX1 R-HSA-8878171
-     - P-value: 2.03e-02 | Overlap: 1/204
-     - Geni nel pathway: KMT2B
-
-================================================================================
-🎯 CLUSTER 1  |  TOP HUB ANALIZZATI: 3
+🎯 CLUSTER 0  |  TOP HUB ANALIZZATI: 3
 🧬 GENI HUB: BRCA2, EP300, DOT1L
 ================================================================================
 
@@ -121,22 +69,14 @@
      - Geni nel pathway: EP300
 
 ================================================================================
-🎯 CLUSTER 2  |  TOP HUB ANALIZZATI: 2
-🧬 GENI HUB: CDKN2A, SMAD4
+🎯 CLUSTER 1  |  TOP HUB ANALIZZATI: 2
+🧬 GENI HUB: SMAD4, PIK3C3
 ================================================================================
 
   [GO]
-  🔸 [GO_Biological_Process_2021] negative regulation of growth (GO:0045926)
-     - P-value: 3.94e-05 | Overlap: 2/126
-     - Geni nel pathway: SMAD4;CDKN2A
-
-  🔸 [GO_Biological_Process_2021] negative regulation of cell growth (GO:0030308)
-     - P-value: 3.94e-05 | Overlap: 2/126
-     - Geni nel pathway: SMAD4;CDKN2A
-
-  🔸 [GO_Biological_Process_2021] regulation of cell growth (GO:0001558)
-     - P-value: 1.17e-04 | Overlap: 2/217
-     - Geni nel pathway: SMAD4;CDKN2A
+  🔸 [GO_Biological_Process_2021] cardiac endothelial cell differentiation (GO:0003348)
+     - P-value: 5.00e-04 | Overlap: 1/5
+     - Geni nel pathway: SMAD4
 
   🔸 [GO_Biological_Process_2021] positive regulation of histone H3-K9 acetylation (GO:2000617)
      - P-value: 5.00e-04 | Overlap: 1/5
@@ -146,41 +86,45 @@
      - P-value: 5.00e-04 | Overlap: 1/5
      - Geni nel pathway: SMAD4
 
+  🔸 [GO_Biological_Process_2021] endocardial cell differentiation (GO:0060956)
+     - P-value: 5.00e-04 | Overlap: 1/5
+     - Geni nel pathway: SMAD4
+
+  🔸 [GO_Biological_Process_2021] negative regulation of cardiac muscle cell differentiation (GO:2000726)
+     - P-value: 6.00e-04 | Overlap: 1/6
+     - Geni nel pathway: SMAD4
+
   [KEGG]
+  🔸 [KEGG_2021_Human] Apelin signaling pathway
+     - P-value: 4.66e-05 | Overlap: 2/137
+     - Geni nel pathway: SMAD4;PIK3C3
+
+  🔸 [KEGG_2021_Human] Adherens junction
+     - P-value: 7.09e-03 | Overlap: 1/71
+     - Geni nel pathway: SMAD4
+
+  🔸 [KEGG_2021_Human] Inositol phosphate metabolism
+     - P-value: 7.29e-03 | Overlap: 1/73
+     - Geni nel pathway: PIK3C3
+
   🔸 [KEGG_2021_Human] Pancreatic cancer
-     - P-value: 1.42e-05 | Overlap: 2/76
-     - Geni nel pathway: SMAD4;CDKN2A
+     - P-value: 7.59e-03 | Overlap: 1/76
+     - Geni nel pathway: SMAD4
 
   🔸 [KEGG_2021_Human] Chronic myeloid leukemia
-     - P-value: 1.42e-05 | Overlap: 2/76
-     - Geni nel pathway: SMAD4;CDKN2A
-
-  🔸 [KEGG_2021_Human] Cell cycle
-     - P-value: 3.81e-05 | Overlap: 2/124
-     - Geni nel pathway: SMAD4;CDKN2A
-
-  🔸 [KEGG_2021_Human] Hepatocellular carcinoma
-     - P-value: 7.01e-05 | Overlap: 2/168
-     - Geni nel pathway: SMAD4;CDKN2A
-
-  🔸 [KEGG_2021_Human] Human T-cell leukemia virus 1 infection
-     - P-value: 1.19e-04 | Overlap: 2/219
-     - Geni nel pathway: SMAD4;CDKN2A
+     - P-value: 7.59e-03 | Overlap: 1/76
+     - Geni nel pathway: SMAD4
 
   [Reactome]
-  🔸 [Reactome_2022] Transcriptional Regulation By RUNX3 R-HSA-8878159
-     - P-value: 2.23e-05 | Overlap: 2/95
-     - Geni nel pathway: SMAD4;CDKN2A
-
   🔸 [Reactome_2022] RUNX3 Regulates BCL2L11 (BIM) Transcription R-HSA-8952158
      - P-value: 5.00e-04 | Overlap: 1/5
      - Geni nel pathway: SMAD4
 
-  🔸 [Reactome_2022] Loss Of Function Of SMAD2/3 In Cancer R-HSA-3304349
+  🔸 [Reactome_2022] RUNX3 Regulates CDKN1A Transcription R-HSA-8941855
      - P-value: 7.00e-04 | Overlap: 1/7
      - Geni nel pathway: SMAD4
 
-  🔸 [Reactome_2022] RUNX3 Regulates CDKN1A Transcription R-HSA-8941855
+  🔸 [Reactome_2022] Loss Of Function Of SMAD2/3 In Cancer R-HSA-3304349
      - P-value: 7.00e-04 | Overlap: 1/7
      - Geni nel pathway: SMAD4
 
@@ -188,8 +132,12 @@
      - P-value: 8.00e-04 | Overlap: 1/8
      - Geni nel pathway: SMAD4
 
+  🔸 [Reactome_2022] Synthesis Of PIPs At Late Endosome Membrane R-HSA-1660517
+     - P-value: 1.10e-03 | Overlap: 1/11
+     - Geni nel pathway: PIK3C3
+
 ================================================================================
-🎯 CLUSTER 3  |  TOP HUB ANALIZZATI: 4
+🎯 CLUSTER 2  |  TOP HUB ANALIZZATI: 4
 🧬 GENI HUB: CCND2, RECQL4, ETV6, KDM5A
 ================================================================================
 
@@ -257,150 +205,148 @@
      - Geni nel pathway: ETV6
 
 ================================================================================
-🎯 CLUSTER 4  |  TOP HUB ANALIZZATI: 2
-🧬 GENI HUB: PIK3C3, SMAD2
+🎯 CLUSTER 3  |  TOP HUB ANALIZZATI: 1
+🧬 GENI HUB: CDKN2A
+================================================================================
+
+[-] Troppi pochi hub per un enrichment (dopo filtraggio).
+
+================================================================================
+🎯 CLUSTER 4  |  TOP HUB ANALIZZATI: 4
+🧬 GENI HUB: RICTOR, TERT, IL7R, JAK2
 ================================================================================
 
   [GO]
-  🔸 [GO_Biological_Process_2021] dorsal/ventral axis specification (GO:0009950)
-     - P-value: 5.00e-04 | Overlap: 1/5
-     - Geni nel pathway: SMAD2
+  🔸 [GO_Biological_Process_2021] regulation of receptor signaling pathway via STAT (GO:1904892)
+     - P-value: 2.34e-06 | Overlap: 2/13
+     - Geni nel pathway: IL7R;JAK2
 
-  🔸 [GO_Biological_Process_2021] regulation of nodal signaling pathway involved in determination of lateral mesoderm left/right asymmetry (GO:1900175)
-     - P-value: 5.00e-04 | Overlap: 1/5
-     - Geni nel pathway: SMAD2
+  🔸 [GO_Biological_Process_2021] positive regulation of signal transduction (GO:0009967)
+     - P-value: 7.83e-06 | Overlap: 3/252
+     - Geni nel pathway: TERT;IL7R;JAK2
 
-  🔸 [GO_Biological_Process_2021] positive regulation of activin receptor signaling pathway (GO:0032927)
-     - P-value: 6.00e-04 | Overlap: 1/6
-     - Geni nel pathway: SMAD2
-
-  🔸 [GO_Biological_Process_2021] SMAD protein complex assembly (GO:0007183)
-     - P-value: 7.00e-04 | Overlap: 1/7
-     - Geni nel pathway: SMAD2
-
-  🔸 [GO_Biological_Process_2021] nodal signaling pathway (GO:0038092)
-     - P-value: 7.00e-04 | Overlap: 1/7
-     - Geni nel pathway: SMAD2
-
-  [KEGG]
-  🔸 [KEGG_2021_Human] Apelin signaling pathway
-     - P-value: 4.66e-05 | Overlap: 2/137
-     - Geni nel pathway: SMAD2;PIK3C3
-
-  🔸 [KEGG_2021_Human] Inflammatory bowel disease
-     - P-value: 6.49e-03 | Overlap: 1/65
-     - Geni nel pathway: SMAD2
-
-  🔸 [KEGG_2021_Human] Inositol phosphate metabolism
-     - P-value: 7.29e-03 | Overlap: 1/73
-     - Geni nel pathway: PIK3C3
-
-  🔸 [KEGG_2021_Human] Pancreatic cancer
-     - P-value: 7.59e-03 | Overlap: 1/76
-     - Geni nel pathway: SMAD2
-
-  🔸 [KEGG_2021_Human] Colorectal cancer
-     - P-value: 8.58e-03 | Overlap: 1/86
-     - Geni nel pathway: SMAD2
-
-  [Reactome]
-  🔸 [Reactome_2022] SMAD2/3 Phosphorylation Motif Mutants In Cancer R-HSA-3304356
-     - P-value: 6.00e-04 | Overlap: 1/6
-     - Geni nel pathway: SMAD2
-
-  🔸 [Reactome_2022] Loss Of Function Of SMAD2/3 In Cancer R-HSA-3304349
-     - P-value: 7.00e-04 | Overlap: 1/7
-     - Geni nel pathway: SMAD2
-
-  🔸 [Reactome_2022] Loss Of Function Of TGFBR1 In Cancer R-HSA-3656534
-     - P-value: 7.00e-04 | Overlap: 1/7
-     - Geni nel pathway: SMAD2
-
-  🔸 [Reactome_2022] Signaling By TGF-beta Receptor Complex In Cancer R-HSA-3304351
-     - P-value: 8.00e-04 | Overlap: 1/8
-     - Geni nel pathway: SMAD2
-
-  🔸 [Reactome_2022] Synthesis Of PIPs At Late Endosome Membrane R-HSA-1660517
-     - P-value: 1.10e-03 | Overlap: 1/11
-     - Geni nel pathway: PIK3C3
-
-================================================================================
-🎯 CLUSTER 6  |  TOP HUB ANALIZZATI: 5
-🧬 GENI HUB: RICTOR, TERT, DDR2, DROSHA, IL7R
-================================================================================
-
-  [GO]
-  🔸 [GO_Biological_Process_2021] production of siRNA involved in RNA interference (GO:0030422)
-     - P-value: 2.25e-06 | Overlap: 2/10
-     - Geni nel pathway: TERT;DROSHA
-
-  🔸 [GO_Biological_Process_2021] RNA interference (GO:0016246)
-     - P-value: 6.79e-06 | Overlap: 2/17
-     - Geni nel pathway: TERT;DROSHA
-
-  🔸 [GO_Biological_Process_2021] production of small RNA involved in gene silencing by RNA (GO:0070918)
-     - P-value: 9.48e-06 | Overlap: 2/20
-     - Geni nel pathway: TERT;DROSHA
-
-  🔸 [GO_Biological_Process_2021] positive regulation of cell population proliferation (GO:0008284)
-     - P-value: 1.28e-04 | Overlap: 3/474
-     - Geni nel pathway: TERT;IL7R;DDR2
+  🔸 [GO_Biological_Process_2021] activation of protein kinase activity (GO:0032147)
+     - P-value: 1.92e-04 | Overlap: 2/114
+     - Geni nel pathway: RICTOR;JAK2
 
   🔸 [GO_Biological_Process_2021] establishment of protein localization to telomere (GO:0070200)
-     - P-value: 1.25e-03 | Overlap: 1/5
+     - P-value: 1.00e-03 | Overlap: 1/5
      - Geni nel pathway: TERT
+
+  🔸 [GO_Biological_Process_2021] regulation of growth hormone receptor signaling pathway (GO:0060398)
+     - P-value: 1.00e-03 | Overlap: 1/5
+     - Geni nel pathway: JAK2
 
   [KEGG]
   🔸 [KEGG_2021_Human] Pathways in cancer
-     - P-value: 6.67e-03 | Overlap: 2/531
-     - Geni nel pathway: TERT;IL7R
+     - P-value: 7.30e-05 | Overlap: 3/531
+     - Geni nel pathway: TERT;IL7R;JAK2
+
+  🔸 [KEGG_2021_Human] JAK-STAT signaling pathway
+     - P-value: 3.87e-04 | Overlap: 2/162
+     - Geni nel pathway: IL7R;JAK2
+
+  🔸 [KEGG_2021_Human] PI3K-Akt signaling pathway
+     - P-value: 1.83e-03 | Overlap: 2/354
+     - Geni nel pathway: IL7R;JAK2
 
   🔸 [KEGG_2021_Human] Primary immunodeficiency
-     - P-value: 9.46e-03 | Overlap: 1/38
+     - P-value: 7.58e-03 | Overlap: 1/38
      - Geni nel pathway: IL7R
 
-  🔸 [KEGG_2021_Human] Hematopoietic cell lineage
-     - P-value: 2.45e-02 | Overlap: 1/99
-     - Geni nel pathway: IL7R
-
-  🔸 [KEGG_2021_Human] Ribosome biogenesis in eukaryotes
-     - P-value: 2.67e-02 | Overlap: 1/108
-     - Geni nel pathway: DROSHA
-
-  🔸 [KEGG_2021_Human] FoxO signaling pathway
-     - P-value: 3.23e-02 | Overlap: 1/131
-     - Geni nel pathway: IL7R
+  🔸 [KEGG_2021_Human] Adipocytokine signaling pathway
+     - P-value: 1.37e-02 | Overlap: 1/69
+     - Geni nel pathway: JAK2
 
   [Reactome]
-  🔸 [Reactome_2022] CD28 Dependent PI3K/Akt Signaling R-HSA-389357
-     - P-value: 5.74e-03 | Overlap: 1/23
-     - Geni nel pathway: RICTOR
+  🔸 [Reactome_2022] Erythropoietin Activates Phospholipase C Gamma (PLCG) R-HSA-9027277
+     - P-value: 1.40e-03 | Overlap: 1/7
+     - Geni nel pathway: JAK2
 
-  🔸 [Reactome_2022] Telomere Extension By Telomerase R-HSA-171319
-     - P-value: 5.74e-03 | Overlap: 1/23
-     - Geni nel pathway: TERT
+  🔸 [Reactome_2022] Erythropoietin Activates STAT5 R-HSA-9027283
+     - P-value: 1.40e-03 | Overlap: 1/7
+     - Geni nel pathway: JAK2
 
-  🔸 [Reactome_2022] MicroRNA (miRNA) Biogenesis R-HSA-203927
-     - P-value: 5.99e-03 | Overlap: 1/24
-     - Geni nel pathway: DROSHA
+  🔸 [Reactome_2022] MAPK1 (ERK2) Activation R-HSA-112411
+     - P-value: 1.80e-03 | Overlap: 1/9
+     - Geni nel pathway: JAK2
 
-  🔸 [Reactome_2022] Interleukin-7 Signaling R-HSA-1266695
-     - P-value: 6.23e-03 | Overlap: 1/25
-     - Geni nel pathway: IL7R
+  🔸 [Reactome_2022] Interleukin-23 Signaling R-HSA-9020933
+     - P-value: 1.80e-03 | Overlap: 1/9
+     - Geni nel pathway: JAK2
 
-  🔸 [Reactome_2022] Constitutive Signaling By AKT1 E17K In Cancer R-HSA-5674400
-     - P-value: 6.48e-03 | Overlap: 1/26
-     - Geni nel pathway: RICTOR
+  🔸 [Reactome_2022] MAPK3 (ERK1) Activation R-HSA-110056
+     - P-value: 2.00e-03 | Overlap: 1/10
+     - Geni nel pathway: JAK2
 
 ================================================================================
-🎯 CLUSTER 8  |  TOP HUB ANALIZZATI: 1
+🎯 CLUSTER 5  |  TOP HUB ANALIZZATI: 2
+🧬 GENI HUB: KMT2B, AXL
+================================================================================
+
+  [GO]
+  🔸 [GO_Biological_Process_2021] regulation of natural killer cell differentiation (GO:0032823)
+     - P-value: 5.00e-04 | Overlap: 1/5
+     - Geni nel pathway: AXL
+
+  🔸 [GO_Biological_Process_2021] negative regulation of dendritic cell apoptotic process (GO:2000669)
+     - P-value: 7.00e-04 | Overlap: 1/7
+     - Geni nel pathway: AXL
+
+  🔸 [GO_Biological_Process_2021] positive regulation of pinocytosis (GO:0048549)
+     - P-value: 7.00e-04 | Overlap: 1/7
+     - Geni nel pathway: AXL
+
+  🔸 [GO_Biological_Process_2021] histone H3-K4 dimethylation (GO:0044648)
+     - P-value: 7.00e-04 | Overlap: 1/7
+     - Geni nel pathway: KMT2B
+
+  🔸 [GO_Biological_Process_2021] natural killer cell differentiation (GO:0001779)
+     - P-value: 8.00e-04 | Overlap: 1/8
+     - Geni nel pathway: AXL
+
+  [KEGG]
+  🔸 [KEGG_2021_Human] Lysine degradation
+     - P-value: 6.29e-03 | Overlap: 1/63
+     - Geni nel pathway: KMT2B
+
+  [Reactome]
+  🔸 [Reactome_2022] PKMTs Methylate Histone Lysines R-HSA-3214841
+     - P-value: 4.69e-03 | Overlap: 1/47
+     - Geni nel pathway: KMT2B
+
+  🔸 [Reactome_2022] RUNX1 Regulates Genes Involved In Megakaryocyte Differentiation And Platelet Function R-HSA-8936459
+     - P-value: 6.59e-03 | Overlap: 1/66
+     - Geni nel pathway: KMT2B
+
+  🔸 [Reactome_2022] VEGFA-VEGFR2 Pathway R-HSA-4420097
+     - P-value: 9.28e-03 | Overlap: 1/93
+     - Geni nel pathway: AXL
+
+  🔸 [Reactome_2022] Signaling By VEGF R-HSA-194138
+     - P-value: 1.02e-02 | Overlap: 1/102
+     - Geni nel pathway: AXL
+
+  🔸 [Reactome_2022] Transcriptional Regulation By RUNX1 R-HSA-8878171
+     - P-value: 2.03e-02 | Overlap: 1/204
+     - Geni nel pathway: KMT2B
+
+================================================================================
+🎯 CLUSTER 6  |  TOP HUB ANALIZZATI: 2
+🧬 GENI HUB: HIST1H3D, HIST1H3F
+================================================================================
+
+[-] Nessun pathway significativo trovato.
+
+================================================================================
+🎯 CLUSTER 7  |  TOP HUB ANALIZZATI: 1
 🧬 GENI HUB: FGF3
 ================================================================================
 
 [-] Troppi pochi hub per un enrichment (dopo filtraggio).
 
 ================================================================================
-🎯 CLUSTER 10  |  TOP HUB ANALIZZATI: 2
+🎯 CLUSTER 8  |  TOP HUB ANALIZZATI: 2
 🧬 GENI HUB: ERBB3, GLI1
 ================================================================================
 
@@ -468,21 +414,14 @@
      - Geni nel pathway: ERBB3
 
 ================================================================================
-🎯 CLUSTER 11  |  TOP HUB ANALIZZATI: 2
-🧬 GENI HUB: HIST1H3D, HIST1H3F
-================================================================================
-
-[-] Nessun pathway significativo trovato.
-
-================================================================================
-🎯 CLUSTER 12  |  TOP HUB ANALIZZATI: 0
+🎯 CLUSTER 9  |  TOP HUB ANALIZZATI: 0
 🧬 GENI HUB: 
 ================================================================================
 
 [-] Troppi pochi hub per un enrichment (dopo filtraggio).
 
 ================================================================================
-🎯 CLUSTER 14  |  TOP HUB ANALIZZATI: 1
+🎯 CLUSTER 10  |  TOP HUB ANALIZZATI: 1
 🧬 GENI HUB: WHSC1L1
 ================================================================================
 

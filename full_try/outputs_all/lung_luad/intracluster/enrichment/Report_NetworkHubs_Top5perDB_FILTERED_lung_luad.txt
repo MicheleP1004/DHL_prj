@@ -1,0 +1,65 @@
+--- 🏆 TOP 5 PATHWAY PER DATABASE — HUB GLOBALI DELLA RETE (LUNG_LUAD - FILTERED) ---
+Geni Hub analizzati (3): KDM5A, PAK7, SOX17
+================================================================================
+
+
+  [GO]
+  🔸 [GO_Biological_Process_2021] endocardial cell differentiation (GO:0060956)
+     - P-value: 7.50e-04 | Adjusted: 7.50e-03
+     - Overlap: 1/5
+     - Hubs coinvolti: SOX17
+
+  🔸 [GO_Biological_Process_2021] endodermal cell fate specification (GO:0001714)
+     - P-value: 7.50e-04 | Adjusted: 7.50e-03
+     - Overlap: 1/5
+     - Hubs coinvolti: SOX17
+
+  🔸 [GO_Biological_Process_2021] cardiac cell fate commitment (GO:0060911)
+     - P-value: 7.50e-04 | Adjusted: 7.50e-03
+     - Overlap: 1/5
+     - Hubs coinvolti: SOX17
+
+  🔸 [GO_Biological_Process_2021] cardiac endothelial cell differentiation (GO:0003348)
+     - P-value: 7.50e-04 | Adjusted: 7.50e-03
+     - Overlap: 1/5
+     - Hubs coinvolti: SOX17
+
+  🔸 [GO_Biological_Process_2021] negative regulation of histone deacetylation (GO:0031064)
+     - P-value: 7.50e-04 | Adjusted: 7.50e-03
+     - Overlap: 1/5
+     - Hubs coinvolti: KDM5A
+
+
+  [KEGG]
+  🔸 [KEGG_2021_Human] Wnt signaling pathway
+     - P-value: 2.47e-02 | Adjusted: 2.47e-02
+     - Overlap: 1/166
+     - Hubs coinvolti: SOX17
+
+
+  [Reactome]
+  🔸 [Reactome_2022] HDMs Demethylate Histones R-HSA-3214842
+     - P-value: 3.90e-03 | Adjusted: 1.89e-02
+     - Overlap: 1/26
+     - Hubs coinvolti: KDM5A
+
+  🔸 [Reactome_2022] Deactivation Of Beta-Catenin Transactivating Complex R-HSA-3769402
+     - P-value: 6.29e-03 | Adjusted: 1.89e-02
+     - Overlap: 1/42
+     - Hubs coinvolti: SOX17
+
+  🔸 [Reactome_2022] TCF Dependent Signaling In Response To WNT R-HSA-201681
+     - P-value: 2.94e-02 | Adjusted: 5.21e-02
+     - Overlap: 1/198
+     - Hubs coinvolti: SOX17
+
+  🔸 [Reactome_2022] Chromatin Modifying Enzymes R-HSA-3247509
+     - P-value: 3.53e-02 | Adjusted: 5.21e-02
+     - Overlap: 1/238
+     - Hubs coinvolti: KDM5A
+
+  🔸 [Reactome_2022] Signaling By WNT R-HSA-195721
+     - P-value: 4.35e-02 | Adjusted: 5.21e-02
+     - Overlap: 1/294
+     - Hubs coinvolti: SOX17
+

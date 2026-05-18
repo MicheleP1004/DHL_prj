@@ -2,150 +2,10 @@
 
 ================================================================================
 🎯 CLUSTER 0  |  TOP HUB ANALIZZATI: 5
-🧬 GENI HUB: FAT1, FLCN, KMT2C, POLE, CTNNB1
+🧬 GENI HUB: SPEN, TGFBR2, ARID1A, PTPRS, ANKRD11
 ================================================================================
 
   [GO]
-  🔸 [GO_Biological_Process_2021] cell-cell junction assembly (GO:0007043)
-     - P-value: 1.07e-04 | Overlap: 2/66
-     - Geni nel pathway: FLCN;CTNNB1
-
-  🔸 [GO_Biological_Process_2021] regulation of cell cycle process (GO:0010564)
-     - P-value: 2.75e-04 | Overlap: 2/106
-     - Geni nel pathway: FLCN;CTNNB1
-
-  🔸 [GO_Biological_Process_2021] positive regulation of transcription by RNA polymerase II (GO:0045944)
-     - P-value: 8.71e-04 | Overlap: 3/908
-     - Geni nel pathway: FLCN;KMT2C;CTNNB1
-
-  🔸 [GO_Biological_Process_2021] embryonic skeletal joint morphogenesis (GO:0060272)
-     - P-value: 1.25e-03 | Overlap: 1/5
-     - Geni nel pathway: CTNNB1
-
-  🔸 [GO_Biological_Process_2021] negative regulation of organelle organization (GO:0010639)
-     - P-value: 1.25e-03 | Overlap: 1/5
-     - Geni nel pathway: FLCN
-
-  [KEGG]
-  🔸 [KEGG_2021_Human] Base excision repair
-     - P-value: 8.22e-03 | Overlap: 1/33
-     - Geni nel pathway: POLE
-
-  🔸 [KEGG_2021_Human] DNA replication
-     - P-value: 8.97e-03 | Overlap: 1/36
-     - Geni nel pathway: POLE
-
-  🔸 [KEGG_2021_Human] Thyroid cancer
-     - P-value: 9.22e-03 | Overlap: 1/37
-     - Geni nel pathway: CTNNB1
-
-  🔸 [KEGG_2021_Human] Nucleotide excision repair
-     - P-value: 1.17e-02 | Overlap: 1/47
-     - Geni nel pathway: POLE
-
-  🔸 [KEGG_2021_Human] Endometrial cancer
-     - P-value: 1.44e-02 | Overlap: 1/58
-     - Geni nel pathway: CTNNB1
-
-  [Reactome]
-  🔸 [Reactome_2022] LRR FLII-interacting Protein 1 (LRRFIP1) Activates Type I IFN Production R-HSA-3134973
-     - P-value: 1.25e-03 | Overlap: 1/5
-     - Geni nel pathway: CTNNB1
-
-  🔸 [Reactome_2022] Binding Of TCF/LEF:CTNNB1 To Target Gene Promoters R-HSA-4411364
-     - P-value: 2.00e-03 | Overlap: 1/8
-     - Geni nel pathway: CTNNB1
-
-  🔸 [Reactome_2022] InlA-mediated Entry Of Listeria Monocytogenes Into Host Cells R-HSA-8876493
-     - P-value: 2.00e-03 | Overlap: 1/8
-     - Geni nel pathway: CTNNB1
-
-  🔸 [Reactome_2022] RUNX3 Regulates WNT Signaling R-HSA-8951430
-     - P-value: 2.00e-03 | Overlap: 1/8
-     - Geni nel pathway: CTNNB1
-
-  🔸 [Reactome_2022] DNA Replication Initiation R-HSA-68952
-     - P-value: 2.00e-03 | Overlap: 1/8
-     - Geni nel pathway: POLE
-
-================================================================================
-🎯 CLUSTER 1  |  TOP HUB ANALIZZATI: 5
-🧬 GENI HUB: ARID2, EP300, NOTCH4, AR, ATRX
-================================================================================
-
-  [GO]
-  🔸 [GO_Biological_Process_2021] negative regulation of transcription by RNA polymerase II (GO:0000122)
-     - P-value: 6.60e-06 | Overlap: 4/684
-     - Geni nel pathway: AR;NOTCH4;ATRX;EP300
-
-  🔸 [GO_Biological_Process_2021] positive regulation of transcription of Notch receptor target (GO:0007221)
-     - P-value: 6.79e-06 | Overlap: 2/17
-     - Geni nel pathway: NOTCH4;EP300
-
-  🔸 [GO_Biological_Process_2021] positive regulation of transcription by RNA polymerase II (GO:0045944)
-     - P-value: 2.03e-05 | Overlap: 4/908
-     - Geni nel pathway: AR;NOTCH4;ATRX;EP300
-
-  🔸 [GO_Biological_Process_2021] response to estrogen (GO:0043627)
-     - P-value: 2.97e-05 | Overlap: 2/35
-     - Geni nel pathway: AR;EP300
-
-  🔸 [GO_Biological_Process_2021] regulation of androgen receptor signaling pathway (GO:0060765)
-     - P-value: 3.14e-05 | Overlap: 2/36
-     - Geni nel pathway: AR;EP300
-
-  [KEGG]
-  🔸 [KEGG_2021_Human] Notch signaling pathway
-     - P-value: 8.51e-05 | Overlap: 2/59
-     - Geni nel pathway: NOTCH4;EP300
-
-  🔸 [KEGG_2021_Human] Pathways in cancer
-     - P-value: 1.79e-04 | Overlap: 3/531
-     - Geni nel pathway: AR;NOTCH4;EP300
-
-  🔸 [KEGG_2021_Human] Prostate cancer
-     - P-value: 2.31e-04 | Overlap: 2/97
-     - Geni nel pathway: AR;EP300
-
-  🔸 [KEGG_2021_Human] Thyroid hormone signaling pathway
-     - P-value: 3.59e-04 | Overlap: 2/121
-     - Geni nel pathway: NOTCH4;EP300
-
-  🔸 [KEGG_2021_Human] MicroRNAs in cancer
-     - P-value: 2.32e-03 | Overlap: 2/310
-     - Geni nel pathway: NOTCH4;EP300
-
-  [Reactome]
-  🔸 [Reactome_2022] NOTCH4 Intracellular Domain Regulates Transcription R-HSA-9013695
-     - P-value: 9.48e-06 | Overlap: 2/20
-     - Geni nel pathway: NOTCH4;EP300
-
-  🔸 [Reactome_2022] RUNX1 Interacts With Co-Factors Whose Precise Effect On RUNX1 Targets Is Not Known R-HSA-8939243
-     - P-value: 2.97e-05 | Overlap: 2/35
-     - Geni nel pathway: EP300;ARID2
-
-  🔸 [Reactome_2022] Pre-NOTCH Transcription And Translation R-HSA-1912408
-     - P-value: 9.40e-05 | Overlap: 2/62
-     - Geni nel pathway: NOTCH4;EP300
-
-  🔸 [Reactome_2022] Pre-NOTCH Expression And Processing R-HSA-1912422
-     - P-value: 1.49e-04 | Overlap: 2/78
-     - Geni nel pathway: NOTCH4;EP300
-
-  🔸 [Reactome_2022] Signaling By NOTCH4 R-HSA-9013694
-     - P-value: 1.61e-04 | Overlap: 2/81
-     - Geni nel pathway: NOTCH4;EP300
-
-================================================================================
-🎯 CLUSTER 2  |  TOP HUB ANALIZZATI: 5
-🧬 GENI HUB: PTPRS, TGFBR2, SPEN, ARID1A, ZFHX3
-================================================================================
-
-  [GO]
-  🔸 [GO_Biological_Process_2021] brain development (GO:0007420)
-     - P-value: 5.51e-04 | Overlap: 2/150
-     - Geni nel pathway: ZFHX3;TGFBR2
-
   🔸 [GO_Biological_Process_2021] cell-cell adhesion via plasma-membrane adhesion molecules (GO:0098742)
      - P-value: 7.06e-04 | Overlap: 2/170
      - Geni nel pathway: PTPRS;TGFBR2
@@ -154,13 +14,17 @@
      - P-value: 1.25e-03 | Overlap: 1/5
      - Geni nel pathway: PTPRS
 
+  🔸 [GO_Biological_Process_2021] positive regulation of epithelial to mesenchymal transition involved in endocardial cushion formation (GO:1905007)
+     - P-value: 1.25e-03 | Overlap: 1/5
+     - Geni nel pathway: TGFBR2
+
   🔸 [GO_Biological_Process_2021] tricuspid valve morphogenesis (GO:0003186)
      - P-value: 1.25e-03 | Overlap: 1/5
      - Geni nel pathway: TGFBR2
 
-  🔸 [GO_Biological_Process_2021] tricuspid valve development (GO:0003175)
+  🔸 [GO_Biological_Process_2021] negative regulation of interferon-alpha production (GO:0032687)
      - P-value: 1.25e-03 | Overlap: 1/5
-     - Geni nel pathway: TGFBR2
+     - Geni nel pathway: PTPRS
 
   [KEGG]
   🔸 [KEGG_2021_Human] Hepatocellular carcinoma
@@ -188,15 +52,11 @@
      - P-value: 1.50e-03 | Overlap: 1/6
      - Geni nel pathway: TGFBR2
 
-  🔸 [Reactome_2022] Loss Of Function Of TGFBR1 In Cancer R-HSA-3656534
+  🔸 [Reactome_2022] Loss Of Function Of SMAD2/3 In Cancer R-HSA-3304349
      - P-value: 1.75e-03 | Overlap: 1/7
      - Geni nel pathway: TGFBR2
 
-  🔸 [Reactome_2022] RUNX3 Regulates CDKN1A Transcription R-HSA-8941855
-     - P-value: 1.75e-03 | Overlap: 1/7
-     - Geni nel pathway: ZFHX3
-
-  🔸 [Reactome_2022] Loss Of Function Of SMAD2/3 In Cancer R-HSA-3304349
+  🔸 [Reactome_2022] Loss Of Function Of TGFBR1 In Cancer R-HSA-3656534
      - P-value: 1.75e-03 | Overlap: 1/7
      - Geni nel pathway: TGFBR2
 
@@ -204,8 +64,216 @@
      - P-value: 2.00e-03 | Overlap: 1/8
      - Geni nel pathway: TGFBR2
 
+  🔸 [Reactome_2022] Signaling By NTRK3 (TRKC) R-HSA-9034015
+     - P-value: 3.99e-03 | Overlap: 1/16
+     - Geni nel pathway: PTPRS
+
 ================================================================================
-🎯 CLUSTER 3  |  TOP HUB ANALIZZATI: 3
+🎯 CLUSTER 1  |  TOP HUB ANALIZZATI: 5
+🧬 GENI HUB: POLE, FLCN, KMT2C, CTNNB1, SETD2
+================================================================================
+
+  [GO]
+  🔸 [GO_Biological_Process_2021] regulation of cell cycle process (GO:0010564)
+     - P-value: 1.44e-06 | Overlap: 3/106
+     - Geni nel pathway: FLCN;SETD2;CTNNB1
+
+  🔸 [GO_Biological_Process_2021] regulation of cellular protein localization (GO:1903827)
+     - P-value: 5.15e-05 | Overlap: 2/46
+     - Geni nel pathway: SETD2;CTNNB1
+
+  🔸 [GO_Biological_Process_2021] cell-cell junction assembly (GO:0007043)
+     - P-value: 1.07e-04 | Overlap: 2/66
+     - Geni nel pathway: FLCN;CTNNB1
+
+  🔸 [GO_Biological_Process_2021] regulation of cell division (GO:0051302)
+     - P-value: 1.41e-04 | Overlap: 2/76
+     - Geni nel pathway: FLCN;SETD2
+
+  🔸 [GO_Biological_Process_2021] positive regulation of type I interferon production (GO:0032481)
+     - P-value: 1.45e-04 | Overlap: 2/77
+     - Geni nel pathway: SETD2;CTNNB1
+
+  [KEGG]
+  🔸 [KEGG_2021_Human] Lysine degradation
+     - P-value: 9.71e-05 | Overlap: 2/63
+     - Geni nel pathway: SETD2;KMT2C
+
+  🔸 [KEGG_2021_Human] Base excision repair
+     - P-value: 8.22e-03 | Overlap: 1/33
+     - Geni nel pathway: POLE
+
+  🔸 [KEGG_2021_Human] DNA replication
+     - P-value: 8.97e-03 | Overlap: 1/36
+     - Geni nel pathway: POLE
+
+  🔸 [KEGG_2021_Human] Thyroid cancer
+     - P-value: 9.22e-03 | Overlap: 1/37
+     - Geni nel pathway: CTNNB1
+
+  🔸 [KEGG_2021_Human] Nucleotide excision repair
+     - P-value: 1.17e-02 | Overlap: 1/47
+     - Geni nel pathway: POLE
+
+  [Reactome]
+  🔸 [Reactome_2022] PKMTs Methylate Histone Lysines R-HSA-3214841
+     - P-value: 5.38e-05 | Overlap: 2/47
+     - Geni nel pathway: SETD2;KMT2C
+
+  🔸 [Reactome_2022] LRR FLII-interacting Protein 1 (LRRFIP1) Activates Type I IFN Production R-HSA-3134973
+     - P-value: 1.25e-03 | Overlap: 1/5
+     - Geni nel pathway: CTNNB1
+
+  🔸 [Reactome_2022] Chromatin Modifying Enzymes R-HSA-3247509
+     - P-value: 1.38e-03 | Overlap: 2/238
+     - Geni nel pathway: SETD2;KMT2C
+
+  🔸 [Reactome_2022] DNA Replication Initiation R-HSA-68952
+     - P-value: 2.00e-03 | Overlap: 1/8
+     - Geni nel pathway: POLE
+
+  🔸 [Reactome_2022] InlA-mediated Entry Of Listeria Monocytogenes Into Host Cells R-HSA-8876493
+     - P-value: 2.00e-03 | Overlap: 1/8
+     - Geni nel pathway: CTNNB1
+
+================================================================================
+🎯 CLUSTER 2  |  TOP HUB ANALIZZATI: 5
+🧬 GENI HUB: ARID2, EP300, NOTCH4, AR, PTEN
+================================================================================
+
+  [GO]
+  🔸 [GO_Biological_Process_2021] negative regulation of cellular process (GO:0048523)
+     - P-value: 3.10e-06 | Overlap: 4/566
+     - Geni nel pathway: AR;NOTCH4;PTEN;ARID2
+
+  🔸 [GO_Biological_Process_2021] positive regulation of transcription of Notch receptor target (GO:0007221)
+     - P-value: 6.79e-06 | Overlap: 2/17
+     - Geni nel pathway: NOTCH4;EP300
+
+  🔸 [GO_Biological_Process_2021] positive regulation of DNA-binding transcription factor activity (GO:0051091)
+     - P-value: 1.81e-05 | Overlap: 3/246
+     - Geni nel pathway: AR;PTEN;EP300
+
+  🔸 [GO_Biological_Process_2021] positive regulation of signal transduction (GO:0009967)
+     - P-value: 1.94e-05 | Overlap: 3/252
+     - Geni nel pathway: NOTCH4;PTEN;EP300
+
+  🔸 [GO_Biological_Process_2021] protein deubiquitination (GO:0016579)
+     - P-value: 2.31e-05 | Overlap: 3/267
+     - Geni nel pathway: AR;PTEN;EP300
+
+  [KEGG]
+  🔸 [KEGG_2021_Human] Prostate cancer
+     - P-value: 1.10e-06 | Overlap: 3/97
+     - Geni nel pathway: AR;PTEN;EP300
+
+  🔸 [KEGG_2021_Human] Pathways in cancer
+     - P-value: 2.41e-06 | Overlap: 4/531
+     - Geni nel pathway: AR;NOTCH4;PTEN;EP300
+
+  🔸 [KEGG_2021_Human] MicroRNAs in cancer
+     - P-value: 3.60e-05 | Overlap: 3/310
+     - Geni nel pathway: NOTCH4;PTEN;EP300
+
+  🔸 [KEGG_2021_Human] Human papillomavirus infection
+     - P-value: 4.38e-05 | Overlap: 3/331
+     - Geni nel pathway: NOTCH4;PTEN;EP300
+
+  🔸 [KEGG_2021_Human] Notch signaling pathway
+     - P-value: 8.51e-05 | Overlap: 2/59
+     - Geni nel pathway: NOTCH4;EP300
+
+  [Reactome]
+  🔸 [Reactome_2022] NOTCH4 Intracellular Domain Regulates Transcription R-HSA-9013695
+     - P-value: 9.48e-06 | Overlap: 2/20
+     - Geni nel pathway: NOTCH4;EP300
+
+  🔸 [Reactome_2022] RUNX1 Interacts With Co-Factors Whose Precise Effect On RUNX1 Targets Is Not Known R-HSA-8939243
+     - P-value: 2.97e-05 | Overlap: 2/35
+     - Geni nel pathway: EP300;ARID2
+
+  🔸 [Reactome_2022] Generic Transcription Pathway R-HSA-212436
+     - P-value: 5.94e-05 | Overlap: 4/1190
+     - Geni nel pathway: NOTCH4;PTEN;EP300;ARID2
+
+  🔸 [Reactome_2022] RNA Polymerase II Transcription R-HSA-73857
+     - P-value: 8.74e-05 | Overlap: 4/1312
+     - Geni nel pathway: NOTCH4;PTEN;EP300;ARID2
+
+  🔸 [Reactome_2022] Pre-NOTCH Transcription And Translation R-HSA-1912408
+     - P-value: 9.40e-05 | Overlap: 2/62
+     - Geni nel pathway: NOTCH4;EP300
+
+================================================================================
+🎯 CLUSTER 3  |  TOP HUB ANALIZZATI: 5
+🧬 GENI HUB: KMT2D, FAT1, EPHA5, NOTCH3, KDM5A
+================================================================================
+
+  [GO]
+  🔸 [GO_Biological_Process_2021] axon guidance (GO:0007411)
+     - P-value: 1.00e-03 | Overlap: 2/203
+     - Geni nel pathway: EPHA5;NOTCH3
+
+  🔸 [GO_Biological_Process_2021] negative regulation of histone deacetylation (GO:0031064)
+     - P-value: 1.25e-03 | Overlap: 1/5
+     - Geni nel pathway: KDM5A
+
+  🔸 [GO_Biological_Process_2021] axonogenesis (GO:0007409)
+     - P-value: 1.40e-03 | Overlap: 2/240
+     - Geni nel pathway: EPHA5;NOTCH3
+
+  🔸 [GO_Biological_Process_2021] positive regulation of intracellular estrogen receptor signaling pathway (GO:0033148)
+     - P-value: 1.75e-03 | Overlap: 1/7
+     - Geni nel pathway: KMT2D
+
+  🔸 [GO_Biological_Process_2021] regulation of histone deacetylase activity (GO:1901725)
+     - P-value: 1.75e-03 | Overlap: 1/7
+     - Geni nel pathway: KDM5A
+
+  [KEGG]
+  🔸 [KEGG_2021_Human] Notch signaling pathway
+     - P-value: 1.47e-02 | Overlap: 1/59
+     - Geni nel pathway: NOTCH3
+
+  🔸 [KEGG_2021_Human] Lysine degradation
+     - P-value: 1.57e-02 | Overlap: 1/63
+     - Geni nel pathway: KMT2D
+
+  🔸 [KEGG_2021_Human] Th1 and Th2 cell differentiation
+     - P-value: 2.28e-02 | Overlap: 1/92
+     - Geni nel pathway: NOTCH3
+
+  🔸 [KEGG_2021_Human] Thyroid hormone signaling pathway
+     - P-value: 2.99e-02 | Overlap: 1/121
+     - Geni nel pathway: NOTCH3
+
+  🔸 [KEGG_2021_Human] Apelin signaling pathway
+     - P-value: 3.38e-02 | Overlap: 1/137
+     - Geni nel pathway: NOTCH3
+
+  [Reactome]
+  🔸 [Reactome_2022] Defective LFNG Causes SCDO3 R-HSA-5083630
+     - P-value: 1.25e-03 | Overlap: 1/5
+     - Geni nel pathway: NOTCH3
+
+  🔸 [Reactome_2022] Chromatin Modifying Enzymes R-HSA-3247509
+     - P-value: 1.38e-03 | Overlap: 2/238
+     - Geni nel pathway: KDM5A;KMT2D
+
+  🔸 [Reactome_2022] Pre-NOTCH Processing In Endoplasmic Reticulum R-HSA-1912399
+     - P-value: 1.50e-03 | Overlap: 1/6
+     - Geni nel pathway: NOTCH3
+
+  🔸 [Reactome_2022] Noncanonical Activation Of NOTCH3 R-HSA-9017802
+     - P-value: 2.00e-03 | Overlap: 1/8
+     - Geni nel pathway: NOTCH3
+
+  🔸 [Reactome_2022] Pre-NOTCH Processing In Golgi R-HSA-1912420
+     - P-value: 4.49e-03 | Overlap: 1/18
+     - Geni nel pathway: NOTCH3
+
+================================================================================
+🎯 CLUSTER 4  |  TOP HUB ANALIZZATI: 3
 🧬 GENI HUB: PTPRT, APC, SESN1
 ================================================================================
 
@@ -271,72 +339,4 @@
   🔸 [Reactome_2022] Cellular Response To Chemical Stress R-HSA-9711123
      - P-value: 2.71e-02 | Overlap: 1/182
      - Geni nel pathway: SESN1
-
-================================================================================
-🎯 CLUSTER 4  |  TOP HUB ANALIZZATI: 5
-🧬 GENI HUB: KMT2D, NOTCH3, IKBKE, ARID1B, B2M
-================================================================================
-
-  [GO]
-  🔸 [GO_Biological_Process_2021] cellular response to nicotine (GO:0071316)
-     - P-value: 1.25e-03 | Overlap: 1/5
-     - Geni nel pathway: B2M
-
-  🔸 [GO_Biological_Process_2021] cellular response to iron ion (GO:0071281)
-     - P-value: 1.50e-03 | Overlap: 1/6
-     - Geni nel pathway: B2M
-
-  🔸 [GO_Biological_Process_2021] positive regulation of receptor binding (GO:1900122)
-     - P-value: 1.50e-03 | Overlap: 1/6
-     - Geni nel pathway: B2M
-
-  🔸 [GO_Biological_Process_2021] response to host defenses (GO:0052200)
-     - P-value: 1.75e-03 | Overlap: 1/7
-     - Geni nel pathway: B2M
-
-  🔸 [GO_Biological_Process_2021] modulation by symbiont of host defense response (GO:0052031)
-     - P-value: 1.75e-03 | Overlap: 1/7
-     - Geni nel pathway: B2M
-
-  [KEGG]
-  🔸 [KEGG_2021_Human] Epstein-Barr virus infection
-     - P-value: 9.95e-04 | Overlap: 2/202
-     - Geni nel pathway: IKBKE;B2M
-
-  🔸 [KEGG_2021_Human] Human papillomavirus infection
-     - P-value: 2.64e-03 | Overlap: 2/331
-     - Geni nel pathway: NOTCH3;IKBKE
-
-  🔸 [KEGG_2021_Human] Herpes simplex virus 1 infection
-     - P-value: 5.89e-03 | Overlap: 2/498
-     - Geni nel pathway: IKBKE;B2M
-
-  🔸 [KEGG_2021_Human] Notch signaling pathway
-     - P-value: 1.47e-02 | Overlap: 1/59
-     - Geni nel pathway: NOTCH3
-
-  🔸 [KEGG_2021_Human] Cytosolic DNA-sensing pathway
-     - P-value: 1.57e-02 | Overlap: 1/63
-     - Geni nel pathway: IKBKE
-
-  [Reactome]
-  🔸 [Reactome_2022] SARS-CoV-2 Activates/Modulates Innate And Adaptive Immune Responses R-HSA-9705671
-     - P-value: 3.59e-04 | Overlap: 2/121
-     - Geni nel pathway: IKBKE;B2M
-
-  🔸 [Reactome_2022] SARS-CoV-2-host Interactions R-HSA-9705683
-     - P-value: 9.37e-04 | Overlap: 2/196
-     - Geni nel pathway: IKBKE;B2M
-
-  🔸 [Reactome_2022] Transcriptional Regulation By RUNX1 R-HSA-8878171
-     - P-value: 1.01e-03 | Overlap: 2/204
-     - Geni nel pathway: KMT2D;ARID1B
-
-  🔸 [Reactome_2022] Defective LFNG Causes SCDO3 R-HSA-5083630
-     - P-value: 1.25e-03 | Overlap: 1/5
-     - Geni nel pathway: NOTCH3
-
-  🔸 [Reactome_2022] Chromatin Modifying Enzymes R-HSA-3247509
-     - P-value: 1.38e-03 | Overlap: 2/238
-     - Geni nel pathway: KMT2D;ARID1B
 

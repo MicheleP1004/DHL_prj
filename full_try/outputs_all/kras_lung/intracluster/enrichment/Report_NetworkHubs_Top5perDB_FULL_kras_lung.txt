@@ -1,5 +1,5 @@
 --- 🏆 TOP 5 PATHWAY PER DATABASE — HUB GLOBALI DELLA RETE (KRAS_LUNG - FULL) ---
-Geni Hub analizzati (19): AGO2, RECQL4, ARAF, EIF1AX, GATA1, PRDM1, FYN, CCND2, KDM5A, DNMT1, RAC1, FGF19, FGF3, KMT2B, IL7R, DROSHA, FOXA1, NKX2-1, MCL1
+Geni Hub analizzati (19): KMT2B, CCND2, KDM5A, AGO2, RECQL4, PRDM1, FYN, IL7R, DROSHA, ARAF, EIF1AX, GATA1, MCL1, DNMT1, RAC1, FOXA1, NKX2-1, FGF19, FGF3
 ================================================================================
 
 

@@ -1,70 +1,70 @@
 --- 🏆 TOP 5 PATHWAY PER DATABASE — HUB LOCALI PER OGNI CLUSTER (PANCREAS - FILTERED) ---
 
 ================================================================================
-🎯 CLUSTER 0  |  TOP HUB ANALIZZATI: 5
-🧬 GENI HUB: KRAS, CDKN2A, KDM6A, RNF43, SMAD4
+🎯 CLUSTER 0  |  TOP HUB ANALIZZATI: 4
+🧬 GENI HUB: KRAS, KDM6A, RNF43, TP53
 ================================================================================
 
   [GO]
   🔸 [GO_Biological_Process_2021] small GTPase mediated signal transduction (GO:0007264)
-     - P-value: 2.75e-04 | Overlap: 2/106
-     - Geni nel pathway: CDKN2A;KRAS
-
-  🔸 [GO_Biological_Process_2021] negative regulation of cell growth (GO:0030308)
-     - P-value: 3.89e-04 | Overlap: 2/126
-     - Geni nel pathway: SMAD4;CDKN2A
-
-  🔸 [GO_Biological_Process_2021] negative regulation of growth (GO:0045926)
-     - P-value: 3.89e-04 | Overlap: 2/126
-     - Geni nel pathway: SMAD4;CDKN2A
+     - P-value: 1.66e-04 | Overlap: 2/106
+     - Geni nel pathway: KRAS;TP53
 
   🔸 [GO_Biological_Process_2021] Ras protein signal transduction (GO:0007265)
-     - P-value: 4.94e-04 | Overlap: 2/142
-     - Geni nel pathway: CDKN2A;KRAS
+     - P-value: 2.98e-04 | Overlap: 2/142
+     - Geni nel pathway: KRAS;TP53
 
-  🔸 [GO_Biological_Process_2021] regulation of cell growth (GO:0001558)
-     - P-value: 1.15e-03 | Overlap: 2/217
-     - Geni nel pathway: SMAD4;CDKN2A
+  🔸 [GO_Biological_Process_2021] regulation of gene expression (GO:0010468)
+     - P-value: 6.01e-04 | Overlap: 3/1079
+     - Geni nel pathway: KRAS;TP53;KDM6A
+
+  🔸 [GO_Biological_Process_2021] cellular response to antibiotic (GO:0071236)
+     - P-value: 1.00e-03 | Overlap: 1/5
+     - Geni nel pathway: TP53
+
+  🔸 [GO_Biological_Process_2021] bone marrow development (GO:0048539)
+     - P-value: 1.00e-03 | Overlap: 1/5
+     - Geni nel pathway: TP53
 
   [KEGG]
-  🔸 [KEGG_2021_Human] Chronic myeloid leukemia
-     - P-value: 5.24e-07 | Overlap: 3/76
-     - Geni nel pathway: SMAD4;CDKN2A;KRAS
-
-  🔸 [KEGG_2021_Human] Pancreatic cancer
-     - P-value: 5.24e-07 | Overlap: 3/76
-     - Geni nel pathway: SMAD4;CDKN2A;KRAS
-
-  🔸 [KEGG_2021_Human] Hepatocellular carcinoma
-     - P-value: 5.75e-06 | Overlap: 3/168
-     - Geni nel pathway: SMAD4;CDKN2A;KRAS
-
-  🔸 [KEGG_2021_Human] Human T-cell leukemia virus 1 infection
-     - P-value: 1.27e-05 | Overlap: 3/219
-     - Geni nel pathway: SMAD4;CDKN2A;KRAS
+  🔸 [KEGG_2021_Human] Thyroid cancer
+     - P-value: 1.99e-05 | Overlap: 2/37
+     - Geni nel pathway: KRAS;TP53
 
   🔸 [KEGG_2021_Human] Bladder cancer
-     - P-value: 4.08e-05 | Overlap: 2/41
-     - Geni nel pathway: CDKN2A;KRAS
+     - P-value: 2.45e-05 | Overlap: 2/41
+     - Geni nel pathway: KRAS;TP53
+
+  🔸 [KEGG_2021_Human] Endometrial cancer
+     - P-value: 4.94e-05 | Overlap: 2/58
+     - Geni nel pathway: KRAS;TP53
+
+  🔸 [KEGG_2021_Human] Mitophagy
+     - P-value: 6.80e-05 | Overlap: 2/68
+     - Geni nel pathway: KRAS;TP53
+
+  🔸 [KEGG_2021_Human] Central carbon metabolism in cancer
+     - P-value: 7.21e-05 | Overlap: 2/70
+     - Geni nel pathway: KRAS;TP53
 
   [Reactome]
-  🔸 [Reactome_2022] Transcriptional Regulation By RUNX3 R-HSA-8878159
-     - P-value: 2.21e-04 | Overlap: 2/95
-     - Geni nel pathway: SMAD4;CDKN2A
-
-  🔸 [Reactome_2022] RUNX3 Regulates BCL2L11 (BIM) Transcription R-HSA-8952158
-     - P-value: 1.25e-03 | Overlap: 1/5
-     - Geni nel pathway: SMAD4
-
-  🔸 [Reactome_2022] Loss Of Function Of SMAD2/3 In Cancer R-HSA-3304349
-     - P-value: 1.75e-03 | Overlap: 1/7
-     - Geni nel pathway: SMAD4
-
-  🔸 [Reactome_2022] Signaling By RNF43 Mutants R-HSA-5340588
-     - P-value: 1.75e-03 | Overlap: 1/7
-     - Geni nel pathway: RNF43
+  🔸 [Reactome_2022] Activation Of NOXA And Translocation To Mitochondria R-HSA-111448
+     - P-value: 1.00e-03 | Overlap: 1/5
+     - Geni nel pathway: TP53
 
   🔸 [Reactome_2022] RUNX3 Regulates CDKN1A Transcription R-HSA-8941855
-     - P-value: 1.75e-03 | Overlap: 1/7
-     - Geni nel pathway: SMAD4
+     - P-value: 1.40e-03 | Overlap: 1/7
+     - Geni nel pathway: TP53
+
+  🔸 [Reactome_2022] Signaling By RNF43 Mutants R-HSA-5340588
+     - P-value: 1.40e-03 | Overlap: 1/7
+     - Geni nel pathway: RNF43
+
+  🔸 [Reactome_2022] PI5P Regulates TP53 Acetylation R-HSA-6811555
+     - P-value: 1.80e-03 | Overlap: 1/9
+     - Geni nel pathway: TP53
+
+  🔸 [Reactome_2022] Activation Of PUMA And Translocation To Mitochondria R-HSA-139915
+     - P-value: 1.80e-03 | Overlap: 1/9
+     - Geni nel pathway: TP53
 

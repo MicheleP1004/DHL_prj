@@ -1,0 +1,79 @@
+--- 👑 TOP 3 HUB GENES PER OGNI CLUSTER (KRAS_LUNG_LUSC - FULL) ---
+
+------------------------------------------------------------
+🎯 CLUSTER 0 | Totale geni nel network: 8
+------------------------------------------------------------
+🔸 HUB: SMARCA4
+   - Degree Centrality:      0.5714
+   - Betweenness Centrality: 0.5238
+🔸 HUB: KEAP1
+   - Degree Centrality:      0.4286
+   - Betweenness Centrality: 0.2857
+🔸 HUB: STK11
+   - Degree Centrality:      0.4286
+   - Betweenness Centrality: 0.4762
+
+------------------------------------------------------------
+🎯 CLUSTER 1 | Totale geni nel network: 7
+------------------------------------------------------------
+🔸 HUB: PIK3CG
+   - Degree Centrality:      0.5000
+   - Betweenness Centrality: 0.8000
+🔸 HUB: ARID1A
+   - Degree Centrality:      0.3333
+   - Betweenness Centrality: 0.3333
+🔸 HUB: NTRK3
+   - Degree Centrality:      0.3333
+   - Betweenness Centrality: 0.3333
+
+------------------------------------------------------------
+🎯 CLUSTER 2 | Totale geni nel network: 6
+------------------------------------------------------------
+🔸 HUB: ERBB4
+   - Degree Centrality:      0.4000
+   - Betweenness Centrality: 0.4000
+🔸 HUB: KMT2D
+   - Degree Centrality:      0.4000
+   - Betweenness Centrality: 0.4000
+🔸 HUB: RET
+   - Degree Centrality:      0.4000
+   - Betweenness Centrality: 0.6000
+
+------------------------------------------------------------
+🎯 CLUSTER 3 | Totale geni nel network: 3
+------------------------------------------------------------
+🔸 HUB: FAT1
+   - Degree Centrality:      1.0000
+   - Betweenness Centrality: 1.0000
+🔸 HUB: IL7R
+   - Degree Centrality:      0.5000
+   - Betweenness Centrality: 0.0000
+🔸 HUB: RPTOR
+   - Degree Centrality:      0.5000
+   - Betweenness Centrality: 0.0000
+
+------------------------------------------------------------
+🎯 CLUSTER 4 | Totale geni nel network: 3
+------------------------------------------------------------
+🔸 HUB: ZFHX3
+   - Degree Centrality:      1.0000
+   - Betweenness Centrality: 1.0000
+🔸 HUB: SETD2
+   - Degree Centrality:      0.5000
+   - Betweenness Centrality: 0.0000
+🔸 HUB: TSHR
+   - Degree Centrality:      0.5000
+   - Betweenness Centrality: 0.0000
+
+------------------------------------------------------------
+🎯 CLUSTER 5 | Totale geni nel network: 3
+------------------------------------------------------------
+🔸 HUB: TP53
+   - Degree Centrality:      1.0000
+   - Betweenness Centrality: 1.0000
+🔸 HUB: MTOR
+   - Degree Centrality:      0.5000
+   - Betweenness Centrality: 0.0000
+🔸 HUB: NF2
+   - Degree Centrality:      0.5000
+   - Betweenness Centrality: 0.0000
