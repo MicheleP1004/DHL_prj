@@ -839,38 +839,9 @@ def compare_networks(
         )
         print()
 
-# UTILIZZO DAL NOTEBOOK:
-#
-#   from utils import (
-#       analyze_intracluster_metrics, find_intracluster_hubs,
-#       enrich_network_hubs, plot_hub_enrichment,
-#       run_cluster_enrichment, enrich_cluster_hubs,
-#       compare_clustering_methods,
-#       compute_pancancer_superhubs_robust, find_consensus_clusters,
-#       run_all_aggregations,
-#   )
-#
-#   PATH        = "./kras_pancreas"
-#   TARGET_GENE = "KRAS"
-#   COOCC_PARAMS = {"p_val": 0.05, "log2or": 1.0, "min_cooc": 3}
-#
-#   # Funzioni per singola coorte
-#   analyze_intracluster_metrics(PATH, TARGET_GENE, is_full=True, coocc_params=COOCC_PARAMS)
-#   find_intracluster_hubs(PATH, TARGET_GENE, is_full=True, coocc_params=COOCC_PARAMS)
-#   enrich_network_hubs(PATH, TARGET_GENE, is_full=True)
-#   plot_hub_enrichment(PATH, TARGET_GENE, is_full=True)
-#   run_cluster_enrichment(PATH, TARGET_GENE, is_full=True)
-#   enrich_cluster_hubs(PATH, TARGET_GENE, is_full=True)
-#   compare_clustering_methods(PATH, TARGET_GENE, COOCC_PARAMS)
-#
-#   # Funzioni pan-cancer (lista di path + cartella output)
-#   PAN_PATHS  = ["./kras_pancreas", "./kras_lung", "./kras_colon"]
-#   PAN_OUTDIR = "./pan_cancer_integrated"
-#   compute_pancancer_superhubs_robust(PAN_PATHS, PAN_OUTDIR)
-#   find_consensus_clusters(PAN_PATHS, PAN_OUTDIR, min_overlap=3)
-#   run_all_aggregations(PAN_PATHS, PAN_OUTDIR)
-# ==============================================================================
-
+# ---------------------------------------------------------------------------
+# NETWORK ANALYSIS
+# ---------------------------------------------------------------------------
 
 # ---------------------------------------------------------------------------
 # Dipendenze opzionali (community detection)
