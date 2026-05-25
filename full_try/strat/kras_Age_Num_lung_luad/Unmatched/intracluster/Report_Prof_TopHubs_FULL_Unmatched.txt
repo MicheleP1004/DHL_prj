@@ -1,0 +1,79 @@
+--- 👑 TOP 3 HUB GENES PER OGNI CLUSTER (UNMATCHED - FULL) ---
+
+------------------------------------------------------------
+🎯 CLUSTER 0 | Totale geni nel network: 51
+------------------------------------------------------------
+🔸 HUB: TP53
+   - Degree Centrality:      0.7600
+   - Betweenness Centrality: 0.6231
+🔸 HUB: PTPRD
+   - Degree Centrality:      0.3600
+   - Betweenness Centrality: 0.1721
+🔸 HUB: EPHB1
+   - Degree Centrality:      0.2400
+   - Betweenness Centrality: 0.0262
+
+------------------------------------------------------------
+🎯 CLUSTER 1 | Totale geni nel network: 42
+------------------------------------------------------------
+🔸 HUB: SMARCA4
+   - Degree Centrality:      0.4878
+   - Betweenness Centrality: 0.4260
+🔸 HUB: KEAP1
+   - Degree Centrality:      0.4390
+   - Betweenness Centrality: 0.3349
+🔸 HUB: GRIN2A
+   - Degree Centrality:      0.3415
+   - Betweenness Centrality: 0.3717
+
+------------------------------------------------------------
+🎯 CLUSTER 2 | Totale geni nel network: 41
+------------------------------------------------------------
+🔸 HUB: ARID1A
+   - Degree Centrality:      0.3000
+   - Betweenness Centrality: 0.3727
+🔸 HUB: MGA
+   - Degree Centrality:      0.2250
+   - Betweenness Centrality: 0.1822
+🔸 HUB: SETD2
+   - Degree Centrality:      0.2250
+   - Betweenness Centrality: 0.2316
+
+------------------------------------------------------------
+🎯 CLUSTER 3 | Totale geni nel network: 41
+------------------------------------------------------------
+🔸 HUB: PTPRT
+   - Degree Centrality:      0.3750
+   - Betweenness Centrality: 0.3356
+🔸 HUB: EPHA5
+   - Degree Centrality:      0.2500
+   - Betweenness Centrality: 0.1905
+🔸 HUB: KDM5C
+   - Degree Centrality:      0.2000
+   - Betweenness Centrality: 0.1159
+
+------------------------------------------------------------
+🎯 CLUSTER 4 | Totale geni nel network: 33
+------------------------------------------------------------
+🔸 HUB: RET
+   - Degree Centrality:      0.3750
+   - Betweenness Centrality: 0.4812
+🔸 HUB: ATRX
+   - Degree Centrality:      0.2812
+   - Betweenness Centrality: 0.3810
+🔸 HUB: NOTCH4
+   - Degree Centrality:      0.2500
+   - Betweenness Centrality: 0.1808
+
+------------------------------------------------------------
+🎯 CLUSTER 5 | Totale geni nel network: 30
+------------------------------------------------------------
+🔸 HUB: FAT1
+   - Degree Centrality:      0.6207
+   - Betweenness Centrality: 0.7170
+🔸 HUB: PDGFRA
+   - Degree Centrality:      0.2414
+   - Betweenness Centrality: 0.2588
+🔸 HUB: PREX2
+   - Degree Centrality:      0.2069
+   - Betweenness Centrality: 0.1621

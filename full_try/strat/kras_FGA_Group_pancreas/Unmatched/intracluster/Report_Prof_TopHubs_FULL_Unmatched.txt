@@ -1,0 +1,53 @@
+--- 👑 TOP 3 HUB GENES PER OGNI CLUSTER (UNMATCHED - FULL) ---
+
+------------------------------------------------------------
+🎯 CLUSTER 0 | Totale geni nel network: 15
+------------------------------------------------------------
+🔸 HUB: ARID1A
+   - Degree Centrality:      0.3571
+   - Betweenness Centrality: 0.5275
+🔸 HUB: RBM10
+   - Degree Centrality:      0.2857
+   - Betweenness Centrality: 0.3187
+🔸 HUB: RNF43
+   - Degree Centrality:      0.2857
+   - Betweenness Centrality: 0.3187
+
+------------------------------------------------------------
+🎯 CLUSTER 1 | Totale geni nel network: 8
+------------------------------------------------------------
+🔸 HUB: ATM
+   - Degree Centrality:      0.7143
+   - Betweenness Centrality: 0.5397
+🔸 HUB: BRCA2
+   - Degree Centrality:      0.7143
+   - Betweenness Centrality: 0.2540
+🔸 HUB: KMT2D
+   - Degree Centrality:      0.5714
+   - Betweenness Centrality: 0.0635
+
+------------------------------------------------------------
+🎯 CLUSTER 2 | Totale geni nel network: 5
+------------------------------------------------------------
+🔸 HUB: CDKN2A
+   - Degree Centrality:      1.0000
+   - Betweenness Centrality: 1.0000
+🔸 HUB: KMT2C
+   - Degree Centrality:      0.2500
+   - Betweenness Centrality: 0.0000
+🔸 HUB: NOTCH3
+   - Degree Centrality:      0.2500
+   - Betweenness Centrality: 0.0000
+
+------------------------------------------------------------
+🎯 CLUSTER 3 | Totale geni nel network: 4
+------------------------------------------------------------
+🔸 HUB: SMAD4
+   - Degree Centrality:      1.0000
+   - Betweenness Centrality: 1.0000
+🔸 HUB: AKT3
+   - Degree Centrality:      0.3333
+   - Betweenness Centrality: 0.0000
+🔸 HUB: FANCA
+   - Degree Centrality:      0.3333
+   - Betweenness Centrality: 0.0000

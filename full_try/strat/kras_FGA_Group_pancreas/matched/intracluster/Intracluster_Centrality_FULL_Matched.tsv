@@ -1,0 +1,12 @@
+Cluster_ID	Gene	Degree_Centrality	Betweenness_Centrality	Closeness_Centrality
+0	CDKN2A	0.4	0.4	0.4267
+0	SMAD4	0.4	0.4	0.4267
+0	KDM6A	0.2	0.3556	0.4571
+0	ABL1	0.1	0.0	0.2909
+0	ANKRD11	0.1	0.0	0.2909
+0	BRCA2	0.1	0.0	0.2909
+0	NTRK3	0.1	0.0	0.2909
+0	PGR	0.1	0.0	0.2909
+0	PREX2	0.1	0.0	0.1
+0	TET1	0.1	0.0	0.1
+0	TP53	0.1	0.0	0.2909

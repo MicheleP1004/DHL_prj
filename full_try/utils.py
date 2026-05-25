@@ -2045,3 +2045,263 @@ def find_consensus_clusters(
         print(f"✅ Trovati {len(res)} cluster di consenso. Salvati in: {out_file}")
     else:
         print("[-] Nessun consensus cluster trovato.")
+
+# ---------------------------------------------------------------------------
+# WRAPPER — chiamata unificata per tutte le analisi su una coorte
+# ---------------------------------------------------------------------------
+
+def run_cohort_analysis(
+    path: str,
+    target_gene: str = "KRAS",
+    coocc_params: dict = None,
+    me_params: dict = None,
+    clinical_file: str = None,
+) -> None:
+    """
+    Esegue l'intera pipeline di analisi su una singola coorte.
+    Gestisce internamente il caricamento dei dati per le funzioni
+    che non accettano (path, target_gene) come parametri standard.
+
+    Parameters
+    ----------
+    path : str
+        Cartella della coorte (es. "./strat/kras_FGA_Group_pancreas/Matched").
+    target_gene : str
+        Gene target (default "KRAS").
+    coocc_params : dict, optional
+        Soglie co-occorrenza. Default: p_val=0.05, log2or=1.0, min_cooc=3.
+    me_params : dict, optional
+        Soglie mutua esclusività. Default: p_val=0.01, log2or=-1.0.
+    clinical_file : str, optional
+        Nome del file clinico dentro `path` (es. "KRAS_F_pancreas.csv").
+        Se None, lo cerca automaticamente cercando la colonna
+        'Overall Survival (Months)'.
+    """
+    if coocc_params is None:
+        coocc_params = {"p_val": 0.05, "log2or": 1.0, "min_cooc": 3}
+    if me_params is None:
+        me_params = {"p_val": 0.01, "log2or": -1.0}
+
+    cohort_name = _cohort_name(path)
+    print(f"\n{'='*60}")
+    print(f"AVVIO PIPELINE: {cohort_name.upper()}")
+    print(f"{'='*60}")
+
+    # --- 1. Funzioni con firma standard (path, target_gene) ---
+    generate_matrices(path, target_gene)
+    calculate_statistics(path, target_gene, coocc_params, me_params)
+    plot_volcanos(path, target_gene, coocc_params, me_params)
+    build_all_networks(path, target_gene, coocc_params)
+    calculate_metrics(path, target_gene, coocc_params)
+    find_intracluster_hubs(path, target_gene)
+    enrich_network_hubs(path, target_gene)
+
+    # --- 2. Caricamento dati per le funzioni con firma non standard ---
+
+    # Matrice mutazionale
+    bin_file = os.path.join(path, "matrices", f"M_binary_{cohort_name}.tsv")
+    if not os.path.exists(bin_file):
+        print(f"[!] Matrice binaria non trovata, salto analisi survival. Atteso: {bin_file}")
+        return
+    df_mut = pd.read_csv(bin_file, sep="\t", index_col=0)
+
+    # File clinico — usa quello passato, oppure lo cerca automaticamente
+    df_clin = None
+    if clinical_file:
+        clin_path = os.path.join(path, clinical_file)
+        if os.path.exists(clin_path):
+            df_clin = pd.read_csv(clin_path, sep="\t", low_memory=False)
+    
+    if df_clin is None:
+        # Ricerca automatica: primo file con colonna di sopravvivenza
+        for fname in os.listdir(path):
+            if not fname.endswith((".csv", ".tsv", ".txt")):
+                continue
+            try:
+                tmp = pd.read_csv(os.path.join(path, fname), sep="\t", low_memory=False)
+                if "Overall Survival (Months)" in tmp.columns:
+                    df_clin = tmp
+                    print(f"  [clinical] Trovato automaticamente: {fname}")
+                    break
+            except Exception:
+                continue
+
+    if df_clin is None:
+        print("[!] File clinico non trovato, salto analisi survival.")
+        return
+
+    # --- 3. survival_by_gene_hub — firma: (df_clinical, df_mut, gene_name) ---
+    print(f"\n--- ⏳ SURVIVAL ANALYSIS: {cohort_name.upper()} ---")
+    
+    # Recupera gli hub dal file di centralità per analizzarli tutti
+    centrality_file = os.path.join(
+        path, "intracluster", f"Intracluster_Centrality_FULL_{cohort_name}.tsv"
+    )
+    if not os.path.exists(centrality_file):
+        centrality_file = os.path.join(
+            path, "intracluster", f"Intracluster_Centrality_FILTERED_{cohort_name}.tsv"
+        )
+
+    hub_genes = [target_gene]
+    if os.path.exists(centrality_file):
+        df_cent = pd.read_csv(centrality_file, sep="\t")
+        for c_id in df_cent["Cluster_ID"].unique():
+            top3 = df_cent[df_cent["Cluster_ID"] == c_id].head(3)["Gene"].tolist()
+            hub_genes.extend(top3)
+        hub_genes = list(dict.fromkeys(hub_genes))  # dedup, preserva ordine
+
+    import matplotlib.pyplot as plt
+    import matplotlib.gridspec as gridspec
+
+    n = len(hub_genes)
+    cols = min(3, n)
+    rows = (n + cols - 1) // cols
+    fig = plt.figure(figsize=(7 * cols, 5 * rows))
+    gs = gridspec.GridSpec(rows, cols, figure=fig)
+
+    for idx, gene in enumerate(hub_genes):
+        ax = fig.add_subplot(gs[idx // cols, idx % cols])
+        survival_by_gene_hub(df_clin, df_mut, gene, ax=ax)
+
+    fig.suptitle(f"Survival by Hub Gene — {cohort_name.upper()}", fontsize=16)
+    plt.tight_layout()
+
+    out_dir = _out(path, "plots")
+    out_png = os.path.join(out_dir, f"Survival_Hubs_{cohort_name}.png")
+    plt.savefig(out_png, dpi=150, bbox_inches="tight")
+    plt.show()
+    print(f"✅ Plot sopravvivenza salvato in: {out_png}")
+
+# ---------------------------------------------------------------------------
+# CONFRONTO TRA COORTI — Kaplan-Meier comparativo Matched vs Unmatched
+# ---------------------------------------------------------------------------
+
+def run_comparison(
+    path_matched: str,
+    path_unmatched: str,
+    target_gene: str = "KRAS",
+    clinical_file: str = None,
+    coocc_params: dict = None,
+) -> None:
+    """
+    Confronta le due coorti (Matched vs Unmatched) con:
+      1. plot_kaplan_meier — sopravvivenza per gruppo
+      2. find_significant_features — feature cliniche prognostiche
+      3. compare_networks — archi guadagnati/persi tra le reti
+
+    Parameters
+    ----------
+    path_matched : str
+        Cartella della coorte Matched.
+    path_unmatched : str
+        Cartella della coorte Unmatched.
+    target_gene : str
+        Gene target (default "KRAS").
+    clinical_file : str, optional
+        Nome del file clinico (es. "KRAS_F_pancreas.csv").
+        Se None lo cerca automaticamente.
+    coocc_params : dict, optional
+        Soglie co-occorrenza per compare_networks.
+    """
+    if coocc_params is None:
+        coocc_params = {"p_val": 0.05, "log2or": 1.0, "min_cooc": 3}
+
+    print(f"\n{'='*60}")
+    print(f"CONFRONTO: {_cohort_name(path_matched).upper()} vs {_cohort_name(path_unmatched).upper()}")
+    print(f"{'='*60}")
+
+    # --- Caricamento file clinici da entrambe le coorti ---
+    def _load_clinical(path):
+        if clinical_file:
+            fpath = os.path.join(path, clinical_file)
+            if os.path.exists(fpath):
+                return pd.read_csv(fpath, sep="\t", low_memory=False)
+        for fname in os.listdir(path):
+            if not fname.endswith((".csv", ".tsv", ".txt")):
+                continue
+            try:
+                tmp = pd.read_csv(os.path.join(path, fname), sep="\t", low_memory=False)
+                if "Overall Survival (Months)" in tmp.columns:
+                    print(f"  [clinical] Trovato: {fname} in {_cohort_name(path)}")
+                    return tmp
+            except Exception:
+                continue
+        print(f"[!] File clinico non trovato in {path}")
+        return None
+
+    df_matched   = _load_clinical(path_matched)
+    df_unmatched = _load_clinical(path_unmatched)
+
+    # --- 1. Kaplan-Meier comparativo Matched vs Unmatched ---
+    if df_matched is not None and df_unmatched is not None:
+        print(f"\n--- 📈 KAPLAN-MEIER COMPARATIVO ---")
+
+        # Aggiunge colonna gruppo e unisce i due dataframe
+        df_matched["Cohort_Group"]   = f"Matched (n={len(df_matched)})"
+        df_unmatched["Cohort_Group"] = f"Unmatched (n={len(df_unmatched)})"
+        df_combined = pd.concat([df_matched, df_unmatched], ignore_index=True)
+
+        fig, axes = plt.subplots(1, 2, figsize=(16, 6))
+
+        # Plot 1: Matched vs Unmatched sulla sopravvivenza globale
+        plot_kaplan_meier(df_combined, group_col="Cohort_Group", ax=axes[0])
+        axes[0].set_title(
+            f"Matched vs Unmatched\nSopravvivenza Globale",
+            fontweight="bold"
+        )
+
+        # Plot 2: sopravvivenza per stato mutazionale del target gene nel combined
+        df_mut_m  = load_mutation_matrix(path_matched)
+        df_mut_um = load_mutation_matrix(path_unmatched)
+
+        if df_mut_m is not None and df_mut_um is not None:
+            # Ricostruisce lo stato mutazionale sul dataset combinato
+            gene_status = {}
+            for df_mut in [df_mut_m, df_mut_um]:
+                if target_gene in df_mut.columns:
+                    gene_status.update(df_mut[target_gene].to_dict())
+
+            df_combined["Gene_Status"] = df_combined["Sample_Id"].astype(str).map(gene_status)
+            df_combined["Gene_Group"]  = df_combined["Gene_Status"].map(
+                {1.0: f"{target_gene} Mut", 0.0: f"{target_gene} WT"}
+            )
+            df_combined_gene = df_combined.dropna(subset=["Gene_Group"])
+            plot_kaplan_meier(df_combined_gene, group_col="Gene_Group", ax=axes[1])
+            axes[1].set_title(
+                f"{target_gene} Mut vs WT\nSopravvivenza Globale (entrambe le coorti)",
+                fontweight="bold"
+            )
+        else:
+            axes[1].axis("off")
+
+        plt.suptitle(
+            f"Analisi Comparativa — {_cohort_name(path_matched)} vs {_cohort_name(path_unmatched)}",
+            fontsize=15, y=1.02
+        )
+        plt.tight_layout()
+
+        # Salva nella cartella parent comune
+        out_dir = os.path.dirname(path_matched)
+        os.makedirs(out_dir, exist_ok=True)
+        out_png = os.path.join(out_dir, f"KM_Comparison_{target_gene}.png")
+        plt.savefig(out_png, dpi=150, bbox_inches="tight")
+        plt.show()
+        print(f"✅ Plot KM comparativo salvato in: {out_png}")
+
+    # --- 2. Feature cliniche prognostiche su entrambe le coorti ---
+    clinical_cols = [
+        "Age_Group", "TMB_Group", "FGA_Group",
+        "Sex", "Stage", "Cohort_Group"
+    ]
+
+    for label, df_clin in [("MATCHED", df_matched), ("UNMATCHED", df_unmatched)]:
+        if df_clin is None:
+            continue
+        cols_presenti = [c for c in clinical_cols if c in df_clin.columns]
+        if cols_presenti:
+            print(f"\n--- 🔍 FEATURE SIGNIFICATIVE: {label} ---")
+            find_significant_features(df_clin, cols_presenti)
+
+    # --- 3. Confronto reti tra le due coorti ---
+    print(f"\n--- 🔀 CONFRONTO RETI ---")
+    compare_networks(path_matched, path_unmatched, coocc_params, coocc_params)

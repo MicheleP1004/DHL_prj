@@ -1,0 +1,14 @@
+--- 👑 TOP 3 HUB GENES PER OGNI CLUSTER (MATCHED - FULL) ---
+
+------------------------------------------------------------
+🎯 CLUSTER 0 | Totale geni nel network: 11
+------------------------------------------------------------
+🔸 HUB: CDKN2A
+   - Degree Centrality:      0.4000
+   - Betweenness Centrality: 0.4000
+🔸 HUB: SMAD4
+   - Degree Centrality:      0.4000
+   - Betweenness Centrality: 0.4000
+🔸 HUB: KDM6A
+   - Degree Centrality:      0.2000
+   - Betweenness Centrality: 0.3556
